@@ -7,7 +7,6 @@
 
 # Site settings
 title: James Wade's Blog
-email: jpswade@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jpswade
 github_username:  jpswade
