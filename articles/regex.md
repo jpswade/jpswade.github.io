@@ -1,0 +1,53 @@
+---
+id: 9
+title: Guide to regular expressions
+date: 2007-01-17T16:32:17+00:00
+author: admin
+layout: page
+guid: http://jpswade.github.io/articles/regex/
+aktt_notify_twitter:
+  - yes
+page_layout:
+  - default
+---
+<p class="lead">
+  A &#8220;regular expression&#8221; (or regex) essentially is the use of a pattern for string manipulation.
+</p>
+
+Regular expressions are used in many scripting and programming languages as they are a very powerful tool, allowing you to match and replace strings based on the supplied pattern.
+
+Regular expressions aren&#8217;t always that simple, however there are things you can do to make it as easy as possible.
+
+> <p style="text-align: left;">
+>   Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
+> </p>
+
+> &#8212; [Jamie Zawinski, in comp.lang.emacs](http://regex.info/blog/2006-09-15/247)
+
+  * If you can use native string functions instead, use them. Regular expressions should be your last port of call.
+  * Don&#8217;t be lazy, TRY.
+  * Read about what [regular expressions](http://en.wikipedia.org/wiki/Regular_expression) actually are on Wikipedia.
+  * Don&#8217;t reinvent the wheel, you may find the solution is already out there, [google](http://www.google.com/) for it or try the [Regular Expression Library](http://regexlib.com/).
+  * Read [Mastering Regular Expressions](http://www.oreilly.com/catalog/regex/) by Jeffrey Friedl. This book is not only a story, but its also a good resource for examples and reference.
+  * Testing regular expressions? 
+      * [The Regex Coach](http://www.weitz.de/regex-coach/) is a tool that comes highly recommended for testing your patterns.
+      * Try the [Regex Powertoy](http://regex.powertoy.org/), it&#8217;s a fantastic AJAX based matching tool.
+      * [RegExR](http://gskinner.com/RegExr/desktop/) &#8211; a FREE desktop application for Mac, Linux and Windows.
+      * [RegexBuddy](http://www.regexbuddy.com/) &#8211; Not free, but meant to be good.
+      * For Python there&#8217;s [Kodos](http://kodos.sourceforge.net/).
+      * [jsregex.com](http://jsregex.com/)
+      * [regexpal.com](http://regexpal.com/)
+      * Your favourite scripting language. PHP, Perl, Javascript, TCL, MRC, VBS, almost any of them!
+  * Cheat Sheets make good references, there is one at [RegExLib.com](http://regexlib.com/CheatSheet.aspx) and [ilovejackdaniels.com](http://web.archive.org/web/20081121122720/http://www.ilovejackdaniels.com/cheat-sheets/regular-expressions-cheat-sheet).
+  * [Regex in Javascript?](http://xkr.us/js/regex)
+  * In PHP [PCRE](http://www.php.net/pcre) regex is quicker than [EREG](http://www.php.net/ereg), but you should always see if you can use quicker native functions such as [strncasecmp](http://www.php.net/strncasecmp), [strpbrk](http://www.php.net/strpbrk) and [stripos](http://www.php.net/stripos) instead.
+  * For performance reasons it is recommended that you should always try and use the native functions instead of regex, especially in [PHP](http://talks.php.net/show/php-best-practices/36).
+  * Stop parsing HTML with regexes and read [how to parse HTML](http://tinyurl.com/htmlparsing).
+  * When parsing XML in PHP try [xml2array](http://www.bin-co.com/php/scripts/xml2array/), which makes use of the [PHP XML functions](http://www.php.net/xml), for HTML you can try PHP&#8217;s [DOM document](http://www.php.net/dom) or [DOM XML](http://www.php.net/domxml) in PHP4. Also try [Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/).
+  * Try getting help, if you do, tell us: 
+      * What goes in?
+      * What do you want out?
+      * Which language are you using?
+      * Have you tried anything yet?
+
+Hope this helps!

@@ -1,0 +1,60 @@
+---
+id: 50
+title: Software
+date: 2008-04-09T18:20:35+00:00
+author: admin
+layout: page
+guid: http://jpswade.github.io//
+page_layout:
+  - default
+aktt_notify_twitter:
+  - yes
+---
+<p class="lead">
+  We no longer develops software, so here&#8217;s some alternatives:
+</p>
+
+  * File destroyer 
+      * [Eraser](http://eraser.heidi.ie)
+  * Show and Hide AOL 
+      * [PC Decrapifier](http://pcdecrapifier.com/)
+  * Virus Removal Tools 
+      * [Malwarebytes Anti-Malware](http://www.devotedit.com/mbam)
+
+We also thought you may find this software useful:
+
+<div>
+  <ul>
+    <li>
+      IRC Client <ul>
+        <li>
+          <a href="http://www.mirc.com/get.html">mIRC</a>
+        </li>
+      </ul>
+    </li>
+    
+    <li>
+      FTP Client <ul>
+        <li>
+          <a href="http://filezilla-project.org/">FileZilla</a>
+        </li>
+      </ul>
+    </li>
+    
+    <li>
+      SSH Client <ul>
+        <li>
+          <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/">PuTTY</a>
+        </li>
+      </ul>
+    </li>
+    
+    <li>
+      SCP Client <ul>
+        <li>
+          <a href="http://winscp.net/eng/index.php">WinSCP</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>

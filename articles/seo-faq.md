@@ -1,0 +1,106 @@
+---
+id: 104
+title: SEO FAQ
+date: 2007-08-03T14:51:43+00:00
+author: admin
+layout: page
+guid: http://jpswade.github.io/articles/seo-faq/
+aktt_notify_twitter:
+  - yes
+---
+<p class="lead">
+  <strong>Frequently Asked Questions about Search Engine Optimisation</strong>
+</p>
+
+_Thanks to the users of #SEO @ EFnet for providing the questions._
+
+  1. Is example.com and www.example.com treated as the same page by search engines? 
+      * No, search engines view them as two separate sites.
+      * Consider this: .com is a domain, example.com is a domain, exa.explain.com is a domain, exa.exa.example.com is a domain, etc. Therefore they are treated as separate entities.
+      * It is recommended to focus on one domain, see: <a onclick="javascript:urchinTracker ('/outbound/article/www.google.com');" href="http://www.google.com/support/webmasters/bin/answer.py?answer=44231">What’s a preferred domain?</a>
+  2. Does CSS effect SEO? 
+      * No, it doesn&#8217;t CSS is purely visual for users, search engines have no interest in your site&#8217;s style.
+      * However, using CSS generally forces you to use correct markup, which makes the site better for indexing.
+      * Remember though, search engines are build to be backwards compatible, from when we used tables for layouts.
+      * Common sense tells us that search engines have no interest in style.
+      * Although, this does NOT mean you won&#8217;t get reported if you use CSS to try and trick the crawler.
+  3. When is the next Google PageRank update? 
+      * The true answer is &#8220;We don&#8217;t know&#8221;.
+      * _Nobody_ notable attempts to guess when the next update is.
+  4. Do unique visitors in your web stats include things like hits from people on google image search? 
+      * Of course they do. You should check with the webstat software vendor to be certain.
+      * Common sense tells us that if it&#8217;s in the logs, it&#8217;s in the stats.
+  5. How do search engines work out what country my site is in? 
+      * Where the IP address of your domain hosting is located.
+      * The ccTLD (ie: .uk).
+      * Backlinks from sites with the above.
+  6. When should I use rel=&#8221;nofollow&#8221; on anchor links? 
+      * You only really need it when users make unmoderated posts or comments on your site.
+      * For more information read the [Google Blog Preventing comment spam Post from 2005](http://googleblog.blogspot.com/2005/01/preventing-comment-spam.html).
+  7. Should I use dashes (-) or underscores (_) in my URLs? 
+      * The short answer is dashes (-).
+      * In most search engines if you type in two words separated by an underscore (\_), it treats the whole thing as you see it. (ie: mobile\_phone is read as mobile_phone)
+      * In most search engines if you type in two words separated by a dash (-), it detects it as one whole word or even two separate words. (ie: mobile-phone could be mobilephone or mobile phone)
+      * Common sense tells us that if google sees a dash (-) as a space we should use that.
+  8. Do aged domains rank higher on search engines than newer domains? 
+      * Short answer is no.
+      * Search engines do not care how old your domain is.
+      * They do however care about the backlinks.
+      * Common sense begs us to ask why should they?
+      * However, they do care about aged websites.
+      * [Even Matt Cutts agrees.](http://www.youtube.com/watch?v=Y1_1NQWQJ2Q)
+  9. How can I find keywords relating to &#8220;keyword&#8221;? 
+      * [Google Adsense Keyword Tool](https://adwords.google.com/select/KeywordToolExternal)
+      * [Overture Keyword Suggestion](http://web.archive.org/web/20090109195114/http://inventory.overture.com/d/searchinventory/suggestion)
+ 10. Where can I find a list of web directories? 
+      * [123promotion.co.uk](http://www.123promotion.co.uk/directorymanager/)
+      * [strongestlinks.com](http://www.strongestlinks.com/directories.php)
+      * [vilesilencer.com](http://info.vilesilencer.com/)
+      * Note: Don&#8217;t spend too much time on these, try other ways of generating traffic
+ 11. I have two domains, one is a .com the other is a .co.uk, which should I use? 
+      * If you are focusing on a UK market, use the &#8220;.co.uk&#8221; domain.
+      * If you are focusing on the global market use the &#8220;.com&#8221; domain.
+      * If you are focusing on both, try making geo targetted urls. (eg: www.example.com/uk/)
+      * This is just classic common sense.
+ 12. Is PageRank important? 
+      * Short answer is no.
+      * Do not focus on trying to increase your PageRank
+      * Focus on marketing and SEO and PageRank should follow
+      * Common sense says: it&#8217;s just a number, it doesn&#8217;t make money.
+ 13. Is cloaking a good idea? 
+      * Common sense tells me it&#8217;s a bad idea.
+      * We KNOW that tricking search engines is a bad idea.
+      * Cloaking is EASY to detect and [EASY to report](http://www.google.com/contact/spamreport.html).
+      * BMW tried cloaking, and it [did not work](http://www.mattcutts.com/blog/ramping-up-on-international-webspam/).
+      * If you need to do geo-targeting, read [how Google defines IP delivery](http://googlewebmastercentral.blogspot.com/2008/06/how-google-defines-ip-delivery.html).
+ 14. How important are the description and keyword meta tags? 
+      * Search engines do not rely on meta tags
+      * Meta descriptions are sometimes displayed in the serps if it is deemed more appropriate than the actual content.
+      * The keywords you choose to place in your meta tag should appear in the body text. You shouldn&#8217;t need any more than 10, no repeating.
+      * Matt Cutts says that the [title tag and description meta are important](http://www.youtube.com/watch?v=5GK0aQrCDEo), however [Google doesn&#8217;t put much weight in its rankings on keywords](http://www.usatoday.com/tech/products/services/2008-06-22-google-search-engine-optimization_N.htm).
+ 15. Are static URLs better than dynamic URLs? 
+      * Static URLs look nicer, and are friendly for your end users.
+      * <a onclick="javascript:urchinTracker ('/outbound/article/www.google.co.uk');" href="http://www.google.co.uk/intl/en/webmasters/guidelines.html">Google</a> suggests that many search engine crawlers do not like dynamic URLs as much as static URLs.
+      * In a recent article from Google [dynamic URLs vs. static URLs](http://googlewebmastercentral.blogspot.com/2008/09/dynamic-urls-vs-static-urls.html), the conclusion is that it simply doesn&#8217;t matter.
+ 16. Should my URLs have a trailing slash? 
+      * The short answer is mostly yes, unless it&#8217;s a file.
+      * Including a trailing slash when creating anchors (links) can [reduce load](http://web.archive.org/web/20130729123435/http://www.standardzilla.com:80/2007/07/09/dont-forget-your-trailing-slash), as it means the web server won&#8217;t have to redirect you there.
+ 17. What is that list of links found on the first result on Google? 
+      * It&#8217;s called &#8220;Sitelinks&#8221;, at first Google added them automatically.
+      * [Webmasters can now provide feedback on Sitelinks](http://googlewebmastercentral.blogspot.com/2007/10/webmasters-can-now-provide-feedback-on.html)
+      * Lean how [Google compiles the list of links shown below some search results](http://www.google.com/support/webmasters/bin/answer.py?hl=en&answer=47334)
+ 18. How do I check how many backlinks my site has? 
+      * [SEOmoz Backlink Analysis tool](http://www.seomoz.org/backlink-analysis) (now part of [OpenSiteExplorer](http://www.opensiteexplorer.org/))
+      * [SeoBook Backlink Tool](http://tools.seobook.com/link-tools/backlinks/backlinks.php)
+      * [Site Explorer](https://moz.com/researchtools/ose) (Defunct)
+ 19. Should I register my domain for more than one 1 year at at time? 
+      * Yes, but it probably won&#8217;t help with SEO.
+      * Domain name &#8220;whois&#8221; records are slow to lookup, often limited and cumbersome to parse, so using this wouldn&#8217;t be logical.
+      * [Matt Cutts suggests](http://www.youtube.com/watch?v=DnfM_szmDh0) that the domain expiry date is mentioned in the patent, but isn&#8217;t used by the Google search algorithm.
+      * Domain registrars would have you believe that registering domains for 10 years helps improve SEO, but the reality is, it&#8217;s just a marketing ploy.
+ 20. If I get secure hosting and make http://whatever redirect to https://whatever, will it hurt my rankings?
+ 21.   * Matt Cutts answers: [Can switching to HTTPS harm ranking?](http://youtu.be/xeFo4ytOk8M)
+
+**Where to get further help:** Try [#SEO on EFnet](http://chat.efnet.org/) (IRC), you can also try the [SEO Help Forums](http://forums.seohelp.org/).
+
+_Note: Answers are provided using via the general consensus and common sense theory, I do not believe in third party articles due to the speculation and Chinese whispers factors, any sources provided are first hand._

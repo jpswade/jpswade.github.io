@@ -1,0 +1,128 @@
+---
+id: 40
+title: www. is NOT deprecated
+date: 2007-01-19T13:00:19+00:00
+author: admin
+layout: page
+guid: http://jpswade.github.io/articles/yes-www/
+page_layout:
+  - default
+aktt_notify_twitter:
+  - yes
+---
+<p class="lead">
+  <em>Update: This was an opinion piece written back in 2005 to provoke discussion from the other side of the argument. Read the comments for the most up-to-date information and feel free to add your opinion below.</em>
+</p>
+
+Having no www. is wrong. Why?
+
+  * Having www helps clarify the purpose of the url. ie: www is world wide web, webmail is for web based email, etc
+  * Using the www. subdomain allows your website to be more versatile in terms of DNS and changes of IP address.
+  * The major websites still use the www. prefix. See <http://www.google.com/search?q=www>
+  * www has been used since the dawn of the world wide web why would we stop using it now?
+  * example.com is often not detected as a URL, however www.example.com is.
+  * When communicating URLs its shorter, easier and quicker to use www.example.com vs. http://example.com/
+  * Removing the www. would not make sense, it would make more sense to change the prefix subdomain to web. allowing this to be the new standard.
+  * People still use and want the www. prefix the same way they would use the ftp. prefix or wap. prefix.
+  * Using the www. prefix helps readers of printed advertisements (tv, newspapers, flyers etc) define what it is.
+  * Domains that use common TLDs (.com .net .org .co.uk) can be identified as domains, however domains with unusual TLDs may not be identified (eg: example.be, example.to, example.at, example.tv, etc).
+  * Sometimes the content of example.com is different than the content of www.example.com
+  * Name Server hosts (eg: ns1.example.com, ns2.example.com) must be unique, must have at least two, and must have different IPs. So why shouldn&#8217;t web hosts?
+
+## Why can&#8217;t we just use both?
+
+You can use both as long as you redirect your traffic from one to the other (eg: example.com redirects to www.example.com). Why?
+
+Well that is simple. It affects the way your website is optimised.
+
+As search engines see a subdomain as a separate site if you run your website on www.example.com and example.com it effectivly means you have two copies of the same website. This means you are taking the focus from one website to two, if you wish to build up traffic it is best to make things as simple as possible for your visitors. Let them know that there is only one URL for your website, as this will considerably help you when people add backlinks to their website, or bookmark your website. It will also help with how search engines index and rank your website.
+
+Its quite important that when you start developing a website you decide whether your going to direct your visitors to www.example.com or example.com as you will need to focus on one.
+
+## Redirection
+
+These redirection methods are used to redirect your domain (eg: example.com) or wildcard subdomain (ie: *.example.com) to www.example.com.
+
+### mod_rewrite method:
+
+Add this to your .htaccess file (providing mod_rewrite modual is installed in your apache). (See [Apache mod_rewrite](http://httpd.apache.org/docs/1.3/mod/mod_rewrite.html))
+
+`<p class="lead">
+  <em>Update: This was an opinion piece written back in 2005 to provoke discussion from the other side of the argument. Read the comments for the most up-to-date information and feel free to add your opinion below.</em>
+</p>
+
+Having no www. is wrong. Why?
+
+  * Having www helps clarify the purpose of the url. ie: www is world wide web, webmail is for web based email, etc
+  * Using the www. subdomain allows your website to be more versatile in terms of DNS and changes of IP address.
+  * The major websites still use the www. prefix. See <http://www.google.com/search?q=www>
+  * www has been used since the dawn of the world wide web why would we stop using it now?
+  * example.com is often not detected as a URL, however www.example.com is.
+  * When communicating URLs its shorter, easier and quicker to use www.example.com vs. http://example.com/
+  * Removing the www. would not make sense, it would make more sense to change the prefix subdomain to web. allowing this to be the new standard.
+  * People still use and want the www. prefix the same way they would use the ftp. prefix or wap. prefix.
+  * Using the www. prefix helps readers of printed advertisements (tv, newspapers, flyers etc) define what it is.
+  * Domains that use common TLDs (.com .net .org .co.uk) can be identified as domains, however domains with unusual TLDs may not be identified (eg: example.be, example.to, example.at, example.tv, etc).
+  * Sometimes the content of example.com is different than the content of www.example.com
+  * Name Server hosts (eg: ns1.example.com, ns2.example.com) must be unique, must have at least two, and must have different IPs. So why shouldn&#8217;t web hosts?
+
+## Why can&#8217;t we just use both?
+
+You can use both as long as you redirect your traffic from one to the other (eg: example.com redirects to www.example.com). Why?
+
+Well that is simple. It affects the way your website is optimised.
+
+As search engines see a subdomain as a separate site if you run your website on www.example.com and example.com it effectivly means you have two copies of the same website. This means you are taking the focus from one website to two, if you wish to build up traffic it is best to make things as simple as possible for your visitors. Let them know that there is only one URL for your website, as this will considerably help you when people add backlinks to their website, or bookmark your website. It will also help with how search engines index and rank your website.
+
+Its quite important that when you start developing a website you decide whether your going to direct your visitors to www.example.com or example.com as you will need to focus on one.
+
+## Redirection
+
+These redirection methods are used to redirect your domain (eg: example.com) or wildcard subdomain (ie: *.example.com) to www.example.com.
+
+### mod_rewrite method:
+
+Add this to your .htaccess file (providing mod_rewrite modual is installed in your apache). (See [Apache mod_rewrite](http://httpd.apache.org/docs/1.3/mod/mod_rewrite.html))
+
+` 
+
+### php method:
+
+Place this at the top of your index.php in your php code.
+
+`if ($_SERVER["HTTP_HOST"] != "www.example.com") { header("Location: http://www.example.com/"); die; }`
+
+## Hostnames, protocols and examples
+
+  * ftp.example.com &#8211; Used in conjunction with the ftp:// protocol (See [rfc0959](http://www.ietf.org/rfc/rfc0959.txt))
+  * irc.example.com &#8211; Used in conjunction with the irc:// protocol (See [rfc1459](http://www.ietf.org/rfc/rfc1459.txt))
+  * mail.example.com &#8211; The mail protocol is different, a mail server&#8217;s IP must resolve to the mail server&#8217;s host. (See [rfc2821](http://www.ietf.org/rfc/rfc2821.txt))
+  * ns?.example.com &#8211; This forms the construct of DNS, you may NOT use the domain name as a Name Server. (See [rfc2782](http://www.ietf.org/rfc/rfc2782.txt))
+
+As you can see in all these examples, as long as example.com is pointing to the same IP as the host, you could use the domain name instead of one of the hosts above.
+
+The [Spamcalc](http://spamcalc.net/docs/dnsspam.php) website explains the original concept and usage of Subdomains/Hostnames. It explains that the original purpose of subdomains is to show a hierarchical (eg: computername.subdomain.domain.topleveldomain).
+
+This makes sense when looking at the above protocols and services. As originally, and still today depending on demands, each service is run on a seperate machine (or seperate machines) as an attempt to dispurse heavy usage loads. However unless you run a large international network and have many thousands of users chances are you do not need this kind of structure. It is also apparent that as computers are getting faster and faster they are more than capable of running all these services on one machine.
+
+As your website/services expand, it makes sense that you might need to shift your services onto different machines, to achieve this each machine will need a different IP address. Therefore they will require a different host, as both servers cannot use the domain name, they will need to be assigned the specific hostname, which will ultimately depend on what service they will be running.
+
+Although it sounds complicated, its actually very simple, which is why it makes sense to use the prefix.
+
+## Arguments for the other way
+
+Apart from the points made at no-www.org the other reasons why www. has deprecated&#8230;
+
+  * Browsers will understand a domain name is a website and add the http:// protocol to reach the website.
+  * The &#8220;World Wide Web&#8221; phrase has become somewhat outdated, and is now simply known as &#8220;The Web&#8221; or web.
+  * The youth of today can identify that a domain (eg: example.com) is a website.
+  * You don&#8217;t send email to name@mail.example.com
+
+## Resources
+
+  * [www.yes-www.org](http://www.yes-www.org/) &#8211; An odd website for the www prefix
+  * [no-www.org](http://web.archive.org/web/20141011133131/http://no-www.org/) &#8211; A website against the www prefix
+  * [no-www](http://en.wikipedia.org/wiki/No-www) &#8211; Wikipedia entry
+  * [rfc2606](http://www.rfc-editor.org/rfc/rfc2606.txt) &#8211; Explains the usage of example.com throughout this document
+
+<span style="text-decoration: line-through;">no-www.htm</span>
