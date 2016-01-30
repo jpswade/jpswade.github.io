@@ -3,7 +3,7 @@ id: 39
 title: Remove Spyware
 date: 2007-01-19T12:58:00+00:00
 author: admin
-layout: page
+layout: post
 guid: http://jpswade.github.io/articles/remove-spyware/
 page_layout:
   - default
