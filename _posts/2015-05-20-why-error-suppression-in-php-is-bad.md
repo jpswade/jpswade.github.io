@@ -20,7 +20,7 @@ tags:
   I appreciate that to most people, this is not a new topic and it almost goes without saying, however I can understand that not everybody knows this, especially when you&#8217;re just starting out with PHP.
 </p>
 
-Back in 2008, I wrote an article titled &#8220;[50+ PHP optimisation tips revisited](http://deaduseful.com/blog/50-php-optimisation-tips-revisited/)&#8220;. Although it was written for fun and to include citations for tips that had gone without any supporting evidence, the underlying issue with the article was that &#8220;premature optimization is the root of all evil&#8221;.
+Back in 2008, I wrote an article titled &#8220;[50+ PHP optimisation tips revisited](/50-php-optimisation-tips-revisited/)&#8220;. Although it was written for fun and to include citations for tips that had gone without any supporting evidence, the underlying issue with the article was that &#8220;premature optimization is the root of all evil&#8221;.
 
 At the time, I had no real argument for this witty retort, however in hindsight, my reason for this was to settle those arguments of best practice, no matter how trivial, the evidence is there in black and white.
 
@@ -32,31 +32,15 @@ The use of the at sign (@), the [Error Control Operator in PHP](http://php.net/
 
 People often use it instead of a ternary operator, for example:
 
-<p style="padding-left: 30px;">
   <?php
-</p>
-
-<p style="padding-left: 30px;">
   $var = isset($_GET[&#8216;var&#8217;]) ? $_GET[&#8216;var&#8217;] : &#8221;;
-</p>
-
-<p style="padding-left: 30px;">
   ?>
-</p>
 
 vs
 
-<p style="padding-left: 30px;">
   <?php
-</p>
-
-<p style="padding-left: 30px;">
   $var = @$_GET[&#8216;var&#8217;];
-</p>
-
-<p style="padding-left: 30px;">
   ?>
-</p>
 
 Originally, people did begin by using this error suppression as it lead to shorter and ultimately more readable code, and nothing else mattered.
 
