@@ -30,7 +30,7 @@ These are "big names" in the motor industry, huge websites fighting for the “u
 
 ### AutoTrader.co.uk
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_0.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_0.png)
 
 If you've ever searched for a used car, you’ll be more than familiar with the form that sits on the left hand side of this website’s homepage.
 
@@ -38,13 +38,13 @@ You'll see a place to put your postcode, so they sort by nearest car, you’ll s
 
 ### Motors.co.uk
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_1.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_1.png)
 
 On this website, you'll notice how their search bar is above the top of the content and remains there when you do a search. Their search also features a required postcode, make & model dropdowns, and a price bracket.
 
 ### Exchange and Mart.co.uk
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_2.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_2.png)
 
 Again, the search appears on the left, make and model, price bracket and postcode. It also features mileage, year, distance and allows you to enter some free form keywords.
 
@@ -54,7 +54,7 @@ The elephant in the room is that in all of these selecting the make and model is
 
 I decided to take a look at the website of a company that describes itself as "changing the face of the auto industry" after hearing so much about it on the popular social news website, Hacker News (a website about computer hacking and startup companies, run by Paul Graham's funding firm Y Combinator).
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_3.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_3.png)
 
 I was pretty shocked to see that even CarWoo had fallen into the same trap with these counter intuitive drop down menus that seem to plague the industry.
 
@@ -74,7 +74,7 @@ I got in touch with jQuery Board member and all round fun web guy, *Paul Irish* 
 
 ### PatternTap.com
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_4.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_4.png)
 
 [http://patterntap.com/tags/type/search](http://patterntap.com/tags/type/search)
 
@@ -82,7 +82,7 @@ Pretty uninspiring results with regards to search (although I do like the new *p
 
 ### ecommr.com
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_5.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_5.png)
 
 [http://www.ecommr.com/tag/search/](http://www.ecommr.com/tag/search/)
 
@@ -92,11 +92,11 @@ Surprisingly, *ecommr *doesn't have "search" as a design element, but does have 
 
 The videos did give some hints of search, but nothing that stood out, only autocomplete combo boxes...
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_6.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_6.png)
 
 Autocomplete Combobox | [www.extjs.com](http://www.extjs.com) ([http://vimeo.com/groups/2071/videos/1441214](http://vimeo.com/groups/2071/videos/1441214))
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_7.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_7.png)
 
 Autocomplete Combobox | [www.kayak.com](http://www.kayak.com) ([http://vimeo.com/groups/2071/videos/1441235](http://vimeo.com/groups/2071/videos/1441235))
 
@@ -104,7 +104,7 @@ Autocomplete Combobox | [www.kayak.com](http://www.kayak.com) ([http://vimeo.com
 
 I also came across ui-patterns.com which had a dedicated search section which also seemed to be packed with autocomplete combo boxes for searching from a list of pre-defined choices.
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_8.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_8.png)
 
 [http://ui-patterns.com/explore/collections/search/](http://ui-patterns.com/explore/collections/search/)
 
@@ -114,7 +114,7 @@ As you may be able to see from the image, the first two screenshots on this page
 
 I especially liked the last.fm search box as it provides a little image next to the result. A nice touch if you're going to be searching for cars.
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_9.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_9.png)
 
 [http://www.last.fm/](http://www.last.fm/)
 
@@ -132,19 +132,19 @@ I searched on Google UK for "property" and checked out the top 3 sites to see ho
 
 ### RightMove.co.uk
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_10.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_10.png)
 
 Their website has a neat auto-complete which will list the city or county ready for searching.
 
 ### FindaProperty.com
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_11.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_11.png)
 
 Again, this site sports a neat auto-complete which will list the city (but oddly not county) for searching.
 
 ### Zoopla.co.uk
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_12.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_12.png)
 
 Yet again, another example of a neat auto-complete which will list for the city or county for searching.
 
@@ -158,7 +158,7 @@ As I discovered, jQuery Mobile doesn't have a native "autocomplete combobox" imp
 
 However, what jQuery Mobile lacks in its youth, its mature sister project, jQuery UI makes up for by offering a native demonstration of an autocomplete combobox.
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_13.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_13.png)
 
 [http://jqueryui.com/demos/autocomplete/#combobox](http://jqueryui.com/demos/autocomplete/#combobox)
 
@@ -170,13 +170,13 @@ Just by chance an email from hotscripts.com dropped into my inbox, which pointed
 
 Low and behold under the "jQuery Form Plugins" section I found what I was looking for:
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_14.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_14.png)
 
 [http://harvesthq.github.com/chosen/](http://harvesthq.github.com/chosen/)
 
 To re-enforce how good Chosen is, I discovered that the all new "gov.uk" beta website uses it, be it in their admin backend, rather than anywhere publicly accessable, as I later discovered, but a great accreditation all the same.
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_15.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_15.png)
 
 [http://digital.cabinetoffice.gov.uk/colophon-beta/](http://digital.cabinetoffice.gov.uk/colophon-beta/)
 
@@ -186,7 +186,7 @@ Perfect!
 
 Using some sample data I collected some time ago I was able to generate a basic HTML options list and mould Chosen around it to create a working example of how it might look in production.
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_16.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_16.png)
 
 This old list doesn't include the new Peugeot 208, but as the database is populated by the data feeds it will be updated.
 
@@ -218,5 +218,5 @@ This is the right solution.
 
 The demo I'm going to go with will be a combined approach of a drop down select list but with the ability to remote load the data on demand to avoid the page taking too long to load.
 
-![image alt text]({{ site.url }}/public/rf0MiMNlw4VIvzAuKC8GA_img_17.png)
+![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_17.png)
 
