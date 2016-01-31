@@ -21,3 +21,4 @@ description: Research and Development
 
 # Custom
 paginate: 5
+pygments: true
