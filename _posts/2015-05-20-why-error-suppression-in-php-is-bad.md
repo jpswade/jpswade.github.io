@@ -32,9 +32,9 @@ The use of the at sign (@), the [Error Control Operator in PHP](http://php.net/
 
 People often use it instead of a ternary operator, for example:
 
-`$var = isset($_GET[&#8216;var&#8217;]) ? $_GET[&#8216;var&#8217;] : &#8221;;`
+`$var = isset($_GET['var']) ? $_GET['var'] : '';`
 vs
-`$var = @$_GET[&#8216;var&#8217;];`
+`$var = @$_GET['var'];`
 
 Originally, people did begin by using this error suppression as it lead to shorter and ultimately more readable code, and nothing else mattered.
 
