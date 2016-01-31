@@ -3,8 +3,7 @@ id: 2925
 title: Has friendster been hacked?
 date: 2011-06-01T16:08:14+00:00
 author: admin
-layout:
-  - default
+layout: post
 guid: http://jpswade.github.io/?p=2925
 permalink: /has-friendster-been-hacked/
 aktt_notify_twitter:
