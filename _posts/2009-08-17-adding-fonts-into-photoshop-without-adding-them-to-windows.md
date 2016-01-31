@@ -4,7 +4,7 @@ title: Adding fonts into photoshop without adding them to windows
 date: 2009-08-17T17:15:54+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=470
+guid: http://wade.be/?p=470
 permalink: /adding-fonts-into-photoshop-without-adding-them-to-windows/
 aktt_notify_twitter:
   - yes

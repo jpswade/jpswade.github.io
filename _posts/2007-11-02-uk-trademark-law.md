@@ -4,7 +4,7 @@ title: UK Trademark Law
 date: 2007-11-02T17:17:23+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/uk-trademark-law
+guid: http://wade.be/posts/uk-trademark-law
 permalink: /uk-trademark-law/
 tags:
   - Legal

@@ -4,7 +4,7 @@ title: Txt Spk iz Gr8
 date: 2007-01-18T11:55:24+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/txt-spk-iz-gr8
+guid: http://wade.be/posts/txt-spk-iz-gr8
 permalink: /txt-spk-iz-gr8/
 tags:
   - Mobile Phone

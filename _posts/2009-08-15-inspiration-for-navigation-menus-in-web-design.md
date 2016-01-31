@@ -4,7 +4,7 @@ title: Inspiration for Navigation menus in web design
 date: 2009-08-15T22:48:17+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=464
+guid: http://wade.be/?p=464
 permalink: /inspiration-for-navigation-menus-in-web-design/
 aktt_notify_twitter:
   - yes

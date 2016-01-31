@@ -4,7 +4,7 @@ title: How to search by nearest UK postcode in PHP
 date: 2007-11-16T10:50:58+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/how-to-search-by-nearest-uk-postcode-in-php
+guid: http://wade.be/posts/how-to-search-by-nearest-uk-postcode-in-php
 permalink: /how-to-search-by-nearest-uk-postcode-in-php/
 ---
 <p class="lead">

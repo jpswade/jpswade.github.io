@@ -4,7 +4,7 @@ title: 'FreeBSD 6.2 &#8220;/usr/ports: No such file or directory&#8221;'
 date: 2008-01-16T14:26:07+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/freebsd-62-usrports-no-such-file-or-directory
+guid: http://wade.be/posts/freebsd-62-usrports-no-such-file-or-directory
 permalink: /freebsd-62-usrports-no-such-file-or-directory/
 categories:
   - Sysadmin

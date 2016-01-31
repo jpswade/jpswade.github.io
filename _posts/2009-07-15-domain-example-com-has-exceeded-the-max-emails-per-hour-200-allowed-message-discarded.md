@@ -4,7 +4,7 @@ title: Domain example.com has exceeded the max emails per hour (200) allowed. Me
 date: 2009-07-15T15:34:36+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=426
+guid: http://wade.be/?p=426
 permalink: /domain-example-com-has-exceeded-the-max-emails-per-hour-200-allowed-message-discarded/
 aktt_notify_twitter:
   - yes

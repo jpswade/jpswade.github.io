@@ -4,7 +4,7 @@ title: 'Upgrade: Randles Used Cars'
 date: 2012-09-21T08:00:26+00:00
 author: James Wade
 layout: post
-guid: http://jpswade.github.io/upgrade-randles-used-cars/
+guid: http://wade.be/upgrade-randles-used-cars/
 permalink: /upgrade-randles-used-cars/
 tumblr_jpswade_permalink:
   - http://jpswade.tumblr.com/post/31975608700/upgrade-randles-used-cars

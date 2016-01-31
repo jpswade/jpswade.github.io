@@ -4,7 +4,7 @@ title: Customising the Netgear DG834G
 date: 2009-09-14T20:35:08+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=212
+guid: http://wade.be/?p=212
 permalink: /customising-the-netgear-dg834g/
 aktt_notify_twitter:
   - yes

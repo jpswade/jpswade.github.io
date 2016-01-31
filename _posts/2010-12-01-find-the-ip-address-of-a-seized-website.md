@@ -4,7 +4,7 @@ title: Find the ip address of a seized website
 date: 2010-12-01T00:27:53+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=667
+guid: http://wade.be/?p=667
 permalink: /find-the-ip-address-of-a-seized-website/
 aktt_notify_twitter:
   - yes

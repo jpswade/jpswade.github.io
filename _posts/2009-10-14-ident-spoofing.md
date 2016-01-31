@@ -4,7 +4,7 @@ title: Ident Spoofing
 date: 2009-10-14T12:23:01+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=517
+guid: http://wade.be/?p=517
 permalink: /ident-spoofing/
 aktt_notify_twitter:
   - yes

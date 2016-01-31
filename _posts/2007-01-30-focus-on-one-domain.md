@@ -4,7 +4,7 @@ title: Focus on one domain
 date: 2007-01-30T01:02:13+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/focus-on-one-domain
+guid: http://wade.be/posts/focus-on-one-domain
 permalink: /focus-on-one-domain/
 tags:
   - Apache

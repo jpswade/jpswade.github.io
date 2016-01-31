@@ -4,7 +4,7 @@ title: DVD decoders and other codecs
 date: 2007-01-29T10:39:07+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/dvd-decoders-and-other-codecs
+guid: http://wade.be/posts/dvd-decoders-and-other-codecs
 permalink: /dvd-decoders-and-other-codecs/
 categories:
   - Sysadmin

@@ -3,7 +3,7 @@ id: 3613
 date: 2011-05-13T07:58:23+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/the-logo-for-wade-be-is-here-the-criteria-for/
+guid: http://wade.be/the-logo-for-wade-be-is-here-the-criteria-for/
 permalink: /the-logo-for-wade-be-is-here-the-criteria-for/
 tumblr_jpswade_permalink:
   - http://jpswade.tumblr.com/post/5445449968/the-logo-for-wade-be-is-here-the-criteria-for
@@ -16,7 +16,7 @@ format: gallery
 <div id='gallery-1' class='gallery galleryid-3613 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a class="thumbnail" href='http://jpswade.github.io/the-logo-for-wade-be-is-here-the-criteria-for/attachment/3614/'><img width="150" height="150" src="http://jpswade.github.io/upload/tumblr_ll3fp55Qsd1qk3wjgo1_400-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://jpswade.github.io/upload/tumblr_ll3fp55Qsd1qk3wjgo1_400-150x150.png 150w, http://jpswade.github.io/upload/tumblr_ll3fp55Qsd1qk3wjgo1_400-125x125.png 125w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a class="thumbnail" href='http://wade.be/the-logo-for-wade-be-is-here-the-criteria-for/attachment/3614/'><img width="150" height="150" src="http://wade.be/upload/tumblr_ll3fp55Qsd1qk3wjgo1_400-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://wade.be/upload/tumblr_ll3fp55Qsd1qk3wjgo1_400-150x150.png 150w, http://wade.be/upload/tumblr_ll3fp55Qsd1qk3wjgo1_400-125x125.png 125w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   

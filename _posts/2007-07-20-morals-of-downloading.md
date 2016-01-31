@@ -4,7 +4,7 @@ title: Morals of Downloading
 date: 2007-07-20T15:41:09+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/morals-of-downloading/
+guid: http://wade.be/morals-of-downloading/
 ---
 <p class="lead">
   When downloading using protocols such as BitTorrent and other file sharing networks you should adopted some rules to ensure that what you&#8217;re doing is justified and morally right.

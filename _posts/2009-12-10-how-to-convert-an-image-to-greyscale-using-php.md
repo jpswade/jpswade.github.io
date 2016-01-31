@@ -4,7 +4,7 @@ title: How to convert an image to greyscale using PHP
 date: 2009-12-10T14:39:30+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=583
+guid: http://wade.be/?p=583
 permalink: /how-to-convert-an-image-to-greyscale-using-php/
 aktt_notify_twitter:
   - yes

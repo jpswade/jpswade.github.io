@@ -4,7 +4,7 @@ title: HP Software Update
 date: 2007-11-30T12:56:10+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/hp-software-update
+guid: http://wade.be/posts/hp-software-update
 permalink: /hp-software-update/
 categories:
   - Hardware

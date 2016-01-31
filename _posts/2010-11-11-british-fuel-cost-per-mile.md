@@ -4,7 +4,7 @@ title: British fuel cost per mile
 date: 2010-11-11T19:18:41+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=651
+guid: http://wade.be/?p=651
 permalink: /british-fuel-cost-per-mile/
 aktt_notify_twitter:
   - yes

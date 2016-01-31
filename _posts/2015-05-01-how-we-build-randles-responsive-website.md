@@ -4,7 +4,7 @@ title: 'How We Build: Randles Responsive Website'
 date: 2015-05-01T10:00:34+00:00
 author: James Wade
 layout: post
-guid: http://jpswade.github.io/?p=3688
+guid: http://wade.be/?p=3688
 permalink: /how-we-build-randles-responsive-website/
 categories:
   - Development
@@ -93,7 +93,7 @@ The most laborious task was to redo the content. The artwork had to be redone to
 We soft launched in 2014 as the plan was to continually build on the foundations once the new content was done, this included a new design.
 
 
-<img class="alignnone size-large wp-image-3689" src="http://jpswade.github.io/upload/randles2014-914x1024.jpg" alt="randles2014" srcset="http://jpswade.github.io/upload/randles2014-268x300.jpg 268w, http://jpswade.github.io/upload/randles2014-914x1024.jpg 914w, http://jpswade.github.io/upload/randles2014.jpg 1366w" sizes="(max-width: 914px) 100vw, 914px" /> 
+<img class="alignnone size-large wp-image-3689" src="http://wade.be/upload/randles2014-914x1024.jpg" alt="randles2014" srcset="http://wade.be/upload/randles2014-268x300.jpg 268w, http://wade.be/upload/randles2014-914x1024.jpg 914w, http://wade.be/upload/randles2014.jpg 1366w" sizes="(max-width: 914px) 100vw, 914px" /> 
 
 The goal was to launch under the new randles.uk domain making us the first Motor Group to use the new .uk domain names.
 

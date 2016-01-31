@@ -4,7 +4,7 @@ title: How can I recycle my computer hardware?
 date: 2007-05-09T13:20:50+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/how-can-i-recycle-my-computer-hardware
+guid: http://wade.be/posts/how-can-i-recycle-my-computer-hardware
 permalink: /how-can-i-recycle-my-computer-hardware/
 categories:
   - Hardware

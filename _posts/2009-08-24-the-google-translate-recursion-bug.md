@@ -4,7 +4,7 @@ title: The Google Translate recursion bug
 date: 2009-08-24T14:39:50+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=479
+guid: http://wade.be/?p=479
 permalink: /the-google-translate-recursion-bug/
 aktt_notify_twitter:
   - yes
@@ -38,7 +38,7 @@ Don&#8217;t get me wrong, I like Google, but it&#8217;s not nice to be ignored.
 Okay, so onto the actual bug&#8230;
 
 <div id="attachment_480" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://jpswade.github.io/upload/Google-Translate_1251117987726.png"><img class="size-medium wp-image-480" title="Google Translate_1251117987726" src="http://jpswade.github.io/upload/Google-Translate_1251117987726-300x154.png" alt="Google Translate Recusion" width="300" height="154" srcset="http://jpswade.github.io/upload/Google-Translate_1251117987726-300x154.png 300w, http://jpswade.github.io/upload/Google-Translate_1251117987726.png 792w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://wade.be/upload/Google-Translate_1251117987726.png"><img class="size-medium wp-image-480" title="Google Translate_1251117987726" src="http://wade.be/upload/Google-Translate_1251117987726-300x154.png" alt="Google Translate Recusion" width="300" height="154" srcset="http://wade.be/upload/Google-Translate_1251117987726-300x154.png 300w, http://wade.be/upload/Google-Translate_1251117987726.png 792w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Google Translate Recursion

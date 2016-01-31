@@ -4,7 +4,7 @@ title: What is a valid email address?
 date: 2008-06-03T16:31:12+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=205
+guid: http://wade.be/?p=205
 permalink: /what-is-a-valid-email-address/
 aktt_notify_twitter:
   - yes

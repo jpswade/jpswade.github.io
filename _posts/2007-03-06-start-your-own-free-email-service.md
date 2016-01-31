@@ -4,7 +4,7 @@ title: Start your own free email service
 date: 2007-03-06T18:26:05+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/start-your-own-free-email-service
+guid: http://wade.be/posts/start-your-own-free-email-service
 permalink: /start-your-own-free-email-service/
 openid_comments:
   - 'a:1:{i:0;s:6:"252427";}'

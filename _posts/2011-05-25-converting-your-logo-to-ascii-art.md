@@ -4,7 +4,7 @@ title: Converting your logo to ASCII art
 date: 2011-05-25T12:11:25+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=2907
+guid: http://wade.be/?p=2907
 permalink: /converting-your-logo-to-ascii-art/
 aktt_notify_twitter:
   - yes
@@ -87,12 +87,12 @@ After doing this, my favourite so far was from &#8220;converthub.com&#8221;, whi
 
 So here it is:
 
-[<img class="aligncenter size-medium wp-image-2911" title="gallush-logo-putty" src="http://jpswade.github.io/upload/gallush-logo-putty-300x203.png" alt="" width="300" height="203" />](http://jpswade.github.io/upload/gallush-logo-putty.png)So as you can see, you can make out the logo pretty clearly and it fits on the screen! Pretty cool huh?
+[<img class="aligncenter size-medium wp-image-2911" title="gallush-logo-putty" src="http://wade.be/upload/gallush-logo-putty-300x203.png" alt="" width="300" height="203" />](http://wade.be/upload/gallush-logo-putty.png)So as you can see, you can make out the logo pretty clearly and it fits on the screen! Pretty cool huh?
 
 Just need to render some text in figlet and use [PabloDraw](http://picoe.ca/products/pablodraw/) to combine the two, and you should end up with something like this:
 
-[<img class="aligncenter size-medium wp-image-2912" title="gallush-pablodraw" src="http://jpswade.github.io/upload/gallush-pablodraw-300x184.png" alt="" width="300" height="184" srcset="http://jpswade.github.io/upload/gallush-pablodraw-300x184.png 300w, http://jpswade.github.io/upload/gallush-pablodraw.png 929w" sizes="(max-width: 300px) 100vw, 300px" />](http://jpswade.github.io/upload/gallush-pablodraw.png)_Note: I used the &#8220;Rounded&#8221; font on the [patorjk.com Text Ascii Art Generator](http://patorjk.com/software/taag/)._
+[<img class="aligncenter size-medium wp-image-2912" title="gallush-pablodraw" src="http://wade.be/upload/gallush-pablodraw-300x184.png" alt="" width="300" height="184" srcset="http://wade.be/upload/gallush-pablodraw-300x184.png 300w, http://wade.be/upload/gallush-pablodraw.png 929w" sizes="(max-width: 300px) 100vw, 300px" />](http://wade.be/upload/gallush-pablodraw.png)_Note: I used the &#8220;Rounded&#8221; font on the [patorjk.com Text Ascii Art Generator](http://patorjk.com/software/taag/)._
 
 Here&#8217;s what that looks like over PuTTY:
 
-[<img class="aligncenter size-medium wp-image-2916" title="gallush-logo-putty-final" src="http://jpswade.github.io/upload/gallush-logo-putty-final-300x203.png" alt="" width="300" height="203" />](http://jpswade.github.io/upload/gallush-logo-putty-final.png)Kinda cool huh?
+[<img class="aligncenter size-medium wp-image-2916" title="gallush-logo-putty-final" src="http://wade.be/upload/gallush-logo-putty-final-300x203.png" alt="" width="300" height="203" />](http://wade.be/upload/gallush-logo-putty-final.png)Kinda cool huh?

@@ -4,7 +4,7 @@ title: My computer has problems, what can I do?
 date: 2007-01-24T01:35:13+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/my-computer-has-problems-what-can-i-do
+guid: http://wade.be/posts/my-computer-has-problems-what-can-i-do
 permalink: /my-computer-has-problems-what-can-i-do/
 ---
 <p class="lead">

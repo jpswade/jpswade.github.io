@@ -4,7 +4,7 @@ title: Getting your mobile unlocked
 date: 2007-01-12T01:13:08+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/archives/23
+guid: http://wade.be/archives/23
 permalink: /mobile-unlocked/
 categories:
   - General

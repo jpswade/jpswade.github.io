@@ -4,7 +4,7 @@ title: Recording an IRC channel on Windows
 date: 2008-04-22T13:48:15+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=188
+guid: http://wade.be/?p=188
 permalink: /recording-an-irc-channel-on-windows/
 categories:
   - Internet
@@ -38,7 +38,7 @@ From there you can setup logging to your preferences. If you need help understan
 Mine looks like this:
 
 <p style="text-align: center;">
-  <a href="http://jpswade.github.io/upload/mirc-logging.jpg"><img class="alignnone size-medium wp-image-189" title="mirc-logging" src="http://jpswade.github.io/upload/mirc-logging-300x253.jpg" alt="" width="300" height="253" /></a>
+  <a href="http://wade.be/upload/mirc-logging.jpg"><img class="alignnone size-medium wp-image-189" title="mirc-logging" src="http://wade.be/upload/mirc-logging-300x253.jpg" alt="" width="300" height="253" /></a>
 </p>
 
 Now to connect to a channel, say #SEO on EFnet, with the nickname NOTHM2K, you can do the following:
@@ -107,6 +107,6 @@ Or for those that prefer mIRC scripts, here&#8217;s findstr for mIRC&#8230;
 
 To generate stats you need third party software such as [mIRCstats](http://www.nic.fi/~mauvinen/mircstats/) or [pisg](http://pisg.sourceforge.net/) (recommended), however if you do use pisg, it might make sense to use the [eggdrop](http://www.eggheads.org/) or [windrop](http://windrop.sourceforge.net/downloads.html) (for windows) IRC bot to generate the logs instead.
 
-There&#8217;s lots and lots of other neat tricks in mIRC for logging (take a look at $findfile) and beyond. I invite you to take a look at some of my [mIRC scripts](http://jpswade.github.io/projects/mirc-scripts), which some of you may find useful.
+There&#8217;s lots and lots of other neat tricks in mIRC for logging (take a look at $findfile) and beyond. I invite you to take a look at some of my [mIRC scripts](http://wade.be/projects/mirc-scripts), which some of you may find useful.
 
-PS. If you like [mIRC, please register](http://jpswade.github.io/posts/why-i-registered-mirc).
+PS. If you like [mIRC, please register](http://wade.be/posts/why-i-registered-mirc).

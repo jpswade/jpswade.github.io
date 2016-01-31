@@ -4,7 +4,7 @@ title: FTP server for windows
 date: 2007-01-08T01:05:55+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/archives/27
+guid: http://wade.be/archives/27
 permalink: /ftp-server-for-windows/
 categories:
   - Sysadmin

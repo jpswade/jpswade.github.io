@@ -4,7 +4,7 @@ title: 'How We Built: 3 Shires Property Network'
 date: 2011-09-13T21:48:00+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=3620
+guid: http://wade.be/?p=3620
 permalink: /how-we-built-3-shires-property-network-2/
 tumblr_jpswade_permalink:
   - http://jpswade.tumblr.com/post/10176465857/how-i-built-3shires-property-network
@@ -27,7 +27,7 @@ Now with over 60 properties listed on her website things are going well, which t
 
 _Time for the close up:_
 
-[<img class="alignnone size-medium wp-image-3641" src="http://jpswade.github.io/upload/3_Shires_Property_Management_Quality_letting_specialist_and_property_management-300x214.png" alt="3_Shires_Property_Management_Quality_letting_specialist_and_property_management" srcset="http://jpswade.github.io/upload/3_Shires_Property_Management_Quality_letting_specialist_and_property_management-300x214.png 300w, http://jpswade.github.io/upload/3_Shires_Property_Management_Quality_letting_specialist_and_property_management.png 768w" sizes="(max-width: 300px) 100vw, 300px" />](http://jpswade.github.io/upload/3_Shires_Property_Management_Quality_letting_specialist_and_property_management.png) 
+[<img class="alignnone size-medium wp-image-3641" src="http://wade.be/upload/3_Shires_Property_Management_Quality_letting_specialist_and_property_management-300x214.png" alt="3_Shires_Property_Management_Quality_letting_specialist_and_property_management" srcset="http://wade.be/upload/3_Shires_Property_Management_Quality_letting_specialist_and_property_management-300x214.png 300w, http://wade.be/upload/3_Shires_Property_Management_Quality_letting_specialist_and_property_management.png 768w" sizes="(max-width: 300px) 100vw, 300px" />](http://wade.be/upload/3_Shires_Property_Management_Quality_letting_specialist_and_property_management.png) 
 
   1. **Banner**: The logo was provided by the client to remain consistent with their existing stationary. The farmhouse image was added at the top to give a rural look and feel, giving the visitor the right impression of the business. Rounded to make it easy on the eyes.
   2. **Navigation**: A simple, basic navigation bar below the banner, but above the contents makes it easier for the user to find what they want.

@@ -4,7 +4,7 @@ title: PHP coding standards and best practices
 date: 2007-05-10T17:47:30+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/php-coding-standards-and-best-practices
+guid: http://wade.be/posts/php-coding-standards-and-best-practices
 permalink: /php-coding-standards-and-best-practices/
 categories:
   - Development

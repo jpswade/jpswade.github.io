@@ -4,7 +4,7 @@ title: Text editors revisited
 date: 2008-04-10T00:08:58+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=172
+guid: http://wade.be/?p=172
 permalink: /text-editors-revisited/
 categories:
   - Development

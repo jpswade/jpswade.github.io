@@ -4,7 +4,7 @@ title: Free icon sets for your website
 date: 2009-01-05T16:48:02+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=202
+guid: http://wade.be/?p=202
 permalink: /free-icons/
 categories:
   - Development

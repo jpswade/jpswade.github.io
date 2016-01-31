@@ -4,7 +4,7 @@ title: The requested URL /cpanel was not found on this server
 date: 2007-06-11T15:40:43+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/the-requested-url-cpanel-was-not-found-on-this-server
+guid: http://wade.be/posts/the-requested-url-cpanel-was-not-found-on-this-server
 permalink: /the-requested-url-cpanel-was-not-found-on-this-server/
 categories:
   - Sysadmin

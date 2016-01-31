@@ -4,7 +4,7 @@ title: Supercalifragilisticexpialidocious
 date: 2007-03-15T03:16:44+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/supercalifragilisticexpialidocious
+guid: http://wade.be/posts/supercalifragilisticexpialidocious
 permalink: /supercalifragilisticexpialidocious/
 categories:
   - General

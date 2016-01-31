@@ -4,7 +4,7 @@ title: Siemens CX65 Review
 date: 2007-02-07T02:58:58+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/siemens-cx65-review
+guid: http://wade.be/posts/siemens-cx65-review
 permalink: /siemens-cx65-review/
 categories:
   - Hardware
@@ -17,11 +17,11 @@ tags:
 </p>
 
 <p align="center">
-  <a href="http://jpswade.github.io/upload/cx65.jpg" title="Siemens CX65 Mobile Phone"><img src="http://jpswade.github.io/upload/cx65.thumbnail.jpg" alt="Siemens CX65 Mobile Phone" /></a>
+  <a href="http://wade.be/upload/cx65.jpg" title="Siemens CX65 Mobile Phone"><img src="http://wade.be/upload/cx65.thumbnail.jpg" alt="Siemens CX65 Mobile Phone" /></a>
 </p>
 
 <p align="center">
-  <a href="http://jpswade.github.io/upload/cx65.jpg" title="Siemens CX65"></a>
+  <a href="http://wade.be/upload/cx65.jpg" title="Siemens CX65"></a>
 </p>
 
 I decided to get this phone as I had a Siemens ME45 before and that was great for it&#8217;s time.

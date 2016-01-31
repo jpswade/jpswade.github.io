@@ -4,7 +4,7 @@ title: How to Minimize Microsoft Office Outlook to the System Tray
 date: 2007-03-27T01:07:35+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/how-to-minimize-microsoft-office-outlook-to-the-system-tray
+guid: http://wade.be/posts/how-to-minimize-microsoft-office-outlook-to-the-system-tray
 permalink: /how-to-minimize-microsoft-office-outlook-to-the-system-tray/
 categories:
   - Sysadmin

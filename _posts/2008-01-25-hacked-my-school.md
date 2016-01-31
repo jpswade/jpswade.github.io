@@ -4,7 +4,7 @@ title: 'How I hacked my schools website &#8211; a look into the past'
 date: 2008-01-25T10:40:50+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/hacked-my-school
+guid: http://wade.be/posts/hacked-my-school
 permalink: /hacked-my-school/
 categories:
   - Internet

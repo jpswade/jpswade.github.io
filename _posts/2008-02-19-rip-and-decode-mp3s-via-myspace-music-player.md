@@ -4,7 +4,7 @@ title: Rip and decode mp3s via myspace music player
 date: 2008-02-19T12:13:50+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/rip-and-decode-mp3s-via-myspace-music-player
+guid: http://wade.be/posts/rip-and-decode-mp3s-via-myspace-music-player
 permalink: /rip-and-decode-mp3s-via-myspace-music-player/
 categories:
   - Internet

@@ -27,7 +27,7 @@ I decided to make a clone, literally. It would mirror TinyURL, whatever string e
 
 The initial concept was very simple, it was simply a neat looking form where the user could enter a URL to convert into a hash, or enter the hash to preview the URL.
 
-[<img class="alignnone size-large wp-image-3397" alt="to-je" src="http://jpswade.github.io/upload/to-je-1024x481.png" width="640" height="300" srcset="http://jpswade.github.io/upload/to-je-1024x481.png 1024w, http://jpswade.github.io/upload/to-je.png 1366w" sizes="(max-width: 640px) 100vw, 640px" />](http://jpswade.github.io/upload/to-je.png) 
+[<img class="alignnone size-large wp-image-3397" alt="to-je" src="http://wade.be/upload/to-je-1024x481.png" width="640" height="300" srcset="http://wade.be/upload/to-je-1024x481.png 1024w, http://wade.be/upload/to-je.png 1366w" sizes="(max-width: 640px) 100vw, 640px" />](http://wade.be/upload/to-je.png) 
 
 The URL to hash conversion was not smart, it simply took the URL, passed it to TinyURL.com and returned the hash. Of course, it cached it into it&#8217;s own database.
 

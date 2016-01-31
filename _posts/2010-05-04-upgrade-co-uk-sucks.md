@@ -4,7 +4,7 @@ title: upgrade.co.uk sucks
 date: 2010-05-04T16:45:08+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=615
+guid: http://wade.be/?p=615
 permalink: /upgrade-co-uk-sucks/
 aktt_notify_twitter:
   - yes

@@ -4,7 +4,7 @@ title: Extend Blackberry ring time
 date: 2009-09-02T17:06:09+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=488
+guid: http://wade.be/?p=488
 permalink: /extend-blackberry-ring-time/
 aktt_notify_twitter:
   - yes

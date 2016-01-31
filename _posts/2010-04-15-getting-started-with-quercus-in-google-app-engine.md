@@ -4,7 +4,7 @@ title: Getting started with Quercus in Google App Engine
 date: 2010-04-15T12:26:55+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=609
+guid: http://wade.be/?p=609
 permalink: /getting-started-with-quercus-in-google-app-engine/
 aktt_notify_twitter:
   - yes

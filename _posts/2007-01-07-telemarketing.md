@@ -4,7 +4,7 @@ title: Telemarketing
 date: 2007-01-07T01:05:22+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/archives/22
+guid: http://wade.be/archives/22
 permalink: /telemarketing/
 categories:
   - General

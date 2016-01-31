@@ -4,7 +4,7 @@ title: What is the best antivirus software?
 date: 2007-05-26T15:23:51+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/what-is-the-best-antivirus-software
+guid: http://wade.be/posts/what-is-the-best-antivirus-software
 permalink: /what-is-the-best-antivirus-software/
 categories:
   - Sysadmin
@@ -79,7 +79,7 @@ Probably most importantly the it must have a real-time virus sheild, without thi
 **Avira Antivir Personal** is very impressive. Finally a free solution that is supported by windows security and offers real-time scanning. It even looks nice. However, one thing I didn&#8217;t understand about this application was this&#8230;
 
 
-![Avir AntiVir Issue](http://jpswade.github.io/upload/antivir.gif) 
+![Avir AntiVir Issue](http://wade.be/upload/antivir.gif) 
 
 Is it me, or does that not make any sense? Let&#8217;s try something else&#8230;
 

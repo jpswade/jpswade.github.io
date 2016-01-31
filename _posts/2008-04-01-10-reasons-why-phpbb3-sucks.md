@@ -4,7 +4,7 @@ title: 10 reasons why phpBB3 sucks!
 date: 2008-04-01T13:03:46+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=182
+guid: http://wade.be/?p=182
 permalink: /10-reasons-why-phpbb3-sucks/
 ---
 <p class="lead">

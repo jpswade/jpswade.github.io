@@ -4,7 +4,7 @@ title: Seen script for mIRC updated
 date: 2008-05-21T10:33:18+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=201
+guid: http://wade.be/?p=201
 permalink: /seen-script-for-mirc-updated/
 aktt_notify_twitter:
   - yes

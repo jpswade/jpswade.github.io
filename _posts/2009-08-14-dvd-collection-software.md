@@ -4,7 +4,7 @@ title: DVD Collection Software
 date: 2009-08-14T08:45:12+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=452
+guid: http://wade.be/?p=452
 permalink: /dvd-collection-software/
 aktt_notify_twitter:
   - yes

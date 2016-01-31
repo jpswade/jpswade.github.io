@@ -4,7 +4,7 @@ title: OpenCart v0.7.9 released
 date: 2009-02-02T13:32:13+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=380
+guid: http://wade.be/?p=380
 permalink: /opencart-v079-released/
 categories:
   - Development

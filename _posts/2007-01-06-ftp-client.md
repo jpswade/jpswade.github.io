@@ -4,7 +4,7 @@ title: An FTP client
 date: 2007-01-06T01:05:10+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/archives/26
+guid: http://wade.be/archives/26
 permalink: /ftp-client/
 categories:
   - Sysadmin

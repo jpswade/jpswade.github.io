@@ -4,7 +4,7 @@ title: How to add/remove words in the firefox custom spell check dictionary
 date: 2007-03-01T18:27:56+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/how-to-addremove-words-in-the-firefox-custom-spell-check-dictionary
+guid: http://wade.be/posts/how-to-addremove-words-in-the-firefox-custom-spell-check-dictionary
 permalink: /how-to-addremove-words-in-the-firefox-custom-spell-check-dictionary/
 ---
 <p class="lead">

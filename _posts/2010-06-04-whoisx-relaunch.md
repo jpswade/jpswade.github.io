@@ -4,7 +4,7 @@ title: WhoisX relaunch
 date: 2010-06-04T10:08:07+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=629
+guid: http://wade.be/?p=629
 permalink: /whoisx-relaunch/
 aktt_notify_twitter:
   - yes

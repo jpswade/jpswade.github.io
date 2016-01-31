@@ -4,7 +4,7 @@ title: PHP getmxrr() support for windows
 date: 2009-01-06T22:23:41+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=332
+guid: http://wade.be/?p=332
 permalink: /php-getmxrr-support-for-windows/
 tags:
   - getmxrr
@@ -59,7 +59,7 @@ As I write this, and go over the article again, check my links, I see an update 
 > <pre class="note">As a new year present, all DNS functions are now available on windows,
 5.3 and 6 (head).</pre>
 
-This is good news, all that remains is for [PHP_Compat](http://pear.php.net/package/PHP_Compat) to catch up and use the above suggestions <img src="http://jpswade.github.io/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+This is good news, all that remains is for [PHP_Compat](http://pear.php.net/package/PHP_Compat) to catch up and use the above suggestions <img src="http://wade.be/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Good luck.
 

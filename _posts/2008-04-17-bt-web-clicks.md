@@ -4,7 +4,7 @@ title: BT Web Clicks
 date: 2008-04-17T17:09:14+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=187
+guid: http://wade.be/?p=187
 permalink: /bt-web-clicks/
 tags:
   - SEO

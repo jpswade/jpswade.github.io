@@ -4,7 +4,7 @@ title: 'Process: Creating a business logo'
 date: 2011-06-06T15:31:02+00:00
 author: James Wade
 layout: post
-guid: http://jpswade.github.io/process-creating-a-business-logo/
+guid: http://wade.be/process-creating-a-business-logo/
 permalink: /process-creating-a-business-logo/
 tumblr_jpswade_permalink:
   - http://jpswade.tumblr.com/post/6250346675/process-creating-a-business-logo

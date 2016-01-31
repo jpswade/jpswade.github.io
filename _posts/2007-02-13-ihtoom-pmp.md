@@ -4,7 +4,7 @@ title: IHTOOM pmp
 date: 2007-02-13T12:30:22+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/ihtoom-pmp
+guid: http://wade.be/posts/ihtoom-pmp
 permalink: /ihtoom-pmp/
 categories:
   - Hardware
@@ -23,7 +23,7 @@ This device is also known as the Black Hawk MP4 Digital Player or mini Play Stat
 <!--more-->
 
 <p align="center">
-  <img src="http://jpswade.github.io/upload/pmp.jpg" alt="IHTOOM pmp" />
+  <img src="http://wade.be/upload/pmp.jpg" alt="IHTOOM pmp" />
 </p>
 
 The mp4 player is boasted to have the following features:
@@ -50,24 +50,24 @@ From the outset I liked this device, and looked forward to its arrival. One thin
 
 It arrives and I immediately begin to examine the contents of the package.
 
-[](http://jpswade.github.io/upload/pmp_box.jpg "PMP Box Contents")
+[](http://wade.be/upload/pmp_box.jpg "PMP Box Contents")
 
 <p style="text-align: center">
-  <a href="http://jpswade.github.io/upload/pmp_box.jpg" title="PMP Box Contents"><img src="http://jpswade.github.io/upload/pmp_box.thumbnail.jpg" alt="PMP Box Contents" /></a>
+  <a href="http://wade.be/upload/pmp_box.jpg" title="PMP Box Contents"><img src="http://wade.be/upload/pmp_box.thumbnail.jpg" alt="PMP Box Contents" /></a>
 </p>
 
 The box contain: 1x pmp device; 1x white ear phones with a 3.5mm jack; 1x Male USB A to Male USB mini 5 USB cable; RCA to 3.5MM AV cable; 100-240V AC Main Charger (50/60Hz USA plugs 2 pin); GB travel power adapter; Driver/Software CD; English User Manual.
 
-[](http://jpswade.github.io/upload/pmp_device.jpg "IHTOOM pmp device")
+[](http://wade.be/upload/pmp_device.jpg "IHTOOM pmp device")
 
 <p style="text-align: center">
-  <a href="http://jpswade.github.io/upload/pmp_device.jpg" title="IHTOOM pmp device"><img src="http://jpswade.github.io/upload/pmp_device.thumbnail.jpg" alt="IHTOOM pmp device" /></a>
+  <a href="http://wade.be/upload/pmp_device.jpg" title="IHTOOM pmp device"><img src="http://wade.be/upload/pmp_device.thumbnail.jpg" alt="IHTOOM pmp device" /></a>
 </p>
 
 I begin by trying out the camera facility and took some photos. The photos turn out okay, but are somewhat grainy, but tolerable for a 3.0 Mega Pixel. I noticed there was what looked liked a flash, but it didn&#8217;t actually have the option for a flash, so I believe there is no flash, but then again it was never said there would be a flash, it was just assumed.
 
 <p align="center">
-  <a href="http://jpswade.github.io/upload/reco0019.JPG" title="chinese mp3 player woman"><img src="http://jpswade.github.io/upload/reco0019.thumbnail.JPG" alt="chinese mp3 player woman" /></a>
+  <a href="http://wade.be/upload/reco0019.JPG" title="chinese mp3 player woman"><img src="http://wade.be/upload/reco0019.thumbnail.JPG" alt="chinese mp3 player woman" /></a>
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ The next problem with the ear phones was that when I had them plugged in, the bu
 In terms of physical design, the only &#8220;bad ideas&#8221; are the rubber &#8220;flap&#8221; for the SD card, which I can imagine will fall off at some point. I am also under the impression that the stand I mentioned above would probably be very easy to break off.
 
 <p align="center">
-  <a href="http://jpswade.github.io/upload/pmp_device_base.jpg" title="IHTOOM pmp base"><img src="http://jpswade.github.io/upload/pmp_device_base.thumbnail.jpg" alt="IHTOOM pmp base" /></a>
+  <a href="http://wade.be/upload/pmp_device_base.jpg" title="IHTOOM pmp base"><img src="http://wade.be/upload/pmp_device_base.thumbnail.jpg" alt="IHTOOM pmp base" /></a>
 </p>
 
 One of my pet hates is power buttons that you have to hold down to turn the device on. I wish it was simply a switch, similar to the hold button, this would make it far easier to turn on and off.

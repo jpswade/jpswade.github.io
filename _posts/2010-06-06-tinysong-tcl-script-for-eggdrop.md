@@ -4,7 +4,7 @@ title: TinySong TCL script for Eggdrop
 date: 2010-06-06T15:59:35+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=612
+guid: http://wade.be/?p=612
 permalink: /tinysong-tcl-script-for-eggdrop/
 aktt_notify_twitter:
   - yes

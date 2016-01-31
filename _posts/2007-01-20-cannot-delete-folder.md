@@ -4,7 +4,7 @@ title: Cannot delete Folder
 date: 2007-01-20T11:38:22+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/cannot-delete-folder
+guid: http://wade.be/posts/cannot-delete-folder
 permalink: /cannot-delete-folder/
 categories:
   - Sysadmin
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: center">
-  <img id="image35" src="http://jpswade.github.io/upload/cannot-delete-folder.jpg" alt="Cannot Delete Folder" />
+  <img id="image35" src="http://wade.be/upload/cannot-delete-folder.jpg" alt="Cannot Delete Folder" />
 </p>
 
 <p align="center">

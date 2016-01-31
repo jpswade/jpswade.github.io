@@ -4,7 +4,7 @@ title: Finding a Portal Script
 date: 2007-01-16T01:15:31+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/archives/21
+guid: http://wade.be/archives/21
 permalink: /portal-script/
 categories:
   - Development

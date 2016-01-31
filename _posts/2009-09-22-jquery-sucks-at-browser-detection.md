@@ -4,7 +4,7 @@ title: jQuery sucks at browser detection
 date: 2009-09-22T16:16:18+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=507
+guid: http://wade.be/?p=507
 permalink: /jquery-sucks-at-browser-detection/
 aktt_notify_twitter:
   - yes

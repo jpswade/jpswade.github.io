@@ -4,7 +4,7 @@ title: Storing mySQL database settings for php and perl in one file
 date: 2008-02-29T11:36:10+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/storing-mysql-database-settings-for-php-and-perl-in-one-file
+guid: http://wade.be/posts/storing-mysql-database-settings-for-php-and-perl-in-one-file
 permalink: /storing-mysql-database-settings-for-php-and-perl-in-one-file/
 categories:
   - Sysadmin

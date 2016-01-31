@@ -4,7 +4,7 @@ title: Marketing Concepts
 date: 2008-03-04T13:49:11+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/marketing-concepts
+guid: http://wade.be/posts/marketing-concepts
 permalink: /marketing-concepts/
 tags:
   - Marketing

@@ -4,7 +4,7 @@ title: Missing Mediaid.bin file
 date: 2009-01-04T14:54:49+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=322
+guid: http://wade.be/?p=322
 permalink: /missing-mediaidbin-file/
 dsq_needs_sync:
   - 1

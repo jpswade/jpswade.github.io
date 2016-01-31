@@ -4,7 +4,7 @@ title: Setting up a PHP development environment
 date: 2015-05-08T09:00:42+00:00
 author: James Wade
 layout: post
-guid: http://jpswade.github.io/?p=3686
+guid: http://wade.be/?p=3686
 permalink: /setting-up-a-php-development-environment/
 categories:
   - Development

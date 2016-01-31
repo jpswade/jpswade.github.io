@@ -4,7 +4,7 @@ title: 10 wordpress performance optimisation tips
 date: 2008-05-16T12:40:55+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=179
+guid: http://wade.be/?p=179
 permalink: /10-wordpress-performance-optimisation-tips/
 aktt_notify_twitter:
   - yes

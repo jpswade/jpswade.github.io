@@ -4,7 +4,7 @@ title: weather.tcl
 date: 2009-11-05T00:37:14+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=560
+guid: http://wade.be/?p=560
 permalink: /weather-tcl/
 aktt_notify_twitter:
   - yes

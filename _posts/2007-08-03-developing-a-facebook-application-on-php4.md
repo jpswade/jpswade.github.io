@@ -4,7 +4,7 @@ title: Developing a Facebook Application on PHP4
 date: 2007-08-03T14:49:08+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/developing-a-facebook-application-on-php4
+guid: http://wade.be/posts/developing-a-facebook-application-on-php4
 permalink: /developing-a-facebook-application-on-php4/
 categories:
   - Development

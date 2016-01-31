@@ -4,7 +4,7 @@ title: Calling all hackers
 date: 2013-01-22T12:36:06+00:00
 author: James Wade
 layout: post
-guid: http://jpswade.github.io/calling-all-hackers/
+guid: http://wade.be/calling-all-hackers/
 permalink: /calling-all-hackers/
 tumblr_jpswade_permalink:
   - http://jpswade.tumblr.com/post/41190593924/calling-all-hackers

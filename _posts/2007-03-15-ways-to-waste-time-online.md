@@ -4,7 +4,7 @@ title: Ways to waste time online
 date: 2007-03-15T16:51:45+00:00
 author: admin
 layout: page
-guid: http://jpswade.github.io/ways-to-waste-time-online/
+guid: http://wade.be/ways-to-waste-time-online/
 ---
 <p class="lead">
   I compiled a short list of sites that you can simply spend hours on wasting your time online&#8230;

@@ -4,7 +4,7 @@ title: Premature optimization is the root of all evil
 date: 2011-02-22T20:57:29+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=696
+guid: http://wade.be/?p=696
 permalink: /premature-optimization-is-the-root-of-all-evil/
 aktt_notify_twitter:
   - yes
@@ -20,7 +20,7 @@ tags:
   - xdebug
 ---
 <p class="lead">
-  There&#8217;s <a href="http://jpswade.github.io/posts/50-php-optimisation-tips-revisited">loads of ways</a> you can optimize your PHP code, however they are probably NOT the answer to your performance issues.
+  There&#8217;s <a href="http://wade.be/posts/50-php-optimisation-tips-revisited">loads of ways</a> you can optimize your PHP code, however they are probably NOT the answer to your performance issues.
 </p>
 
 A wiser man than myself once said:

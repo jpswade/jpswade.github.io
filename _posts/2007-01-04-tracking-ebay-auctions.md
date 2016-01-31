@@ -4,7 +4,7 @@ title: Tracking eBay auctions
 date: 2007-01-04T01:02:03+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/archives/28
+guid: http://wade.be/archives/28
 permalink: /tracking-ebay-auctions/
 categories:
   - Sysadmin

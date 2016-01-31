@@ -4,7 +4,7 @@ title: 'Makeover: G. S. Unwin Bodycentre Ltd.'
 date: 2011-06-28T10:45:51+00:00
 author: James Wade
 layout: post
-guid: http://jpswade.github.io/makeover-g-s-unwin-bodycentre-ltd/
+guid: http://wade.be/makeover-g-s-unwin-bodycentre-ltd/
 permalink: /makeover-g-s-unwin-bodycentre-ltd/
 tumblr_jpswade_permalink:
   - http://jpswade.tumblr.com/post/7007532810/makeover-g-s-unwin-bodycentre-ltd

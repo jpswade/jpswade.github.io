@@ -4,7 +4,7 @@ title: Trac TCL for eggdrop
 date: 2010-12-15T13:46:18+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=680
+guid: http://wade.be/?p=680
 permalink: /trac-tcl-for-eggdrop/
 aktt_notify_twitter:
   - yes

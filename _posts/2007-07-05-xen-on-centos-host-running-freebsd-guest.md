@@ -4,7 +4,7 @@ title: Xen on CentOS Host running FreeBSD Guest
 date: 2007-07-05T14:37:17+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/xen-on-centos-host-running-freebsd-guest
+guid: http://wade.be/posts/xen-on-centos-host-running-freebsd-guest
 permalink: /xen-on-centos-host-running-freebsd-guest/
 categories:
   - General

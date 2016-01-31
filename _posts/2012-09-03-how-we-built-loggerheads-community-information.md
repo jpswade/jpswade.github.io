@@ -4,7 +4,7 @@ title: 'How We Built: Loggerheads Community Information Shop'
 date: 2012-09-03T22:12:00+00:00
 author: James Wade
 layout: post
-guid: http://jpswade.github.io/?p=3618
+guid: http://wade.be/?p=3618
 permalink: /how-we-built-loggerheads-community-information/
 tumblr_jpswade_permalink:
   - http://jpswade.tumblr.com/post/30827617063/how-i-built-loggerheads-community-information
@@ -50,7 +50,7 @@ I knew at this point that imaginary was going to play a big part of this website
 
 I tried a few ideas but I didn&#8217;t really like them…
 
-[<img class="alignnone wp-image-3628 size-medium" src="http://jpswade.github.io/upload/lcis1-300x240.png" alt="lcis1" width="300" height="240" srcset="http://jpswade.github.io/upload/lcis1-300x240.png 300w, http://jpswade.github.io/upload/lcis1-1024x819.png 1024w, http://jpswade.github.io/upload/lcis1.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />](http://jpswade.github.io/upload/lcis1.png) 
+[<img class="alignnone wp-image-3628 size-medium" src="http://wade.be/upload/lcis1-300x240.png" alt="lcis1" width="300" height="240" srcset="http://wade.be/upload/lcis1-300x240.png 300w, http://wade.be/upload/lcis1-1024x819.png 1024w, http://wade.be/upload/lcis1.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />](http://wade.be/upload/lcis1.png) 
 
 I abandoned this concept before it got too ugly and went back to the drawing board.
 
@@ -58,17 +58,17 @@ One site that that I kept coming back to, that really inspired my designs going
 
 As you&#8217;ll see in my next concept…
 
-[<img class="alignnone size-medium wp-image-3631" src="http://jpswade.github.io/upload/lcis2.3-236x300.png" alt="lcis2.3" />](http://jpswade.github.io/upload/lcis2.3.png) 
+[<img class="alignnone size-medium wp-image-3631" src="http://wade.be/upload/lcis2.3-236x300.png" alt="lcis2.3" />](http://wade.be/upload/lcis2.3.png) 
 
 I decided to keep with the green and brown which represented the farmland in the surrounding areas as well as take some layout direction from the website design I’d become familiar with.
 
 The feedback was that it wasn&#8217;t very in-line with the existing branding, so the design was compromised into this:<figure>
 
-[<img class="alignnone size-medium wp-image-3632" src="http://jpswade.github.io/upload/lcis3.0-236x300.png" alt="lcis3.0" />](http://jpswade.github.io/upload/lcis3.0.png)</figure> 
+[<img class="alignnone size-medium wp-image-3632" src="http://wade.be/upload/lcis3.0-236x300.png" alt="lcis3.0" />](http://wade.be/upload/lcis3.0.png)</figure> 
 
 This was the first draft adopting the logo and the blue branding. This wasn&#8217;t the final draft as a few more details were added in before it went into production:<figure class="">
 
-[<img class="alignnone size-medium wp-image-3633" src="http://jpswade.github.io/upload/lcis3.2-236x300.png" alt="lcis3.2" />](http://jpswade.github.io/upload/lcis3.2.png)</figure> 
+[<img class="alignnone size-medium wp-image-3633" src="http://wade.be/upload/lcis3.2-236x300.png" alt="lcis3.2" />](http://wade.be/upload/lcis3.2.png)</figure> 
 
 This is the design that went into production.
 

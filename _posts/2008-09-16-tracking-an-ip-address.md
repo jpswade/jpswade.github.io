@@ -4,7 +4,7 @@ title: Tracking an IP address
 date: 2008-09-16T15:51:53+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=231
+guid: http://wade.be/?p=231
 permalink: /tracking-an-ip-address/
 sandpaper:
   - 1
@@ -77,6 +77,6 @@ As you can see you have a choice whether you wish to use cjb.net&#8217;s URL or 
 
 Now you can set this script in your scheduler to run every few hours to ensure the IP is up-to-date.
 
-You can adopt these scripting principle to any scripting language, including [mIRC](http://jpswade.github.io/mirc/).
+You can adopt these scripting principle to any scripting language, including [mIRC](http://wade.be/mirc/).
 
 In the past I have used software such as [DynSite](http://www.noeld.com/dynsite.asp), however I can&#8217;t justify paying for something that is so simple to do for free.

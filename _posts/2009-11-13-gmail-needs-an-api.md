@@ -4,7 +4,7 @@ title: Gmail needs an API
 date: 2009-11-13T16:05:06+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=570
+guid: http://wade.be/?p=570
 permalink: /gmail-needs-an-api/
 aktt_notify_twitter:
   - yes

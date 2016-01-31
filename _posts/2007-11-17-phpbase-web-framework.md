@@ -4,7 +4,7 @@ title: PHPbase web framework
 date: 2007-11-17T20:21:18+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/phpbase-web-framework
+guid: http://wade.be/posts/phpbase-web-framework
 permalink: /phpbase-web-framework/
 categories:
   - Development

@@ -4,14 +4,14 @@ title: For VS While in PHP
 date: 2008-09-09T22:54:25+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=219
+guid: http://wade.be/?p=219
 permalink: /for-vs-while-in-php/
 ---
 <p class="lead">
   Today I was coding a new PHP script, when I asked myself &#8220;should I use for or while?&#8221;&#8230;
 </p>
 
-It&#8217;s a question I thought I should know the answer to after I spent a very long time researching [50+ PHP optimisation tips](http://jpswade.github.io/posts/50-php-optimisation-tips-revisited).
+It&#8217;s a question I thought I should know the answer to after I spent a very long time researching [50+ PHP optimisation tips](http://wade.be/posts/50-php-optimisation-tips-revisited).
 
 One I hadn&#8217;t mastered was whether the [for()](http://www.php.net/for) function was faster than [while()](http://www.php.net/while) function, as both can be used for most types of looping.
 

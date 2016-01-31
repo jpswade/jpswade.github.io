@@ -4,7 +4,7 @@ title: 'Firefox &#8220;Always On Top&#8221; on Windows XP'
 date: 2008-05-26T22:05:24+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=204
+guid: http://wade.be/?p=204
 permalink: /firefox-always-on-top/
 ---
 <p class="lead">

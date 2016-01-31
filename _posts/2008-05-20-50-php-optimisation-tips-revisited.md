@@ -4,7 +4,7 @@ title: 50+ PHP optimisation tips revisited
 date: 2008-05-20T17:51:28+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=178
+guid: http://wade.be/?p=178
 permalink: /50-php-optimisation-tips-revisited/
 aktt_notify_twitter:
   - yes

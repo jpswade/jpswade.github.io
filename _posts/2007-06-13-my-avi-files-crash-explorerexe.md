@@ -4,7 +4,7 @@ title: My AVI files crash explorer.exe
 date: 2007-06-13T20:05:16+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/my-avi-files-crash-explorerexe
+guid: http://wade.be/posts/my-avi-files-crash-explorerexe
 permalink: /my-avi-files-crash-explorerexe/
 ---
 <p class="lead">

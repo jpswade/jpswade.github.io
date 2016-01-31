@@ -4,7 +4,7 @@ title: Cannot redeclare pclziputilpathreduction()
 date: 2009-02-17T12:49:27+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/cannot-redeclare-pclziputilpathreduction
+guid: http://wade.be/posts/cannot-redeclare-pclziputilpathreduction
 permalink: /cannot-redeclare-pclziputilpathreduction/
 tags:
   - pclziputilpathreduction

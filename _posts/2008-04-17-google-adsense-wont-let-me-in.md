@@ -4,7 +4,7 @@ title: 'Google AdSense won&#8217;t let me in!'
 date: 2008-04-17T11:02:40+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=184
+guid: http://wade.be/?p=184
 permalink: /google-adsense-wont-let-me-in/
 categories:
   - Internet

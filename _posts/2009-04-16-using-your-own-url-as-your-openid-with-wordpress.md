@@ -4,7 +4,7 @@ title: Using Your Own URL as Your OpenID with WordPress
 date: 2009-04-16T22:09:33+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=408
+guid: http://wade.be/?p=408
 permalink: /using-your-own-url-as-your-openid-with-wordpress/
 categories:
   - Development
@@ -39,7 +39,7 @@ So I decided to start looking into it. I soon discovered someone over at wordpre
 At first I thought about getting a plugin that would inject the required lines of HTML into the head, however after some quite extensive research I found what I was looking for&#8230;
 
 
-<img class="alignnone size-full wp-image-409" title="OpenID Delegation" src="http://jpswade.github.io/upload/screenshot-5.png" alt="OpenID Delegation" width="550" height="141" /> 
+<img class="alignnone size-full wp-image-409" title="OpenID Delegation" src="http://wade.be/upload/screenshot-5.png" alt="OpenID Delegation" width="550" height="141" /> 
 
 [The WordPress OpenID Plugin](http://wordpress.org/extend/plugins/openid/) allows users authorized to use the OpenID Provider can delegate to a different provider, among other things.
 

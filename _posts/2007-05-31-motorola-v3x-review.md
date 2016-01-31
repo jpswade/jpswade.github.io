@@ -4,7 +4,7 @@ title: Motorola V3X Review
 date: 2007-05-31T17:55:53+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/motorola-v3x-review
+guid: http://wade.be/posts/motorola-v3x-review
 permalink: /motorola-v3x-review/
 tags:
   - Mobile Phone
@@ -30,13 +30,13 @@ tags:
   * You can&#8217;t set bluetooth to discovery mode for more than 3 minutes. This is annoying.
   * This phone crashes often.
 
-[](http://jpswade.github.io/upload/v3x.jpg "Motorola V3X")
+[](http://wade.be/upload/v3x.jpg "Motorola V3X")
 
 <p style="text-align: center">
-  <a href="http://jpswade.github.io/upload/v3x.jpg" title="Motorola V3X"><img src="http://jpswade.github.io/upload/v3x.jpg" alt="Motorola V3X" /></a>
+  <a href="http://wade.be/upload/v3x.jpg" title="Motorola V3X"><img src="http://wade.be/upload/v3x.jpg" alt="Motorola V3X" /></a>
 </p>
 
-[](http://jpswade.github.io/upload/v3x.jpg "Motorola V3X")Good things&#8230;
+[](http://wade.be/upload/v3x.jpg "Motorola V3X")Good things&#8230;
 
   * I can sync it with Outlook!
   * It plays MP3s, and plays them as ringtones too!

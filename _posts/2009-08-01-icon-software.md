@@ -4,7 +4,7 @@ title: Icon Software
 date: 2009-08-01T11:38:41+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=431
+guid: http://wade.be/?p=431
 permalink: /icon-software/
 aktt_notify_twitter:
   - yes

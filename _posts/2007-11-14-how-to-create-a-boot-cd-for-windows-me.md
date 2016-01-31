@@ -4,7 +4,7 @@ title: How to create a boot CD for Windows ME
 date: 2007-11-14T21:31:28+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/how-to-create-a-boot-cd-for-windows-me
+guid: http://wade.be/posts/how-to-create-a-boot-cd-for-windows-me
 permalink: /how-to-create-a-boot-cd-for-windows-me/
 ---
 <p class="lead">

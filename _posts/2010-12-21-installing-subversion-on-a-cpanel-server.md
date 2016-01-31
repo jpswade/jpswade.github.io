@@ -4,7 +4,7 @@ title: Installing Subversion on a cPanel Server
 date: 2010-12-21T17:37:50+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=684
+guid: http://wade.be/?p=684
 permalink: /installing-subversion-on-a-cpanel-server/
 aktt_notify_twitter:
   - yes

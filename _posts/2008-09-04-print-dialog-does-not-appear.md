@@ -4,7 +4,7 @@ title: Print dialog does not appear in Outlook Express or Internet Explorer
 date: 2008-09-04T11:43:18+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=216
+guid: http://wade.be/?p=216
 permalink: /print-dialog-does-not-appear/
 tags:
   - Printers

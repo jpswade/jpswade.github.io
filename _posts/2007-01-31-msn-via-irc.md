@@ -4,7 +4,7 @@ title: MSN via IRC
 date: 2007-01-31T00:53:49+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/msn-via-irc
+guid: http://wade.be/posts/msn-via-irc
 permalink: /msn-via-irc/
 categories:
   - Internet
@@ -39,4 +39,4 @@ In the end I decided to trim down a version of [linkchan.tcl](http://www.google.
 
 There is the project research so far, the next step is to release bitlbee.tcl once i&#8217;m happy the script is stable.
 
-**Update:** I have posted a beta version of the &#8220;bitlbee.tcl&#8221; under the [eggdrop tcl](http://jpswade.github.io/projects/eggtcl/) section.
+**Update:** I have posted a beta version of the &#8220;bitlbee.tcl&#8221; under the [eggdrop tcl](http://wade.be/projects/eggtcl/) section.

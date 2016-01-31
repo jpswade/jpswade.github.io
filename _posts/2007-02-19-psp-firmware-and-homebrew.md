@@ -4,7 +4,7 @@ title: PSP firmware and homebrew
 date: 2007-02-19T13:24:06+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/psp-firmware-and-homebrew
+guid: http://wade.be/posts/psp-firmware-and-homebrew
 permalink: /psp-firmware-and-homebrew/
 categories:
   - Hardware

@@ -4,7 +4,7 @@ title: Introducing the Dead Useful Domain Search
 date: 2014-01-27T10:00:14+00:00
 author: James Wade
 layout: post
-guid: http://jpswade.github.io/?p=3404
+guid: http://wade.be/?p=3404
 permalink: /introducing-domain-search/
 categories:
   - Announcements
@@ -32,7 +32,7 @@ To find the most popular websites, we used the [Alexa &#8220;top sites&#8221;](h
 
 As you can imagine, having a list of possible domains in an ordered list of most popular, arranged so you can see which is most relevant to least relevant will help give you an educated guess as to which domain you should choose (if at all) if your first, second, third, or [Z](http://en.wikipedia.org/wiki/Integer) choice is not available.
 
-[<img class="alignnone size-large wp-image-3408" alt="domain-search-example" src="http://jpswade.github.io/upload/domain-search-example-1024x487.png" width="640" height="304" srcset="http://jpswade.github.io/upload/domain-search-example-300x142.png 300w, http://jpswade.github.io/upload/domain-search-example-1024x487.png 1024w, http://jpswade.github.io/upload/domain-search-example.png 1349w" sizes="(max-width: 640px) 100vw, 640px" />](http://jpswade.github.io/upload/domain-search-example.png) 
+[<img class="alignnone size-large wp-image-3408" alt="domain-search-example" src="http://wade.be/upload/domain-search-example-1024x487.png" width="640" height="304" srcset="http://wade.be/upload/domain-search-example-300x142.png 300w, http://wade.be/upload/domain-search-example-1024x487.png 1024w, http://wade.be/upload/domain-search-example.png 1349w" sizes="(max-width: 640px) 100vw, 640px" />](http://wade.be/upload/domain-search-example.png) 
 
 You&#8217;ll also find it much easier to see at a glance which domain extensions you can choose from. I&#8217;m sure you&#8217;ll agree it really takes any guess work out of which domain extension you should choose.
 

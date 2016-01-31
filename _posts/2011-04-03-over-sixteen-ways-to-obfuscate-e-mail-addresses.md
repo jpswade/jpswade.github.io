@@ -4,7 +4,7 @@ title: Over sixteen ways to obfuscate e-mail addresses
 date: 2011-04-03T10:10:28+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=1891
+guid: http://wade.be/?p=1891
 permalink: /over-sixteen-ways-to-obfuscate-e-mail-addresses/
 aktt_notify_twitter:
   - yes
@@ -19,7 +19,7 @@ tags:
   - php
 ---
 <p class="lead">
-  Back in 2007 I wrote about<a href="http://jpswade.github.io/posts/email-address-on-your-website"> email addresses on your website</a> and how to avoid putting your email address in plain text.
+  Back in 2007 I wrote about<a href="http://wade.be/posts/email-address-on-your-website"> email addresses on your website</a> and how to avoid putting your email address in plain text.
 </p>
 
 A guy I know, named &#8220;csarven&#8221; also wrote about [methods to hide email addresses from page source](http://www.csarven.ca/hiding-email-addresses) providing over 16 concepts for hiding your email address.

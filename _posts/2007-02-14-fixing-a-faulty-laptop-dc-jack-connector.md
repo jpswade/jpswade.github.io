@@ -4,7 +4,7 @@ title: Fixing a faulty laptop DC jack connector
 date: 2007-02-14T17:17:23+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/fixing-a-faulty-laptop-dc-jack-connector
+guid: http://wade.be/posts/fixing-a-faulty-laptop-dc-jack-connector
 permalink: /fixing-a-faulty-laptop-dc-jack-connector/
 categories:
   - Hardware
@@ -27,10 +27,10 @@ After spending some time to get to the motherboard and safely remove it, low and
 
 I also discovered that the housing had cracked, and with a little wiggle the top came off, and I could now see the exact problem.
 
-[](http://jpswade.github.io/upload/dsc_0011-large.JPG "HP Pavilion ze4111s broken DC jack")
+[](http://wade.be/upload/dsc_0011-large.JPG "HP Pavilion ze4111s broken DC jack")
 
 <p style="text-align: center">
-  <a href="http://jpswade.github.io/upload/dsc_0011-large.JPG" title="HP Pavilion ze4111s broken DC jack"><img src="http://jpswade.github.io/upload/dsc_0011-large.thumbnail.JPG" alt="HP Pavilion ze4111s broken DC jack" /></a>
+  <a href="http://wade.be/upload/dsc_0011-large.JPG" title="HP Pavilion ze4111s broken DC jack"><img src="http://wade.be/upload/dsc_0011-large.thumbnail.JPG" alt="HP Pavilion ze4111s broken DC jack" /></a>
 </p>
 
 My next step was to work out what to do next with this laptop. This laptop is quite old, and is most definitely outside its warranty period. However I knew what the problem was and had a few ideas on how to fix it.
@@ -41,10 +41,10 @@ I finally got hold of someone at HP, who suggested I contact a service centre, w
 
 I tried resoldering the connector from the housing of the DC jack to the motherboard, but the moment I put the AC adapter into the DC jack the housing would break and force the connection to break.
 
-[](http://jpswade.github.io/upload/dsc_0015-large.JPG "HP Pavilion ze4111s broken DC jack resolder")
+[](http://wade.be/upload/dsc_0015-large.JPG "HP Pavilion ze4111s broken DC jack resolder")
 
 <p style="text-align: center">
-  <a href="http://jpswade.github.io/upload/dsc_0015-large.JPG" title="HP Pavilion ze4111s broken DC jack resolder"><img src="http://jpswade.github.io/upload/dsc_0015-large.thumbnail.JPG" alt="HP Pavilion ze4111s broken DC jack resolder" /></a>
+  <a href="http://wade.be/upload/dsc_0015-large.JPG" title="HP Pavilion ze4111s broken DC jack resolder"><img src="http://wade.be/upload/dsc_0015-large.thumbnail.JPG" alt="HP Pavilion ze4111s broken DC jack resolder" /></a>
 </p>
 
 Upon further examining the motherboard, I discovered that the jack could be safely removed from the motherboard providing I could unsolder it from the underneath where it connects to the motherboard in three places. Not a problem, I&#8217;d just require a replacement jack.
@@ -94,7 +94,7 @@ I found that the sites above were charging a fortune for the replacement jack, s
 Then, a brainwave, I could cross reference google with eBay and see if anyone had mentioned a [jack for a ze4111s](http://www.google.com/search?hl=en&q=site%3Aebay.co.uk+%2Bze4111s+%2Bjack&btnG=Search) recently. So that&#8217;s what I did, and soon discovered the seller &#8220;[laptop18000](http://feedback.ebay.co.uk/ws/eBayISAPI.dll?ViewFeedback&userid=laptop18000)&#8220;, and their shop &#8220;[GOOD DEALS IN](http://stores.ebay.co.uk/GOOD-DEALS-IN)&#8221; based in the USA, but sells DC jacks for laptops for very cheap compared to the previous offers.
 
 <p align="center">
-  <a href="http://jpswade.github.io/upload/e901_1_b.JPG" title="DC Power Jack for HP Laptop motherboard XL XF XZ HP ZE"><img src="http://jpswade.github.io/upload/e901_1_b.JPG" alt="DC Power Jack for HP Laptop motherboard XL XF XZ HP ZE" /></a>
+  <a href="http://wade.be/upload/e901_1_b.JPG" title="DC Power Jack for HP Laptop motherboard XL XF XZ HP ZE"><img src="http://wade.be/upload/e901_1_b.JPG" alt="DC Power Jack for HP Laptop motherboard XL XF XZ HP ZE" /></a>
 </p>
 
 <p align="center">
@@ -105,10 +105,10 @@ From here its simply a case of de-soldering the old connector from the motherboa
 
 Meanwhile, the laptop remains in pieces&#8230;
 
-[](http://jpswade.github.io/upload/dsc_0038-medium.JPG "HP Pavilion ze4111s")
+[](http://wade.be/upload/dsc_0038-medium.JPG "HP Pavilion ze4111s")
 
 <p style="text-align: center">
-  <a href="http://jpswade.github.io/upload/dsc_0038-medium.JPG" title="HP Pavilion ze4111s"><img src="http://jpswade.github.io/upload/dsc_0038-medium.thumbnail.JPG" alt="HP Pavilion ze4111s" /></a>
+  <a href="http://wade.be/upload/dsc_0038-medium.JPG" title="HP Pavilion ze4111s"><img src="http://wade.be/upload/dsc_0038-medium.thumbnail.JPG" alt="HP Pavilion ze4111s" /></a>
 </p>
 
 In conclusion, don&#8217;t throw your laptop away, don&#8217;t pay excessive amounts getting someone autherised by HP to fix it, don&#8217;t pay more than you have to. DO IT YOURSELF!

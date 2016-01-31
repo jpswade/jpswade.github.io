@@ -4,7 +4,7 @@ title: No more Nero
 date: 2007-01-23T17:56:59+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/cddvd-burning-software
+guid: http://wade.be/posts/cddvd-burning-software
 permalink: /no-more-nero/
 categories:
   - Sysadmin

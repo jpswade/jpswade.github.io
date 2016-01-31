@@ -4,7 +4,7 @@ title: 'OpenVZ: Container already locked'
 date: 2010-12-10T13:22:39+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=673
+guid: http://wade.be/?p=673
 permalink: /openvz-container-already-locked/
 aktt_notify_twitter:
   - yes

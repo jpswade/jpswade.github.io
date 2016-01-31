@@ -4,7 +4,7 @@ title: How to setup Tucows OpenSRS
 date: 2007-04-25T14:33:08+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/how-to-setup-tucows-opensrs
+guid: http://wade.be/posts/how-to-setup-tucows-opensrs
 permalink: /how-to-setup-tucows-opensrs/
 aktt_notify_twitter:
   - yes

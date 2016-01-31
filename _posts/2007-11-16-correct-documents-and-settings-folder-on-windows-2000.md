@@ -4,7 +4,7 @@ title: Correct Documents and Settings folder on Windows 2000
 date: 2007-11-16T00:46:46+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/correct-documents-and-settings-folder-on-windows-2000
+guid: http://wade.be/posts/correct-documents-and-settings-folder-on-windows-2000
 permalink: /correct-documents-and-settings-folder-on-windows-2000/
 ---
 <p class="lead">

@@ -4,7 +4,7 @@ title: 'Enhanced: Randles Navigation'
 date: 2011-05-17T08:25:21+00:00
 author: James Wade
 layout: post
-guid: http://jpswade.github.io/enhanced-randles-navigation/
+guid: http://wade.be/enhanced-randles-navigation/
 permalink: /enhanced-randles-navigation/
 tumblr_jpswade_permalink:
   - http://jpswade.tumblr.com/post/5571577878/enhanced-randles-navigation

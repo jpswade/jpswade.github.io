@@ -4,7 +4,7 @@ title: A new month
 date: 2007-02-01T01:41:27+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/a-new-month
+guid: http://wade.be/posts/a-new-month
 permalink: /a-new-month/
 tags:
   - Site

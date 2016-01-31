@@ -4,7 +4,7 @@ title: 'Concept: Randles Website 2012'
 date: 2012-04-18T11:13:00+00:00
 author: James Wade
 layout: post
-guid: http://jpswade.github.io/concept-randles-website-2012/
+guid: http://wade.be/concept-randles-website-2012/
 permalink: /concept-randles-website-2012/
 tumblr_jpswade_permalink:
   - http://jpswade.tumblr.com/post/21319957279/concept-randles-website-2012

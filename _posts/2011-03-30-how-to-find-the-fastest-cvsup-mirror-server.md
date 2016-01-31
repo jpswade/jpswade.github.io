@@ -4,7 +4,7 @@ title: How to find the fastest CVSUP mirror server
 date: 2011-03-30T14:41:42+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=2316
+guid: http://wade.be/?p=2316
 permalink: /how-to-find-the-fastest-cvsup-mirror-server/
 aktt_notify_twitter:
   - yes
@@ -20,7 +20,7 @@ tags:
   - ports
 ---
 <p class="lead">
-  Some time ago I wrote about using fastest_cvsup, to find the fastest cvsup mirror server for use with <a href="http://jpswade.github.io/posts/freebsd-62-usrports-no-such-file-or-directory">csup on FreeBSD</a>.
+  Some time ago I wrote about using fastest_cvsup, to find the fastest cvsup mirror server for use with <a href="http://wade.be/posts/freebsd-62-usrports-no-such-file-or-directory">csup on FreeBSD</a>.
 </p>
 
 fastest_cvsup is a system utility written in Perl that finds fastest CVSup mirror server for FreeBSD, OpenBSD or NetBSD.

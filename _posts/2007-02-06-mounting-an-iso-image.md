@@ -4,7 +4,7 @@ title: Mounting an ISO image
 date: 2007-02-06T00:06:39+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/posts/mounting-an-iso-image
+guid: http://wade.be/posts/mounting-an-iso-image
 permalink: /mounting-an-iso-image/
 categories:
   - Sysadmin

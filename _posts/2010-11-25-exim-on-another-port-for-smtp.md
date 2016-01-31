@@ -4,7 +4,7 @@ title: exim on another port for smtp
 date: 2010-11-25T14:58:35+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=661
+guid: http://wade.be/?p=661
 permalink: /exim-on-another-port-for-smtp/
 aktt_notify_twitter:
   - yes

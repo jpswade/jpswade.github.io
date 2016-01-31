@@ -4,7 +4,7 @@ title: Tech support blog
 date: 2009-06-18T16:24:12+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=422
+guid: http://wade.be/?p=422
 permalink: /tech-support-blog/
 aktt_notify_twitter:
   - yes

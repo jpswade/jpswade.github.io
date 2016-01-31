@@ -4,7 +4,7 @@ title: 'XSS: Get linked from Dmoz instantly'
 date: 2011-03-24T09:07:31+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=1881
+guid: http://wade.be/?p=1881
 permalink: /get-linked-from-dmoz-instantly/
 aktt_notify_twitter:
   - yes
@@ -37,7 +37,7 @@ Here&#8217;s a proof of concept showing how you would link to [example.com](http
 > 
 > [View the compromised page](http://www.dmoz.org/search?q=%3Ch1%3E%3Ca+href%3D%22http%3A%2F%2Fwww.example.com%22%3ELook%2C+I+made+a+link%3C%2Fa%3E%3C/h1%3E) ([screenshot](http://i.imgur.com/1Aqad.png))
 
-To make this affective, you would simply need to swap out the domain and the anchor text and (in theory) you would have to link to them from various other websites for them to eventually get indexed and start passing link juice for things like [PageRank](http://jpswade.github.io/projects/pagerank).
+To make this affective, you would simply need to swap out the domain and the anchor text and (in theory) you would have to link to them from various other websites for them to eventually get indexed and start passing link juice for things like [PageRank](http://wade.be/projects/pagerank).
 
 This is not the first time that Dmoz has been subject to such a flaw, as in 2007 they were subject to a similar [XSS vulnerability in their blog search](http://sla.ckers.org/forum/read.php?3,16280,16287).
 

@@ -22,7 +22,7 @@ tags:
   - migration
 ---
 <p class="lead">
-  A customer got in touch with us and explained their situation.<a href="http://labs.phurix.net/upload/Envelope.png"><img class="alignright size-full wp-image-3328" title="Envelope" src="http://labs.phurix.net/upload/Envelope.png" alt="" width="256" height="256" srcset="http://jpswade.github.io/upload/Envelope-150x150.png 150w, http://jpswade.github.io/upload/Envelope.png 256w" sizes="(max-width: 256px) 100vw, 256px" /></a>
+  A customer got in touch with us and explained their situation.<a href="http://labs.phurix.net/upload/Envelope.png"><img class="alignright size-full wp-image-3328" title="Envelope" src="http://labs.phurix.net/upload/Envelope.png" alt="" width="256" height="256" srcset="http://wade.be/upload/Envelope-150x150.png 150w, http://wade.be/upload/Envelope.png 256w" sizes="(max-width: 256px) 100vw, 256px" /></a>
 </p>
 
 They need to setup their email on the go and configure some forwarders. Their issue was that they were never given access to the control panel by the account holder and have since lost touch.
