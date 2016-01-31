@@ -4,7 +4,7 @@ title: Has friendster been hacked?
 date: 2011-06-01T16:08:14+00:00
 author: admin
 layout: post
-guid: http://jpswade.github.io/?p=2925
+guid: http://wade.be/?p=2925
 permalink: /has-friendster-been-hacked/
 aktt_notify_twitter:
   - yes
@@ -50,7 +50,7 @@ I figured the easiest way to check is to issue a &#8220;forgot password&#8221; r
 
 I received an &#8220;[Your Friendster account information](http://pastie.org/pastes/2004005/text)&#8221; email which contained my password in plain text right in the email.
 
-[<img class="aligncenter size-medium wp-image-2927" title="friendster password" src="http://jpswade.github.io/upload/friendster-password-300x213.jpg" alt="" width="300" height="213" srcset="http://jpswade.github.io/upload/friendster-password-300x213.jpg 300w, http://jpswade.github.io/upload/friendster-password.jpg 618w" sizes="(max-width: 300px) 100vw, 300px" />](http://jpswade.github.io/upload/friendster-password.jpg) 
+[<img class="aligncenter size-medium wp-image-2927" title="friendster password" src="http://wade.be/upload/friendster-password-300x213.jpg" alt="" width="300" height="213" srcset="http://wade.be/upload/friendster-password-300x213.jpg 300w, http://wade.be/upload/friendster-password.jpg 618w" sizes="(max-width: 300px) 100vw, 300px" />](http://wade.be/upload/friendster-password.jpg) 
 
 Yes, this means is that it is absolutely possible that if somebody _did_ hack into friendster they could recover my password (and everyone elses) from their database.
 
