@@ -126,7 +126,7 @@ If you intend on making a name for yourself then GitHub is the obvious way to go
 
 **Summary**
 
-I really like the way that &#8220;DevOps&#8221; is going, in terms of &#8220;cloud&#8221; technologies such as Vagrant, it makes so much sense to me and I think we&#8217;re only just seeing the iceberg.
+I really like the way that &#8220;DevOps&#8221; is going, in terms of &#8220;cloud&#8221; technologies such as Vagrant, it makes so much sense to me and I think we&#8217;re only just seeing the tip of the iceberg.
 
 I&#8217;m particularly interested in a number of emerging implementations of these technologies, such as:
 
