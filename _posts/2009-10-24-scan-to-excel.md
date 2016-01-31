@@ -3,8 +3,7 @@ id: 546
 title: Scan to Excel
 date: 2009-10-24T12:11:04+00:00
 author: admin
-layout:
-  - post
+layout: post
 guid: http://jpswade.github.io/?p=546
 permalink: /scan-to-excel/
 aktt_notify_twitter:

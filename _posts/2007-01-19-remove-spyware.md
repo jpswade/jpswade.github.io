@@ -5,8 +5,7 @@ date: 2007-01-19T12:58:00+00:00
 author: admin
 layout: post
 guid: http://jpswade.github.io/articles/remove-spyware/
-page_layout:
-  - post
+layout: post
 aktt_notify_twitter:
   - yes
 ---

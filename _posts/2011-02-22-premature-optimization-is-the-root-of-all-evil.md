@@ -3,8 +3,7 @@ id: 696
 title: Premature optimization is the root of all evil
 date: 2011-02-22T20:57:29+00:00
 author: admin
-layout:
-  - post
+layout: post
 guid: http://jpswade.github.io/?p=696
 permalink: /premature-optimization-is-the-root-of-all-evil/
 aktt_notify_twitter:

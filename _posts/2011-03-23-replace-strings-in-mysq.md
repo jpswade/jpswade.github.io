@@ -3,8 +3,7 @@ id: 646
 title: Replace strings MySQL
 date: 2011-03-23T11:23:26+00:00
 author: admin
-layout:
-  - post
+layout: post
 guid: http://jpswade.github.io/?p=646
 permalink: /replace-strings-in-mysq/
 aktt_notify_twitter:

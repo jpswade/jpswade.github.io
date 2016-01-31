@@ -3,8 +3,7 @@ id: 276
 title: Pingotron
 date: 2009-10-01T11:23:44+00:00
 author: admin
-layout:
-  - post
+layout: post
 guid: http://jpswade.github.io/?p=276
 permalink: /pingotron/
 aktt_notify_twitter:

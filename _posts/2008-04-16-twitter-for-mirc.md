@@ -3,8 +3,7 @@ id: 186
 title: Twitter for mIRC
 date: 2008-04-16T15:06:14+00:00
 author: admin
-layout:
-  - post
+layout: post
 guid: http://jpswade.github.io/?p=186
 permalink: /twitter-for-mirc/
 aktt_notify_twitter:

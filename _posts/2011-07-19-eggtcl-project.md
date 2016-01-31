@@ -3,8 +3,7 @@ id: 3009
 title: eggtcl project
 date: 2011-07-19T23:12:38+00:00
 author: admin
-layout:
-  - post
+layout: post
 guid: http://jpswade.github.io/?p=3009
 permalink: /eggtcl-project/
 aktt_notify_twitter:

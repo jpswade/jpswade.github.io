@@ -3,8 +3,7 @@ id: 1891
 title: Over sixteen ways to obfuscate e-mail addresses
 date: 2011-04-03T10:10:28+00:00
 author: admin
-layout:
-  - post
+layout: post
 guid: http://jpswade.github.io/?p=1891
 permalink: /over-sixteen-ways-to-obfuscate-e-mail-addresses/
 aktt_notify_twitter:

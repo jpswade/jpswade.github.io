@@ -7,8 +7,7 @@ layout: post
 guid: http://jpswade.github.io/useful-linux-commands/
 aktt_notify_twitter:
   - yes
-page_layout:
-  - post
+layout: post
 ---
 <p class="lead">
   The Useful Linux Commands article is now maintained elsewhere:

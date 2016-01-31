@@ -3,8 +3,7 @@ id: 1881
 title: 'XSS: Get linked from Dmoz instantly'
 date: 2011-03-24T09:07:31+00:00
 author: admin
-layout:
-  - post
+layout: post
 guid: http://jpswade.github.io/?p=1881
 permalink: /get-linked-from-dmoz-instantly/
 aktt_notify_twitter:
