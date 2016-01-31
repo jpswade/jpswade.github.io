@@ -4,7 +4,7 @@ title: Setting up a FreeBSD socks proxy server for use with mIRC
 date: 2008-09-18T03:51:48+00:00
 author: admin
 layout:
-  - default
+  - post
 guid: http://jpswade.github.io/?p=220
 permalink: /freebsd-socks-proxy-for-mirc/
 aktt_notify_twitter:

@@ -4,7 +4,7 @@ title: email address on your website
 date: 2007-06-11T13:23:16+00:00
 author: admin
 layout:
-  - default
+  - post
 guid: http://jpswade.github.io/posts/email-address-on-your-website
 permalink: /email-address-on-your-website/
 aktt_notify_twitter:

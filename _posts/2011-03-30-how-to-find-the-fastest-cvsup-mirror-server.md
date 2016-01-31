@@ -4,7 +4,7 @@ title: How to find the fastest CVSUP mirror server
 date: 2011-03-30T14:41:42+00:00
 author: admin
 layout:
-  - default
+  - post
 guid: http://jpswade.github.io/?p=2316
 permalink: /how-to-find-the-fastest-cvsup-mirror-server/
 aktt_notify_twitter:

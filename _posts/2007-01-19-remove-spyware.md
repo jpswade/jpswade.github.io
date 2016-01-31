@@ -6,7 +6,7 @@ author: admin
 layout: post
 guid: http://jpswade.github.io/articles/remove-spyware/
 page_layout:
-  - default
+  - post
 aktt_notify_twitter:
   - yes
 ---

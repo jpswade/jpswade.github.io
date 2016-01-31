@@ -4,7 +4,7 @@ title: get_favicon() php function
 date: 2011-03-15T12:45:43+00:00
 author: admin
 layout:
-  - default
+  - post
 guid: http://jpswade.github.io/?p=593
 permalink: /get_favicon-php-function/
 aktt_notify_twitter:
