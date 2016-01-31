@@ -3,7 +3,7 @@ layout: post
 title: Announcement
 date: '2012-04-10T16:10:00+01:00'
 tags: []
-tumblr_url: http://wade.be/post/20843780592/announcement
+permalink: /post/20843780592/announcement
 ---
 As of April 2012, I have agreed to enter into full time employment.
 

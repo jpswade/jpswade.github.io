@@ -6,7 +6,7 @@ tags:
 - hackspace
 - makerfaire
 - maker
-tumblr_url: http://wade.be/post/94175364912/this-is-what-its-all-about-making-creating
+permalink: /post/94175364912/this-is-what-its-all-about-making-creating
 ---
 This is what it’s all about.
 Making, creating, building, upcycling, tinkering, hacking, doing something!

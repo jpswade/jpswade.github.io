@@ -3,7 +3,7 @@ layout: post
 title: Announcing TiLDA MKe, the incredible EMF 2014 camp badge
 date: '2014-08-11T09:30:14+01:00'
 tags: []
-tumblr_url: http://wade.be/post/94419662397/announcing-tilda-mke-the-incredible-emf-2014-camp
+permalink: /post/94419662397/announcing-tilda-mke-the-incredible-emf-2014-camp
 ---
 Announcing TiLDA MKe, the incredible EMF 2014 camp badgeemfcamp:
 
