@@ -39,4 +39,4 @@ In the end I decided to trim down a version of [linkchan.tcl](http://www.google.
 
 There is the project research so far, the next step is to release bitlbee.tcl once i&#8217;m happy the script is stable.
 
-**Update:** I have posted a beta version of the &#8220;bitlbee.tcl&#8221; under the [eggdrop tcl](http://wade.be/projects/eggtcl/) section.
+**Update:** A beta version of the &#8220;bitlbee.tcl&#8221; was posted under the [eggdrop tcl](/eggtcl-project/) section.
