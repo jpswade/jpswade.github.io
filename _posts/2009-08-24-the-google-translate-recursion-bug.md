@@ -5,7 +5,8 @@ date: 2009-08-24T14:39:50+00:00
 author: admin
 layout: post
 guid: http://wade.be/?p=479
-permalink: /the-google-translate-recursion-bug/
+redirect_from: /the-google-translate-recursion-bug/
+redirect_from: /posts/the-google-translate-recursion-bug/
 aktt_notify_twitter:
   - yes
 aktt_tweeted:
