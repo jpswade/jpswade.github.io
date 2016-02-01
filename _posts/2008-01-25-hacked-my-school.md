@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://wade.be/posts/hacked-my-school
 permalink: /hacked-my-school/
+redirect_from: /posts/hacked-my-school/
 categories:
   - Internet
   - Sysadmin
