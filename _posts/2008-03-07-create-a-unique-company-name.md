@@ -7,6 +7,7 @@ layout: post
 guid: http://wade.be/posts/create-a-unique-company-name
 permalink: /create-a-unique-company-name/
 redirect_from: /posts/create-a-unique-company-name/
+redirect_from: posts/create-a-unique-company-name
 categories:
   - Business
 tags:
