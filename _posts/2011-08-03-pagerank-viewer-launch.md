@@ -4,7 +4,7 @@ title: PageRank Viewer Launch
 date: 2011-08-03T14:55:28+00:00
 author: James Wade
 layout: post
-guid: http://labs.phurix.net/?p=3142
+guid: http://wade.be/?p=3142
 permalink: /pagerank-viewer-launch/
 aktt_notify_twitter:
   - yes
@@ -19,12 +19,12 @@ tags:
   - php
 ---
 <p class="lead">
-  <a href="http://pagerank.phurix.net/"><img class="alignright" title="pagerank" src="http://labs.phurix.net/upload/pagerank-300x225.png" alt="" width="300" height="225" /></a>Back in 2007, we were developing code for our domain lookup service.
+  <a href="http://pagerank.phurix.net/"><img class="alignright" title="pagerank" src="http://wade.be/upload/pagerank-300x225.png" alt="" width="300" height="225" /></a>Back in 2007, we were developing code for our domain lookup service.
 </p>
 
 One of the features we wanted was to display the Google PageRank of a domain right there in the lookup along side the whois details.
 
-At the time we didn&#8217;t know how to pull this information and there was very limited details on it, so some research was required which resulted in a [PageRank PHP script](http://labs.phurix.net/projects/pagerank).
+At the time we didn&#8217;t know how to pull this information and there was very limited details on it, so some research was required which resulted in a [PageRank PHP script](http://wade.be/projects/pagerank).
 
 Over time, the resulting &#8220;pagerank.php&#8221; script became very popular and was developed further by fixing bugs and making it easier to use.
 

@@ -4,7 +4,7 @@ title: What is my IP?
 date: 2011-08-09T08:48:14+00:00
 author: James Wade
 layout: post
-guid: http://labs.phurix.net/?p=3193
+guid: http://wade.be/?p=3193
 permalink: /what-is-my-ip/
 aktt_notify_twitter:
   - yes
@@ -21,7 +21,7 @@ tags:
   - what is my ip
 ---
 <p class="lead">
-  <img class="alignright size-medium wp-image-3199" title="500px-Coffee_IP.svg" src="http://labs.phurix.net/upload/500px-Coffee_IP.svg_-300x225.png" alt="" width="300" height="225" srcset="http://wade.be/upload/500px-Coffee_IP.svg_-300x225.png 300w, http://wade.be/upload/500px-Coffee_IP.svg_.png 500w" sizes="(max-width: 300px) 100vw, 300px" />An <a href="http://en.wikipedia.org/wiki/IP_address">IP address</a> is a unique number which identifies a machine on a network.
+  <img class="alignright size-medium wp-image-3199" title="500px-Coffee_IP.svg" src="http://wade.be/upload/500px-Coffee_IP.svg_-300x225.png" alt="" width="300" height="225" srcset="http://wade.be/upload/500px-Coffee_IP.svg_-300x225.png 300w, http://wade.be/upload/500px-Coffee_IP.svg_.png 500w" sizes="(max-width: 300px) 100vw, 300px" />An <a href="http://en.wikipedia.org/wiki/IP_address">IP address</a> is a unique number which identifies a machine on a network.
 </p>
 
 On the Internet IP addresses are allocated in blocks to ISPs in each country by regional registries, making it possible to identify which country an IP address originated in.

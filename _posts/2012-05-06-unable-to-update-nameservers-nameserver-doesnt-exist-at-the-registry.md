@@ -4,7 +4,7 @@ title: 'Unable to update nameservers: Nameserver doesn&#8217;t exist at the regi
 date: 2012-05-06T16:28:24+00:00
 author: James Wade
 layout: post
-guid: http://labs.phurix.net/?p=3349
+guid: http://wade.be/?p=3349
 permalink: /unable-to-update-nameservers-nameserver-doesnt-exist-at-the-registry/
 aktt_notify_twitter:
   - yes
@@ -51,7 +51,7 @@ You, or your admin who has access to the OpenSRS reseller interface needs to fin
   2. In the Nameserver text box, enter the nameserver.
   3. Click Add Nameserver.
 
-[<img class="aligncenter" title="OpenSRS" alt="" src="http://labs.phurix.net/upload/OpenSRS-300x193.png" width="300" height="193" />](http://labs.phurix.net/upload/OpenSRS.png) 
+[<img class="aligncenter" title="OpenSRS" alt="" src="http://wade.be/upload/OpenSRS-300x193.png" width="300" height="193" />](http://wade.be/upload/OpenSRS.png) 
 
 Once you do that you should see a message that says:
 

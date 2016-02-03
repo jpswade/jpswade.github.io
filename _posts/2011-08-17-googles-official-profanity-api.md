@@ -4,7 +4,7 @@ title: 'Google&#8217;s Official Profanity API'
 date: 2011-08-17T10:09:15+00:00
 author: James Wade
 layout: post
-guid: http://labs.phurix.net/?p=3180
+guid: http://wade.be/?p=3180
 permalink: /googles-official-profanity-api/
 aktt_notify_twitter:
   - yes
@@ -26,7 +26,7 @@ tags:
   <a href="http://www.wdyl.com/?q=butt hole lane"><img class="alignright size-medium wp-image-3230" title="Butt_Hole_Road" src="http://i.imgur.com/U2IWJ.jpg" alt="" width="300" height="199" /></a>Recently a list of &#8220;bad words&#8221; were made available through Google&#8217;s new website which asks: <a href="http://wdyl.com/">&#8220;What do you love?&#8221;</a> (wdyl.com).
 </p>
 
-So, perhaps I was a bit hasty [writing off WhoisX](http://labs.phurix.net/posts/the-rise-and-fall-of-whoisx).
+So, perhaps I was a bit hasty [writing off WhoisX](http://wade.be/posts/the-rise-and-fall-of-whoisx).
 
 The list of profanities was [discovered](http://fffff.at/googles-official-list-of-bad-words/) in the Javascript on the website, however Google reacted quickly and switched this to a URL lookup instead of a Javascript one therefore keeping the list away from prying eyes.
 

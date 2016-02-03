@@ -4,7 +4,7 @@ title: The rise and fall of WhoisX
 date: 2011-08-15T08:33:38+00:00
 author: James Wade
 layout: post
-guid: http://labs.phurix.net/?p=3051
+guid: http://wade.be/?p=3051
 permalink: /the-rise-and-fall-of-whoisx/
 aktt_notify_twitter:
   - yes
@@ -15,7 +15,7 @@ categories:
   - Internet
 ---
 <p class="lead">
-  <a href="http://labs.phurix.net/upload/fail.png"><img class="alignright size-medium wp-image-3143" title="Fail narwhal" src="http://labs.phurix.net/upload/fail-300x225.png" alt="" width="300" height="225" srcset="http://wade.be/upload/fail-300x225.png 300w, http://wade.be/upload/fail.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="http://whoisx.co.uk/">WhoisX</a> is a domain name lookup service, similar to the whois service provided by &#8220;domain tools&#8221;, but ours was primarily for UK domain names.
+  <a href="http://wade.be/upload/fail.png"><img class="alignright size-medium wp-image-3143" title="Fail narwhal" src="http://wade.be/upload/fail-300x225.png" alt="" width="300" height="225" srcset="http://wade.be/upload/fail-300x225.png 300w, http://wade.be/upload/fail.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="http://whoisx.co.uk/">WhoisX</a> is a domain name lookup service, similar to the whois service provided by &#8220;domain tools&#8221;, but ours was primarily for UK domain names.
 </p>
 
 It began as a small project to help people check whether a domain was available or not. When a domain was available the visitor was linked to a place they could buy the domain.

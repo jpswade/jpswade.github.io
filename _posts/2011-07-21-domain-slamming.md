@@ -15,7 +15,7 @@ categories:
   - Internet
 ---
 <p class="lead">
-  <a href="http://labs.phurix.net/upload/dng-stop.png"><img class="alignright" title="Stop Domain Renewal Group" src="http://labs.phurix.net/upload/dng-stop.png" alt="" width="288" height="128" /></a>Ever received one of those domain renewal notices from companies such as &#8220;Domain Registry of America&#8221; or &#8220;Domain Renewal Group&#8221; claiming that your domain is about to expire and you need to renew with them?
+  <a href="http://wade.be/upload/dng-stop.png"><img class="alignright" title="Stop Domain Renewal Group" src="http://wade.be/upload/dng-stop.png" alt="" width="288" height="128" /></a>Ever received one of those domain renewal notices from companies such as &#8220;Domain Registry of America&#8221; or &#8220;Domain Renewal Group&#8221; claiming that your domain is about to expire and you need to renew with them?
 </p>
 
 We&#8217;ve [had them](http://www.flickr.com/photos/jpswade/5940085942/in/photostream) too, [a lot](http://www.flickr.com/photos/danielbowen/5198227312/) [of people](http://www.flickr.com/photos/smemon/5449552010/) [have](http://www.flickr.com/photos/palander/4519792043/) and this has been going on for a very long time.

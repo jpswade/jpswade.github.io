@@ -4,7 +4,7 @@ title: Integrate a newsletter into your website
 date: 2011-09-07T13:26:56+00:00
 author: James Wade
 layout: post
-guid: http://labs.phurix.net/?p=3257
+guid: http://wade.be/?p=3257
 permalink: /integrate-a-newsletter-into-your-website/
 aktt_notify_twitter:
   - yes
@@ -20,7 +20,7 @@ tags:
   - php
 ---
 <p class="lead">
-  <a href="http://labs.phurix.net/upload/mailman-par-avion.png"><img class="alignright size-medium wp-image-3260" title="Mailman powering our Newsletter" src="http://labs.phurix.net/upload/mailman-par-avion-300x165.png" alt="" width="300" height="165" /></a>Over the years I&#8217;ve been asked how to integrate a newsletter into a website quite a few times.
+  <a href="http://wade.be/upload/mailman-par-avion.png"><img class="alignright size-medium wp-image-3260" title="Mailman powering our Newsletter" src="http://wade.be/upload/mailman-par-avion-300x165.png" alt="" width="300" height="165" /></a>Over the years I&#8217;ve been asked how to integrate a newsletter into a website quite a few times.
 </p>
 
 These days I often find myself recommending a third party service such as [MailChimp](http://mailchimp.com/), however I soon discovered that as brilliant as it is, MailChimp its not for everyone.

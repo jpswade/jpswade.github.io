@@ -4,7 +4,7 @@ title: Migrating IMAP mailboxes to a cPanel server
 date: 2011-11-07T23:02:22+00:00
 author: James Wade
 layout: post
-guid: http://labs.phurix.net/?p=3322
+guid: http://wade.be/?p=3322
 permalink: /migrating-imap-mailboxes-to-a-cpanel-server/
 aktt_notify_twitter:
   - yes
@@ -22,7 +22,7 @@ tags:
   - migration
 ---
 <p class="lead">
-  A customer got in touch with us and explained their situation.<a href="http://labs.phurix.net/upload/Envelope.png"><img class="alignright size-full wp-image-3328" title="Envelope" src="http://labs.phurix.net/upload/Envelope.png" alt="" width="256" height="256" srcset="http://wade.be/upload/Envelope-150x150.png 150w, http://wade.be/upload/Envelope.png 256w" sizes="(max-width: 256px) 100vw, 256px" /></a>
+  A customer got in touch with us and explained their situation.<a href="http://wade.be/upload/Envelope.png"><img class="alignright size-full wp-image-3328" title="Envelope" src="http://wade.be/upload/Envelope.png" alt="" width="256" height="256" srcset="http://wade.be/upload/Envelope-150x150.png 150w, http://wade.be/upload/Envelope.png 256w" sizes="(max-width: 256px) 100vw, 256px" /></a>
 </p>
 
 They need to setup their email on the go and configure some forwarders. Their issue was that they were never given access to the control panel by the account holder and have since lost touch.

@@ -4,7 +4,7 @@ title: 'to.je &#8211; The Failed TinyURL.com Clone'
 date: 2014-01-10T10:00:06+00:00
 author: James Wade
 layout: post
-guid: http://labs.phurix.net/?p=3366
+guid: http://wade.be/?p=3366
 permalink: /to-je-the-failed-tinyurl-com-clone/
 aktt_notify_twitter:
   - yes
