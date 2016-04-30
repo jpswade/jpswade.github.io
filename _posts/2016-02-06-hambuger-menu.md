@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UX: Is hamburger menu a lazy solution?"
-date:   2016-04-30 13:00:00 +0000
+date:   2016-02-06 17:00:00 +0000
 author: James Wade
 categories: Development
 tags: webdev ux ui design
@@ -76,7 +76,10 @@ For most of us, the simplest and laziest approach is going to be absolutely fine
 
 Hint: It's less about the icon itself and more about the application on a whole.
 
-To fully appreciate what I mean, you only need to take a look at the [latest Pinterest iOS app](http://moovweb.com/blog/hamburger-menu-handy-tool-or-useless-icon/),
-    which appears to be completely devoid of the hamburger menu and instead has easy to navigate on screen icons.
+### Update
+
+Since originally writing this, you'll find that you only need to take a look at the [latest Pinterest iOS app](http://moovweb.com/blog/hamburger-menu-handy-tool-or-useless-icon/) to fully appreciate what I mean.
+
+This new application appears to be completely devoid of the hamburger menu and instead has easy to navigate on screen icons.
 
 As for the rest of us, I don't think we're truly ready to bin the hamburger menu just yet, but we can certainly begin to consider it.
