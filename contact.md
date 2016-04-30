@@ -10,7 +10,7 @@ aktt_notify_twitter:
   - yes
 ---
 <p class="lead">
-  There are a number of ways to contact us, try reaching me on twitter:
+  There are a number of ways to get in touch, try reaching me on twitter:
 </p>
 
-  * Follow us on Twitter [@jpswade](http://twitter.com/jpswade)
+  * Follow on Twitter [@jpswade](http://twitter.com/jpswade)
