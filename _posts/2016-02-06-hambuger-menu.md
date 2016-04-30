@@ -5,7 +5,8 @@ date:   2016-04-30 13:00:00 +0000
 author: James Wade
 categories: Development
 tags: webdev ux ui design
--------------------------
+---
+
 A question raised at a recent [Staffs Web Meetup](http://staffswebmeetup.co.uk/) was:
 
     "Is the hamburger menu a lazy solution?"
