@@ -54,8 +54,7 @@ The key with the user experience is to make it obvious. When your users can't
      Hamburger menus are terrible at both of those things, because the menu is 
      not on the screen. It's not visible."
 
-    - [Mike Stern, Apple User Experience
-     Evangelist](http://blog.manbolo.com/2014/06/30/apple-on-hamburger-menus)
+- [Mike Stern, Apple User Experience Evangelist](http://blog.manbolo.com/2014/06/30/apple-on-hamburger-menus)
 
 So yes, the hamburger menu a lazy solution, as is a "menu" button.
 
