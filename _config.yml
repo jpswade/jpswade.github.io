@@ -21,8 +21,9 @@ description: Research and Development
 
 # Custom
 paginate: 5
-pygments: true
+highlighter: rouge
 
 # Gems
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
