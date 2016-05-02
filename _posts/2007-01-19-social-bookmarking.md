@@ -29,7 +29,7 @@ Once you are all organized and ready to go you can simply select File -> Export,
 
 Its also useful if you like to clear out your bookmarks every so often but keep that as a backup.
 
-It could be also be useful to know that there are website bookmarking services known as [Social bookmarking](http://en.wikipedia.org/wiki/Social_bookmarking "Social bookmarking") available which allow you to access your bookmarks from anywhere in the world. Probably the most popular is [del.icio.us](http://en.wikipedia.org/wiki/Del.icio.us "Del.icio.us"), or perhaps [Furl](http://www.furl.net/ "http://www.furl.net/"){.external.text}<span class="external text">,</span> check them out, they are free to use.
+It could be also be useful to know that there are website bookmarking services known as [Social bookmarking](http://en.wikipedia.org/wiki/Social_bookmarking "Social bookmarking") available which allow you to access your bookmarks from anywhere in the world. Probably the most popular is [del.icio.us](http://en.wikipedia.org/wiki/Del.icio.us "Del.icio.us"), or perhaps [Furl](http://www.furl.net/ "http://www.furl.net/")<span class="external text">,</span> check them out, they are free to use.
 
 I also do recommend taking a look at [Google Bookmarks](http://www.google.com/bookmarks) and if you use Firefox, take a look at the [GMarks plugin](https://addons.mozilla.org/en-us/firefox/addon/gmarks/).
 
