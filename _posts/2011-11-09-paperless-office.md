@@ -20,8 +20,10 @@ tags:
   - paperless office
   - scanner
   - scansnap
+image:
+    feature: /upload/2011/11/1280px-PC_Load_Letter.jpg
 ---
-[<img class="alignright size-medium wp-image-436" title="PC Load Letter" src="/upload/2011/11/1280px-PC_Load_Letter-300x182.jpg" alt="" width="300" height="182" srcset="/upload/2011/11/1280px-PC_Load_Letter-300x182.jpg 300w, /upload/2011/11/1280px-PC_Load_Letter-1024x623.jpg 1024w, /upload/2011/11/1280px-PC_Load_Letter.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />](/upload/2011/11/1280px-PC_Load_Letter.jpg)The &#8220;[paperless office](http://en.wikipedia.org/wiki/Paperless_office)&#8220;: a concept that [dates back to the 1970s](http://www.businessweek.com/technology/content/may2008/tc20080526_547942.htm) (before I was even born) with promises of the &#8220;office of the future&#8221; where record-handling would be electronic.
+The &#8220;[paperless office](http://en.wikipedia.org/wiki/Paperless_office)&#8220;: a concept that [dates back to the 1970s](http://www.businessweek.com/technology/content/may2008/tc20080526_547942.htm) (before I was even born) with promises of the &#8220;office of the future&#8221; where record-handling would be electronic.
 
 We&#8217;ve come a long way since then, with the commercialisation of the Internet and the introduction of massive scale services such as facebook and twitter there has been an increase in demand for &#8220;cloud computing&#8221;.
 
