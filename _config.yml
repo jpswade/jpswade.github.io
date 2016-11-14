@@ -8,14 +8,26 @@
 # Site settings
 title: James Wade's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: jpswade
-github_username:  jpswade
+
+social:
+  - name: facebook
+    username: jpswade
+    url: https://www.facebook.com/
+  - name: linkedin
+    username: jpswade
+    url: https://uk.linkedin.com/in/
+  - name: twitter
+    username: jpswade
+    url: https://twitter.com/
+  - name: github
+    username: jpswade
+    url: https://github.com/
 
 # Build settings
 markdown: kramdown
 
 # Imported from Wordpress
-url: http://jpswade.github.io
+url: http://wade.be
 name: James Wade's Blog
 description: Research and Development
 
