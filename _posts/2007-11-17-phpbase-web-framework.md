@@ -30,7 +30,9 @@ _Note: This framework is old, very old, dating back to 2003, however it does wor
 
 Listed below are just a few scripts that utilise this platform, they are:
 
-  * [Auto Dealer Inventory](http://car-dealer-website.org/) ([car-dealer-website.zip](http://car-dealer-website.org/car-dealer-website.zip))[<p class="lead">
+  * [Auto Dealer Inventory](http://car-dealer-website.org/) ([car-dealer-website.zip](http://car-dealer-website.org/car-dealer-website.zip))
+
+<p class="lead">
   <strong>What is the PHPbase web framework?</strong>
 </p>
 
@@ -43,7 +45,7 @@ _Note: This framework is old, very old, dating back to 2003, however it does wor
 **Who wrote** **the PHPbase web framework?**
 
   * kv9 [Dan Rusanu <mars@sercom.ro>]
-  * Saravanan(winsaravanan@yahoo.com,ssaravanan@teledata-usa.com)
+  * Saravanan (winsaravanan@yahoo.com, ssaravanan@teledata-usa.com)
   * hades [Emanuel Giurgea <hades@1plan.net>]
   * oxylus [Emanuel Giurgea <emanuel@oxylus.ro>]
 

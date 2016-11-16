@@ -30,11 +30,11 @@ The list is almost endless, new ones are being produced all the time, however I 
   * [CakePHP](http://www.cakephp.org/)
   * [Symfony](http://www.symfony-project.org/)
   * [CodeIgniter](http://codeigniter.com/)
-  * [Kohana](http://kohanaphp.com/) (CodeIgniter)[<p class="lead">
+  * [Kohana](http://kohanaphp.com/) (CodeIgniter)
+  
+<p class="lead">
   Recently i&#8217;ve been writing a lot more PHP based websites and web applications. I&#8217;ve found myself building and rebuilding my own framework, but to no real standard. I decided this needs to change. I need to choose a PHP Framework.
 </p>
-
-<!--more-->
 
 To begin with I started by looking at what frameworks are out there&#8230; [[Wikipedia](http://en.wikipedia.org/wiki/List_of_web_application_frameworks)] [[Google](http://www.google.com/search?q=php+frameworks)]
 
@@ -45,7 +45,6 @@ The list is almost endless, new ones are being produced all the time, however I 
   * [Symfony](http://www.symfony-project.org/)
   * [CodeIgniter](http://codeigniter.com/)
   * [Kohana](http://kohanaphp.com/) (CodeIgniter)](http://kohanaphp.com/) 
-  * &#8230;
 
 Of course, I&#8217;m looking for the &#8220;best&#8221; framework to use, but what defines it as &#8220;best&#8221;?
 
