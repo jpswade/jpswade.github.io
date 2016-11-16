@@ -12,6 +12,8 @@ Are electric cars the future?
 
 For the past month or so I've been driving the all-electric Peugeot iOn, an experience that has completely changed my outlook on electric cars forever.
 
+<!--more-->
+
 At the end of last week I swapped to a new Peugeot RCZ diesel and of course, the first thing I had to do was go to a petrol station and top it up with diesel.
 
 It occurred to me this was something I had not done for weeks, I actually couldn't remember the last time I'd even entered a petrol station forecourt and boy I did not miss it.
