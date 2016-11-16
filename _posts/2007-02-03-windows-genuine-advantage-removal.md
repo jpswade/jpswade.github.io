@@ -4,7 +4,7 @@ title: Windows Genuine Advantage Removal
 date: 2007-02-03T14:46:06+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/windows-genuine-advantage-removal
+guid: /windows-genuine-advantage-removal
 permalink: /windows-genuine-advantage-removal/
 categories:
   - Sysadmin

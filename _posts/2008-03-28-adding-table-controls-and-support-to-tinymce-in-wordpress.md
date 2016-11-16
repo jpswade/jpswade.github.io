@@ -4,7 +4,7 @@ title: Adding table controls and support to TinyMCE in WordPress
 date: 2008-03-28T13:20:12+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/adding-table-controls-and-support-to-tinymce-in-wordpress
+guid: /adding-table-controls-and-support-to-tinymce-in-wordpress
 permalink: /adding-table-controls-and-support-to-tinymce-in-wordpress/
 categories:
   - Development

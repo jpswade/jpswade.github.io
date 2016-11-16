@@ -36,7 +36,7 @@ _Time for the close up:_
 
 **The technical part**
 
-The website engine is actually based on the [PHPbase](http://wade.be/posts/phpbase-web-framework) powered open source “[Property Management Software](http://freshmeat.net/projects/property-management-software)&#8221; which I heavily modified to fix errors and security issues as well as adapt to the UK market.
+The website engine is actually based on the [PHPbase](/phpbase-web-framework) powered open source “[Property Management Software](http://freshmeat.net/projects/property-management-software)&#8221; which I heavily modified to fix errors and security issues as well as adapt to the UK market.
 
 **Migrating to a new server**
 

@@ -4,7 +4,7 @@ title: Create a unique company name
 date: 2008-03-07T12:12:38+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/create-a-unique-company-name
+guid: /create-a-unique-company-name
 permalink: /create-a-unique-company-name/
 redirect_from: /posts/create-a-unique-company-name/
 redirect_from: posts/create-a-unique-company-name

@@ -4,7 +4,7 @@ title: How to Print to a Text File
 date: 2007-02-11T14:41:46+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/how-to-print-to-a-text-file
+guid: /how-to-print-to-a-text-file
 permalink: /how-to-print-to-a-text-file/
 ---
 <p class="lead">

@@ -4,7 +4,7 @@ title: Missing accessories shortcuts from start menu on Windows XP
 date: 2008-03-27T14:27:05+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/missing-accessories-shortcuts-from-start-menu-on-windows-xp
+guid: /missing-accessories-shortcuts-from-start-menu-on-windows-xp
 permalink: /missing-accessories-shortcuts-from-start-menu-on-windows-xp/
 ---
 <p class="lead">

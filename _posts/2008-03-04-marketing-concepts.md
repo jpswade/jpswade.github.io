@@ -4,7 +4,7 @@ title: Marketing Concepts
 date: 2008-03-04T13:49:11+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/marketing-concepts
+guid: /marketing-concepts
 permalink: /marketing-concepts/
 tags:
   - Marketing

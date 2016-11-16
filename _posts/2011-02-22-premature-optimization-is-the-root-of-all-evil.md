@@ -20,7 +20,7 @@ tags:
   - xdebug
 ---
 <p class="lead">
-  There&#8217;s <a href="http://wade.be/posts/50-php-optimisation-tips-revisited">loads of ways</a> you can optimize your PHP code, however they are probably NOT the answer to your performance issues.
+  There&#8217;s <a href="/50-php-optimisation-tips-revisited">loads of ways</a> you can optimize your PHP code, however they are probably NOT the answer to your performance issues.
 </p>
 
 A wiser man than myself once said:

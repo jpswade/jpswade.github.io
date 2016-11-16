@@ -4,7 +4,7 @@ title: Changing your Windows XP Product Key
 date: 2007-02-28T13:51:58+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/changing-your-windows-xp-product-key
+guid: /changing-your-windows-xp-product-key
 permalink: /changing-your-windows-xp-product-key/
 ---
 <p class="lead">

@@ -4,7 +4,7 @@ title: Motorola V3X Review
 date: 2007-05-31T17:55:53+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/motorola-v3x-review
+guid: /motorola-v3x-review
 permalink: /motorola-v3x-review/
 tags:
   - Mobile Phone

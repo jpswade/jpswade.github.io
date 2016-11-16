@@ -4,7 +4,7 @@ title: 'Next time i&#8217;m buying a mac'
 date: 2007-12-13T10:58:24+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/next-time-im-buying-a-mac
+guid: /next-time-im-buying-a-mac
 permalink: /next-time-im-buying-a-mac/
 categories:
   - Sysadmin

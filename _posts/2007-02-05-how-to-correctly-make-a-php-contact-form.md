@@ -4,7 +4,7 @@ title: How to correctly make a PHP contact form
 date: 2007-02-05T22:13:09+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/how-to-correctly-make-a-php-contact-form
+guid: /how-to-correctly-make-a-php-contact-form
 permalink: /how-to-correctly-make-a-php-contact-form/
 categories:
   - Development

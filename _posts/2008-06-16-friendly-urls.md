@@ -4,7 +4,7 @@ title: Friendly URLs (revisited)
 date: 2008-06-16T12:02:59+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/friendly-urls
+guid: /friendly-urls
 permalink: /friendly-urls/
 categories:
   - Internet

@@ -4,7 +4,7 @@ title: Creating subdomains from directories using mod_rewrite in Apache .htacces
 date: 2007-03-16T00:25:32+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/creating-subdomains-from-directories-using-mod_rewrite-in-apache-htaccess
+guid: /creating-subdomains-from-directories-using-mod_rewrite-in-apache-htaccess
 permalink: /creating-subdomains-from-directories-using-mod_rewrite-in-apache-htaccess/
 categories:
   - General

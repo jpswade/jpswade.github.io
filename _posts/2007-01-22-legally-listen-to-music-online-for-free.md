@@ -4,7 +4,7 @@ title: Legally listen to music online for free
 date: 2007-01-22T01:17:52+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/legally-listen-to-music-online-for-free
+guid: /legally-listen-to-music-online-for-free
 permalink: /legally-listen-to-music-online-for-free/
 categories:
   - Internet

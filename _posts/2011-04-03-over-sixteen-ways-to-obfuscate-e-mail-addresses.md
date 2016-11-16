@@ -19,7 +19,7 @@ tags:
   - php
 ---
 <p class="lead">
-  Back in 2007 I wrote about<a href="http://wade.be/posts/email-address-on-your-website"> email addresses on your website</a> and how to avoid putting your email address in plain text.
+  Back in 2007 I wrote about<a href="/email-address-on-your-website"> email addresses on your website</a> and how to avoid putting your email address in plain text.
 </p>
 
 A guy I know, named &#8220;csarven&#8221; also wrote about [methods to hide email addresses from page source](http://www.csarven.ca/hiding-email-addresses) providing over 16 concepts for hiding your email address.

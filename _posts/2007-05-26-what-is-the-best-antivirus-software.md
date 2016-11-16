@@ -4,7 +4,7 @@ title: What is the best antivirus software?
 date: 2007-05-26T15:23:51+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/what-is-the-best-antivirus-software
+guid: /what-is-the-best-antivirus-software
 permalink: /what-is-the-best-antivirus-software/
 categories:
   - Sysadmin

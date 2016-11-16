@@ -4,7 +4,7 @@ title: Exporting emails with the dates from Microsoft Outlook
 date: 2007-01-21T11:28:18+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/exporting-emails-with-the-dates-from-microsoft-outlook
+guid: /exporting-emails-with-the-dates-from-microsoft-outlook
 permalink: /exporting-emails-with-the-dates-from-microsoft-outlook/
 categories:
   - Internet

@@ -4,7 +4,7 @@ title: Social Bookmarking
 date: 2007-01-19T15:18:03+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/social-bookmarking
+guid: /social-bookmarking
 permalink: /social-bookmarking/
 categories:
   - Development

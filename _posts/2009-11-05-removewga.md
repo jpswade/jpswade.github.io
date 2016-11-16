@@ -15,7 +15,7 @@ tags:
   - removewga.exe
   - wga
 ---
-Back in 2007 I briefly wrote about [Windows Genuine Advantage Removal](http://www.hm2k.com/posts/windows-genuine-advantage-removal).
+Back in 2007 I briefly wrote about [Windows Genuine Advantage Removal](/windows-genuine-advantage-removal).
 
 I have decided to revisit this topic after Microsoft released Office Genuine Advantage (OGA) recently and writing about [how to remove the OGA notifier](http://www.devotedit.com/2009/10/09/remove-oga-notifier/).
 

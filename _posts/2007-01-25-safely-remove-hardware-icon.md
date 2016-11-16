@@ -4,7 +4,7 @@ title: Safely Remove Hardware Icon
 date: 2007-01-25T00:17:03+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/safely-remove-hardware-icon
+guid: /safely-remove-hardware-icon
 permalink: /safely-remove-hardware-icon/
 ---
 <p class="lead">

@@ -4,7 +4,7 @@ title: Free Stuff
 date: 2007-02-22T13:38:46+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/free-stuff
+guid: /free-stuff
 permalink: /free-stuff/
 categories:
   - Internet

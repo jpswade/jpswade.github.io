@@ -4,7 +4,7 @@ title: How to unlock a Samsung E720 mobile phone
 date: 2007-03-22T14:05:39+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/how-to-unlock-a-samsung-e720-mobile-phone
+guid: /how-to-unlock-a-samsung-e720-mobile-phone
 permalink: /how-to-unlock-a-samsung-e720-mobile-phone/
 tags:
   - Mobile Phone

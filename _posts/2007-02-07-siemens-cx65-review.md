@@ -4,7 +4,7 @@ title: Siemens CX65 Review
 date: 2007-02-07T02:58:58+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/siemens-cx65-review
+guid: /siemens-cx65-review
 permalink: /siemens-cx65-review/
 categories:
   - Hardware

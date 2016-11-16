@@ -4,7 +4,7 @@ title: IHTOOM pmp
 date: 2007-02-13T12:30:22+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/ihtoom-pmp
+guid: /ihtoom-pmp
 permalink: /ihtoom-pmp/
 categories:
   - Hardware

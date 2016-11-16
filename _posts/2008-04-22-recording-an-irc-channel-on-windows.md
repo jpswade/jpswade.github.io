@@ -109,4 +109,4 @@ To generate stats you need third party software such as [mIRCstats](http://www.n
 
 There&#8217;s lots and lots of other neat tricks in mIRC for logging (take a look at $findfile) and beyond. I invite you to take a look at some of my [mIRC scripts](http://wade.be/projects/mirc-scripts), which some of you may find useful.
 
-PS. If you like [mIRC, please register](http://wade.be/posts/why-i-registered-mirc).
+PS. If you like [mIRC, please register](/why-i-registered-mirc).

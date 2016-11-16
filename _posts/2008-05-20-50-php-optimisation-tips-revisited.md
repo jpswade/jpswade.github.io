@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://wade.be/?p=178
 permalink: /50-php-optimisation-tips-revisited/
+redirect_from: /posts/50-php-optimisation-tips-revisited
 aktt_notify_twitter:
   - yes
 categories:

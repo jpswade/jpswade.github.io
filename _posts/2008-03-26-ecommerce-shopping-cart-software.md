@@ -4,7 +4,7 @@ title: eCommerce shopping cart software
 date: 2008-03-26T01:17:33+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/ecommerce-shopping-cart-software
+guid: /ecommerce-shopping-cart-software
 permalink: /ecommerce-shopping-cart-software/
 categories:
   - Development

@@ -4,7 +4,7 @@ title: Win32 Virtob/Virut removal
 date: 2007-11-08T19:54:29+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/win32-virtobvirut-removal
+guid: /win32-virtobvirut-removal
 permalink: /win32-virtob-virut-removal/
 ---
 <p class="lead">

@@ -20,7 +20,7 @@ tags:
   - ports
 ---
 <p class="lead">
-  Some time ago I wrote about using fastest_cvsup, to find the fastest cvsup mirror server for use with <a href="http://wade.be/posts/freebsd-62-usrports-no-such-file-or-directory">csup on FreeBSD</a>.
+  Some time ago I wrote about using fastest_cvsup, to find the fastest cvsup mirror server for use with <a href="/freebsd-62-usrports-no-such-file-or-directory">csup on FreeBSD</a>.
 </p>
 
 fastest_cvsup is a system utility written in Perl that finds fastest CVSup mirror server for FreeBSD, OpenBSD or NetBSD.

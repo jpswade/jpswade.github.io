@@ -4,7 +4,7 @@ title: Does registering a domain for a longer term increase your search engine r
 date: 2008-01-09T16:40:36+00:00
 author: admin
 layout: post
-guid: http://wade.be/posts/does-registering-a-domain-for-a-longer-term-increase-your-search-engine-rankings
+guid: /does-registering-a-domain-for-a-longer-term-increase-your-search-engine-rankings
 permalink: /does-registering-a-domain-for-a-longer-term-increase-your-search-engine-rankings/
 tags:
   - SEO

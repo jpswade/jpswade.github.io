@@ -45,6 +45,6 @@ The aiicon.dll and psicon.dll files are actually distributed by Adobe with Adobe
 
 The registry files (.reg) are the result of exporting the relevant values from the registry when thumbnails did work, so they can be imported to other systems that don&#8217;t have these values.
 
-The batch script (written by [HM2K](http://www.hm2k.com/)) ties everything together. It puts the DLL files in the right place, imports the registry and updates it so that the paths are correct. It&#8217;s completely open source so you can see exactly what it does by viewing the file.
+The batch script ties everything together. It puts the DLL files in the right place, imports the registry and updates it so that the paths are correct. It&#8217;s completely open source so you can see exactly what it does by viewing the file.
 
 Enjoy!

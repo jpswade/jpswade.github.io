@@ -22,7 +22,7 @@ tags:
   PageRank is dead, long live PageRank.<img class="alignright size-medium wp-image-3317" title="Dead Parrot" src="http://wade.be/upload/dead-parrot-1-300x168.png" alt="" width="300" height="168" />
 </p>
 
-As we said [recently](http://wade.be/posts/pagerank-viewer-launch), there&#8217;s been lots of speculation as to whether PageRank is dead or not. It isn&#8217;t, just Google are moving the goals a bit. Basically, they don&#8217;t want you to focus on PageRank but it&#8217;s still massively important to them.
+As we said [recently](/pagerank-viewer-launch), there&#8217;s been lots of speculation as to whether PageRank is dead or not. It isn&#8217;t, just Google are moving the goals a bit. Basically, they don&#8217;t want you to focus on PageRank but it&#8217;s still massively important to them.
 
 All this talk of dead, reminds me of the [Monty Python dead parrot sketch](http://en.wikipedia.org/wiki/Dead_Parrot_sketch), only in this case, it isn&#8217;t dead. An anti-dead-parrot if you will.
 

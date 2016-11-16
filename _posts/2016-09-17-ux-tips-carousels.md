@@ -17,6 +17,8 @@ This results in a constant fight for attention where nobody wins.
 
 Let's dive into the facts...
 
+<!--more-->
+
 ## Facts
 
 * [Data suggests 1% of people actually click on carousels at all](http://conversionxl.com/dont-use-automatic-image-sliders-or-carousels-ignore-the-fad/).
