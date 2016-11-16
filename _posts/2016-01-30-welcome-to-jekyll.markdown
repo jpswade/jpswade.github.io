@@ -21,7 +21,9 @@ Here's what we need to do:
 - Migrate comments to Disqus 
 - Export content 
 - Using Jekyll 
-- Publish to Github Pages 
+- Publish to Github Pages
+
+<!--more-->
 
 ## Migrate comments
 
