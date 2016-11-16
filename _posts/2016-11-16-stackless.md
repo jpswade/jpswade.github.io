@@ -55,7 +55,7 @@ I’m sure there’s some veterans that will be screaming blue murder about how 
 Just look around you.
 
 
-Let’s take a really rudimental example, a blog. Let’s say, for arguments sake, it’s a Wordpress blog.
+Let’s take a really rudimentary example, a blog. Let’s say, for arguments sake, it’s a Wordpress blog.
 
 
 At some point, in the not too distant past, chances are you have had or used Wordpress. The typical stack for Wordpress is LAMP.
