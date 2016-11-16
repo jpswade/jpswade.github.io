@@ -7,7 +7,7 @@ layout: post
 guid: http://wade.be/?p=3434
 permalink: /how-to-install-mongodb-on-centos-6-with-cpanel/
 categories:
-  - Internet
+  - Development
   - Software
   - Sysadmin
 tags:

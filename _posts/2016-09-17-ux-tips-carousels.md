@@ -5,6 +5,8 @@ date:   2016-09-17 17:00:00 +0000
 author: James Wade
 categories: Development
 tags: development ux tips
+categories:
+  - Development
 ---
 
 So what's the deal with carousels? Why does everyone keep asking for them on their website?
