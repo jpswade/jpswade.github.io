@@ -31,6 +31,7 @@ The original campaign outlined a number of points, which were unbalanced points 
 - This will simply drive people to use darknets and anonymous networks which are infinitely more difficult to filter, monitor or regulate than regular internet traffic
 - The virtual world of the Internet should reflect the real world, the good, the bad and the ugly
 - "Wikipedia is not censored" - like the real world, the internet has content that may be objectionable
+- If Internet censorship is the answer to child safety, then you're asking the [wrong questions](http://www.telegraph.co.uk/news/2016/11/18/child-sex-abuse-inquiry-crisis-new-setback-as-victims-group-quit/).
 
 Privacy isn't about having "nothing to hide" its about freedom.
 
