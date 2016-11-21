@@ -19,6 +19,8 @@ Here we are in 2016, faced with the forthcoming [Digital Economy Bill 2016-17](h
 
 The original campaign outlined a number of points, which were unbalanced points of view that needed to be addressed.
 
+<!--more-->
+
 - "Think of the children" type campaigns are simply an appeal to emotion to justify censorship and are potentially damaging to our future and our Children's freedoms.
 - The government can't monitor children every hour of the day, nor would anyone want them to
 - 90% of parents manage their children's activities online, according to Ofcom, and that 70% of households do not have children.
