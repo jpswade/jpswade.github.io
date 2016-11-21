@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Protect our Children's freedom: Give Them Privacy"
-date:   2016-11-21 09:00:00 +0000
+date:   2016-11-22 09:00:00 +0000
 author: James Wade
 categories: Internet
 tags:
