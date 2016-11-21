@@ -3,14 +3,13 @@ layout: post
 title:  "Will the last person to leave turn the LAMP off"
 date:   2016-11-17 09:00:00 +0000
 author: James Wade
-categories: Development
 tags:
     - development
     - stackless
     - serverless
     - php
 categories:
-  - Internet
+  - Development
   - Sysadmin
 ---
 
