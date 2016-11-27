@@ -61,4 +61,6 @@ As soon as your privacy is taken away, so is your freedom.
 
 [Orwell’s 1984](https://www.theguardian.com/technology/2012/apr/17/tim-berners-lee-monitoring-internet) was supposed to be [a warning](http://www.telegraph.co.uk/technology/2016/09/13/gchq-blocks-58000-scam-emails-from-government-addresses-every-da/), [not an instruction manual](https://en.wikipedia.org/wiki/Internet_censorship_in_the_United_Kingdom).
 
-Update: [Do not censor the internet](https://petition.parliament.uk/petitions/173407/), [sign here](https://petition.parliament.uk/petitions/173407/sponsors/aeXJMT2Df37mvburYqLK).
+Update: Do not censor the internet, [sign here](https://www.openrightsgroup.org/campaigns/digital-economy-bill-hub/stop-uk-censorship-of-legal-content).
+
+Update 2: [UK to censor online videos of 'non-conventional' sex acts - The Guardian](https://www.theguardian.com/technology/2016/nov/23/censor-non-conventional-sex-acts-online-internet-pornography)
