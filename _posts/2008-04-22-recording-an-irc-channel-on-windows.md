@@ -41,9 +41,9 @@ Mine looks like this:
   <a href="http://wade.be/upload/mirc-logging.jpg"><img class="alignnone size-medium wp-image-189" title="mirc-logging" src="http://wade.be/upload/mirc-logging-300x253.jpg" alt="" width="300" height="253" /></a>
 </p>
 
-Now to connect to a channel, say #SEO on EFnet, with the nickname NOTHM2K, you can do the following:
+Now to connect to a channel, say #SEO on EFnet, with the nickname NotYou, you can do the following:
 
-> /nick NOTHM2K | /server irc.efnet.net | /join #SEO
+> /nick NotYou | /server irc.efnet.net | /join #SEO
 
 Once you join the channel the client should start logging straight away.
 
@@ -75,34 +75,23 @@ When a command prompt opens from there you can use grep or findstr. We will be u
 > 
 > Note: This returns the help information
 > 
-> findstr /s /C:&#8221;hello HM2K&#8221; *.log
+> findstr /s /C:&#8221;hello User&#8221; *.log
 > 
 > Note: This will search through all files that end in .log in the current dir and subdirectories for the string &#8220;hello HM2K&#8221;.
 
 Or for those that prefer mIRC scripts, here&#8217;s findstr for mIRC&#8230;
 
 > alias findstr { ; v0.1 by HM2K (Updated: 23/05/08)
-  
 > if (!$3) { echo -a Usage: /findstr <path> <file-match> <string-match> | halt }
-  
 > var %win = @findstr
-  
 > if (!$window(%win)) { window -e %win }
-  
 > var %files = $findfile($1,$2,0)
-  
 > var %i = 1
-  
 > while (%i < %files) {
-  
 > filter -fwn $findfile($1,$2,%i) %win $+(\*,$3,\*)
-  
 > if ($filtered) { aline %win $findfile($1,$2,%i) }
-  
 > inc %i
-  
 > }
-  
 > }
 
 To generate stats you need third party software such as [mIRCstats](http://www.nic.fi/~mauvinen/mircstats/) or [pisg](http://pisg.sourceforge.net/) (recommended), however if you do use pisg, it might make sense to use the [eggdrop](http://www.eggheads.org/) or [windrop](http://windrop.sourceforge.net/downloads.html) (for windows) IRC bot to generate the logs instead.
