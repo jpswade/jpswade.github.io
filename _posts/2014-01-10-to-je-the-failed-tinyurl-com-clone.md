@@ -6,6 +6,7 @@ author: James Wade
 layout: post
 guid: http://wade.be/?p=3366
 permalink: /to-je-the-failed-tinyurl-com-clone/
+redirect_from: /posts/to-je-the-failed-tinyurl-com-clone
 aktt_notify_twitter:
   - yes
 categories:

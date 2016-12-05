@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: /supercalifragilisticexpialidocious
 permalink: /supercalifragilisticexpialidocious/
+redirect_from: /posts/supercalifragilisticexpialidocious
 categories:
   - General
 ---

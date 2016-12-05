@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: /windows-genuine-advantage-removal
 permalink: /windows-genuine-advantage-removal/
+redirect_from: /posts/windows-genuine-advantage-removal
 categories:
   - Sysadmin
 ---
