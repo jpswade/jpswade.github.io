@@ -13,8 +13,7 @@ layout: default
         </li>
         {% if post.content contains '<!--more-->' %}
         <p>{{ post.content | split:'<!--more-->' | first }}
-            <br><br>
-            <a href="{{ post.url }}" class="btn btn-primary btn-sm">Read More</a>
+            <a href="{{ post.url }}" class="btn btn-primary btn-sm">Read More &raquo;</a>
         </p>
         {% else %}
         {{ post.content }}
