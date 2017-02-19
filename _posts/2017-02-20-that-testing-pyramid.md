@@ -120,7 +120,7 @@ It's about:
 
 So where does testing fit into the process?
 
-This is how [Dan North](https://dannorth.net/2016/04/20/awa-interview/), who developed the BDD methodology puts it;
+[Dan North](https://dannorth.net/2016/04/20/awa-interview/), who developed the BDD methodology, explains where testing fits into the process;
 
     "A common approach I see, and one advocated by many agile methods, is a “testing pyramid”, with lots of unit tests at the bottom, a smaller number of acceptance tests as the middle layer, and a small amount of manual testing to top off the pyramid"
 
@@ -130,7 +130,7 @@ That's:
 - A smaller number of acceptance tests, then
 - A small amount of manual testing
 
-It doesn't matter how you put it. These are all tests in a process.
+The tests are just part of a process.
 
 So what does that process actually look like?
 
