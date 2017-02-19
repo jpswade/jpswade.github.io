@@ -191,5 +191,5 @@ A good strategy requires an understanding of the workflow, processes, planning, 
 
 A decision matrix may not be as elegant as the pyramid, but it's the right tool for the job.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please can we stop using the test pyramid paradigm? It&#39;s a terrible metaphor for a testing strategy. <a href="https://twitter.com/martinfowler">@martinfowler</a> <a href="https://twitter.com/mikewcohn">@mikewcohn</a> <a href="https://twitter.com/testapod">@testapod</a></p>&mdash; James Wade (@jpswade) <a href="https://twitter.com/jpswade/status/833331287100370945">February 19, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please can we stop using the &quot;test pyramid&quot; paradigm? It&#39;s a terrible metaphor for a testing strategy. <a href="https://twitter.com/martinfowler">@martinfowler</a> <a href="https://twitter.com/mikewcohn">@mikewcohn</a> <a href="https://twitter.com/tastapod">@tastapod</a></p>&mdash; James Wade (@jpswade) <a href="https://twitter.com/jpswade/status/833332335588364290">February 19, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
