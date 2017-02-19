@@ -74,9 +74,9 @@ I think this demonstrates the "point" Mike Cohn was trying to make, much better:
 
 It was never the point of the pyramid to provide a testing strategy, just a warning there is a cost/speed trade-off when automating tests.
 
-I like the idea of scales. It demonstrates that there's a balance between cost and speed, or in this example risk.
+I like the idea of scales. It demonstrates that there's a balance between cost and speed, or for example risk.
 
-This is useful, but it doesn't tell us what to test, when to test or how to test.
+It's useful to help make decisions, but it doesn't tell us what to test, when to test or how to test.
 
 Terminology in the testing world is incredibly overwhelming, for example:
 
