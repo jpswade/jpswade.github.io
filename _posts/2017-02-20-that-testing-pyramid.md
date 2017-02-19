@@ -22,9 +22,6 @@ As Martin puts it:
 
 So what's the problem?
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please can we stop using the test pyramid paradigm? It&#39;s a terrible metaphor for a testing strategy. <a href="https://twitter.com/martinfowler">@martinfowler</a> <a href="https://twitter.com/mikewcohn">@mikewcohn</a> <a href="https://twitter.com/dannorth">@dannorth</a></p>&mdash; James Wade (@jpswade) <a href="https://twitter.com/jpswade/status/833306456610963457">February 19, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <!--more-->
 
 This is the problem, as Martin has explained from the start;
@@ -193,3 +190,6 @@ Think about what the tests do at each environment.
 A good strategy requires an understanding of the workflow, processes, planning, decisions and the right tools for the job.
 
 A decision matrix may not be as elegant as the pyramid, but it's the right tool for the job.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please can we stop using the test pyramid paradigm? It&#39;s a terrible metaphor for a testing strategy. <a href="https://twitter.com/martinfowler">@martinfowler</a> <a href="https://twitter.com/mikewcohn">@mikewcohn</a> <a href="https://twitter.com/dannorth">@dannorth</a></p>&mdash; James Wade (@jpswade) <a href="https://twitter.com/jpswade/status/833306456610963457">February 19, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
