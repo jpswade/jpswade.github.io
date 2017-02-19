@@ -39,8 +39,9 @@ For example...
 - What do you call the middle layer?
 - Where do manual tests fit in?
 - What is a UI test?
-- What is an E2E test?
+- What is an End-to-End test?
 - Is a GUI test and a UI test the same thing?
+- Is a UI and an E2E test the same thing?
 - Where do you test your business logic?
 - What about dissecting the middle layer to show what actually happens in the middle?
 - How does manual testing fit into this pyramid?
@@ -53,7 +54,7 @@ For example...
 - What about exploratory testing?
 - What about regression testing?
 - What are unit, service and UI types of?
-- Are unit, integration and e2e all the same classification?
+- Are unit, integration and E2E all the same classification?
 
 [Sam Newman, Developer at Thoughtworks](https://www.oreilly.com/learning/building-microservices-testing) on Building Microservices explains that we're all having problems with the "Service" layer;
     
