@@ -195,3 +195,9 @@ A decision matrix may not be as elegant as the pyramid, but it's the right tool 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please can we stop using the &quot;test pyramid&quot; paradigm? It&#39;s a terrible metaphor for a testing strategy. <a href="https://twitter.com/martinfowler">@martinfowler</a> <a href="https://twitter.com/mikewcohn">@mikewcohn</a> <a href="https://twitter.com/tastapod">@tastapod</a></p>&mdash; James Wade (@jpswade) <a href="https://twitter.com/jpswade/status/833332335588364290">February 19, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Mike Cohn, Mountain Goat Software commented by email;
+
+    "I still think it serves its purpose. The sea of confusion is because so many people are talking about agile. But that alone doesn’t stop a good idea from being a good idea."
+
+I would agree that the message behind it is a good idea, though one that I think is perhaps lost in the pyramid.
