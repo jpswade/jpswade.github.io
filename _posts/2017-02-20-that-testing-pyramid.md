@@ -53,6 +53,7 @@ For example...
 - What about exploratory testing?
 - What about regression testing?
 - What are unit, service and UI types of?
+- Are unit, integration and e2e all the same classification?
 
 [Sam Newman, Developer at Thoughtworks](https://www.oreilly.com/learning/building-microservices-testing) on Building Microservices explains that we're all having problems with the "Service" layer;
     
