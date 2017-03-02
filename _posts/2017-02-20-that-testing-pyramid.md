@@ -8,6 +8,7 @@ image: http://i.imgur.com/BZM8Yam.png
 tags:
     - testing
     - webdev
+    - devops
 ---
 
 Today I want to talk about that "Testing Pyramid", you know the one, that one, [Martin Fowler](https://martinfowler.com/) calls it a "Test Pyramid".
