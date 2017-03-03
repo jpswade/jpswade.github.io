@@ -3,6 +3,7 @@ title: Naming things is hard
 date: 2017-03-03
 author: James Wade
 layout: post
+image: http://i.imgur.com/5zWamny.png
 categories:
   - Development
 tags:
@@ -46,8 +47,9 @@ But naming is hard. Does it matter?
 
 It matters because although naming is hard, it's an important part of communication. If you get it right, it makes communication much easier going forward.
 
-I've always been a big fan of keeping things simple ([KISS](https://en.wikipedia.org/wiki/KISS_principle)), as such when it comes to naming, I prefer to use the same 
-language as the people who will be using the function.
+I've always been a big fan of keeping things simple ([KISS](https://en.wikipedia.org/wiki/KISS_principle)), as such when it comes to naming, I prefer to use the same language as the people who will be using the function.
+
+![ubiquitous language](http://i.imgur.com/5zWamny.png)
 
 Later, I learned that in [Domain-driven Design](https://en.wikipedia.org/wiki/Domain-driven_design), that this is called
  [ubiquitous language](https://www.martinfowler.com/bliki/UbiquitousLanguage.html).
