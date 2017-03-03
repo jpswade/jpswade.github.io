@@ -1,14 +1,18 @@
 ---
-title: Naming things is hard
+title: Is naming things really that hard?
 date: 2017-03-03
 author: James Wade
 layout: post
 image: http://i.imgur.com/5zWamny.png
+redirect_from: /development/2017/03/03/whats-in-a-name.html
+
 categories:
   - Development
 tags:
   - naming
   - language
+  - agile
+  - ddd
 ---
 
     There are only two hard things in Computer Science: cache invalidation and naming things.
@@ -17,7 +21,7 @@ tags:
 
 Naming is a topic that I've covered before, in a post on my blog. 
 
-My previous post was about [creating a unique company name](http://wade.be/create-a-unique-company-name/) and it was pretty popular.
+My previous post was about [creating a unique company name](/create-a-unique-company-name/) and it was pretty popular.
 
 It is probably the most commented on post on my blog, at least it was until I got outranked on search engines by arguably better articles and applications.
 
