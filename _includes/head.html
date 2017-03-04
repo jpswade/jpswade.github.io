@@ -30,6 +30,6 @@
     <meta name="twitter:creator" content="@{{site.username}}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
-    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:image:src" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}">
 </head>
