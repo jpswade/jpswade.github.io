@@ -19,7 +19,7 @@ This "test pyramid" was a concept developed by [Mike Cohn, Mountain Goat Softwar
 
 As Martin puts it:
     
-    "Its essential point is that you should have many more low-level unit tests than high level end-to-end tests running through a GUI."
+> "Its essential point is that you should have many more low-level unit tests than high level end-to-end tests running through a GUI."
 
 So what's the problem?
 
@@ -27,7 +27,7 @@ So what's the problem?
 
 This is the problem, as Martin has explained from the start;
 
-    "A common problem is that teams conflate the concepts of end-to-end tests, UI tests, and customer facing tests"
+> "A common problem is that teams conflate the concepts of end-to-end tests, UI tests, and customer facing tests"
 
 Every time you read about or discuss this thing, it seems to fuel more confusion, not less.
 
@@ -59,13 +59,13 @@ For example...
 
 [Sam Newman, Developer at Thoughtworks](https://www.oreilly.com/learning/building-microservices-testing) on Building Microservices explains that we're all having problems with the "Service" layer;
     
-    "The problem with this model is that all these terms mean different things to different people. "Service" is especially overloaded, and there are many definitions of a unit test out there"
+> "The problem with this model is that all these terms mean different things to different people. "Service" is especially overloaded, and there are many definitions of a unit test out there"
 
 It means different things to different people.
 
 [Seb Rose at Cucumber](http://claysnow.co.uk/architectural-alignment-and-test-induced-design-damage-fallacy/) on The Consistency of message explains;
     
-    "The testing pyramid was never a pyramid – it was always a triangle. It was always an approximation of the world. The words inside the triangle have always been problematic and I don't use them any more."
+> "The testing pyramid was never a pyramid – it was always a triangle. It was always an approximation of the world. The words inside the triangle have always been problematic and I don't use them any more."
 
 If you look at the pyramid  on Martin Fowler's website today, even he has tried to make it simpler by adding some axis.
 
@@ -73,7 +73,7 @@ On the left you will see it's fast (unit) to slow (UI), on the right you will se
 
 I think this demonstrates the "point" Mike Cohn was trying to make, much better:
 
-    "Its essential point is that you should have many more low-level unit tests than high level end-to-end tests running through a GUI"
+> "Its essential point is that you should have many more low-level unit tests than high level end-to-end tests running through a GUI"
 
 It was never the point of the pyramid to provide a testing strategy, just a warning there is a cost/speed trade-off when automating tests.
 
@@ -113,7 +113,7 @@ The first step towards that is continuous integration, which is why you're looki
 
 What we're trying to achieve is Continuous Integration, as [Martin Fowler](https://www.martinfowler.com/articles/continuousIntegration.html) explains:
 
-    "A software development practice where members of a team integrate their work frequently, usually each person integrates at least daily - leading to multiple integrations per day. Each integration is verified by an automated build (including test) to detect integration errors as quickly as possible"
+> "A software development practice where members of a team integrate their work frequently, usually each person integrates at least daily - leading to multiple integrations per day. Each integration is verified by an automated build (including test) to detect integration errors as quickly as possible"
 
 It's about:
 - Daily integrations
@@ -125,7 +125,7 @@ So where does testing fit into the process?
 
 [Dan North](https://dannorth.net/2016/04/20/awa-interview/), who developed the BDD methodology, explains where testing fits into the process;
 
-    "A common approach I see, and one advocated by many agile methods, is a “testing pyramid”, with lots of unit tests at the bottom, a smaller number of acceptance tests as the middle layer, and a small amount of manual testing to top off the pyramid"
+> "A common approach I see, and one advocated by many agile methods, is a “testing pyramid”, with lots of unit tests at the bottom, a smaller number of acceptance tests as the middle layer, and a small amount of manual testing to top off the pyramid"
 
 That's:
 
@@ -163,7 +163,7 @@ Think about a delivery pipeline with code coming in from the left, and productio
 
 [Kenny Cruden QA Consultant, Thoughtworks](https://www.thoughtworks.com/insights/blog/qa-role-what-it-really) explains that each environment provides an opportunity for validation:
     
-    "Each environment provides the platform for unique validations to be made, each providing a different benefit and focus on the product"
+> "Each environment provides the platform for unique validations to be made, each providing a different benefit and focus on the product"
 
 By looking at the environments, you can see a clear flow of code coming in and a production build at the end, it tells us;
 
@@ -175,7 +175,7 @@ By looking at testing as part of our delivery pipeline, and using the environmen
 
 [Michael Hackett, Vice President at LogiGear Corporation](http://www.logigear.com/magazine/exploratory-testing/continuous-testing-part-2-strategy-and-automation-goals-for-test-teams/), talks about continuous testing strategy and automation: 
 
-    "You need to think of what and why we test on different environments"
+> "You need to think of what and why we test on different environments"
     
 Much like the scale metaphor, we need to make decisions at each environment.
 
@@ -199,6 +199,6 @@ A decision matrix may not be as elegant as the pyramid, but it's the right tool 
 
 Mike Cohn, Mountain Goat Software commented by email;
 
-    "I still think it serves its purpose. The sea of confusion is because so many people are talking about agile. But that alone doesn’t stop a good idea from being a good idea."
+> "I still think it serves its purpose. The sea of confusion is because so many people are talking about agile. But that alone doesn’t stop a good idea from being a good idea."
 
 I would agree that the message behind it is a good idea, though one that I think is perhaps lost in the pyramid.
