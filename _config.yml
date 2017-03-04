@@ -11,9 +11,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 image: http://i.imgur.com/7GZTAp0.jpg
 
 # Social media
-username: jpswade
-author: James Wade
-
+author:
+  name: James Wade
+  facebook: jpswade
+  linkedin: jpswade
+  twitter: jpswade
+  github: jpswade
 
 social:
   - name: facebook
