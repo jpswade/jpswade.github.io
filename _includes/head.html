@@ -23,7 +23,7 @@
     <meta property="og:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:locale" content="en_GB">
-    {% if page.type == "post" %}<meta property="og:type" content="article">{endif}
+    {% if page.type == "post" %}<meta property="og:type" content="article">{% endif %}
     {% for tag in page.tags %}
     <meta property="article:tag" content="{{tag}}">
     {% endfor %}
