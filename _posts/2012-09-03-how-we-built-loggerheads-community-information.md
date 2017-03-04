@@ -48,7 +48,7 @@ We looked at quite a few “similar” community type websites, both local and n
 
 I knew at this point that imaginary was going to play a big part of this website, so I began focusing on including high resolution images right at the top of the design in the header.
 
-I tried a few ideas but I didn&#8217;t really like them…
+I tried a few ideas but I didn't really like them…
 
 [<img class="alignnone wp-image-3628 size-medium" src="http://wade.be/upload/lcis1-300x240.png" alt="lcis1" width="300" height="240" srcset="http://wade.be/upload/lcis1-300x240.png 300w, http://wade.be/upload/lcis1-1024x819.png 1024w, http://wade.be/upload/lcis1.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />](http://wade.be/upload/lcis1.png) 
 
@@ -56,17 +56,17 @@ I abandoned this concept before it got too ugly and went back to the drawing boa
 
 One site that that I kept coming back to, that really inspired my designs going forward, was visitphilly.com, designed by the world-renowned design studio Happy Cog.
 
-As you&#8217;ll see in my next concept…
+As you'll see in my next concept…
 
 [<img class="alignnone size-medium wp-image-3631" src="http://wade.be/upload/lcis2.3-236x300.png" alt="lcis2.3" />](http://wade.be/upload/lcis2.3.png) 
 
 I decided to keep with the green and brown which represented the farmland in the surrounding areas as well as take some layout direction from the website design I’d become familiar with.
 
-The feedback was that it wasn&#8217;t very in-line with the existing branding, so the design was compromised into this:<figure>
+The feedback was that it wasn't very in-line with the existing branding, so the design was compromised into this:<figure>
 
 [<img class="alignnone size-medium wp-image-3632" src="http://wade.be/upload/lcis3.0-236x300.png" alt="lcis3.0" />](http://wade.be/upload/lcis3.0.png)</figure> 
 
-This was the first draft adopting the logo and the blue branding. This wasn&#8217;t the final draft as a few more details were added in before it went into production:<figure class="">
+This was the first draft adopting the logo and the blue branding. This wasn't the final draft as a few more details were added in before it went into production:<figure class="">
 
 [<img class="alignnone size-medium wp-image-3633" src="http://wade.be/upload/lcis3.2-236x300.png" alt="lcis3.2" />](http://wade.be/upload/lcis3.2.png)</figure> 
 
@@ -88,4 +88,4 @@ In hindsight this was a much bigger task than I had anticipated as Drupal is ver
 
 The reasoning behind using Drupal was that it was seen as enterprise level and the eventual governance of this website was set to require something a bit more robust than WordPress. There was also scope for a forum, which we found there was not much demand for.
 
-However, if I was to do the project again, I would not hesitate to use Wordpress as it&#8217;s certainly proved its robustness over the years and it would be well within the scope of the eventual governance which turned out to be no more than 3 users.
+However, if I was to do the project again, I would not hesitate to use Wordpress as it's certainly proved its robustness over the years and it would be well within the scope of the eventual governance which turned out to be no more than 3 users.

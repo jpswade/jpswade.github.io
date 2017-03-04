@@ -20,7 +20,7 @@ tags:
   - yum
 ---
 <div id="_mcePaste">
-  I&#8217;ve recently been having trouble with a OpenVZ VPS upgraded from CentOS4 to CentOS5, here&#8217;s what I&#8217;m seeing when trying to rum a yum install of mod_python:
+  I've recently been having trouble with a OpenVZ VPS upgraded from CentOS4 to CentOS5, here's what I'm seeing when trying to rum a yum install of mod_python:
 </div>
 
 > <div>
@@ -96,7 +96,7 @@ tags:
 > </div>
 > 
 > <div id="_mcePaste">
->   yumvars[&#8216;releasever&#8217;] = _getsysver(startupconf.installroot, startupconf.distroverpkg)
+>   yumvars[&#8216;releasever'] = _getsysver(startupconf.installroot, startupconf.distroverpkg)
 > </div>
 > 
 > <div id="_mcePaste">
@@ -104,7 +104,7 @@ tags:
 > </div>
 > 
 > <div id="_mcePaste">
->   idx = ts.dbMatch(&#8216;provides&#8217;, distroverpkg)
+>   idx = ts.dbMatch(&#8216;provides', distroverpkg)
 > </div>
 > 
 > <div id="_mcePaste">
@@ -112,7 +112,7 @@ tags:
 > </div>
 
 <div>
-  Here&#8217;s how to fix it:
+  Here's how to fix it:
 </div>
 
 > <div>
@@ -120,7 +120,7 @@ tags:
 > </div>
 > 
 > <div id="_mcePaste">
->   rm: remove regular file `/dev/urandom&#8217;? y
+>   rm: remove regular file `/dev/urandom'? y
 > </div>
 > 
 > <div id="_mcePaste">
@@ -131,4 +131,4 @@ tags:
   Nothing else seems to work, but this does indeed seem to solve the problem.
 </p>
 
-Perhaps I&#8217;ll finally get Trac installed&#8230;
+Perhaps I'll finally get Trac installed&#8230;

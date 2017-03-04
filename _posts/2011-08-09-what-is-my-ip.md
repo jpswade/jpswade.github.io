@@ -36,32 +36,32 @@ My favourite IP lookup service has been for a long time one run by NASDAQ-100 c
 
   * [whatismyip.akamai.com](http://whatismyip.akamai.com/)
 
-It&#8217;s brilliant in its simplicity but it&#8217;s not very pretty.
+It's brilliant in its simplicity but it's not very pretty.
 
 We decided to do something different. We made a pretty &#8220;What is my IP address?&#8221; lookup:
 
   * [ip.deaduseful.com](http://ip.deaduseful.com/)
 
-Part of its beauty is that the audience its aimed at is able to quickly read and understand the information at a glance, without any prompts. While those who don&#8217;t understand it can marvel at its pretty form and ponder over its usefulness.
+Part of its beauty is that the audience its aimed at is able to quickly read and understand the information at a glance, without any prompts. While those who don't understand it can marvel at its pretty form and ponder over its usefulness.
 
-The other part of its beauty is that it&#8217;s _highly [parsable](http://en.wiktionary.org/wiki/parsable)_.
+The other part of its beauty is that it's _highly [parsable](http://en.wiktionary.org/wiki/parsable)_.
 
-It&#8217;s easy to parse the IP address, mainly because the presentation (CSS) is separate from the markup (HTML), but also because of the headers.
+It's easy to parse the IP address, mainly because the presentation (CSS) is separate from the markup (HTML), but also because of the headers.
 
-Here&#8217;s a short demonstration to show how you can use the headers to get the IP address using this tool:
+Here's a short demonstration to show how you can use the headers to get the IP address using this tool:
 
-> <?php $h=get_headers(&#8216;http://ip.deaduseful.com&#8217;,1); echo trim($h[&#8216;Location&#8217;],&#8217;/&#8217;); ?>
+> <?php $h=get_headers(&#8216;http://ip.deaduseful.com',1); echo trim($h[&#8216;Location'],'/'); ?>
 
-However, this method isn&#8217;t very portable, so may not be suitable if you&#8217;re checking against multiple sources at once.
+However, this method isn't very portable, so may not be suitable if you're checking against multiple sources at once.
 
 So instead, we can also demonstrate using a simple regular expression and a function that can get http contents (such as file\_get\_contents() in PHP).
 
-> <?php echo preg\_replace(&#8216;/.\*?(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}).\*/s&#8217;,&#8217;$1&#8242;,file\_get_contents(&#8216;http://ip.deaduseful.com&#8217;));?>
+> <?php echo preg\_replace(&#8216;/.\*?(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}).\*/s','$1&#8242;,file\_get_contents(&#8216;http://ip.deaduseful.com'));?>
 
 The brilliance in this little snippet is that it will work with _any_ useful &#8220;What is my IP?&#8221; lookup website.
 
-So as you can see, it&#8217;s really easy to work with as a pretty API as well.
+So as you can see, it's really easy to work with as a pretty API as well.
 
-Beyond the IP address, you only need to look at the source code to understand that it&#8217;s easy to parse the other details.
+Beyond the IP address, you only need to look at the source code to understand that it's easy to parse the other details.
 
 I hope you found this useful!

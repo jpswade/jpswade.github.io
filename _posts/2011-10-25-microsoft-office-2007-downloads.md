@@ -24,7 +24,7 @@ One of my customers has specialist database software built on the FileMaker Pro 
 
   * Microsoft Office Small Business 2007 &#8211; W/ MS Office Professional 2007 (Trial) &#8211; licence &#8211; 1 PC &#8211; OEM, MLK &#8211; Win
 
-As you can see, this is for Microsoft Office Small Business 2007, this include Outlook (unlike the Home and Student version) and Publisher (Unlike the Standard version or below). This license is suitable for their needs. One major downside to this is that &#8220;MLK&#8221; means &#8220;Medialess License Kit&#8221;, which means they do not supply a CD or DVD with this purchase, just the license key. Perfect, well almost: Where the heck do you get the media from? <!--more--> I don&#8217;t have a copy of Microsoft Office Small Business 2007. Nobody I know has a copy of Microsoft Office Small Business 2007. Even the largest bit torrent website on the planet doesn&#8217;t have Microsoft Office Small Business 2007. You can&#8217;t purchase a CD or DVD if you tried, they simply aren&#8217;t on sale. With a little searching I managed to find official Microsoft Office 2007 Direct Download Links:
+As you can see, this is for Microsoft Office Small Business 2007, this include Outlook (unlike the Home and Student version) and Publisher (Unlike the Standard version or below). This license is suitable for their needs. One major downside to this is that &#8220;MLK&#8221; means &#8220;Medialess License Kit&#8221;, which means they do not supply a CD or DVD with this purchase, just the license key. Perfect, well almost: Where the heck do you get the media from? <!--more--> I don't have a copy of Microsoft Office Small Business 2007. Nobody I know has a copy of Microsoft Office Small Business 2007. Even the largest bit torrent website on the planet doesn't have Microsoft Office Small Business 2007. You can't purchase a CD or DVD if you tried, they simply aren't on sale. With a little searching I managed to find official Microsoft Office 2007 Direct Download Links:
 
   * Microsoft Office Ultimate 2007 
       * [X12-30307.exe](http://web.archive.org/web/20130603145133/http://msft-dnl.digitalrivercontent.net/msoffice/pub/X12-30307/X12-30307.exe) (digitalriver via archive.org)
@@ -45,4 +45,4 @@ As you can see, this is for Microsoft Office Small Business 2007, this include O
       * [X12-30107.exe](http://web.archive.org/web/20131204012356/http://msft-dnl.digitalrivercontent.net/msoffice/pub/X12-30107/X12-30107.exe) (digitalriver via archive.org)
       * [X12-30107.exe](https://drcdn.blob.core.windows.net/msoffice/pub/X12-30107/X12-30107.exe) (windows.net)
 
-Above you&#8217;ll find direct download links. Sorry, there&#8217;s no License Keys here, just downloads, please don&#8217;t ask me for a license key as they aren&#8217;t available to me.
+Above you'll find direct download links. Sorry, there's no License Keys here, just downloads, please don't ask me for a license key as they aren't available to me.

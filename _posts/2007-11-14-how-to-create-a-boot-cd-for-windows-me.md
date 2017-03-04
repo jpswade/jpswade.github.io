@@ -24,7 +24,7 @@ Outline of the situation:
 
 Firstly, I need to locate a Windows ME boot disk image so I can use this with the appropriate software to create a bootable ISO or CD. These are my sources:
 
-  * [Mark Ashworth&#8217;s How to make a Windows Me bootable CD](http://www.geocities.com/mark_ashworth1/me_boot/winmeboot.html) &#8211; [<p class="lead">
+  * [Mark Ashworth's How to make a Windows Me bootable CD](http://www.geocities.com/mark_ashworth1/me_boot/winmeboot.html) &#8211; [<p class="lead">
   Today I was given a machine that has Windows ME installed (Yes, Windows ME sucks, I know).
 </p>
 
@@ -41,10 +41,10 @@ Outline of the situation:
 
 Firstly, I need to locate a Windows ME boot disk image so I can use this with the appropriate software to create a bootable ISO or CD. These are my sources:
 
-  * [Mark Ashworth&#8217;s How to make a Windows Me bootable CD](http://www.geocities.com/mark_ashworth1/me_boot/winmeboot.html) &#8211;](http://www.geocities.com/mark_ashworth1/me_boot/MEboot.zip) </p> 
+  * [Mark Ashworth's How to make a Windows Me bootable CD](http://www.geocities.com/mark_ashworth1/me_boot/winmeboot.html) &#8211;](http://www.geocities.com/mark_ashworth1/me_boot/MEboot.zip) </p> 
       * MEboot.bin
       * OEMSETUP.EXE
-  * [Bootdisk.com&#8217;s site](http://www.bootdisk.com/bootdisk.htm) &#8211; [Windows ME Boot Disk Image (winmec.zip)](http://1gighost.net/virginia/winmec.zip) 
+  * [Bootdisk.com's site](http://www.bootdisk.com/bootdisk.htm) &#8211; [Windows ME Boot Disk Image (winmec.zip)](http://1gighost.net/virginia/winmec.zip) 
       * FIRM.COM
       * LICENCE.TXT
       * README.TXT

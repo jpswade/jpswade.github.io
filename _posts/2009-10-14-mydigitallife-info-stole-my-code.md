@@ -26,11 +26,11 @@ Today I discovered that [_mydigitallife.info_](http://whoisx.co.uk/mydigitallife
 
 <!--more-->
 
-Just compare the actual functions in my removeoga.bat to their RemoveOGA.bat, you can clearly see it&#8217;s the same, yet no credit is given at all.
+Just compare the actual functions in my removeoga.bat to their RemoveOGA.bat, you can clearly see it's the same, yet no credit is given at all.
 
 > mydigitallife.info is LAME.
 
-Taking someone else&#8217;s code and not giving any credit for it is LAME, yes _mydigitallife.info_ is **lame** and I will be boycotting your site until further notice.
+Taking someone else's code and not giving any credit for it is LAME, yes _mydigitallife.info_ is **lame** and I will be boycotting your site until further notice.
 
 > @ECHO off
   
@@ -50,7 +50,7 @@ Taking someone else&#8217;s code and not giving any credit for it is LAME, yes _
 
 Simply copy this into a notepad window, and save as &#8220;mydigitallife_boycott.bat&#8221;, then run it.
 
-Anyway, I&#8217;ve since improved my batch file to support more versions and languages, so if you copy that too, I&#8217;ll be on to you!
+Anyway, I've since improved my batch file to support more versions and languages, so if you copy that too, I'll be on to you!
 
 Thanks.
 

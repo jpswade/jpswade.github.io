@@ -25,15 +25,15 @@ tags:
 
   * <http://www.peej.co.uk/projects/favatars.html>
 
-I tried this code, but it returned nothing. I attempted to fix it, but it still didn&#8217;t really perform very well.
+I tried this code, but it returned nothing. I attempted to fix it, but it still didn't really perform very well.
 
   * <http://www.josephtinsley.com/39/2009-11-10/google-favicon-api-php-code/>
 
 This was interesting, it seems that google has an API for returning favicons&#8230;
 
-> function get_favicon($host) { return &#8216;http://www.google.com/s2/favicons?domain=&#8217;.$host; }
+> function get_favicon($host) { return &#8216;http://www.google.com/s2/favicons?domain='.$host; }
 
-That was easy. Also, if you don&#8217;t fancy using Google (some people don&#8217;t) you can try one of these instead:
+That was easy. Also, if you don't fancy using Google (some people don't) you can try one of these instead:
 
   * http://duckduckgo.com/i/%s.ico
   * http://getfavicon.appspot.com/%s

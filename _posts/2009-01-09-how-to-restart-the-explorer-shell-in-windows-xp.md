@@ -13,12 +13,12 @@ tags:
   - xp
 ---
 <p class="lead">
-  If you have landed yourself here chances are you already know why you want to do this, but for those who don&#8217;t here&#8217;s why:
+  If you have landed yourself here chances are you already know why you want to do this, but for those who don't here's why:
 </p>
 
 When installing a new application, they sometimes require you to restart for them to work, often just restarting the Windows explorer shell will be sufficient for it to work as expected.
 
-Normally most people just kill it via Task Manager, but this can have adverse effects on your system (such as data loss), so here&#8217;s how to do it properly:
+Normally most people just kill it via Task Manager, but this can have adverse effects on your system (such as data loss), so here's how to do it properly:
 
 <!--more-->
 

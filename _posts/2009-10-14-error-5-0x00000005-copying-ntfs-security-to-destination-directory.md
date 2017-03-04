@@ -25,7 +25,7 @@ I figured out a workaround&#8230;
 
 <!--more-->
 
-Backup mode cannot circumvent explicit NTFS deny ACL&#8217;s if the copier isn&#8217;t the objects&#8217; owner.
+Backup mode cannot circumvent explicit NTFS deny ACL's if the copier isn't the objects' owner.
 
 (Error message: ERROR 5 (0x00000005) Copying NTFS Security to Destination Directory. Access denied.)
 

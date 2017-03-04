@@ -59,17 +59,17 @@ MagicISO not bad, but ultimately it is not free.
 
 **[MagicDisc](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) (freeware)**](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) 
 
-What people don&#8217;t realise is that there is actually another way. MagicDisc is free, and offered by the same people that created MagicISO, so they know what they are doing. This application supports the same formats as DAEMON tools, and then some. This is a much nicer application to work with than DAEMON tools. It also supports .uif files, which others do not. However it does not support PowerISO&#8217;s .daa files.
+What people don't realise is that there is actually another way. MagicDisc is free, and offered by the same people that created MagicISO, so they know what they are doing. This application supports the same formats as DAEMON tools, and then some. This is a much nicer application to work with than DAEMON tools. It also supports .uif files, which others do not. However it does not support PowerISO's .daa files.
 
 **[PowerISO](http://www.poweriso.com/) ($29.99)**
 
-This application is not free, but it is the ONLY disk image emulator that supports .DAA format, giving it the ability to mount and create these files. If I had to choose between this and MagicISO I would select PowerISO because as it has more functions and generally looks nicer, and of course it supports it&#8217;s own .daa file format. **Update:** PowerISO v4.0 now supports .uif files!
+This application is not free, but it is the ONLY disk image emulator that supports .DAA format, giving it the ability to mount and create these files. If I had to choose between this and MagicISO I would select PowerISO because as it has more functions and generally looks nicer, and of course it supports it's own .daa file format. **Update:** PowerISO v4.0 now supports .uif files!
 
 **[Alcohol 120%](http://www.alcohol-soft.com/) (29 EUR) or [Alcohol 52%](http://www.alcohol-soft.com/) (22.50 EUR)**
 
 This is a piece of software I almost overlooked. Alcohol 120 % can do it all, burn, create ISOs and mount images. Alcohol 52 % seems to just do the mounting of images.
 
-I&#8217;ve not really used this software to any extent, I hear good things about it, but for what you pay, I don&#8217;t think its worth it considering the other options out there.
+I've not really used this software to any extent, I hear good things about it, but for what you pay, I don't think its worth it considering the other options out there.
 
 **Conclusion**
 

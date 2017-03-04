@@ -26,16 +26,16 @@ This is because on Windows XP BT Yahoo used to provide the BT Yahoo Browser, whi
 
 The latest version of Windows Vista comes is now on Internet Explorer 8 which many users can use to find their way to Yahoo Mail.
 
-However, the problem is that many programs don&#8217;t know you&#8217;re using Yahoo Mail unless you tell Windows that you&#8217;re using that.
+However, the problem is that many programs don't know you're using Yahoo Mail unless you tell Windows that you're using that.
 
 You will also notice that the &#8220;E-Mail&#8221; icon on the start menu is probably &#8220;Windows Mail&#8221; (Formerly Outlook Express) and you have no option to change this to Yahoo Mail in the start menu customisation properties.
 
 To make yahoo mail default mail provider you need the [Yahoo Toolbar for Internet Explorer](http://toolbar.yahoo.com/ie).
 
-It&#8217;s as simple as that.
+It's as simple as that.
 
-Once you have downloaded and run the Yahoo Toolbar setup, you&#8217;ll have the option to &#8220;Make Yahoo Mail your default mail provider&#8221;. Selecting this will tell Windows that it is your default mail program and update the &#8220;E-Mail&#8221; icon on your start menu. Which is nice.
+Once you have downloaded and run the Yahoo Toolbar setup, you'll have the option to &#8220;Make Yahoo Mail your default mail provider&#8221;. Selecting this will tell Windows that it is your default mail program and update the &#8220;E-Mail&#8221; icon on your start menu. Which is nice.
 
-So you don&#8217;t need to find your old BT Broadband CD and install the BT Yahoo Browser from that, just get the Yahoo Toolbar and you&#8217;re done!
+So you don't need to find your old BT Broadband CD and install the BT Yahoo Browser from that, just get the Yahoo Toolbar and you're done!
 
 [Source](http://help.yahoo.com/l/us/yahoo/mail/original/settings/settings-10.html)

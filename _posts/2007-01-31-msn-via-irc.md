@@ -27,16 +27,16 @@ It took some time to figure out, but eventually the script was fully functional 
 
 I ran this for some time, probably around a year, and decided that running a whole machine just for on mIRC based bot was a bit of a waste, so I decided to investigate my options.
 
-[Eggdrop](http://www.eggheads.org/) was my first port of call, using some kind of TCL script that could connect to the MSN protocol would be fantastic, yet this did not appear to exist, however I did locate an MSN messenger client called [aMSN](http://amsn-project.net/forums/viewtopic.php?p=11058), which was based on TCL. There were some issues with this though, firstly it is not eggdrop based, fine I thought i&#8217;ll strip it down, secondly there is no console mode, its a 100% GUI application, therefore a BIG task. I simply didn&#8217;t have the time to deal with this complexity.
+[Eggdrop](http://www.eggheads.org/) was my first port of call, using some kind of TCL script that could connect to the MSN protocol would be fantastic, yet this did not appear to exist, however I did locate an MSN messenger client called [aMSN](http://amsn-project.net/forums/viewtopic.php?p=11058), which was based on TCL. There were some issues with this though, firstly it is not eggdrop based, fine I thought i'll strip it down, secondly there is no console mode, its a 100% GUI application, therefore a BIG task. I simply didn't have the time to deal with this complexity.
 
 After some further searching I discovered the [BitlBee](http://www.bitlbee.org/) project, which is in itself an amazing project and an amazing idea. In principle its an IRCd that can connect to many popular instant messenger protocols such as MSN messenger.
 
 The idea was to somehow run an eggdrop that would connect to a [BitlBee server](http://bitlbee.org/main.php/servers.html), connect to MSN, and relay the details to another IRCd using a [relay tcl script](http://www.egghelp.org/tclhtml/3478-4-0-0-1-relay.htm). Obviously the relay script would also need the ability to accept triggers from the other IRCd so the users can control it and send messages, etc.
 
-An alternative idea would be to use psyBNC with multiuser enabled, even though this method would probably be more secure, i&#8217;d prefer to use the eggdrop method.
+An alternative idea would be to use psyBNC with multiuser enabled, even though this method would probably be more secure, i'd prefer to use the eggdrop method.
 
 In the end I decided to trim down a version of [linkchan.tcl](http://www.google.com/search?q=linkchan.tcl), which I had used before over the years and so was already fimilar with its structure and functionatility. This offers me a fantastic platform to base this project on.
 
-There is the project research so far, the next step is to release bitlbee.tcl once i&#8217;m happy the script is stable.
+There is the project research so far, the next step is to release bitlbee.tcl once i'm happy the script is stable.
 
 **Update:** A beta version of the &#8220;bitlbee.tcl&#8221; was posted under the [eggdrop tcl](/eggtcl-project/) section.

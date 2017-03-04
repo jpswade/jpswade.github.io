@@ -13,7 +13,7 @@ categories:
   Today I looked into social bookmarking.
 </p>
 
-Social bookmarking has been around for quite a while now, it&#8217;s a great way to bookmark your links, and share links with others.
+Social bookmarking has been around for quite a while now, it's a great way to bookmark your links, and share links with others.
 
 **Sharing your bookmarks**
 

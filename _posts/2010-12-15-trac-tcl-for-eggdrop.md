@@ -14,7 +14,7 @@ categories:
   - Internet
 ---
 <p class="lead">
-  I&#8217;ve recently had some fun <a href="http://hm2k.googlecode.com/svn/trunk/code/shell/setup_trac.sh">installing Trac project management software on CentOS5</a>.
+  I've recently had some fun <a href="http://hm2k.googlecode.com/svn/trunk/code/shell/setup_trac.sh">installing Trac project management software on CentOS5</a>.
 </p>
 
 After finally getting it successfully installed and setup I decided to have a play around with a TCL script for eggdrop.
@@ -55,9 +55,9 @@ Of course, I decided to step up to the mark and make a few improvements to the s
   
 > \#       &#8211; fixed syntax errors
 
-Anyway, it seems to work pretty well now and I have a few improvements I&#8217;m looking to implement in the future.
+Anyway, it seems to work pretty well now and I have a few improvements I'm looking to implement in the future.
 
-Here&#8217;s the download:
+Here's the download:
 
   * [trac.tcl](http://hm2k.googlecode.com/svn/trunk/code/tcl/trac.tcl)
 

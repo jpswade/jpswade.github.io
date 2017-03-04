@@ -10,7 +10,7 @@ categories:
   - Hardware
 ---
 <p class="lead">
-  I was recently informed that my <em>old </em>laptop, a HP Pavilion ze4111s, (now being used by my girlfriend) that &#8220;it doesn&#8217;t charge&#8221;, which then changed to &#8220;it sometimes does, and other times it doesn&#8217;t&#8221;.
+  I was recently informed that my <em>old </em>laptop, a HP Pavilion ze4111s, (now being used by my girlfriend) that &#8220;it doesn't charge&#8221;, which then changed to &#8220;it sometimes does, and other times it doesn't&#8221;.
 </p>
 
 I decided to investigate and began wiggling the AC adaptor at the back in the DC jack socket, which appeared to become lose.
@@ -35,7 +35,7 @@ I also discovered that the housing had cracked, and with a little wiggle the top
 
 My next step was to work out what to do next with this laptop. This laptop is quite old, and is most definitely outside its warranty period. However I knew what the problem was and had a few ideas on how to fix it.
 
-I decided to contact HP for their suggestions, and while I waited I searched eBay for a supplier of parts for the ze4111s, I located a company who had some parts. I contacted them about getting a replacement motherboard for the laptop, and they suggested that the replacement would be £60. To me that is excessive, probably about 1/3 of the total value of the laptop, it&#8217;s not worth it.
+I decided to contact HP for their suggestions, and while I waited I searched eBay for a supplier of parts for the ze4111s, I located a company who had some parts. I contacted them about getting a replacement motherboard for the laptop, and they suggested that the replacement would be £60. To me that is excessive, probably about 1/3 of the total value of the laptop, it's not worth it.
 
 I finally got hold of someone at HP, who suggested I contact a service centre, who I found out, charge an absolute fortune! I explained to them that it would not be worth my while and besides I know what the problem is.
 
@@ -47,7 +47,7 @@ I tried resoldering the connector from the housing of the DC jack to the motherb
   <a href="http://wade.be/upload/dsc_0015-large.JPG" title="HP Pavilion ze4111s broken DC jack resolder"><img src="http://wade.be/upload/dsc_0015-large.thumbnail.JPG" alt="HP Pavilion ze4111s broken DC jack resolder" /></a>
 </p>
 
-Upon further examining the motherboard, I discovered that the jack could be safely removed from the motherboard providing I could unsolder it from the underneath where it connects to the motherboard in three places. Not a problem, I&#8217;d just require a replacement jack.
+Upon further examining the motherboard, I discovered that the jack could be safely removed from the motherboard providing I could unsolder it from the underneath where it connects to the motherboard in three places. Not a problem, I'd just require a replacement jack.
 
 I went on to explain this to the HP contact, who provided me with the following details:
 
@@ -91,7 +91,7 @@ I also found [this thread](http://hardware.mcse.ms/printthread.php?s=03f0956cc2a
 
 I found that the sites above were charging a fortune for the replacement jack, so I checked all my usual suppliers for components including Maplin, no such luck.
 
-Then, a brainwave, I could cross reference google with eBay and see if anyone had mentioned a [jack for a ze4111s](http://www.google.com/search?hl=en&q=site%3Aebay.co.uk+%2Bze4111s+%2Bjack&btnG=Search) recently. So that&#8217;s what I did, and soon discovered the seller &#8220;[laptop18000](http://feedback.ebay.co.uk/ws/eBayISAPI.dll?ViewFeedback&userid=laptop18000)&#8220;, and their shop &#8220;[GOOD DEALS IN](http://stores.ebay.co.uk/GOOD-DEALS-IN)&#8221; based in the USA, but sells DC jacks for laptops for very cheap compared to the previous offers.
+Then, a brainwave, I could cross reference google with eBay and see if anyone had mentioned a [jack for a ze4111s](http://www.google.com/search?hl=en&q=site%3Aebay.co.uk+%2Bze4111s+%2Bjack&btnG=Search) recently. So that's what I did, and soon discovered the seller &#8220;[laptop18000](http://feedback.ebay.co.uk/ws/eBayISAPI.dll?ViewFeedback&userid=laptop18000)&#8220;, and their shop &#8220;[GOOD DEALS IN](http://stores.ebay.co.uk/GOOD-DEALS-IN)&#8221; based in the USA, but sells DC jacks for laptops for very cheap compared to the previous offers.
 
 <p align="center">
   <a href="http://wade.be/upload/e901_1_b.JPG" title="DC Power Jack for HP Laptop motherboard XL XF XZ HP ZE"><img src="http://wade.be/upload/e901_1_b.JPG" alt="DC Power Jack for HP Laptop motherboard XL XF XZ HP ZE" /></a>
@@ -111,4 +111,4 @@ Meanwhile, the laptop remains in pieces&#8230;
   <a href="http://wade.be/upload/dsc_0038-medium.JPG" title="HP Pavilion ze4111s"><img src="http://wade.be/upload/dsc_0038-medium.thumbnail.JPG" alt="HP Pavilion ze4111s" /></a>
 </p>
 
-In conclusion, don&#8217;t throw your laptop away, don&#8217;t pay excessive amounts getting someone autherised by HP to fix it, don&#8217;t pay more than you have to. DO IT YOURSELF!
+In conclusion, don't throw your laptop away, don't pay excessive amounts getting someone autherised by HP to fix it, don't pay more than you have to. DO IT YOURSELF!

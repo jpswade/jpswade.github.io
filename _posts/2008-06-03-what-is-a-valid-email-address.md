@@ -18,10 +18,10 @@ tags:
   - verification
 ---
 <p class="lead">
-  With the on-going abuse to email based systems, we are in need of ways to validate the email addresses we&#8217;re handling.
+  With the on-going abuse to email based systems, we are in need of ways to validate the email addresses we're handling.
 </p>
 
-We all know what an email address looks like, we see them and use them every single day. But how do you know if it&#8217;s valid or not? The next obvious question should be, what defines a valid email address?
+We all know what an email address looks like, we see them and use them every single day. But how do you know if it's valid or not? The next obvious question should be, what defines a valid email address?
 
 This is what I intend on investigating.
 
@@ -31,17 +31,17 @@ Before you begin, I would like you make you aware of the difference between vali
 
 > Validation is a check to ensure it is true to the specification (eg: is the number N digits long?). Not to be confused with verification which is a check to ensure it is correct within the intended system (eg: does the number work when phoned?).
 
-A good starting point for anyone to investigating what anything is, is Wikipedia. So, as to make this easy to follow, that&#8217;s where we&#8217;re going to start, by looking at the &#8220;[E-mail address](http://en.wikipedia.org/wiki/E-mail_address)&#8221; article.
+A good starting point for anyone to investigating what anything is, is Wikipedia. So, as to make this easy to follow, that's where we're going to start, by looking at the &#8220;[E-mail address](http://en.wikipedia.org/wiki/E-mail_address)&#8221; article.
 
-As you read the article, you&#8217;ll soon find out about the limitations and validation (not to be confused with [authentication](http://en.wikipedia.org/wiki/E-mail_authentication)) set by the [RFCs](http://en.wikipedia.org/wiki/Request_for_Comments). The earliest RFC with regards to email was [[RFC822](http://tools.ietf.org/html/rfc822)], which was made obsolete by [[RFC2822](http://tools.ietf.org/html/rfc2822)]. There are other RFCs you should perhaps also pay attention to which are listed in the article, however I intend on going over these later.
+As you read the article, you'll soon find out about the limitations and validation (not to be confused with [authentication](http://en.wikipedia.org/wiki/E-mail_authentication)) set by the [RFCs](http://en.wikipedia.org/wiki/Request_for_Comments). The earliest RFC with regards to email was [[RFC822](http://tools.ietf.org/html/rfc822)], which was made obsolete by [[RFC2822](http://tools.ietf.org/html/rfc2822)]. There are other RFCs you should perhaps also pay attention to which are listed in the article, however I intend on going over these later.
 
 To fully understand how to find out what a valid email address is, we need to fully understand what an RFC is and why we need them.
 
 An RFC (request for comments) essentially is a way in which internet developers can set standards and protocols. The RFCs we need to be focusing on are the ones relating to email, as they will tell us exactly what defines an email address as an email address. Thus in order for us to fully understand what defines an email as valid, we MUST read the RFCs.
 
-RFCs however, aren&#8217;t easy, they are written what appears to be a mystical language, that looks like English, but it isn&#8217;t. Okay, so maybe it&#8217;s not that bad, but it isn&#8217;t exactly a straight forward task to translate it into &#8220;Plain English&#8221;.
+RFCs however, aren't easy, they are written what appears to be a mystical language, that looks like English, but it isn't. Okay, so maybe it's not that bad, but it isn't exactly a straight forward task to translate it into &#8220;Plain English&#8221;.
 
-After reading [I Knew How To Validate An Email Address Until I Read The RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx) and [Paul Gregg&#8217;s Demonstrating why email regexs are poor](http://www.pgregg.com/projects/php/code/showvalidemail.php), I knew this wasn&#8217;t going to be easy.
+After reading [I Knew How To Validate An Email Address Until I Read The RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx) and [Paul Gregg's Demonstrating why email regexs are poor](http://www.pgregg.com/projects/php/code/showvalidemail.php), I knew this wasn't going to be easy.
 
 To utilise the specification written in the RFC, we need to convert it into a usable language. In this case we will be using regular expressions within PHP. This article assumes you understand PHP and regular expressions, or will at least try&#8230;
 
@@ -189,7 +189,7 @@ $ctext = &#8220;(?:$NO\_WS\_CTL|[\\x21-\\x27\\x2A-\\x5b\\x5d-\\x7e])&#8221;;
   
 $ccontent = &#8220;(?:$ctext|$quoted_pair)&#8221;;
   
-/\* NOTICE: &#8216;ccontent&#8217; translated only partially to avoid an infinite loop. \*/
+/\* NOTICE: &#8216;ccontent' translated only partially to avoid an infinite loop. \*/
   
 $comment = &#8220;(?:\\x28((?:$FWS?(?:$ccontent|(?1)))*$FWS?\\x29))&#8221;;
   
@@ -225,9 +225,9 @@ $CFWS = &#8220;((?:$FWS?$comment)*(?:(?:$FWS?$comment)|$FWS))&#8221;;
   
 > dot-atom-text = 1\*atext \*(&#8220;.&#8221; 1*atext)
 
-$ALPHA = &#8216;[\\x41-\\x5a\\x61-\\x7a]&#8217;;
+$ALPHA = &#8216;[\\x41-\\x5a\\x61-\\x7a]';
   
-$DIGIT = &#8216;[\\x30-\\x39]&#8217;;
+$DIGIT = &#8216;[\\x30-\\x39]';
   
 $atext = &#8220;(?:$ALPHA|$DIGIT|[\\x21\\x23-\\x27\\x2a\\x2b\\x2d\\x2f\\x3d\\x3f\\x5e\\x5f\\x60\\x7b-\\x7e])&#8221;;
   
@@ -311,34 +311,34 @@ $addr\_spec = &#8220;($local\_part\\x40$domain)&#8221;;
 
 There we have it, how to validate an email address according to [[RFC2822](http://tools.ietf.org/html/rfc2822)].
 
-However, let&#8217;s stop right there and reflect on what we have here. What we have is regular expression based on [[RFC2822](http://tools.ietf.org/html/rfc2822)] that must be correct, but does it work? are there any problems? Well yes, there are some problems&#8230;
+However, let's stop right there and reflect on what we have here. What we have is regular expression based on [[RFC2822](http://tools.ietf.org/html/rfc2822)] that must be correct, but does it work? are there any problems? Well yes, there are some problems&#8230;
 
   * The comments, and content of comments have an infinite loop due to possible nested comments.
   * It does not appear to validate folding white space where it should.
   * It does not correctly validate domain literals (IP addresses), they are simply not validated by [[RFC2822](http://tools.ietf.org/html/rfc2822)], which means that IP addresses that (under current protocol) are invalid (eg: 300.300.300.300) .
-  * Domain names are not validated correctly either, IP addresses are allowed, when they shouldn&#8217;t be, and certain characters are allowed in places they shouldn&#8217;t, like dash (-) at the start or end of a domain name (eg: test@-example.com).
+  * Domain names are not validated correctly either, IP addresses are allowed, when they shouldn't be, and certain characters are allowed in places they shouldn't, like dash (-) at the start or end of a domain name (eg: test@-example.com).
   * Length is no concern, email addresses can be as long as you like, much like the regex.
-  * There are many more RFC&#8217;s to investigate and translate before we can fully validate all parts of an email address.
-  * The email address validation regular expression according to [[RFC2822](http://tools.ietf.org/html/rfc2822)] ALONE is almost 20,000 characters long, that&#8217;s BEFORE we look into solving these other issues.
+  * There are many more RFC's to investigate and translate before we can fully validate all parts of an email address.
+  * The email address validation regular expression according to [[RFC2822](http://tools.ietf.org/html/rfc2822)] ALONE is almost 20,000 characters long, that's BEFORE we look into solving these other issues.
 
 This is simply **unacceptable**.
 
-Although there are fixes and workarounds, in the form of stripping, and further validation based on other RFCs I began to feel that this wasn&#8217;t really suitable for validating real world email addresses.
+Although there are fixes and workarounds, in the form of stripping, and further validation based on other RFCs I began to feel that this wasn't really suitable for validating real world email addresses.
 
-Ultimately I feel that unless you&#8217;re building an mail client or an mail server sticking so strictly to the RFC (especially [[RFC2822](http://tools.ietf.org/html/rfc2822)]) isn&#8217;t always going to give you the best results, in real world situations.
+Ultimately I feel that unless you're building an mail client or an mail server sticking so strictly to the RFC (especially [[RFC2822](http://tools.ietf.org/html/rfc2822)]) isn't always going to give you the best results, in real world situations.
 
-Look around, email addresses in the real world aren&#8217;t so strict and are far more loosely defined.
+Look around, email addresses in the real world aren't so strict and are far more loosely defined.
 
-  * No folding white space (FWS) &#8211; I&#8217;ve never seen a multi-line email address field for a single address.
+  * No folding white space (FWS) &#8211; I've never seen a multi-line email address field for a single address.
   * No comments (CFWS) &#8211; Comments simply do not belong in an email address, they can go else where.
   * No quotes &#8211; When was the last time you saw quoted text in an email address?
   * No IP addresses, domains only &#8211; They are only used in temporary circumstances, not live.
   * No new lines &#8211; they could result in &#8220;email header injection&#8221;.
   * Reasonable lengths &#8211; both parts, and the whole thing needs to be kept to a reasonable maximum length.
-  * The domain part doesn&#8217;t need to be so strict &#8211; We can easily verify it later using DNS.
-  * TLDs need to be future proof &#8211; Don&#8217;t restrict yourself to a set list. Don&#8217;t forget about [IDN](http://idn.icann.org/).
+  * The domain part doesn't need to be so strict &#8211; We can easily verify it later using DNS.
+  * TLDs need to be future proof &#8211; Don't restrict yourself to a set list. Don't forget about [IDN](http://idn.icann.org/).
   * Most RFCs are outdated, and unreliable &#8211; Remember they are technical documents for servers and clients, but not for real world situations.
-  * Only need to validate real world email addresses &#8211; Don&#8217;t be concerned with edge case test samples.
+  * Only need to validate real world email addresses &#8211; Don't be concerned with edge case test samples.
 
 Hence forth, the rest of this article will concentrate on this &#8220;less strict&#8221; or &#8220;LOOSE&#8221; specification, defined by real world situations, rather than technical.
 
@@ -348,7 +348,7 @@ Upon going back to the drawing board I discovered [[RFC3696](http://www.apps.iet
 
 > Contemporary email addresses consist of a &#8220;local part&#8221; separated from a &#8220;domain part&#8221; (a fully-qualified domain name) by an at-sign (&#8220;@&#8221;).
 
-We&#8217;ll look at the &#8220;local part&#8221; first.
+We'll look at the &#8220;local part&#8221; first.
 
 First off, as above, we will be overlooking quoted forms.
 
@@ -356,7 +356,7 @@ First off, as above, we will be overlooking quoted forms.
 > 
 > &#8220;These quoted forms are rarely recommended, and are uncommon in practice&#8221;
 
-We&#8217;ll ignore anything about using quotes, &#8220;real world&#8221; email addresses don&#8217;t contain quotes.
+We'll ignore anything about using quotes, &#8220;real world&#8221; email addresses don't contain quotes.
 
 > [[RFC3696 Section 3](http://www.apps.ietf.org/rfc/rfc3696.html#sec-3)]
 > 
@@ -368,15 +368,15 @@ We&#8217;ll ignore anything about using quotes, &#8220;real world&#8221; email a
 
 &#8220;alphabetic characters&#8221; are &#8220;a-zA-Z&#8221;, digits are &#8220;0-9&#8221;, and special characters appear as above, in PHP based regex, the combination or &#8220;comb&#8221; for short, looks like this:
 
-> $comb = &#8216;[a-zA-Z0-9!#$%&\&#8217;*+\/=?^\`{|}~.-]&#8217;;
+> $comb = &#8216;[a-zA-Z0-9!#$%&\'*+\/=?^\`{|}~.-]';
 
-You&#8217;ll notice that some of the special characters have backslashes (\) next to them, this is to &#8220;escape&#8221; them when being used as a regular expression, as they normally hold special meaning. Also the dash (-) symbol was moved to the end so that it did not act as &#8220;between&#8221;.
+You'll notice that some of the special characters have backslashes (\) next to them, this is to &#8220;escape&#8221; them when being used as a regular expression, as they normally hold special meaning. Also the dash (-) symbol was moved to the end so that it did not act as &#8220;between&#8221;.
 
 Putting this information together, including the bit about periods appearing in the middle, but never two together, that appears like this:
 
 > $local_part = &#8220;($comb(?:\.$comb)?)+&#8221;;
 
-That&#8217;s the local part done. Now onto the domain part, which we&#8217;ll base on [[RFC3696 Section 2](http://www.apps.ietf.org/rfc/rfc3696.html#sec-2)].
+That's the local part done. Now onto the domain part, which we'll base on [[RFC3696 Section 2](http://www.apps.ietf.org/rfc/rfc3696.html#sec-2)].
 
 > the labels (words or strings separated by periods) that make up a domain name must consist of only the ASCII [ASCII] alphabetic and numeric characters, plus the hyphen. No other symbols or punctuation characters are permitted, nor is blank space. If the hyphen is used, it is not permitted to appear at either the beginning or end of a label. There is an additional rule that essentially requires that top-level domain names not be all- numeric.
 
@@ -384,12 +384,12 @@ That&#8217;s the local part done. Now onto the domain part, which we&#8217;ll ba
 > 
 > A DNS label may be no more than 63 octets long.
 
-Although it doesn&#8217;t say it as such in [RFC3696], we are on the understanding that periods cannot appear at the start or end of a domain name, but that is of course because periods are only used to &#8220;separate labels&#8221;.
+Although it doesn't say it as such in [RFC3696], we are on the understanding that periods cannot appear at the start or end of a domain name, but that is of course because periods are only used to &#8220;separate labels&#8221;.
 
 When building this I had some issues to overcome&#8230;
 
   * DNS labels cannot start or end with a dash (-), however two or more are allowed together in a label.
-  * TLDs cannot be &#8220;all numerics&#8221;, TLDs are generally all alphabetical, APART from IDN TLDs, which start with &#8220;xn--&#8220;, followed by a string of ASCII characters. This does throw a spanner in the works, however, there&#8217;s one consistency which is seen throughout, which is that all valid TLDs always start with at least 1 alphabetical character, this is what we will check for.
+  * TLDs cannot be &#8220;all numerics&#8221;, TLDs are generally all alphabetical, APART from IDN TLDs, which start with &#8220;xn--&#8220;, followed by a string of ASCII characters. This does throw a spanner in the works, however, there's one consistency which is seen throughout, which is that all valid TLDs always start with at least 1 alphabetical character, this is what we will check for.
   * TLDs are generally between 2 and 6 characters, IDN TLDs changes all this, as I have seen IDN TLDs as long as 18 characters in length, the RFC, however says 63.
   * A label can be 1 character long.
 
@@ -415,7 +415,7 @@ What we need to do in terms of length is as follows:
   * Each &#8220;dns-label&#8221; total length must be no longer than 63 characters.
   * The entire &#8220;email address&#8221; total length must be no longer than 256 characters.
 
-Put this together with the fact that certain elements cannot start or end with certain characters, it makes it difficult to correctly place the end check. Here&#8217;s a run down of that:
+Put this together with the fact that certain elements cannot start or end with certain characters, it makes it difficult to correctly place the end check. Here's a run down of that:
 
   * The &#8220;local-part&#8221; cannot start or end with a period (.)
   * The &#8220;local-part&#8221; must not have two periods together
@@ -423,17 +423,17 @@ Put this together with the fact that certain elements cannot start or end with c
 
 I found that I was unable to satisfy both the lengths and the character placements in a single regular expression. This forced me to make a decision, I could have one or the other, or neither.
 
-I figured that lengths actually hold very little value in validation. Providing the email looks right specific lengths won&#8217;t matter. Besides, we don&#8217;t need regular expressions in order to check lengths, it&#8217;s a very simple principle. It&#8217;s also worth noting that I discovered the local part [CAN be over 64 characters](mailto:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@mailinator.com), [check it out](http://www.mailinator.com/maildir.jsp?email=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&x=0&y=0).
+I figured that lengths actually hold very little value in validation. Providing the email looks right specific lengths won't matter. Besides, we don't need regular expressions in order to check lengths, it's a very simple principle. It's also worth noting that I discovered the local part [CAN be over 64 characters](mailto:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@mailinator.com), [check it out](http://www.mailinator.com/maildir.jsp?email=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&x=0&y=0).
 
-After playing around with dots and dashes in various places in email addresses on various servers and clients I soon discovered that it wasn&#8217;t as strict as I had first perceived. I found many examples of dots and dashes where they shouldn&#8217;t be, mainly at on the end of dns-labels (such as &#8220;x-.x.com&#8221;). Ultimately, at least for the &#8220;local-part&#8221;, it&#8217;s down to the user. For both parts verification should be used instead.
+After playing around with dots and dashes in various places in email addresses on various servers and clients I soon discovered that it wasn't as strict as I had first perceived. I found many examples of dots and dashes where they shouldn't be, mainly at on the end of dns-labels (such as &#8220;x-.x.com&#8221;). Ultimately, at least for the &#8220;local-part&#8221;, it's down to the user. For both parts verification should be used instead.
 
 So now the local-part now looks like this:
 
-> $local\_part = &#8220;[a-zA-Z0-9!#\$%&\&#8217;\*\+\/=\?\^\_\`\{\|\}~\.-]+&#8221;;
+> $local\_part = &#8220;[a-zA-Z0-9!#\$%&\'\*\+\/=\?\^\_\`\{\|\}~\.-]+&#8221;;
 
 And FINALLY, the domain part looks like this:
 
-> $consists = &#8216;\[a-zA-Z0-9\]\[a-zA-Z0-9-\]*&#8217;;
+> $consists = &#8216;\[a-zA-Z0-9\]\[a-zA-Z0-9-\]*';
   
 > $label = &#8220;(?:$consists(?:\.$consists)?)&#8221;;
   
@@ -445,47 +445,47 @@ We now need to bring the two parts back together, separated by an at-sign (@)&#8
 
 > $addr\_spec=&#8221;$local\_part@$domain&#8221;;
 
-Once you&#8217;ve added the syntax to match the start and end position, the resulting regular expression, looks something like this:
+Once you've added the syntax to match the start and end position, the resulting regular expression, looks something like this:
 
-> /^\[a-zA-Z0-9!#$%&\&#8217;\*+\/=?^_\`{|}~.-]+@(?:[a-zA-Z0-9\]\[a-zA-Z0-9-\]\*(?:\.\[a-zA-Z0-9\]\[a-zA-Z0-9-\]*)?)+\.(?:\[a-zA-Z\]\[a-zA-Z0-9-\]+)$/i
+> /^\[a-zA-Z0-9!#$%&\'\*+\/=?^_\`{|}~.-]+@(?:[a-zA-Z0-9\]\[a-zA-Z0-9-\]\*(?:\.\[a-zA-Z0-9\]\[a-zA-Z0-9-\]*)?)+\.(?:\[a-zA-Z\]\[a-zA-Z0-9-\]+)$/i
 
-I&#8217;m sure some of you have probably been shouting all the way through this saying that you can shorten the regex, I purposely didn&#8217;t do this to make it easier to follow. However you can shorten [a-zA-Z] by using the &#8220;case insensitive&#8221; modifier allowing you to remove &#8220;A-Z&#8221;, it also might be worth noting that you can use &#8220;\d&#8221; instead of &#8220;0-9&#8221;.
+I'm sure some of you have probably been shouting all the way through this saying that you can shorten the regex, I purposely didn't do this to make it easier to follow. However you can shorten [a-zA-Z] by using the &#8220;case insensitive&#8221; modifier allowing you to remove &#8220;A-Z&#8221;, it also might be worth noting that you can use &#8220;\d&#8221; instead of &#8220;0-9&#8221;.
 
-Here&#8217;s what I did:
+Here's what I did:
 
-> $addr\_spec=str\_replace(&#8216;a-zA-Z&#8217;,&#8217;a-z&#8217;,$addr_spec);
+> $addr\_spec=str\_replace(&#8216;a-zA-Z','a-z',$addr_spec);
   
-> $addr\_spec=str\_replace(&#8216;0-9&#8242;,&#8217;\d&#8217;,$addr_spec);
+> $addr\_spec=str\_replace(&#8216;0-9&#8242;,'\d',$addr_spec);
 
 You may also wish to take it further and consider replacing &#8220;a-z\d&#8221; with &#8220;\w&#8221;, and also removing the extra &#8220;\_&#8221;, since &#8220;\w&#8221; means word, which includes &#8220;a-zA-Z0-9\_&#8221;.
 
-Here&#8217;s how it looks:
+Here's how it looks:
 
-> /^\[\w!#$%&\&#8217;\*+\/=?^\`{|}~.-]+@(?:[a-z\d\]\[a-z\d-\]\*(?:\.\[a-z\d\]\[a-z\d-\]*)?)+\.(?:\[a-z\]\[a-z\d-\]+)$/i
+> /^\[\w!#$%&\'\*+\/=?^\`{|}~.-]+@(?:[a-z\d\]\[a-z\d-\]\*(?:\.\[a-z\d\]\[a-z\d-\]*)?)+\.(?:\[a-z\]\[a-z\d-\]+)$/i
 
-**Update:** Due to [recent vulnerabilities](http://www.php-security.org/MOPB/PMOPB-45-2007.html) in PHP&#8217;s very own email address validation regex (FILTER\_VALIDATE\_EMAIL) used in the [filter_var function](http://php.net/manual/en/function.filter-var.php), it&#8217;s recommended that you use the /D modifier, that will prevent newlines from matching. ie:
+**Update:** Due to [recent vulnerabilities](http://www.php-security.org/MOPB/PMOPB-45-2007.html) in PHP's very own email address validation regex (FILTER\_VALIDATE\_EMAIL) used in the [filter_var function](http://php.net/manual/en/function.filter-var.php), it's recommended that you use the /D modifier, that will prevent newlines from matching. ie:
 
-> /^\[\w!#$%&\&#8217;\*+\/=?^\`{|}~.-]+@(?:[a-z\d\]\[a-z\d-\]\*(?:\.\[a-z\d\]\[a-z\d-\]*)?)+\.(?:\[a-z\]\[a-z\d-\]+)$/iD
+> /^\[\w!#$%&\'\*+\/=?^\`{|}~.-]+@(?:[a-z\d\]\[a-z\d-\]\*(?:\.\[a-z\d\]\[a-z\d-\]*)?)+\.(?:\[a-z\]\[a-z\d-\]+)$/iD
 
 **Final thoughts**
 
-Learning how to correctly validate an email address has been one of the most stressful and time consuming things i&#8217;ve had to do in web development.
+Learning how to correctly validate an email address has been one of the most stressful and time consuming things i've had to do in web development.
 
-RFCs aren&#8217;t easy to understand, they are a complete minefield, and it results in something that is incomprehensible and unmaintainable.
+RFCs aren't easy to understand, they are a complete minefield, and it results in something that is incomprehensible and unmaintainable.
 
-There&#8217;s a lot that can be said for proper validation, so many people get it wrong, and it can mean the difference between a sale and no sale, but there&#8217;s a difference between doing it properly based strictly on technical specification and doing it properly for real world situations.
+There's a lot that can be said for proper validation, so many people get it wrong, and it can mean the difference between a sale and no sale, but there's a difference between doing it properly based strictly on technical specification and doing it properly for real world situations.
 
 In order to validate correctly, you must be in touch with the real world, and not get caught up too much in the technical documentation, otherwise you will find yourself far from the original objective.
 
 Thus a lot can be said about the outdated RFCs, and the people who write them. The technical specification is so far out of touch with reality it does not actually work in practice.
 
-Having said all this, of course validation has it&#8217;s limitations and can only do so much. Once you&#8217;ve validated the email address to the best of your ability without compromising too much resources, verification is the next step.
+Having said all this, of course validation has it's limitations and can only do so much. Once you've validated the email address to the best of your ability without compromising too much resources, verification is the next step.
 
 This article for intent and purpose set out to validate an email address. Although basic levels of verification can be done very easily, I feel that it goes beyond the scope of this article.
 
 For more information with regards to email address verification, I suggest you look into the Simple Mail Transfer Protocol (SMTP), details can be found in [[RFC2821](http://tools.ietf.org/html/rfc2821)], you may also be interested in the [getmxrr()](http://www.php.net/getmxrr) function. Also consider the use of DNS to verify the domain name.
 
-I hope you&#8217;ve enjoyed reading this article, it took me a long time to complete, and was quite stressful, but I feel satisfied that I am now fully qualified to validate email addresses to a satisfactory level. I hope that now, you are too.
+I hope you've enjoyed reading this article, it took me a long time to complete, and was quite stressful, but I feel satisfied that I am now fully qualified to validate email addresses to a satisfactory level. I hope that now, you are too.
 
 I look forward to your comments.
 
@@ -493,11 +493,11 @@ I look forward to your comments.
   
 ** 
 
-  * [Perl&#8217;s Mail::RFC822::Address](http://www.ex-parrot.com/~pdw/Mail-RFC822-Address.html)
-  * [Cal&#8217;s is\_valid\_email_address PHP function](http://code.iamcal.com/php/rfc822/rfc2822.phps)
-  * [sinful-music.com&#8217;s mime\_extract\_rfc2822_address](http://uk.php.net/manual/en/function.preg-match-all.php#62104)
-  * [SimonSlick&#8217;s Validate Email Address Format](http://SimonSlick.com/VEAF/)
-  * [Jacob Santos&#8217;s &#8220;Stop Doing Email Validation the Wrong Way&#8221; rant.](http://www.santosj.name/php/stop-doing-email-validation-the-wrong-way/)
+  * [Perl's Mail::RFC822::Address](http://www.ex-parrot.com/~pdw/Mail-RFC822-Address.html)
+  * [Cal's is\_valid\_email_address PHP function](http://code.iamcal.com/php/rfc822/rfc2822.phps)
+  * [sinful-music.com's mime\_extract\_rfc2822_address](http://uk.php.net/manual/en/function.preg-match-all.php#62104)
+  * [SimonSlick's Validate Email Address Format](http://SimonSlick.com/VEAF/)
+  * [Jacob Santos's &#8220;Stop Doing Email Validation the Wrong Way&#8221; rant.](http://www.santosj.name/php/stop-doing-email-validation-the-wrong-way/)
   * [Validate email addresses using regular expressions](http://www.markussipila.info/pub/emailvalidator.php)
   * [ilovejackdaniels.com on email address validation](http://www.ilovejackdaniels.com/php/email-address-validation/)
 
@@ -505,7 +505,7 @@ I look forward to your comments.
 
 I have put my regex into a function called [validate_email](http://hm2k.googlecode.com/svn/trunk/code/php/functions/validate_email.php) and have created [validemail.org](http://validemail.org/) to demonstrate the difficulty of email address validation.
 
-Also, I am advice people not to use PHP&#8217;s filter\_var() and FILTER\_VALIDATE_EMAIL as according to the [source code](http://svn.php.net/viewvc/php/php-src/trunk/ext/filter/logical_filters.c?view=co&content-type=text%2Fplain), the regex it uses is from a unmaintained PEAR package called [HTML_QuickForm](http://cvs.php.net/viewvc.cgi/pear/HTML_QuickForm/QuickForm/Rule/Email.php?view=co&content-type=text%2Fplain), which has been superseded by HTML_QuickForm2, which does not validate email addresses. This means nobody is assigned to maintaining the PHP&#8217;s own email validation.
+Also, I am advice people not to use PHP's filter\_var() and FILTER\_VALIDATE_EMAIL as according to the [source code](http://svn.php.net/viewvc/php/php-src/trunk/ext/filter/logical_filters.c?view=co&content-type=text%2Fplain), the regex it uses is from a unmaintained PEAR package called [HTML_QuickForm](http://cvs.php.net/viewvc.cgi/pear/HTML_QuickForm/QuickForm/Rule/Email.php?view=co&content-type=text%2Fplain), which has been superseded by HTML_QuickForm2, which does not validate email addresses. This means nobody is assigned to maintaining the PHP's own email validation.
 
 Instead, I recommend using my [validate_email](http://hm2k.googlecode.com/svn/trunk/code/php/functions/validate_email.php) function which is not only maintained but also adheres to RFC 760 which states:  _&#8220;In general, an implementation should be conservative in its sending behavior, and liberal in its receiving behavior&#8221;_. Also known as the [Robustness principle](http://en.wikipedia.org/wiki/Robustness_principle).
 

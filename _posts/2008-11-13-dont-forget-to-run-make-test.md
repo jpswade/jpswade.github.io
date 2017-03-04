@@ -1,6 +1,6 @@
 ---
 id: 289
-title: 'Don&#8217;t forget to run make test!'
+title: 'Don't forget to run make test!'
 date: 2008-11-13T16:17:26+00:00
 author: admin
 layout: post
@@ -15,10 +15,10 @@ tags:
 
 > Build complete.
   
-> Don&#8217;t forget to run &#8216;make test&#8217;.
+> Don't forget to run &#8216;make test'.
 > 
 > amber# make test
   
-> make: don&#8217;t know how to make test. Stop
+> make: don't know how to make test. Stop
 
 It made me laugh anyway.

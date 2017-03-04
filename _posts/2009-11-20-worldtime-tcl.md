@@ -26,11 +26,11 @@ tags:
 > <pre>&gt; .tz london
 &lt;Bot&gt; User, The time for the london timezone is Fri Feb 13 23:31:30 2009</pre>
 
-However, much like my old _weather.tcl_, I realised that my _worldtime.tcl_ had passed it&#8217;s sell by date and had now expired.
+However, much like my old _weather.tcl_, I realised that my _worldtime.tcl_ had passed it's sell by date and had now expired.
 
-The old _worldtime.tcl_ which was based on a script by _Murf_ which used _worldtimeserver.com_ to gather it&#8217;s data had stopped working. It would seem that _worldtimeserver.com_ had changed their markup which meant that it was no longer possible to parse the correct data from the HTML.
+The old _worldtime.tcl_ which was based on a script by _Murf_ which used _worldtimeserver.com_ to gather it's data had stopped working. It would seem that _worldtimeserver.com_ had changed their markup which meant that it was no longer possible to parse the correct data from the HTML.
 
-Never mind, I thought, there must be a better way, that doesn&#8217;t need to use a third party website, that won&#8217;t stop working. After all operating systems have worldtime build in without using a website, so how do they do it?
+Never mind, I thought, there must be a better way, that doesn't need to use a third party website, that won't stop working. After all operating systems have worldtime build in without using a website, so how do they do it?
 
 So, I did some investigation&#8230; <!--more-->
 
@@ -50,7 +50,7 @@ So, I did some investigation&#8230; <!--more-->
 
 <span style="text-decoration: line-through;">However, what I may do next time is build a function that saves the timezone information into a database file which can be used on windows systems and will also give the Linux systems a cache file to make it respond quicker.</span>
 
-**Update:** I decided to stop using the tz database method and replace it with a Google lookup method, which is far more accurate and portable. So now you&#8217;ll probably want to download it&#8230;
+**Update:** I decided to stop using the tz database method and replace it with a Google lookup method, which is far more accurate and portable. So now you'll probably want to download it&#8230;
 
   * [Download worldtime.tcl](http://hm2k.googlecode.com/svn/trunk/code/tcl/worldtime.tcl)
 

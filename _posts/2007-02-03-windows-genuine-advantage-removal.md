@@ -11,7 +11,7 @@ categories:
   - Sysadmin
 ---
 <p class="lead">
-  First of all for those that don&#8217;t know, Windows Genuine Advantage or WGA is a peice of software released by Microsoft to validate your copy of windows when using services such as Windows Update or Download Center.
+  First of all for those that don't know, Windows Genuine Advantage or WGA is a peice of software released by Microsoft to validate your copy of windows when using services such as Windows Update or Download Center.
 </p>
 
 Due to the fact that these days you are required to keep windows up-to-date it is a good idea to satify the WGA notification.

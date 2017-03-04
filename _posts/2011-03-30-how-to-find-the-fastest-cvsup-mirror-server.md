@@ -25,7 +25,7 @@ tags:
 
 fastest_cvsup is a system utility written in Perl that finds fastest CVSup mirror server for FreeBSD, OpenBSD or NetBSD.
 
-Here I&#8217;m going to tell you how to get started&#8230;
+Here I'm going to tell you how to get started&#8230;
 
 <!--more-->
 
@@ -51,7 +51,7 @@ This will display the more detailed manual page.
 
 **Usage examples**
 
-Here&#8217;s a few practical examples to get you started.
+Here's a few practical examples to get you started.
 
 This example will check to see which United Kingdom (uk) based servers are quickest:
 

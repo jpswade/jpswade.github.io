@@ -10,13 +10,13 @@ tags:
   - Site
 ---
 <p class="lead">
-  It&#8217;s about this time that geeks start to think about things to do over the summer.
+  It's about this time that geeks start to think about things to do over the summer.
 </p>
 
 [Geek in the Park](http://www.geekinthepark.co.uk/) is a day-long event for geeks (mainly web developers) to have a get together.
 
 The event is going to be held in [<p class="lead">
-  It&#8217;s about this time that geeks start to think about things to do over the summer.
+  It's about this time that geeks start to think about things to do over the summer.
 </p>
 
 [Geek in the Park](http://www.geekinthepark.co.uk/) is a day-long event for geeks (mainly web developers) to have a get together.
@@ -31,9 +31,9 @@ So, come see me at Geek in the Park on Saturday 9th August 2008. Put it in your 
 
 I aim to get there around mid-day, but have been known to be fashionably late.
 
-<span class="url">You&#8217;ll find me listed on both the </span><a class="url" rel="external" href="http://upcoming.yahoo.com/event/665107/">Upcoming</a> and <a class="url" rel="external" href="http://www.facebook.com/event.php?eid=18849565907">Facebook</a> <span class="url">event pages.</span>
+<span class="url">You'll find me listed on both the </span><a class="url" rel="external" href="http://upcoming.yahoo.com/event/665107/">Upcoming</a> and <a class="url" rel="external" href="http://www.facebook.com/event.php?eid=18849565907">Facebook</a> <span class="url">event pages.</span>
 
-Don&#8217;t forget to visit the [Geek in the Park](http://2008.geekinthepark.co.uk/) website and add your email address to the announcements.
+Don't forget to visit the [Geek in the Park](http://2008.geekinthepark.co.uk/) website and add your email address to the announcements.
 
 For those of you on IRC, you can visit #webdev @ EFnet to discuss it further.
 

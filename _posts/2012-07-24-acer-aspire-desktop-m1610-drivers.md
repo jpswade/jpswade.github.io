@@ -20,7 +20,7 @@ Hi all,
 
 I had a Acer Aspire Desktop M1610 land on my desk.
 
-Manufactured 15/12/2007 with Windows Vista Home Premium COA sticker attached, sporting an Intel Pentium &#8220;Duel-Core inside&#8221; sticker on the front, it&#8217;s not a completely terrible bit of kit.
+Manufactured 15/12/2007 with Windows Vista Home Premium COA sticker attached, sporting an Intel Pentium &#8220;Duel-Core inside&#8221; sticker on the front, it's not a completely terrible bit of kit.
 
 It works anyway, at least it did until I wiped the disk.
 
@@ -28,7 +28,7 @@ Sure, no problem, only now I need the drivers.
 
 <!--more-->
 
-I figured I might be able to try out Windows 7 on it and that&#8217;s when I came across this video:
+I figured I might be able to try out Windows 7 on it and that's when I came across this video:
 
   * [acer aspire M1610 download drivers](http://www.youtube.com/watch?v=-6qBIZa-QNQ)
 
@@ -53,7 +53,7 @@ Complete Factory Drivers
 
 No virus I personally run it with Avira(My Linux Lap), AvastaPro (My Laptop) and Norto Pro (My Desktop)</pre>
 
-In addition to that, the torrent would not complete and was left at 64%, I decided to see what I was actually downloading anyway and opened the &#8220;Acer Aspire Desktop M1610 Intel Pentium Dual Core-Windows Vista X86 Complete Factory Drivers.rar&#8221;, which contained a &#8220;Acer Aspire Desktop M1610 Intel Pentium Dual Core-Windows Vista X86 Complete Factory Drivers.exe&#8221;. I&#8217;m not convinced. So I figured:
+In addition to that, the torrent would not complete and was left at 64%, I decided to see what I was actually downloading anyway and opened the &#8220;Acer Aspire Desktop M1610 Intel Pentium Dual Core-Windows Vista X86 Complete Factory Drivers.rar&#8221;, which contained a &#8220;Acer Aspire Desktop M1610 Intel Pentium Dual Core-Windows Vista X86 Complete Factory Drivers.exe&#8221;. I'm not convinced. So I figured:
 
   1. I can get these Vista drivers from the official Acer website and probably use them on Windows 7.
   2. This torrent probably contains a virus.
@@ -64,7 +64,7 @@ The problem is that this takes far too long to individually download each file v
 
   * <a href="ftp://ftp.work.acer-euro.com/desktop/aspire_m1610/" target="_blank">ftp://ftp.work.acer-euro.com/desktop/aspire_m1610/</a>
 
-Now for the smart part, here&#8217;s how to get all the drivers for the Acer Aspire M1610:
+Now for the smart part, here's how to get all the drivers for the Acer Aspire M1610:
 
   1. Get <a href="http://users.ugent.be/~bpuype/wget/" target="_blank">wget.exe</a>
   2. Open cmd.exe and type:
@@ -72,8 +72,8 @@ Now for the smart part, here&#8217;s how to get all the drivers for the Acer Asp
 
 You should end up with a folder called &#8220;ftp.work.acer-euro.com&#8221; which will contain desktop/aspire_m1610 and all the drivers are contained in there, in their individual zip files.
 
-Will it work with Windows 7? There&#8217;s only one way to find out!
+Will it work with Windows 7? There's only one way to find out!
 
-Pretty trivial I know, but considering there&#8217;s a YouTube video and a torrent in the wild, I figure it may be a popular enough system to interest a handful of people at least.
+Pretty trivial I know, but considering there's a YouTube video and a torrent in the wild, I figure it may be a popular enough system to interest a handful of people at least.
 
 Hope you find this useful, if so, please leave a comment&#8230;

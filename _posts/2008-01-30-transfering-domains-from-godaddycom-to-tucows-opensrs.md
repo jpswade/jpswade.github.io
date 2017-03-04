@@ -13,7 +13,7 @@ categories:
   - Sysadmin
 ---
 <p class="lead">
-  I need to transfer a bunch of domains from Godaddy (aka <a href="http://nodaddy.com/">Godamnannoying</a>) to TuCows (aka <a href="http://resellers.tucows.com/opensrs/">OpenSRS</a>), surly it can&#8217;t be that difficult? Right?
+  I need to transfer a bunch of domains from Godaddy (aka <a href="http://nodaddy.com/">Godamnannoying</a>) to TuCows (aka <a href="http://resellers.tucows.com/opensrs/">OpenSRS</a>), surly it can't be that difficult? Right?
 </p>
 
 I found that there were lots of articles on how to transfer _to_ Godaddy, but not how to get out. This is a short guide on how to transfer _away_ from Godaddy, in this case we will be transferring to OpenSRS.
@@ -25,7 +25,7 @@ This guide is appropriate for .com, .net, .org, .name domain names.
 These are the steps you need to take:
 
   * Go to: <http://mya.godaddy.com/> and login.[<p class="lead">
-  I need to transfer a bunch of domains from Godaddy (aka <a href="http://nodaddy.com/">Godamnannoying</a>) to TuCows (aka <a href="http://resellers.tucows.com/opensrs/">OpenSRS</a>), surly it can&#8217;t be that difficult? Right?
+  I need to transfer a bunch of domains from Godaddy (aka <a href="http://nodaddy.com/">Godamnannoying</a>) to TuCows (aka <a href="http://resellers.tucows.com/opensrs/">OpenSRS</a>), surly it can't be that difficult? Right?
 </p>
 
 I found that there were lots of articles on how to transfer _to_ Godaddy, but not how to get out. This is a short guide on how to transfer _away_ from Godaddy, in this case we will be transferring to OpenSRS.
@@ -54,14 +54,14 @@ The email from Godaddy comes fairly quickly and should look like this:
 
 The next step requires you to log into your OpenSRS TuCows reseller account (however some people may wish to use their own API).
 
-_Note: You can&#8217;t do this step unless the domain is unlocked._
+_Note: You can't do this step unless the domain is unlocked._
 
   * Visit: <https://rr-n1-tor.opensrs.net/resellers/> and login.
   * Find the &#8220;Transfer a domain&#8221; box and enter the domain name there.
   * Fill out the appropriate details and submit.
   * You will receive an email with instructions, simply follow the instructions, it will ask for an auth code.
 
-At this point if you log into OpenSRS it says: &#8220;Pending Registry Approval&#8221; and &#8220;Registry hasn&#8217;t transfered the domain yet&#8221; and if you log into Godaddy it says: &#8220;Transfer Away Accept/Decline Required&#8221;.
+At this point if you log into OpenSRS it says: &#8220;Pending Registry Approval&#8221; and &#8220;Registry hasn't transfered the domain yet&#8221; and if you log into Godaddy it says: &#8220;Transfer Away Accept/Decline Required&#8221;.
 
 The email from OpenSRS Transfer [transfers@opensrs.org] will take some time to come through, be patient it does come eventually, usually within 1 hour, and it should appear something like this:
 
@@ -105,7 +105,7 @@ The email from OpenSRS Transfer [transfers@opensrs.org] will take some time to c
   
 > Transfer Key: [Random Key]
 > 
-> If you DO NOT WANT the transfer to proceed, then don&#8217;t respond to this message.
+> If you DO NOT WANT the transfer to proceed, then don't respond to this message.
 > 
 > If you have any questions about this process, please contact transfers@opensrs.org
 
@@ -117,15 +117,15 @@ _Note: When following these instructions, you will need the &#8220;Authorization
   * <span style="text-decoration: line-through;">Select &#8220;Pending Domain Transfers&#8221; from the list (on the right). </span>
   * <span style="text-decoration: line-through;">Select the transfers you wish to accept from the &#8220;Pending Domain Transfers&#8221; list, and click &#8220;Accept.&#8221;</span>
 
-_Note: Apparently you don&#8217;t need to &#8220;accept&#8221; the transfer with Godaddy now, instead it is assumed that you wish to transfer, and gives you the opportunity to cancel instead, details of which are included in the email you receive from Godaddy._
+_Note: Apparently you don't need to &#8220;accept&#8221; the transfer with Godaddy now, instead it is assumed that you wish to transfer, and gives you the opportunity to cancel instead, details of which are included in the email you receive from Godaddy._
 
-**Update: Although you can just WAIT for the transfer to be actioned by Godaddy, it usually takes about 7 days, this is a long time, so here&#8217;s what to do:**
+**Update: Although you can just WAIT for the transfer to be actioned by Godaddy, it usually takes about 7 days, this is a long time, so here's what to do:**
 
   * Go back to: <http://mya.godaddy.com/> and login.
-  * Select &#8216;Domain Names&#8217; from the &#8216;My Account&#8217; menu.
-  * Select &#8216;Pending Transfers&#8217; from the &#8216;Domains&#8217; tab at the top of the page.
+  * Select &#8216;Domain Names' from the &#8216;My Account' menu.
+  * Select &#8216;Pending Transfers' from the &#8216;Domains' tab at the top of the page.
   * Click the domain name in the list.
-  * Click &#8216;Accept&#8217; to accept the transfer away of your domain.
+  * Click &#8216;Accept' to accept the transfer away of your domain.
   * After confirming your intent, the domain registration will be transfered to your new Registrar.
 
 What a ball ache! Got there in the end though!

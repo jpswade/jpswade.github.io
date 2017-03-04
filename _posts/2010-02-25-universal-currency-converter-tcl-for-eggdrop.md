@@ -27,17 +27,17 @@ tags:
 
 This is a currency converter written in TCL for Eggdrop, which is similar to the ucc.mrc I wrote for mIRC.
 
-I used to use the [xeucc.tcl](http://members.dandy.net/~fbn/xeucc.tcl.txt), but that script no longer works and hasn&#8217;t been updated since 2008.
+I used to use the [xeucc.tcl](http://members.dandy.net/~fbn/xeucc.tcl.txt), but that script no longer works and hasn't been updated since 2008.
 
 > > !ucc 9 usd gbp
   
 > <Bot> Could not obtain results from XE.com, sorry!
 
-<!--more-->Further more xeucc.tcl uses the XE.com website to gather the information, however they don&#8217;t like us doing this, and have since added the following message:
+<!--more-->Further more xeucc.tcl uses the XE.com website to gather the information, however they don't like us doing this, and have since added the following message:
 
 > WARNING: Automated extraction of rates is prohibited under the Terms of Use.
 
-Other scripts such as Incith&#8217;s Exchange also use a website. This one uses Yahoo Finance. The problem is that this website is subject to change at any time without prior notice.
+Other scripts such as Incith's Exchange also use a website. This one uses Yahoo Finance. The problem is that this website is subject to change at any time without prior notice.
 
 Parsing a website that is subject to change is not always a good idea. Instead what is needed is an API which is easy to parse and extract the data and also unlikely to change formatting.
 
@@ -69,4 +69,4 @@ I have used the second URL in my script.
 
   * Update: This script is now part of the [eggtcl project](http://eggtcl.github.io/).
 
-If you like it, or even if you don&#8217;t, please leave a comment below. Thanks.
+If you like it, or even if you don't, please leave a comment below. Thanks.

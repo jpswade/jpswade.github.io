@@ -32,11 +32,11 @@ This will ensure that people are aware you are asking a question, and not just m
 
 To most this will seem obvious, but sometimes it is overlooked.
 
-**Don&#8217;t ask to ask Just ask!**
+**Don't ask to ask Just ask!**
 
-If you have a question just ask it, don&#8217;t ask to ask.
+If you have a question just ask it, don't ask to ask.
 
-**Don&#8217;t take surveys**
+**Don't take surveys**
 
 Questions starting with (but not limited to) the following are bad:
 
@@ -61,7 +61,7 @@ Avoid this by asking your question with all the requirements and specification i
   
 ** 
 
-Have you actually tried to do what you&#8217;re asking about yourself first? Try it out, make a test case. Tell whoever you&#8217;re asking that you have tried it, show them what you tried, and tell them the results.
+Have you actually tried to do what you're asking about yourself first? Try it out, make a test case. Tell whoever you're asking that you have tried it, show them what you tried, and tell them the results.
 
 Have you made a test case? Making a test case will make it far easier for you to identify the problem.
 
@@ -69,15 +69,15 @@ Have you made a test case? Making a test case will make it far easier for you to
 
 If you need help and it involves use of your domain, use your domain, or if you are using a hypothetical example, use one of the example domains (such as example.com) as according to [RFC 2606](http://www.rfc-editor.org/rfc/rfc2606.txt).
 
-It&#8217;s simple really, use your own domain, or the example one.
+It's simple really, use your own domain, or the example one.
 
 Showing us your domain/website can help us help you in many more ways than you think.
 
-We&#8217;re not out to get you, so just tell us, save the guessing.
+We're not out to get you, so just tell us, save the guessing.
 
 **If it looks like a fish, smells like a fish&#8230;**
 
-Chances are it&#8217;s a fish. Avoid stupid questions by assuming the obvious. Only when you are still unsure should you ask.
+Chances are it's a fish. Avoid stupid questions by assuming the obvious. Only when you are still unsure should you ask.
 
 **Do not use private messaging without permission**
 
@@ -106,4 +106,4 @@ _**Further reading**_
   * [Netiquette Guidelines](http://tools.ietf.org/html/rfc1855)
   * [Restating the problem](http://blogs.msdn.com/b/ericlippert/archive/2009/04/13/restating-the-problem.aspx)
 
-_Note: Only leave comments about this article, don&#8217;t ask questions here. Thanks._
+_Note: Only leave comments about this article, don't ask questions here. Thanks._

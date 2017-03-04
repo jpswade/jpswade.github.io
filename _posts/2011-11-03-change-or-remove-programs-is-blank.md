@@ -32,16 +32,16 @@ This message is followed by a blank change or remove programs window.
 
 Do you remember it now?
 
-The question is, how do you fix it? Here&#8217;s what I came across:
+The question is, how do you fix it? Here's what I came across:
 
   * [Add/Remove Programs Tool Does Not Open](http://support.microsoft.com/kb/329891) (Tried)
   * [Add\Remove Programs Tool May Not Work After Installing Internet Explorer 5.5 or Internet Explorer 6 on Windows 2000](http://support.microsoft.com/kb/265829) (Tried)
   * [Add/Remove Programs dialog box does not appear or is corrupted](http://support.microsoft.com/kb/323496) (Tried)
   * [A new window opened in Internet Explorer displays a blank white page](http://support.microsoft.com/kb/902932) (Tried)
 
-None of this worked for me, but it did indicate that the problem was related to Internet Explorer. Since the Windows Update page wouldn&#8217;t load in Internet Explorer either, this was enough to convince me there was a problem there.
+None of this worked for me, but it did indicate that the problem was related to Internet Explorer. Since the Windows Update page wouldn't load in Internet Explorer either, this was enough to convince me there was a problem there.
 
-I tried reinstalling it using the &#8220;C:\WINNT\inf\ie.inf&#8221; file, but this didn&#8217;t work.
+I tried reinstalling it using the &#8220;C:\WINNT\inf\ie.inf&#8221; file, but this didn't work.
 
 I downloaded [ie6setup.exe](http://download.microsoft.com/download/ie6sp1/finrel/6_sp1/W98NT42KMeXP/EN-US/ie6setup.exe) (IE6 SP1 installer) and ran it normally.
 

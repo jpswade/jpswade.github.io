@@ -18,18 +18,18 @@ tags:
   - yum
 ---
 <p class="lead">
-  First of all, what is MongoDB? Well if you&#8217;re already here, you probably know, but if this is the first time you&#8217;ve heard of it, then you may want to know a bit more, so here&#8217;s a brief description to help you along your way:
+  First of all, what is MongoDB? Well if you're already here, you probably know, but if this is the first time you've heard of it, then you may want to know a bit more, so here's a brief description to help you along your way:
 </p>
 
 > [MongoDB](https://en.wikipedia.org/wiki/MongoDB) is a &#8220;document database&#8221; designed for performance and scalability while remaining easy for developers to use. It does not mean XLS or DOC files, instead it means storing arrays, therefore it is often grouped with other non-relational databases under the term &#8220;NoSQL&#8221;.
 
 The question is, why might you want to use this over traditional SQL databases such as MySQL, PostgreSQL or even SQLite?
 
-Well, there&#8217;s one fantastic reason: it works as if it is part of the language you&#8217;re coding in, rather than requiring you to learn a new one.
+Well, there's one fantastic reason: it works as if it is part of the language you're coding in, rather than requiring you to learn a new one.
 
-The problem is that cPanel doesn&#8217;t have native support for MongoDB, but that won&#8217;t stop us installing it on CentOS 6, in fact, because there&#8217;s no interference from cPanel (yet), it makes it a little easier.
+The problem is that cPanel doesn't have native support for MongoDB, but that won't stop us installing it on CentOS 6, in fact, because there's no interference from cPanel (yet), it makes it a little easier.
 
-Here&#8217;s how we get it installed:
+Here's how we get it installed:
 
 <!--more-->
 
@@ -67,15 +67,15 @@ Very simply, just run these commands:
   
 > #EOF
 
-That&#8217;s it, MongoDB is installed!
+That's it, MongoDB is installed!
 
-Assuming you want to use MongoDB with PHP, here&#8217;s what you need next:
+Assuming you want to use MongoDB with PHP, here's what you need next:
 
 > pecl install mongo
 
-Once completed that&#8217;s it, you&#8217;re all set to go.
+Once completed that's it, you're all set to go.
 
-In PHP, you&#8217;re then able to do things like this:
+In PHP, you're then able to do things like this:
 
 > <?php
 > 
@@ -85,6 +85,6 @@ In PHP, you&#8217;re then able to do things like this:
 > 
 > ?>
 
-Now you&#8217;re ready to rock and roll!
+Now you're ready to rock and roll!
 
 Next time on MongoDB, creating an Address Book&#8230;

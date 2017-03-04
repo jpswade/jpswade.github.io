@@ -17,7 +17,7 @@ categories:
 
 **Outdated software**
 
-If your version of Windows is not up-to-date and you go online (especially without a firewall), you are prone to the very latest viruses via many different vulnerabilities in Windows it&#8217;s self.
+If your version of Windows is not up-to-date and you go online (especially without a firewall), you are prone to the very latest viruses via many different vulnerabilities in Windows it's self.
 
 If you are putting a new computer on to the internet, ensure it has the very latest windows updates. If you are unsure whether it is up-to-date, ensure you connect behind a hardware (often your router) or software firewall.
 
@@ -33,7 +33,7 @@ You can find out what version of windows you are running by using: Start > Run >
 
 If you purchased a retail machine from manufacturers such as HP, Dell, Compaq, Packard Bell, Acer, Fujitsu, please ensure you have run their &#8220;Update Software&#8221; program. If you are unsure, I recommend contacting them and asking them how you can ensure you have the latest version of the software they supplied with your machine.
 
-Ensure that any software you have installed is the very latest version, you can check by visiting the vendor&#8217;s website.
+Ensure that any software you have installed is the very latest version, you can check by visiting the vendor's website.
 
 Additionally, it is important that you keep your anti virus and anti-spyware software up-to-date, failing to do this will leave your system vulnerable to infection.
 
@@ -64,11 +64,11 @@ The lesson here is, **do not open anything you are not expecting!** If you are u
 
 These are websites that are not established (in the media) that try and offer you something that you would usually have to pay for, such as, games, screensavers, wallpapers, software, music, movies, and pornography (also lyrics sites).
 
-When you visit such sites these sites attempt to install spyware onto your machine, as this is how they get their money back for offering the service or product you&#8217;re trying to get for free.
+When you visit such sites these sites attempt to install spyware onto your machine, as this is how they get their money back for offering the service or product you're trying to get for free.
 
 You can attempt to avoid problems with such sites by using a browser other than Internet Explorer, such as Firefox [[www.getfirefox.com](http://www.getfirefox.com/)] which is free to download.
 
-If you&#8217;re unsure about what you&#8217;re downloading stick to popular known vendors that have been recommended by experts. Never download and run anything that you are unsure about.
+If you're unsure about what you're downloading stick to popular known vendors that have been recommended by experts. Never download and run anything that you are unsure about.
 
 When attempting to get rid of popups, do not ever press OK, always press cancel. Press the back button or use the drop down next to the back button until the popup goes away. If the back button is grey, close the window.
 

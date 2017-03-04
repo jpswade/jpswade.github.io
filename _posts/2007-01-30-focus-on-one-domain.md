@@ -22,7 +22,7 @@ I then find that visitors will end up entering the sites at different points fro
 
 This will also help enforce your brand name by ensuring the user always gets redirected to the correct domain, even if they visit the others by mistake.
 
-In addition to this, Google states &#8220;[Don&#8217;t create multiple pages, subdomains, or domains with substantially duplicate content.](http://www.google.com/support/webmasters/bin/answer.py?answer=35769)&#8220;, therefore by redirecting traffic to one domain, rather than having duplicates you stand more chance of your domain not being marked as &#8220;bad&#8221; by search engines. (Also see [What&#8217;s a preferred domain?](http://www.google.com/support/webmasters/bin/answer.py?answer=44231))
+In addition to this, Google states &#8220;[Don't create multiple pages, subdomains, or domains with substantially duplicate content.](http://www.google.com/support/webmasters/bin/answer.py?answer=35769)&#8220;, therefore by redirecting traffic to one domain, rather than having duplicates you stand more chance of your domain not being marked as &#8220;bad&#8221; by search engines. (Also see [What's a preferred domain?](http://www.google.com/support/webmasters/bin/answer.py?answer=44231))
 
 On a very similar note, another common problem is the &#8220;www.&#8221; prefix on domains, sometimes people include when visiting a URL, other times they do not. The problem with this is that &#8220;www.example.com&#8221; is considered an entirely different domain than &#8220;example.com&#8221; by search engines. By redirecting traffic that is NONE &#8220;www.example.com&#8221; we can still continue our focus and maintain our brand name.
 
@@ -48,4 +48,4 @@ _Note: The QSA flag will append the query string to the rewritten URL._
 > 
 > RewriteRule ^/(.*)$ http://www\.example\.com/$1 [I,RP]
 
-_Note: Some find ^(.\*)$ works, others find ^/(.\*)$ works. I&#8217;ll let you decide which to use._
+_Note: Some find ^(.\*)$ works, others find ^/(.\*)$ works. I'll let you decide which to use._

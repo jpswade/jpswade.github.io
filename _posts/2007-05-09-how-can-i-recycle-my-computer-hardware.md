@@ -13,7 +13,7 @@ categories:
   <strong>NEVER THROW AWAY YOUR COMPUTER EQUIPMENT</strong>
 </p>
 
-<!--more-->There&#8217;s many ways to recycle your computer hardware. The most common methods are as follows:
+<!--more-->There's many ways to recycle your computer hardware. The most common methods are as follows:
 
   * Charities
   * Recycle centres
@@ -44,7 +44,7 @@ There are hundreds of them, ring up your local computer shop (see Yellow Pages) 
   <strong>NEVER THROW AWAY YOUR COMPUTER EQUIPMENT</strong>
 </p>
 
-<!--more-->There&#8217;s many ways to recycle your computer hardware. The most common methods are as follows:
+<!--more-->There's many ways to recycle your computer hardware. The most common methods are as follows:
 
   * Charities
   * Recycle centres
@@ -76,7 +76,7 @@ There are hundreds of them, ring up your local computer shop (see Yellow Pages) 
   <strong>NEVER THROW AWAY YOUR COMPUTER EQUIPMENT</strong>
 </p>
 
-<!--more-->There&#8217;s many ways to recycle your computer hardware. The most common methods are as follows:
+<!--more-->There's many ways to recycle your computer hardware. The most common methods are as follows:
 
   * Charities
   * Recycle centres
@@ -107,7 +107,7 @@ There are hundreds of them, ring up your local computer shop (see Yellow Pages) 
   <strong>NEVER THROW AWAY YOUR COMPUTER EQUIPMENT</strong>
 </p>
 
-<!--more-->There&#8217;s many ways to recycle your computer hardware. The most common methods are as follows:
+<!--more-->There's many ways to recycle your computer hardware. The most common methods are as follows:
 
   * Charities
   * Recycle centres
@@ -140,7 +140,7 @@ There are hundreds of them, ring up your local computer shop (see Yellow Pages) 
   <strong>NEVER THROW AWAY YOUR COMPUTER EQUIPMENT</strong>
 </p>
 
-<!--more-->There&#8217;s many ways to recycle your computer hardware. The most common methods are as follows:
+<!--more-->There's many ways to recycle your computer hardware. The most common methods are as follows:
 
   * Charities
   * Recycle centres
@@ -171,7 +171,7 @@ There are hundreds of them, ring up your local computer shop (see Yellow Pages) 
   <strong>NEVER THROW AWAY YOUR COMPUTER EQUIPMENT</strong>
 </p>
 
-<!--more-->There&#8217;s many ways to recycle your computer hardware. The most common methods are as follows:
+<!--more-->There's many ways to recycle your computer hardware. The most common methods are as follows:
 
   * Charities
   * Recycle centres
@@ -203,7 +203,7 @@ There are hundreds of them, ring up your local computer shop (see Yellow Pages) 
   <strong>NEVER THROW AWAY YOUR COMPUTER EQUIPMENT</strong>
 </p>
 
-<!--more-->There&#8217;s many ways to recycle your computer hardware. The most common methods are as follows:
+<!--more-->There's many ways to recycle your computer hardware. The most common methods are as follows:
 
   * Charities
   * Recycle centres
@@ -234,7 +234,7 @@ There are hundreds of them, ring up your local computer shop (see Yellow Pages) 
   <strong>NEVER THROW AWAY YOUR COMPUTER EQUIPMENT</strong>
 </p>
 
-<!--more-->There&#8217;s many ways to recycle your computer hardware. The most common methods are as follows:
+<!--more-->There's many ways to recycle your computer hardware. The most common methods are as follows:
 
   * Charities
   * Recycle centres
@@ -281,7 +281,7 @@ Many manufacturers will have a recycling policy, here are a few:
   * [IBM](http://www.ibm.com/ibm/environment/)
   * [Dell](http://www.dell.com/recycle)
 
-If your manufacturer isn&#8217;t listed above, simply contact them and ask them what their &#8220;recycling policy&#8221; is.
+If your manufacturer isn't listed above, simply contact them and ask them what their &#8220;recycling policy&#8221; is.
 
 **Traders**
 

@@ -13,15 +13,15 @@ categories:
   This is a question that I get asked very often.
 </p>
 
-My response is never very clear, simply because it&#8217;s mainly a matter of personal preference.
+My response is never very clear, simply because it's mainly a matter of personal preference.
 
 <!--more-->These days, there are really only two market leaders in this industry that have stood the test of time. They are 
 
 [Symantec Norton](http://www.norton.com/) and [McAfee](http://www.mcafee.com/).
 
-I find that almost all other solutions are used because, &#8220;It came with my PC&#8221;, &#8220;It&#8217;s free&#8221;, or &#8220;It&#8217;s what they use at the office/my place of education&#8221;. This is where companies such as [Trend Micro](http://www.trendmicro.com/), [Grisoft AVG](http://www.grisoft.com/), and [Sophos](http://www.sophos.com/) come in.
+I find that almost all other solutions are used because, &#8220;It came with my PC&#8221;, &#8220;It's free&#8221;, or &#8220;It's what they use at the office/my place of education&#8221;. This is where companies such as [Trend Micro](http://www.trendmicro.com/), [Grisoft AVG](http://www.grisoft.com/), and [Sophos](http://www.sophos.com/) come in.
 
-I even tried Kaspersky 7 the other day, and it wouldn&#8217;t even let me past the activation step on the setup wizard&#8230;
+I even tried Kaspersky 7 the other day, and it wouldn't even let me past the activation step on the setup wizard&#8230;
 
 Most the other solutions come on the back of a &#8220;free trial&#8221; or &#8220;a friend/co-worker recommended it&#8221;
 
@@ -36,9 +36,9 @@ If you run a medium to large business my advice to you is to contact your IT guy
 
 Having said that, there are a number of reasons why you may not wish to use any of the above software, which usually include: they are bulky, resource intensive and generally take over your machine; and/or they cost too much.
 
-In this day and age we expect something for nothing, so if in fact when you say &#8216;best&#8217; you actually mean &#8216;free&#8217;, then we are suddenly limited to a few options, where realistically there can only be one winner&#8230;
+In this day and age we expect something for nothing, so if in fact when you say &#8216;best' you actually mean &#8216;free', then we are suddenly limited to a few options, where realistically there can only be one winner&#8230;
 
-Having said that, there are two types of anti-virus which are software (real time scanning), or online scanning, usually Java or Browser Plug-in based (on-demand scanning), ideal for when you&#8217;re fixing a computer which doesn&#8217;t have one installed.
+Having said that, there are two types of anti-virus which are software (real time scanning), or online scanning, usually Java or Browser Plug-in based (on-demand scanning), ideal for when you're fixing a computer which doesn't have one installed.
 
 These are the contenders&#8230;
 
@@ -62,30 +62,30 @@ Online and On-demand:
 
 When deciding on almost any software application I look at the following, this is more so important for anti-virus software as it must be constantly running on your system, so you must be satisfied with it.
 
-  * Usability &#8211; If I can&#8217;t use it, I don&#8217;t want it
+  * Usability &#8211; If I can't use it, I don't want it
   * Visualisation &#8211; It must be clean and professional
-  * Resources &#8211; If this software hogs all my system resources, it&#8217;s godda go
-  * Future &#8211; It must still be in development, there&#8217;s no point having a life end point
+  * Resources &#8211; If this software hogs all my system resources, it's godda go
+  * Future &#8211; It must still be in development, there's no point having a life end point
   * Updates &#8211; We must be able to get the latest updates for the latest viruses
   * Support &#8211; There must be some method of support, if not official, perhaps in the form of a community
   * Compatible &#8211; Ideally we want windows to recognise this software to stop windows security moaning
 
 Probably most importantly the it must have a real-time virus sheild, without this we may as well be using one of the on-demand online virus scanners. What we are looking for is an anti-virus solution to protect us from viruses, not a virus remover.
 
-**AVG** is &#8220;okay&#8221; as far as free anti-virus software goes, but at the end of the day it looks and acts like a free application, ie: it&#8217;s ugly.
+**AVG** is &#8220;okay&#8221; as far as free anti-virus software goes, but at the end of the day it looks and acts like a free application, ie: it's ugly.
 
-**BitDefender 8 Free** is a nice peice of software, the main problem is that it doesn&#8217;t offer real-time scanning in the free version, only in the professional version.
+**BitDefender 8 Free** is a nice peice of software, the main problem is that it doesn't offer real-time scanning in the free version, only in the professional version.
 
-**Avira Antivir Personal** is very impressive. Finally a free solution that is supported by windows security and offers real-time scanning. It even looks nice. However, one thing I didn&#8217;t understand about this application was this&#8230;
+**Avira Antivir Personal** is very impressive. Finally a free solution that is supported by windows security and offers real-time scanning. It even looks nice. However, one thing I didn't understand about this application was this&#8230;
 
 
 ![Avir AntiVir Issue](http://wade.be/upload/antivir.gif) 
 
-Is it me, or does that not make any sense? Let&#8217;s try something else&#8230;
+Is it me, or does that not make any sense? Let's try something else&#8230;
 
-**avast!** seems pretty good, it&#8217;s a nice piece of software designed for home users, for people who use their computer for non-profit (although this doesn&#8217;t really stop you). One thing that is rather annoying is that you must register online, wait for your key (which can take up to 24 hours), then you can download and install the software. Not really ideal if you want to install it on a client&#8217;s home PC. That aside, if you&#8217;re installing it on your own PC it&#8217;s a nice solution.
+**avast!** seems pretty good, it's a nice piece of software designed for home users, for people who use their computer for non-profit (although this doesn't really stop you). One thing that is rather annoying is that you must register online, wait for your key (which can take up to 24 hours), then you can download and install the software. Not really ideal if you want to install it on a client's home PC. That aside, if you're installing it on your own PC it's a nice solution.
 
-I&#8217;ve been using avast! for a short time now and up-on install it located an ircbot in my windows directory that I wasn&#8217;t aware of and removed it. Fantastic. The futuristic design of the application is a pleasure to work with due to its simplicity. A very nice all round solution. Another feature I like about avast! is that it talks to you and tells you if you have a virus.
+I've been using avast! for a short time now and up-on install it located an ircbot in my windows directory that I wasn't aware of and removed it. Fantastic. The futuristic design of the application is a pleasure to work with due to its simplicity. A very nice all round solution. Another feature I like about avast! is that it talks to you and tells you if you have a virus.
 
 <p align="center">
   <em><strong>And the Winner is&#8230;</strong> </em>
@@ -93,8 +93,8 @@ I&#8217;ve been using avast! for a short time now and up-on install it located a
 
 ### **avast! Home Edition**
 
-So, in conclusion it&#8217;s time to uninstall Norton AntiVirus and install&#8230; avast!
+So, in conclusion it's time to uninstall Norton AntiVirus and install&#8230; avast!
 
-&#8220;Avast!&#8221; just ticks all the boxes, it&#8217;s free for home use, detects viruses well (you can even set it to do it at boot-time like chkdsk), and it even talks to you when the viruses database is updated.
+&#8220;Avast!&#8221; just ticks all the boxes, it's free for home use, detects viruses well (you can even set it to do it at boot-time like chkdsk), and it even talks to you when the viruses database is updated.
 
-There are other applications that I didn&#8217;t bother even testing, avast just wins hands down. I would recommend this to anyone.
+There are other applications that I didn't bother even testing, avast just wins hands down. I would recommend this to anyone.

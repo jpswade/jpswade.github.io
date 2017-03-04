@@ -18,10 +18,10 @@ tags:
   - upgrade.co.uk
 ---
 <p class="lead">
-  I&#8217;ve been trying to get a quote for a part for a Dell laptop, when I contacted Dell UK, they told me to contact &#8220;Upgrade Options&#8221;. They offered no other alternative.
+  I've been trying to get a quote for a part for a Dell laptop, when I contacted Dell UK, they told me to contact &#8220;Upgrade Options&#8221;. They offered no other alternative.
 </p>
 
-I&#8217;ve tried emailing them&#8230;
+I've tried emailing them&#8230;
 
 <!--more-->
 
@@ -29,7 +29,7 @@ I&#8217;ve tried emailing them&#8230;
 
 **No response.**
 
-I&#8217;ve tried using their &#8220;online quote request&#8221;
+I've tried using their &#8220;online quote request&#8221;
 
 > &#8220;please fill in the form below for a competitive quote&#8221;
 > 
@@ -37,13 +37,13 @@ I&#8217;ve tried using their &#8220;online quote request&#8221;
 
 **No response.**
 
-I&#8217;ve tried emailing a contact I already had:
+I've tried emailing a contact I already had:
 
 > [Alex Holden <alexh@upgrade.co.uk>](mailto:alexh@upgrade.co.uk)
 
 **It failed.**
 
-I&#8217;ve tried emailing another email address listed on their site:
+I've tried emailing another email address listed on their site:
 
 > <busisales@upgrade.co.uk>
 
@@ -68,7 +68,7 @@ To further add insult to injury: All the phone numbers on their website are 0871
 > 
 > Call Now For Dell Spares and Dell Upgrades &#8211; 0871 231 1924
 
-**I&#8217;m going to** [**say no**](http://www.saynoto0870.com/)
+**I'm going to** [**say no**](http://www.saynoto0870.com/)
 
 They seem to leave me with only one option, which is to open a credit account with them:
 
@@ -104,7 +104,7 @@ Will anyone ever get back to me?
   
 > Greenhills Estate, Tilford, Surrey GU10 2DZ
 
-I have hardware needs, but don&#8217;t appear to be getting any help&#8230;
+I have hardware needs, but don't appear to be getting any help&#8230;
 
 I did however manage to find an alternative phone number&#8230;
 
@@ -134,7 +134,7 @@ I did however manage to find an alternative phone number&#8230;
   
 ** 
 
-Just in case you missed it, that&#8217;s
+Just in case you missed it, that's
 
 > ## **01252 797660**
 

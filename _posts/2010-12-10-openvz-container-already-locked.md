@@ -20,7 +20,7 @@ categories:
 <pre>[root@server ~]# vzctl stop 104
 Container already locked</pre>
 
-<!--more-->Here&#8217;s 
+<!--more-->Here's 
 
 _how to_ fix it:
 

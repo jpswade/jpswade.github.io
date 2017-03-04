@@ -33,6 +33,6 @@ The result is this:
   
 > example.com=10000
 
-Change &#8220;example.com&#8221; for your domain and change &#8220;10000&#8221; for your max. Don&#8217;t forget to run the script.
+Change &#8220;example.com&#8221; for your domain and change &#8220;10000&#8221; for your max. Don't forget to run the script.
 
 Enjoy!

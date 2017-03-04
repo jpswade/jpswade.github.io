@@ -39,6 +39,6 @@ Solution:
 > 
 > Copy this file to the system with the problem and open it, it should then prompt you, click yes, it will then say it has been imported successfully.
 > 
-> You can delete this file once you&#8217;re done with it.
+> You can delete this file once you're done with it.
 
 Enjoy!

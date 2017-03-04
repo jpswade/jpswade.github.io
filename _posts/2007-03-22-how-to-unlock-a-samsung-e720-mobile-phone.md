@@ -13,9 +13,9 @@ tags:
   I found this out because Orange sucks.
 </p>
 
-It costs £20 to get your phone unlocked by Orange and the only way to do this is to contact them by phone, and the only way to contact Orange&#8217;s Customer Services is to call 150 from your handset or call 07973 100150. What if you&#8217;re deaf? What if your handset is broken? What if you cannot call mobile numbers from your landline?
+It costs £20 to get your phone unlocked by Orange and the only way to do this is to contact them by phone, and the only way to contact Orange's Customer Services is to call 150 from your handset or call 07973 100150. What if you're deaf? What if your handset is broken? What if you cannot call mobile numbers from your landline?
 
-This is why Orange sucks. Naturally, I didn&#8217;t pay orange a penny.
+This is why Orange sucks. Naturally, I didn't pay orange a penny.
 
 <!--more-->These are the steps to unlock the Samsung E720 phone:
 

@@ -1,6 +1,6 @@
 ---
 id: 241
-title: 'What&#8217;s wrong with low version numbers?'
+title: 'What's wrong with low version numbers?'
 date: 2008-09-25T10:27:35+00:00
 author: admin
 layout: post
@@ -18,7 +18,7 @@ categories:
   * [YouTube Video](http://www.youtube.com/watch?v=i6Fr65PFqfk) @ 0:51:15
   * [Slideshow presentation (part2)](http://www.slideshare.net/iamcal/why-i-hate-django-part-22-presentation) @ slide 61-64
 
-This is because Django has only just released version 1.0 (on 03/09/08). Considering that the project was started over 3 years ago (July 2005), it&#8217;s a fairly long time.
+This is because Django has only just released version 1.0 (on 03/09/08). Considering that the project was started over 3 years ago (July 2005), it's a fairly long time.
 
 In his insightful, yet comic presentation Cal pokes fun at Djangos low version number, suggesting that projects with a higher version number can be more trusted, while giving an an alternate (and extreme) suggestion of 10,000 (or even vista), claiming that these are &#8220;serious business&#8221;.
 

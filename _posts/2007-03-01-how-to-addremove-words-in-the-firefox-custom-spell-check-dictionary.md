@@ -17,7 +17,7 @@ To open your profile directory do the following or use the &#8220;[Open Profile 
 > 
 > > %APPDATA%\Mozilla\Firefox\Profiles\
 > 
-> Locate the profile you&#8217;re using (usually default.something).
+> Locate the profile you're using (usually default.something).
 
 Then, inside the folder you will find a file named &#8220;persdict.dat&#8221;.
 

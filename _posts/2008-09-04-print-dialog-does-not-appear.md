@@ -13,7 +13,7 @@ tags:
   Today I get a call.
 </p>
 
-> Outlook Express won&#8217;t print.
+> Outlook Express won't print.
 
 I log in and take a look. Everything seems normal, and normal documents appear to print.
 
@@ -31,6 +31,6 @@ All you have to do is go to Start > Run and issue the following commands:
 
 Once this is done, restart Outlook Express/Internet Explorer, and go ahead and print.
 
-This isn&#8217;t the first time i&#8217;ve seen this issue, so I thought I&#8217;d note it down for next time.
+This isn't the first time i've seen this issue, so I thought I'd note it down for next time.
 
 [Source](http://groups.google.com/group/microsoft.public.windows.inetexplorer.ie6.browser/msg/828b37ff4124ce77?hl=en&dmode=source)

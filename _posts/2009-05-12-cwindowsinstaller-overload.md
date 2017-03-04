@@ -18,7 +18,7 @@ tags:
   - treesize
   - windirstat
 ---
-If like me you&#8217;ve recently come across a computer where the &#8220;C:\Windows\Installer&#8221; directory is overloaded then you&#8217;ve probably used something like [TreeSize Free](http://www.jam-software.com/freeware/index.shtml) or [WinDirStat](http://windirstat.info/) to figure this out.
+If like me you've recently come across a computer where the &#8220;C:\Windows\Installer&#8221; directory is overloaded then you've probably used something like [TreeSize Free](http://www.jam-software.com/freeware/index.shtml) or [WinDirStat](http://windirstat.info/) to figure this out.
 
 What I was wondering is &#8220;why is it taking up so much space?&#8221;<!--more-->
 
@@ -34,15 +34,15 @@ You will find that in this directory there is an excessive amount of files, hund
 
 You can tell they are the same file as they have exactly the same file size as each other. At the very most you only need one copy of each file.
 
-According to Microsoft these multiple copies (duplicates) of the installer or patcher files are created due to updates to Microsoft Office ([kb274533](http://support.microsoft.com/kb/274533/en-us)), however, I have seen this on machines where Office isn&#8217;t even installed.
+According to Microsoft these multiple copies (duplicates) of the installer or patcher files are created due to updates to Microsoft Office ([kb274533](http://support.microsoft.com/kb/274533/en-us)), however, I have seen this on machines where Office isn't even installed.
 
-Although the workaround mentioned in the Microsoft knowledge base article does solve the problem, it&#8217;s hardly practical for the average user.
+Although the workaround mentioned in the Microsoft knowledge base article does solve the problem, it's hardly practical for the average user.
 
-I&#8217;ve found that you can delete the files and although there is no initial impact on the system, you may need these files at some point if you want to add/remove/uninstall/reinstall/change something that was installed via one of these files, so it&#8217;s probably safest to keep the ones you need.
+I've found that you can delete the files and although there is no initial impact on the system, you may need these files at some point if you want to add/remove/uninstall/reinstall/change something that was installed via one of these files, so it's probably safest to keep the ones you need.
 
-It&#8217;s almost impossible to tell which files you need, and which you don&#8217;t unless you check it against the registry, which is a long winded process to repeat for literally thousands of these files.
+It's almost impossible to tell which files you need, and which you don't unless you check it against the registry, which is a long winded process to repeat for literally thousands of these files.
 
-You&#8217;re probably thinking you need the Microsoft Windows Installer Clean Up Utility, you don&#8217;t. This is no good here. Despite it&#8217;s naming, it does not clean up the installer directory in the windows folder.
+You're probably thinking you need the Microsoft Windows Installer Clean Up Utility, you don't. This is no good here. Despite it's naming, it does not clean up the installer directory in the windows folder.
 
 What you need is this:
 

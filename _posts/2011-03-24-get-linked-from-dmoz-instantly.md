@@ -20,7 +20,7 @@ tags:
   - xss
 ---
 <p class="lead">
-  Recently, like many of you, I&#8217;ve had some trouble getting websites listed on the AOL owned &#8220;Open Directory Project&#8221; known as Dmoz.
+  Recently, like many of you, I've had some trouble getting websites listed on the AOL owned &#8220;Open Directory Project&#8221; known as Dmoz.
 </p>
 
 So, looking back at a post written by [Oatmeal](http://0at.org/) which explains [how to get 20 .gov links in 20 minutes](http://www.seomoz.org/blog/xss-how-to-get-20-gov-links-in-20-minutes) I wondered if the same was possible for Dmoz&#8230;
@@ -31,7 +31,7 @@ So, looking back at a post written by [Oatmeal](http://0at.org/) which explains�
 
 This means malicious users could easily place HTML code into the search form input box and manipulate the markup on the site (aka [Cross Site Scripting](http://en.wikipedia.org/wiki/Cross-site_scripting) or XSS).
 
-Here&#8217;s a proof of concept showing how you would link to [example.com](http://www.rfc-editor.org/rfc/rfc2606.txt) with the anchor text as &#8220;Look, I made a link&#8221;:
+Here's a proof of concept showing how you would link to [example.com](http://www.rfc-editor.org/rfc/rfc2606.txt) with the anchor text as &#8220;Look, I made a link&#8221;:
 
 > http://www.dmoz.org/search?q=%3Ch1%3E%3Ca+href%3D%22http%3A%2F%2Fexample.com%22%3ELook%2C+I+made+a+link%3C%2Fa%3E%3C/h1%3E
 > 
@@ -41,9 +41,9 @@ To make this affective, you would simply need to swap out the domain and the anc
 
 This is not the first time that Dmoz has been subject to such a flaw, as in 2007 they were subject to a similar [XSS vulnerability in their blog search](http://sla.ckers.org/forum/read.php?3,16280,16287).
 
-There are many well established ways Dmoz could fix this (aside from fixing their site code) on the server but they have chosen not to. I&#8217;m not sure why.
+There are many well established ways Dmoz could fix this (aside from fixing their site code) on the server but they have chosen not to. I'm not sure why.
 
-Is there any SEO value in these type of links? It&#8217;s uncertain.
+Is there any SEO value in these type of links? It's uncertain.
 
 Is there a security risk? Yes, definitely.
 

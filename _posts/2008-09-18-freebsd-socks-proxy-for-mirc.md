@@ -18,7 +18,7 @@ tags:
   <em>Update: Looking for the sss.pl? Try the <a href="https://sourceforge.net/projects/ssspl/">Simple Sockets Server</a> project page.</em>
 </p>
 
-I&#8217;m getting fed up with my current IRC BNC software. At the moment I&#8217;m using psyBNC, which means I have to connect to it like you would an IRC server, then issue commands to that to tell it to connect to the IRC server of your choice.
+I'm getting fed up with my current IRC BNC software. At the moment I'm using psyBNC, which means I have to connect to it like you would an IRC server, then issue commands to that to tell it to connect to the IRC server of your choice.
 
 I no longer need the features of psyBNC and decided that there must be a better way.
 
@@ -36,7 +36,7 @@ In mIRC the fields the Firewall/Proxy dialogue box are as follows: Firewall Supp
 
 Judging by this, what I need is some kind of Socks daemon/server that has the ability to allow for a username or user id and a password.
 
-I had a look at using OpenSSH&#8217;s Socks compatible dynamic forwarding by doing the following:
+I had a look at using OpenSSH's Socks compatible dynamic forwarding by doing the following:
 
 > ssh -D<port> user@hostname
 
@@ -49,7 +49,7 @@ So I decided to look at [FreshPorts for Socks](http://www.freshports.org/search.
   * nylon &#8211; seems pretty neat, tested it out, it has no options for username/password auth
   * p5-Socks &#8211; a perl module, not a daemon
   * proxy-connect &#8211; lacks proper maintenance
-  * prtunnel &#8211; poor documentation, doesn&#8217;t appear to do the task I want
+  * prtunnel &#8211; poor documentation, doesn't appear to do the task I want
   * socks5 &#8211; &#8220;NEC has a funky license for this software&#8221;
   * ss5 &#8211; bingo!
   * tsocks &#8211; &#8220;Allow non SOCKS aware applications to use SOCKS without modification&#8221; &#8212; not what I want.
@@ -76,9 +76,9 @@ Based on the [ss5 manual page](http://linux.die.net/man/1/ss5) I decided to crea
   
 > permit u 0.0.0.0/0 &#8211; 0.0.0.0/0 &#8211; &#8211; &#8211; &#8211; &#8211;
 
-Once I&#8217;d done this, I tried to run it. I found that I wasn&#8217;t able to specify a config file meaning I probably wasn&#8217;t able to run this under anything other than root.
+Once I'd done this, I tried to run it. I found that I wasn't able to specify a config file meaning I probably wasn't able to run this under anything other than root.
 
-One thing I didn&#8217;t understand is that the [ss5 configuration documentation](http://ss5.sourceforge.net/configuration.htm) say one of the variables (which the manual says to put into the config file) allows you to specify a config file. Which does not make sense!
+One thing I didn't understand is that the [ss5 configuration documentation](http://ss5.sourceforge.net/configuration.htm) say one of the variables (which the manual says to put into the config file) allows you to specify a config file. Which does not make sense!
 
 So I decided to take a different approach, and coded my own SOCKS5 Server Script in perl&#8230;
 

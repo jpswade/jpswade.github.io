@@ -55,23 +55,23 @@ He then went on to explain that replacing this card is beyond the scope of _BT O
 
 Meanwhile, I had to provide my client with some kind of **backup solution** and the only thing I could think of is dialup. So I went ahead and setup dialup on their Windows 2000 server, and shared it using [ICS](http://en.wikipedia.org/wiki/Internet_Connection_Sharing) (not recommended).
 
-The downsides to using dialup is that not only does it uses a line but there&#8217;s a cost per minute, depending who your call plan is with, which in this case is BT.
+The downsides to using dialup is that not only does it uses a line but there's a cost per minute, depending who your call plan is with, which in this case is BT.
 
-The **following day** the card was replaced. The broadband worked from 1PM but then failed again at around 4PM. I&#8217;m guessing the fuse and/or card went **again**.
+The **following day** the card was replaced. The broadband worked from 1PM but then failed again at around 4PM. I'm guessing the fuse and/or card went **again**.
 
 By this point, a week has gone by and their connectivity has gone up and down more times a pair of kangaroos in mating season. This was a _terrible_ situation!
 
 So the question is **what can you do when your broadband connection fails?**
 
-The short term answer is, well, **not a lot**, unless you&#8217;ve planned.
+The short term answer is, well, **not a lot**, unless you've planned.
 
-If your **broadband fails** and you have **no redundancy plan** in place already, you&#8217;re **pretty much screwed** until your provider resolves the problem.
+If your **broadband fails** and you have **no redundancy plan** in place already, you're **pretty much screwed** until your provider resolves the problem.
 
 That is of course unless you know how to quickly setup and route a dialup connection to the network like I did.
 
-So, of course, the connection eventually comes back on, all is well and everyone forgets about it, apart from, of course your **network administrator**, who&#8217;s job it is to ensure it doesn&#8217;t happen again.
+So, of course, the connection eventually comes back on, all is well and everyone forgets about it, apart from, of course your **network administrator**, who's job it is to ensure it doesn't happen again.
 
-I remember reading an article about a company that had it&#8217;s [line accidentally cut](http://www.theregister.co.uk/2007/04/27/bt_vs_capitalfortune/) by a _BT engineer_ who refused to repair it. After involving both _Ofcom_ and courts, the issue was eventually resolved. However it begs the question, what does this company do now to ensure redundancy?
+I remember reading an article about a company that had it's [line accidentally cut](http://www.theregister.co.uk/2007/04/27/bt_vs_capitalfortune/) by a _BT engineer_ who refused to repair it. After involving both _Ofcom_ and courts, the issue was eventually resolved. However it begs the question, what does this company do now to ensure redundancy?
 
 The popular broadband guide website &#8220;thinkbroadband.com&#8221; discussed this issue in an article entitled &#8220;[When broadband fails: Business continuity](http://www.thinkbroadband.com/news/3067-when-broadband-fails-business-continuity.html)&#8221; offering some suggestions on possible redundancy solutions, yet nothing definitive. The search continued, until now&#8230;
 
@@ -87,4 +87,4 @@ The question you have to ask is:
 
 > _Can your business afford to be offline?_
 
-If the answer is **no**, it&#8217;s time to have a **rethink!**
+If the answer is **no**, it's time to have a **rethink!**

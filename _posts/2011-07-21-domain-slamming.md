@@ -18,7 +18,7 @@ categories:
   <a href="http://wade.be/upload/dng-stop.png"><img class="alignright" title="Stop Domain Renewal Group" src="http://wade.be/upload/dng-stop.png" alt="" width="288" height="128" /></a>Ever received one of those domain renewal notices from companies such as &#8220;Domain Registry of America&#8221; or &#8220;Domain Renewal Group&#8221; claiming that your domain is about to expire and you need to renew with them?
 </p>
 
-We&#8217;ve [had them](http://www.flickr.com/photos/jpswade/5940085942/in/photostream) too, [a lot](http://www.flickr.com/photos/danielbowen/5198227312/) [of people](http://www.flickr.com/photos/smemon/5449552010/) [have](http://www.flickr.com/photos/palander/4519792043/) and this has been going on for a very long time.
+We've [had them](http://www.flickr.com/photos/jpswade/5940085942/in/photostream) too, [a lot](http://www.flickr.com/photos/danielbowen/5198227312/) [of people](http://www.flickr.com/photos/smemon/5449552010/) [have](http://www.flickr.com/photos/palander/4519792043/) and this has been going on for a very long time.
 
 **Why has nobody done anything about this?**
 
@@ -141,7 +141,7 @@ Thanks -
 Ken Joy
 Product Manager, OpenSRS</pre>
 
-**So, What&#8217;s changed since then?**
+**So, What's changed since then?**
 
 ****Even though this sparked a [court case](http://web.archive.org/web/20030810122021/http://comingsoon.tucows.com/.court_case/) ([which never came to light](http://markets.financialcontent.com/stocks/action/getedgarwindow?accesscode=91205702031385#toc_dm1459_1)), the message still applies to this day.
 
@@ -155,7 +155,7 @@ In 2009, [OpenSRS](http://www.opensrs.com/blog/2009/06/repost-beware-of-fake-do
 
 In 2001, the federal [Competition Bureau (of Canada) issued a warning](http://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/00528.html) about documents that appeared to be invoices sent out by a business called the &#8220;Internet Registry of Canada.&#8221;
 
-Action was taken again in 2003, this time by the [Federal Trade Commission (FTC)](http://www.ftc.gov/opa/2003/12/domainreg.shtm), but this hasn&#8217;t stopped them.
+Action was taken again in 2003, this time by the [Federal Trade Commission (FTC)](http://www.ftc.gov/opa/2003/12/domainreg.shtm), but this hasn't stopped them.
 
 In 2008, [ICANN](http://www.atlarge.icann.org/en/correspondence/correspondence-14sep.htm), the task force behind .com and .net domains said:
 

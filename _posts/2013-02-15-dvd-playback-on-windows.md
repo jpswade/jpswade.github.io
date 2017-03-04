@@ -17,7 +17,7 @@ tags:
   - vlc
   - vob
 ---
-One of the biggest annoyances I&#8217;ve heard about Windows 8 so far is that there&#8217;s no DVD support included.
+One of the biggest annoyances I've heard about Windows 8 so far is that there's no DVD support included.
 
 In a Windows 8 blog, Microsoft said:
 
@@ -29,7 +29,7 @@ However, this is not a new issue and for now Microsoft seem to be giving away th
 
 [.vob files](http://shell.windows.com/fileassoc/0409/xml/redir.asp?EXT=vob) [aka Video Objects](http://en.wikipedia.org/wiki/VOB#Playback).
 
-All this means that you&#8217;re probably going to need additional software, which opens a world of choices:
+All this means that you're probably going to need additional software, which opens a world of choices:
 
   * [Upgrade or purchase the DVD decoder software recommended by Microsoft](http://windows.microsoft.com/en-US/windows/windows-media-player-plug-ins#DVDDecoder)
   * Purchase or download and try for 30 days [nVidia PureVideo Decoder](http://www.nvidia.com/object/dvd_decoder.html) or whatever is recommended by your hardware manufacturer.
@@ -38,10 +38,10 @@ All this means that you&#8217;re probably going to need additional software, whi
 
 There is a third option is to get it for free.
 
-As recommended by Microsoft themselves through their online &#8220;Windows File Association&#8221; database, you&#8217;ll see under it the &#8220;software or information available&#8221; section:
+As recommended by Microsoft themselves through their online &#8220;Windows File Association&#8221; database, you'll see under it the &#8220;software or information available&#8221; section:
 
   * [<span style="line-height: 16px;">VLC Media Player</span>](http://www.videolan.org/vlc/download-windows.html)
 
-[VLC Media Player](http://www.pcpro.co.uk/reviews/media-software/184668/vlc-media-player) is simply the swiss army knife of media playback software. Capable of playing back a huge assortment of audio and video formats, VLC is a hugely versatile player and best of all, it&#8217;s completely free.
+[VLC Media Player](http://www.pcpro.co.uk/reviews/media-software/184668/vlc-media-player) is simply the swiss army knife of media playback software. Capable of playing back a huge assortment of audio and video formats, VLC is a hugely versatile player and best of all, it's completely free.
 
 So save yourself a few quid and use VLC.

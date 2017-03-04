@@ -18,7 +18,7 @@ tags:
   During the summer of 2007 I decided to purchase a new domain name with a dating theme.
 </p>
 
-The idea was to start a dating website. Although a fairly saturated market place, I figured it&#8217;d be another one to add to my profile.
+The idea was to start a dating website. Although a fairly saturated market place, I figured it'd be another one to add to my profile.
 
 <!--more-->Earlier on in the year I remember coming across an article on the .net magazine website, entitled &#8220;
 
@@ -30,23 +30,23 @@ One of the most interesting statements very early on in this article is this:
 
 > PHPizabi is a refreshingly professional, 100 per cent open source, social networking and dating application.
 
-But we&#8217;ll come back to this later.
+But we'll come back to this later.
 
-We begin with the preparation steps, where we see a screenshot of the author&#8217;s attempt: &#8220;[dogmeet.net](http://dogmeet.net/)&#8221; &#8211; it looks pretty neat.
+We begin with the preparation steps, where we see a screenshot of the author's attempt: &#8220;[dogmeet.net](http://dogmeet.net/)&#8221; &#8211; it looks pretty neat.
 
-Sure i&#8217;m a pretty advanced user, so I&#8217;ll skip this and jump directly to the comments to see what&#8217;s been said.
+Sure i'm a pretty advanced user, so I'll skip this and jump directly to the comments to see what's been said.
 
-> just google phpizabi and you get <a href="http://www.phpizabi.net/" target="_blank">www.phpizabi.net</a> &#8211; it&#8217;s open source which means you can download it all from the interweb.
+> just google phpizabi and you get <a href="http://www.phpizabi.net/" target="_blank">www.phpizabi.net</a> &#8211; it's open source which means you can download it all from the interweb.
 
 Thanks Sam, this should get me started.
 
-Visiting the site, I&#8217;m greeted with quite a pretty looking site, however the last entry in their news is a vulnerability report from back in August 2008, I figured this would be fixed by now and proceeded to download regardless.
+Visiting the site, I'm greeted with quite a pretty looking site, however the last entry in their news is a vulnerability report from back in August 2008, I figured this would be fixed by now and proceeded to download regardless.
 
 The file I got given was &#8220;[PHPizabi\_0.848b\_C1_HFP1.zip](http://www.phpizabi.net/?L=downloads.downloadcore&X=dist.core.download&latest=1)&#8220;.
 
 I skip to step 2: Installation.
 
-I quickly notice that the installation I&#8217;m using is nothing like the (better looking) screenshots in the tutorial, but I thought &#8220;never mind it must be a newer version&#8221;.
+I quickly notice that the installation I'm using is nothing like the (better looking) screenshots in the tutorial, but I thought &#8220;never mind it must be a newer version&#8221;.
 
 Upon completion of the fairly straightforward installation I get straight to work.
 
@@ -60,11 +60,11 @@ This would take some time to cleanup. I started anyway.
 
 I cleaned up the &#8220;frame.tpl&#8221; making it all XHTML, removed the table layout, and added new styles to handle it. I also cleaned up &#8220;home.tpl&#8221; and a few more of the tpl files.
 
-I eventually started getting somewhere, so decided to browse around the site I had started to form. Some of the pages simply didn&#8217;t look right, and wouldn&#8217;t populate correctly. I decided to look at the code.
+I eventually started getting somewhere, so decided to browse around the site I had started to form. Some of the pages simply didn't look right, and wouldn't populate correctly. I decided to look at the code.
 
-In a way, I wish I never had. In the &#8220;index.php&#8221; I noticed a lot of poor coding, stuff that I&#8217;d not seen since about 2005, makes sense since the copyright says 2005, and last modification date was September 3rd 2006.
+In a way, I wish I never had. In the &#8220;index.php&#8221; I noticed a lot of poor coding, stuff that I'd not seen since about 2005, makes sense since the copyright says 2005, and last modification date was September 3rd 2006.
 
-This isn&#8217;t very reassuring, this would need a LOT of work to bring it up to speed for 2008. Perhaps I downloaded the wrong version? There must be a more up to date version or a simply better version?
+This isn't very reassuring, this would need a LOT of work to bring it up to speed for 2008. Perhaps I downloaded the wrong version? There must be a more up to date version or a simply better version?
 
 It was at this point that I decided to read the included documentation starting with the &#8220;UPDATE_README.TXT&#8221;. Here I find this:
 
@@ -78,7 +78,7 @@ However, looking at the &#8220;core&#8221; releases I found that the latest rele
 
 What the hell is going on here? Time to do some [research](http://www.google.co.uk/search?q=phpizabi).
 
-I came across the [PHPizabi demo site](http://demo.phpizabi.net/), which looks similar to the version I have (apart from the mention of Alicia), only it has broken pages too (see [Inkspot](http://demo.phpizabi.net/?L=inkspot.index)). I&#8217;m convinced I have the wrong version now.
+I came across the [PHPizabi demo site](http://demo.phpizabi.net/), which looks similar to the version I have (apart from the mention of Alicia), only it has broken pages too (see [Inkspot](http://demo.phpizabi.net/?L=inkspot.index)). I'm convinced I have the wrong version now.
 
 This is when I discover phpizabi.com, and their [about](http://www.phpizabi.com/?L=info.about) section:
 
@@ -90,7 +90,7 @@ This is when I discover phpizabi.com, and their [about](http://www.phpizabi.com/
 > 
 > Where the net site surrounds themselves around those only wishing to make a buck or two by allowing people to sell 1 line code mods for ridiculous prices, we believe in the open source community spirit. While we do have the Mod Club, we have many mods that are free, and as always support is 100% free.
 
-Turns out there&#8217;s [legal issues surrounding this project](http://chris.instantspot.com/blog/2006/12/15/PHPizabi-got-jacked). This is no good.
+Turns out there's [legal issues surrounding this project](http://chris.instantspot.com/blog/2006/12/15/PHPizabi-got-jacked). This is no good.
 
 I decided to return the original article and try and figure out where it all went so wrong.
 
@@ -106,11 +106,11 @@ As it seems, they ARE using a different version, it appears to be the earlier 0.
 
 Low and behold here we have the version mentioned in the article, released back in 2005, however it has IonCube Encryption on the core files. Odd because I remember the article saying that it was 100% open source. Guess not.
 
-Further research via [google news](http://news.google.co.uk/archivesearch?q=phpizabi) finds me an article describing [a known vulnerability in PHPizabi](http://www.vupen.com/english/advisories/2008/0585). I also discovered that there is [still no fix](http://xforce.iss.net/xforce/xfdb/44509), dubbing PHPizabi as [the most hackable Dating Script on the Internet](http://digg.com/programming/PHPizabi_the_most_hackable_Dating_Script_on_the_Internet_2). There&#8217;s no end to security issues in PHPizabi.
+Further research via [google news](http://news.google.co.uk/archivesearch?q=phpizabi) finds me an article describing [a known vulnerability in PHPizabi](http://www.vupen.com/english/advisories/2008/0585). I also discovered that there is [still no fix](http://xforce.iss.net/xforce/xfdb/44509), dubbing PHPizabi as [the most hackable Dating Script on the Internet](http://digg.com/programming/PHPizabi_the_most_hackable_Dating_Script_on_the_Internet_2). There's no end to security issues in PHPizabi.
 
-It seems I&#8217;m not alone, others have also had [bad experiences with PHPizabi](http://forums.digitalpoint.com/showthread.php?t=455622) and apparently [support sucks even when you pay](http://www.byrobert.com/robblog/2007/03/03/phpizabis-dating-software-is-greatbut-one-in-support-sucks/).
+It seems I'm not alone, others have also had [bad experiences with PHPizabi](http://forums.digitalpoint.com/showthread.php?t=455622) and apparently [support sucks even when you pay](http://www.byrobert.com/robblog/2007/03/03/phpizabis-dating-software-is-greatbut-one-in-support-sucks/).
 
-So what now? I CANNOT use this, it&#8217;s unprofessional, barely usable, unmaintainable, poorly coded and worst of all vulnerable to exploitation. This project is dead.
+So what now? I CANNOT use this, it's unprofessional, barely usable, unmaintainable, poorly coded and worst of all vulnerable to exploitation. This project is dead.
 
 So with the help of my earlier research, and [wikipedia](http://en.wikipedia.org/wiki/Comparison_of_social_networking_software), I found some alternatives:
 
@@ -132,8 +132,8 @@ Also checkout this [social networking solution comparison table at techcrunch](h
 
 What did you decide to go with and why?
 
-Hopefully a &#8220;refreshingly professional, 100 per cent open source, social networking and dating application&#8221;, but I don&#8217;t hold high hopes.
+Hopefully a &#8220;refreshingly professional, 100 per cent open source, social networking and dating application&#8221;, but I don't hold high hopes.
 
-**UPDATE:** I decided to share my article with the [PHPizabi.com forum](http://www.phpizabi.com/forum/), however I guess they didn&#8217;t agree with me as I&#8217;m banned. The reply post notification via email from blackbook says: &#8220;yea ya like giving links to my paid mods for free..your banned dude&#8221;, thanks, as good as an excuse as any I guess, but it begs the question: now who&#8217;s &#8220;wishing to make a buck or two&#8221;? Besides, let&#8217;s face it, if nobody is going to want to use PHPizabi, who&#8217;s going to want to use the mods anyway?
+**UPDATE:** I decided to share my article with the [PHPizabi.com forum](http://www.phpizabi.com/forum/), however I guess they didn't agree with me as I'm banned. The reply post notification via email from blackbook says: &#8220;yea ya like giving links to my paid mods for free..your banned dude&#8221;, thanks, as good as an excuse as any I guess, but it begs the question: now who's &#8220;wishing to make a buck or two&#8221;? Besides, let's face it, if nobody is going to want to use PHPizabi, who's going to want to use the mods anyway?
 
-**UPDATE2:** I&#8217;m looking at writing a dating site solution using CakePHP as the framework, based on Matt Inman&#8217;s [Mingle2](http://mingle2.com/blog/view/how-i-built-mingle2). I sympathise with his decision to write his own solution. Wish me luck!
+**UPDATE2:** I'm looking at writing a dating site solution using CakePHP as the framework, based on Matt Inman's [Mingle2](http://mingle2.com/blog/view/how-i-built-mingle2). I sympathise with his decision to write his own solution. Wish me luck!

@@ -19,15 +19,15 @@ However, as you can see his article was all about using the irssi IRC client on 
 
 I decided that some people may wish to know how to do it on Windows.
 
-Here&#8217;s how&#8230;
+Here's how&#8230;
 
 <!--more-->
 
-There&#8217;s tuns of IRC clients out there for windows, you can even find IRC clients in your web browser, such as Chatzilla in Mozilla and Opera has one too, not only this but you can also get ported versions of Linux clients. Not only that, bug large IRC networks such as EFnet even have their own [webchat](http://chat.efnet.org/).
+There's tuns of IRC clients out there for windows, you can even find IRC clients in your web browser, such as Chatzilla in Mozilla and Opera has one too, not only this but you can also get ported versions of Linux clients. Not only that, bug large IRC networks such as EFnet even have their own [webchat](http://chat.efnet.org/).
 
-We&#8217;re not going to use any of these, we&#8217;re going to use the most renowned IRC client in the world: [mIRC](http://www.mirc.com/).
+We're not going to use any of these, we're going to use the most renowned IRC client in the world: [mIRC](http://www.mirc.com/).
 
-What makes mIRC such a great client is it&#8217;s usability. You&#8217;ll learn this once you start to use it.
+What makes mIRC such a great client is it's usability. You'll learn this once you start to use it.
 
 Installing mIRC is easy, just [download mIRC](http://www.mirc.com/get.php), run the exe file and follow the simple on screen instructions.
 
@@ -59,7 +59,7 @@ As you will be on the &#8220;EFnet&#8221; network, you will likely see a folder 
 
 > //run $+($mircdirlogs,\,$network,\)
 
-To open the current log of the channel you&#8217;re currently in you can do:
+To open the current log of the channel you're currently in you can do:
 
 > //run $window($active).logfile
 > 
@@ -79,7 +79,7 @@ When a command prompt opens from there you can use grep or findstr. We will be u
 > 
 > Note: This will search through all files that end in .log in the current dir and subdirectories for the string &#8220;hello HM2K&#8221;.
 
-Or for those that prefer mIRC scripts, here&#8217;s findstr for mIRC&#8230;
+Or for those that prefer mIRC scripts, here's findstr for mIRC&#8230;
 
 > alias findstr { ; v0.1 by HM2K (Updated: 23/05/08)
 > if (!$3) { echo -a Usage: /findstr <path> <file-match> <string-match> | halt }
@@ -96,6 +96,6 @@ Or for those that prefer mIRC scripts, here&#8217;s findstr for mIRC&#8230;
 
 To generate stats you need third party software such as [mIRCstats](http://www.nic.fi/~mauvinen/mircstats/) or [pisg](http://pisg.sourceforge.net/) (recommended), however if you do use pisg, it might make sense to use the [eggdrop](http://www.eggheads.org/) or [windrop](http://windrop.sourceforge.net/downloads.html) (for windows) IRC bot to generate the logs instead.
 
-There&#8217;s lots and lots of other neat tricks in mIRC for logging (take a look at $findfile) and beyond. I invite you to take a look at some of my [mIRC scripts](http://wade.be/projects/mirc-scripts), which some of you may find useful.
+There's lots and lots of other neat tricks in mIRC for logging (take a look at $findfile) and beyond. I invite you to take a look at some of my [mIRC scripts](http://wade.be/projects/mirc-scripts), which some of you may find useful.
 
 PS. If you like [mIRC, please register](/why-i-registered-mirc).

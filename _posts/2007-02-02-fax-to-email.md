@@ -17,7 +17,7 @@ tags:
 
 These days although it seems like everyone has an email address, there are businesses that rely on their fax machine asif its their only means of communication to the outside world.
 
-However, we can&#8217;t always be around to man a fax machine 24/7/365, so usually you&#8217;re left with a number of options:
+However, we can't always be around to man a fax machine 24/7/365, so usually you're left with a number of options:
 
   * Wait until you return so you can check your fax machine
   * Get someone else to check your fax machine, then send them to your current location
@@ -52,7 +52,7 @@ So far the only software I have found that will do this task is called [FaxTalk]
 
 And so much more, the list is endless! This is the ultimate solution.
 
-However I didn&#8217;t stop there&#8230;
+However I didn't stop there&#8230;
 
 I also looked other fax to email solutions including fax gateways.
 

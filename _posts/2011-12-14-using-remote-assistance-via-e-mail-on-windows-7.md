@@ -22,7 +22,7 @@ This section explains initiating **Remote Assistance** via e-mail to a Helpdesk.
 
 In this scenario, novice user Joe has a new computer running **Windows 7 Professional**. A dialog box appears informing Joe that he must contact an administrator in order to install antivirus software on his computer.
 
-Instead of calling the Helpdesk, Joe decides to use Remote Assistance. Here&#8217;s the steps he needs to take:
+Instead of calling the Helpdesk, Joe decides to use Remote Assistance. Here's the steps he needs to take:
 
   1. Open Remote Assistance by clicking the **Start** button . In the search box, type **Remote Assistance**, and then, in the list of results, click **Windows Remote Assistance**.
   2. Click **Invite someone you trust to help you**.
@@ -33,4 +33,4 @@ Joe will now see a windows which contains a &#8220;connection password&#8221; an
 
 Joe sends the &#8220;connection password&#8221; and the invitation to the Helpdesk.
 
-The Helpdesk can now remotely connect to Joe&#8217;s computer. When the Remote Assistance screen opens showing Joe&#8217;s desktop. With Joe&#8217;s consent, Helpdesk can now control Joe&#8217;s computer to diagnose his problem of not being able to install antivirus software.
+The Helpdesk can now remotely connect to Joe's computer. When the Remote Assistance screen opens showing Joe's desktop. With Joe's consent, Helpdesk can now control Joe's computer to diagnose his problem of not being able to install antivirus software.

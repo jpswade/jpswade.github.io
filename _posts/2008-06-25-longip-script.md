@@ -15,7 +15,7 @@ tags:
   - Linux
 ---
 <p class="lead">
-  I wanted to create a script that would convert a normal IP address to a long IP, just like mIRC Script&#8217;s $longip alias.
+  I wanted to create a script that would convert a normal IP address to a long IP, just like mIRC Script's $longip alias.
 </p>
 
 > <span style="font-weight: bold; font-size: 9pt; font-family: 'Verdana'; color: #00007f;">$longip(address)</span>
@@ -30,11 +30,11 @@ What I was originally trying to do was increase an IP by 1, but due to the octet
 
 What I decided to do in the end was convert the IP to a &#8220;longip&#8221; then increase it by 1, then convert the IP BACK to normal IP.
 
-This required a way to convert an IP to and from longIP, I was told it could be done purely using shell script, here&#8217;s what I did&#8230;
+This required a way to convert an IP to and from longIP, I was told it could be done purely using shell script, here's what I did&#8230;
 
 <!--more-->
 
-I decided that shell script wasn&#8217;t powerful enough for what I wanted, and that I could do it easier in perl, this is the result:
+I decided that shell script wasn't powerful enough for what I wanted, and that I could do it easier in perl, this is the result:
 
 > #!/usr/bin/perl
 > 
@@ -68,7 +68,7 @@ I decided that shell script wasn&#8217;t powerful enough for what I wanted, and 
 
 Thanks for the assistance from #perlhelp (EFnet).
 
-It&#8217;s also worth noting that cls (EFnet) created a shell script version called &#8220;ipconv.sh&#8221;, which is about 50 long lines in total (too long for such a simple task imo), however it didn&#8217;t convert how I wanted. If you ask him (or me) nicely, you may receive a copy.
+It's also worth noting that cls (EFnet) created a shell script version called &#8220;ipconv.sh&#8221;, which is about 50 long lines in total (too long for such a simple task imo), however it didn't convert how I wanted. If you ask him (or me) nicely, you may receive a copy.
 
 Update: I also found a version of &#8220;[ipconv.sh](http://libconnect.cvs.sourceforge.net/viewvc/*checkout*/libconnect/libconnect-cvs/doc/tools/ipconv.sh?revision=1.1.1.1&content-type=text%2Fplain)&#8221; in libconnect.
 

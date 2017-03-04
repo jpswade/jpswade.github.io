@@ -21,7 +21,7 @@ The main cause of this is simply due to lack of validation and error checking.
 
 Firstly you must fully understand how forms work with PHP. When you set the form &#8220;method&#8221; to POST, it sends the data to PHP as a super global variable called &#8220;$_POST&#8221;. In the HTML each &#8220;input&#8221; has a &#8220;name&#8221;, that is used to identify the related data.
 
-For example, there is an input field named &#8220;message&#8221;, to retrieve this in PHP you simply use &#8220;$_POST[&#8216;message&#8217;]&#8221;, we will be using this method to pass the data between the form and PHP for processing.
+For example, there is an input field named &#8220;message&#8221;, to retrieve this in PHP you simply use &#8220;$_POST[&#8216;message']&#8221;, we will be using this method to pass the data between the form and PHP for processing.
 
 This is a fine example of how NOT to do it, so what is wrong with this method you may ask?
 

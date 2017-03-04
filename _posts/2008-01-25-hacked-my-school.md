@@ -12,12 +12,12 @@ categories:
   - Sysadmin
 ---
 <p class="lead">
-  When I was about 16 I hacked my schools website, why? how? Let&#8217;s find out&#8230;
+  When I was about 16 I hacked my schools website, why? how? Let's find out&#8230;
 </p>
 
 <!--more-->To get the most from this story I have to provide you a bit of background&#8230;
 
-Imagine, it&#8217;s year 9, and I&#8217;m at high school. We have just had a new head of IT teacher and a new IT technician. I learn very quickly that they are both very egotistical characters, for example, I recall the IT teacher saying:
+Imagine, it's year 9, and I'm at high school. We have just had a new head of IT teacher and a new IT technician. I learn very quickly that they are both very egotistical characters, for example, I recall the IT teacher saying:
 
 > “I have been coding since I was 9 years old, and won competitions in computer magazines”.
 
@@ -25,13 +25,13 @@ Imagine, it&#8217;s year 9, and I&#8217;m at high school. We have just had a new
 
 Right from the very start, we never saw eye to eye, I was never quite sure why.
 
-This teacher has (on more than one occasion) gone to extreme lengths to prove a point, such as in one instance where he poured his coffee all over a students 400+ page IT project and then threw it in the bin, just because they didn&#8217;t put a front cover on it. A point well made, nobody ever made that mistake again.
+This teacher has (on more than one occasion) gone to extreme lengths to prove a point, such as in one instance where he poured his coffee all over a students 400+ page IT project and then threw it in the bin, just because they didn't put a front cover on it. A point well made, nobody ever made that mistake again.
 
 The network they ran was always pretty open, they never seemed to like to really lock anything down, however when they did, I always took great pleasure in finding a way around it, it was part of the fun, the thrill of the challenge.
 
 However, back in the day these guys used to connect to our machines using &#8220;Netbus&#8221;, and open our CD-ROM drives, just for the fun of it. This was until I got smart and started using &#8220;Netbuster&#8221;.
 
-Very early on I was able to do things on the network I shouldn&#8217;t have been able to do, included running the teacher profile script to gain access to their “Teacher Public”, where the teachers stored and shared files. I remember finding some very interesting documents.
+Very early on I was able to do things on the network I shouldn't have been able to do, included running the teacher profile script to gain access to their “Teacher Public”, where the teachers stored and shared files. I remember finding some very interesting documents.
 
 It gets better&#8230;
 
@@ -39,7 +39,7 @@ The biggest breakthrough was when the head of IT had left his laptop hard drive 
 
 A few months passed, I used what I had for quite a while and never got detected. A few other things I did during this time was to firstly setup a fake hotmail page to grab passwords, secondly I installed a keylogger (kl2.zip &#8211; Key Logger 2) on certain machines which I knew staff members with admin rights used. During this time I also discovered that with the cuteftp dat file I could import it into my copy of cuteftp, however I soon discovered that the file was password protected.
 
-I had to think outside the box, the my idea was to make a backup copy of my dat file and replace it with their dat file, I did this and ran cuteFTP, sure enough no password was required. I was then faced with a few sites (mostly default and audiowarez), however there was one site listed that was not warez related or there by default, that was the schools ftp login to the web hosting, the host was “schoolsite.edex.net.uk”, the username was “s423”, all very simple, however the password was masked. I remembered a trick I used to grab dial-up passwords, I simply used a password grabber (SnadBoy&#8217;s Revelation), and it worked! The password was: &#8220;babbage&#8221;, yes, all in lower case, no numbers, that’s babbage, as in _Charles Babbage_, known to some as the &#8220;Father of Computing&#8221;. This is simple stuff.
+I had to think outside the box, the my idea was to make a backup copy of my dat file and replace it with their dat file, I did this and ran cuteFTP, sure enough no password was required. I was then faced with a few sites (mostly default and audiowarez), however there was one site listed that was not warez related or there by default, that was the schools ftp login to the web hosting, the host was “schoolsite.edex.net.uk”, the username was “s423”, all very simple, however the password was masked. I remembered a trick I used to grab dial-up passwords, I simply used a password grabber (SnadBoy's Revelation), and it worked! The password was: &#8220;babbage&#8221;, yes, all in lower case, no numbers, that’s babbage, as in _Charles Babbage_, known to some as the &#8220;Father of Computing&#8221;. This is simple stuff.
 
 Once I have the login details, I get an ftp proxy and connect in to it and have a browse around, I find that the technician is actually hosting his _planetarium_ clan website on there. So, I do nothing, nothing at all, until I hear news that the head of IT and the technician is leaving the school to move to another school, together, at the same time. I wait, and wait, and they leave. I wait a bit longer. Then I upload &#8220;thementor.txt&#8221; (The Conscience of a Hacker by +++The Mentor+++), I leave that there for weeks, nothing, it remains for the entire time. Interesting…
 

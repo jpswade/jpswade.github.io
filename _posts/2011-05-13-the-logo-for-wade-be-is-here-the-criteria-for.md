@@ -29,7 +29,7 @@ format: gallery
 
 The criteria for the logo was to be instantly recognisable, easily adaptable and subtlety intriguing.
 
-I&#8217;ve become increasingly fond of the &#8220;Journal&#8221; typeface so I&#8217;ve decided to use it in the design.
+I've become increasingly fond of the &#8220;Journal&#8221; typeface so I've decided to use it in the design.
 
 I added the asterisks to draw the viewer to it in the same way as you would take note of a footnote at the bottom of an article.
 

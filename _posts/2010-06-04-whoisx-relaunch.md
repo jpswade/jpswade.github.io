@@ -17,15 +17,15 @@ tags:
   - whois
   - whoisx
 ---
-# We&#8217;re ready now&#8230;
+# We're ready now&#8230;
 
 <p class="lead">
-  So, we&#8217;ve been running <a href="http://whoisx.co.uk/">WhoisX</a> since 2004, it was slightly updated in 2007, since then not a lot has happened&#8230;
+  So, we've been running <a href="http://whoisx.co.uk/">WhoisX</a> since 2004, it was slightly updated in 2007, since then not a lot has happened&#8230;
 </p>
 
 Until now&#8230;
   
-<!--more-->We&#8217;ve spent the past few weeks putting together some plans and developing them into a brand new site, which we hope you&#8217;ll like.
+<!--more-->We've spent the past few weeks putting together some plans and developing them into a brand new site, which we hope you'll like.
 
 Now for the good stuff&#8230;
 
@@ -33,10 +33,10 @@ To get started, simply visit our website:
 
   * [http://whoisx.co.uk/](http://whoisx.us1.list-manage.com/track/click?u=fc3257c084746eaaba754914a&id=54b2fab19a&e=3891362231)
 
-So, what are you waiting for? Let&#8217;s go!
+So, what are you waiting for? Let's go!
 
-We hope you like what we&#8217;ve done, but I&#8217;m sure you will have something to say, so we&#8217;ve made it really easy for you to give us feedback, just look for the link on the website.
+We hope you like what we've done, but I'm sure you will have something to say, so we've made it really easy for you to give us feedback, just look for the link on the website.
 
-Ps. You&#8217;ll also find us on twitter [@whoisxuk](http://whoisx.us1.list-manage.com/track/click?u=fc3257c084746eaaba754914a&id=cd2b64458c&e=3891362231).
+Ps. You'll also find us on twitter [@whoisxuk](http://whoisx.us1.list-manage.com/track/click?u=fc3257c084746eaaba754914a&id=cd2b64458c&e=3891362231).
 
 Thanks!

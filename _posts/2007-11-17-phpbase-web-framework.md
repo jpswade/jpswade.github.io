@@ -86,22 +86,22 @@ The actual frame work files are as follows:
   * vars.php &#8211; database stored variables
   * xml.php &#8211; generic expat xml parser object
 
-Each of the above files has it&#8217;s own set of functions classes and subfunctions, they are generally bound together by a file named &#8220;pb_events.php&#8221;.
+Each of the above files has it's own set of functions classes and subfunctions, they are generally bound together by a file named &#8220;pb_events.php&#8221;.
 
 **How does it work?**
 
-Due to the amount of functions there&#8217;s far more information than I&#8217;d like to explain here.
+Due to the amount of functions there's far more information than I'd like to explain here.
 
 However in short, the idea is to pass everything via the framework, making your entire site very easy to manage.
 
 **Why am I interested in this?**
 
-  * It&#8217;s difficult to find any information on this framework.
+  * It's difficult to find any information on this framework.
   * The original authors are unreachable.
-  * It&#8217;s always a shame to see hard work go to waste.
+  * It's always a shame to see hard work go to waste.
   * It may help people using this framework to understand the situation.
   * It has some bugs that stop certain things from working how they should without a bit of modification.
   * I like the way it does certain things, they are worth noting.
   * For reference.
 
-I&#8217;m in no way trying to revive this framework, mealy trying to offer an answer to some of the questions you may have.
+I'm in no way trying to revive this framework, mealy trying to offer an answer to some of the questions you may have.

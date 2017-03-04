@@ -21,7 +21,7 @@ tags:
   - opendns
   - public nameservers
 ---
-If you&#8217;ve ever had a problem with your ISPs **DNS name servers** then you&#8217;ll probably find this very useful.
+If you've ever had a problem with your ISPs **DNS name servers** then you'll probably find this very useful.
 
 The domain name system (DNS) is a way of resolving a host name to an ip address.
 
@@ -31,7 +31,7 @@ To do this, you need DNS servers or name servers, which are usually provided by 
 
 Sometimes the domain name servers provided by your ISP go down or get overloaded and stop responding.
 
-If your computer is unable to resolve a domain name to an IP address, generally this means that you will be unable to browse the internet. Very annoying, I&#8217;m sure you&#8217;ll agree.
+If your computer is unable to resolve a domain name to an IP address, generally this means that you will be unable to browse the internet. Very annoying, I'm sure you'll agree.
 
 So what can I do if my ISPs name servers go down? Use alternative name servers often known as **public nameservers** or **public dns servers**.
 
@@ -39,7 +39,7 @@ So what can I do if my ISPs name servers go down? Use alternative name servers o
 
 There are a few public name servers out there, you just have to know where to look.
 
-Fortunately for you, I&#8217;ve made a list for you&#8230;
+Fortunately for you, I've made a list for you&#8230;
 
   * [Genuity](http://www.genuity.com/) 
       * 4.2.2.1 (vnsc-pri.sys.gtei.net)
@@ -84,4 +84,4 @@ You may also want to use it if your ISP is [hijacking your DNS](http://www.there
 
 **What can go wrong?**
 
-Nothing. It&#8217;s unlikely for it to go wrong, and if it does, there&#8217;s plenty of support out there for these services or you can very easily just revert back by telling your system to automatically choose your name servers for you.
+Nothing. It's unlikely for it to go wrong, and if it does, there's plenty of support out there for these services or you can very easily just revert back by telling your system to automatically choose your name servers for you.

@@ -33,11 +33,11 @@ However, Quercus has been updated since this was produced.
 
 Further research lead me to a blog post by the company that makes Quercus entitled: [Quercus on the Google App Engine](http://blog.caucho.com/?p=187)
 
-It gives a general overview of what is required, but isn&#8217;t really very direct.
+It gives a general overview of what is required, but isn't really very direct.
 
 I did also find an entry on their wiki for [Quercus on Google App Engine](http://wiki.caucho.com/Quercus_Google_App_Engine), which was more useful.
 
-Here&#8217;s what you need to do:
+Here's what you need to do:
 
   1. Follow the [Google App Engine: Creating a Project getting started guide](http://code.google.com/appengine/docs/java/gettingstarted/creating.html) to create your file structure and the xml files.
   2. Download the [latest version of Resin](http://caucho.com/download) (ie: [resin-4.0.6.zip](http://www.caucho.com/download/resin-4.0.6.zip))
@@ -54,14 +54,14 @@ Using the suggested option fixed this, which looks like this:
 
 > C:\appengine-java-sdk\bin\appcfg.cmd &#8211;enable\_jar\_splitting update war
 
-That&#8217;s pretty much it to get you started, when you visit your app address, you should be able to call your PHP files.
+That's pretty much it to get you started, when you visit your app address, you should be able to call your PHP files.
 
 If you are looking for something a bit more advanced, take a look at these articles that explain how to get WordPress working:
 
   * [Converting WordPress for Quercus on Google App Engine](http://blog.caucho.com/?p=196)
   * [Using Quercus® to Run the WordPress PHP blog on Google App Engine (pdf)](http://www.caucho.com/articles/Quercus_on_GAE.pdf)
 
-For additional help I recommend you visit [Caucho&#8217;s Quercus Forums](http://forum.caucho.com/forumdisplay.php?f=5).
+For additional help I recommend you visit [Caucho's Quercus Forums](http://forum.caucho.com/forumdisplay.php?f=5).
 
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 575px; width: 1px; height: 1px; overflow: hidden;">
   Using Quercus® to Run the WordPress PHP blog on Google App EngineUsing Quercus® to Run the WordPress PHP blog on Google App Engine

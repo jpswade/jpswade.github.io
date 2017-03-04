@@ -25,7 +25,7 @@ tags:
   - shell
 ---
 <p class="lead">
-  If you&#8217;re a geek like me or you&#8217;ve just  seen <a href="http://paolo.wordpress.com/2010/05/07/iron-man-2-etcmotd/">Iron Man 2</a> you&#8217;ll probably like the idea of having a custom <a href="http://en.wikipedia.org/wiki/Motd_(unix)">motd</a> display something cool when you login to your shell or terminal server.
+  If you're a geek like me or you've just  seen <a href="http://paolo.wordpress.com/2010/05/07/iron-man-2-etcmotd/">Iron Man 2</a> you'll probably like the idea of having a custom <a href="http://en.wikipedia.org/wiki/Motd_(unix)">motd</a> display something cool when you login to your shell or terminal server.
 </p>
 
 Sure, you can use [figlet](http://en.wikipedia.org/wiki/FIGlet) to create a text banner, but how cool would it be if you could display your own logo instead. Right?
@@ -34,9 +34,9 @@ Can an image be converted into [ASCII art](http://en.wikipedia.org/wiki/ASCII_a
 
 Challenge accepted.
 
-<!--more-->First of all, let&#8217;s get our logo image. We&#8217;re going to use the 
+<!--more-->First of all, let's get our logo image. We're going to use the 
 
-[Gallush logo](http://www.flickr.com/photos/38114693@N04/5632552278/in/photostream) and to make it easier we&#8217;ll rehost the [original image](http://i.imgur.com/UQV1n.jpg). Let&#8217;s go&#8230;
+[Gallush logo](http://www.flickr.com/photos/38114693@N04/5632552278/in/photostream) and to make it easier we'll rehost the [original image](http://i.imgur.com/UQV1n.jpg). Let's go&#8230;
 
 I started off by trying some online converts:
 
@@ -56,9 +56,9 @@ I started off by trying some online converts:
   * [ConvertHub.com](http://www.converthub.com/) (as text/html) 
       * [Output](http://pastie.org/pastes/1968604/text)
 
-There&#8217;s a lot out there, which got me thinking&#8230;
+There's a lot out there, which got me thinking&#8230;
 
-What about software? Here&#8217;s the [ASCII art converters](http://en.wikipedia.org/wiki/ASCII_art_converters) I found:
+What about software? Here's the [ASCII art converters](http://en.wikipedia.org/wiki/ASCII_art_converters) I found:
 
   * [aalib](http://aa-project.sourceforge.net/aalib/) &#8211; outdated
   * [jpeg2ascii](https://sourceforge.net/projects/jpeg2ascii/) &#8211; unfinished
@@ -77,11 +77,11 @@ What about scripts? There must be a PHP, Perl or Python script out there&#8230;
   * [Term::Caca &#8211; perl interface for libcaca (Colour AsCii Art library)](http://search.cpan.org/~yanick/Term-Caca-0.97/lib/Term/Caca.pm)
   * [aalib-perl project](https://sourceforge.net/projects/aalib-perl/)
 
-Then a brainwave, I want the image to fit a standard terminal screen (80 columns by 24 rows, according to putty&#8217;s default settings).
+Then a brainwave, I want the image to fit a standard terminal screen (80 columns by 24 rows, according to putty's default settings).
 
 Since 1 pixel (usually) equates ASCII character, to make the ASCII art fit the screen I should resize the image from 128x128px to 24x24px.
 
-Unfortunately at that size (24&#215;24) it makes it almost impossible to work out what it&#8217;s meant to be, while at double the size (48&#215;48) you can still make out all the defining features of the image. This is [the resized image](http://i.imgur.com/zJEjp.jpg).
+Unfortunately at that size (24&#215;24) it makes it almost impossible to work out what it's meant to be, while at double the size (48&#215;48) you can still make out all the defining features of the image. This is [the resized image](http://i.imgur.com/zJEjp.jpg).
 
 After doing this, my favourite so far was from &#8220;converthub.com&#8221;, which results in something a little like [this](http://pastie.org/pastes/1970718/text) which is exactly 24 lines so should fit your standard console screen.
 
@@ -93,6 +93,6 @@ Just need to render some text in figlet and use [PabloDraw](http://picoe.ca/prod
 
 [<img class="aligncenter size-medium wp-image-2912" title="gallush-pablodraw" src="http://wade.be/upload/gallush-pablodraw-300x184.png" alt="" width="300" height="184" srcset="http://wade.be/upload/gallush-pablodraw-300x184.png 300w, http://wade.be/upload/gallush-pablodraw.png 929w" sizes="(max-width: 300px) 100vw, 300px" />](http://wade.be/upload/gallush-pablodraw.png)_Note: I used the &#8220;Rounded&#8221; font on the [patorjk.com Text Ascii Art Generator](http://patorjk.com/software/taag/)._
 
-Here&#8217;s what that looks like over PuTTY:
+Here's what that looks like over PuTTY:
 
 [<img class="aligncenter size-medium wp-image-2916" title="gallush-logo-putty-final" src="http://wade.be/upload/gallush-logo-putty-final-300x203.png" alt="" width="300" height="203" />](http://wade.be/upload/gallush-logo-putty-final.png)Kinda cool huh?

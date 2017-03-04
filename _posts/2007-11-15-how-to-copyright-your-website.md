@@ -18,7 +18,7 @@ tags:
   People often ask me how to go about getting their website copyrighted, this is my advise&#8230;
 </p>
 
-<!--more-->To put it simply, the majority of the time you won&#8217;t even need to copyright your website. This is because it is generally pretty easy to prove that you originally created it.
+<!--more-->To put it simply, the majority of the time you won't even need to copyright your website. This is because it is generally pretty easy to prove that you originally created it.
 
 However, sometimes you may want that extra bit of reassurance to prove without a shadow of a doubt that you are in fact the true copyright holder of the website.
 

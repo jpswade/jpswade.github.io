@@ -38,7 +38,7 @@ Thanks to appdeploy.com I was able to locate the all the [uninstall strings for 
 
 These uninstall strings with the right parameters for msiexec can force it to be uninstalled very easily. This, combined with the above &#8220;workarounds&#8221; used as a &#8220;cleanup&#8221; method if the uninstaller fails creates a very useful tool.
 
-The removeOGA batch file was born, combining all the uninstall strings and a cleanup process, it&#8217;s an idiot proof way to completely remove the OGA Notifier.
+The removeOGA batch file was born, combining all the uninstall strings and a cleanup process, it's an idiot proof way to completely remove the OGA Notifier.
 
   * [Download removeoga.bat](http://hm2k.googlecode.com/svn/trunk/code/batch/removeoga.bat) (Right click and save as removeoga.bat)
 

@@ -1,6 +1,6 @@
 ---
 id: 3349
-title: 'Unable to update nameservers: Nameserver doesn&#8217;t exist at the registry'
+title: 'Unable to update nameservers: Nameserver doesn't exist at the registry'
 date: 2012-05-06T16:28:24+00:00
 author: James Wade
 layout: post
@@ -24,10 +24,10 @@ tags:
 </p>
 
 <p style="padding-left: 30px;">
-  Unable to update nameservers: Nameserver [ns2.example.co.uk] doesn&#8217;t exist at the registry.
+  Unable to update nameservers: Nameserver [ns2.example.co.uk] doesn't exist at the registry.
 </p>
 
-Especially if you&#8217;ve recently set a [new glue up](http://www.nominet.org.uk/registrars/systems/data/nameservers/).
+Especially if you've recently set a [new glue up](http://www.nominet.org.uk/registrars/systems/data/nameservers/).
 
 <!--more-->In the OpenSRS domain manager it says:
 
@@ -35,7 +35,7 @@ Especially if you&#8217;ve recently set a [new glue up](http://www.nominet.org.u
   ** IMPORTANT: Before adding additional name servers to your configuration, you should be sure that the name server has setup correctly. 24 &#8211; 48 hours after you submit a request for an additional name server, it will be in the rotation for authoritative lookups and if it is not setup correctly, your site will take a long time to resolve when visitors try to find you.
 </p>
 
-You can ignore this for now, here&#8217;s what you need to do first&#8230;
+You can ignore this for now, here's what you need to do first&#8230;
 
 You, or your admin who has access to the OpenSRS reseller interface needs to find the page in there entitled &#8220;Add Nameserver to All Foreign Registries&#8221; as per [these instructions](http://www.opensrs.com/docs/opensrsrwi/add_nameserver_to_all_foreign_registries.htm):
 

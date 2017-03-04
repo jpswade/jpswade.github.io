@@ -61,7 +61,7 @@ At first I thought there was only a few, but I soon discovered that there are qu
 
 Firstly I intend to find one I like and use it to organise my DVD collection. My favourite so far is DVD Profiler, however once you get to 50 DVDs, you must pay to add more. I easily have over 100.
 
-I didn&#8217;t really like many of the free or open source ones and some didn&#8217;t seem to even work correctly, however, I have no intention of paying for something that really should be free.
+I didn't really like many of the free or open source ones and some didn't seem to even work correctly, however, I have no intention of paying for something that really should be free.
 
 As you can probably see, there are a few entries in Wikipedia, so eventually I may palatially port this list to Wikipedia.
 

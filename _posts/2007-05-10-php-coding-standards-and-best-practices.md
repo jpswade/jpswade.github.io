@@ -10,7 +10,7 @@ categories:
   - Development
 ---
 <p class="lead">
-  I have been using PHP for a long time now, it&#8217;s a very flexible language, and is a good platform.
+  I have been using PHP for a long time now, it's a very flexible language, and is a good platform.
 </p>
 
 Over the years PHP coders have gotten a very bad reputation mainly due to poor coding and not escaping SQL.
@@ -25,4 +25,4 @@ I believe all projects should take the same approach, and stick to one set of co
 
 Not only this but it its always worth learning about the [PHP best practices](http://talks.php.net/show/php-best-practices/) (Use left and right keys to scroll through the pages), although you do not have to follow the best practices, some of the suggestions are worth taking note of.
 
-This is only a short article, but I don&#8217;t think much more needs to be said. Follow the links, and ensure you attempt to stick to the guide lines, and you&#8217;ll do all right.
+This is only a short article, but I don't think much more needs to be said. Follow the links, and ensure you attempt to stick to the guide lines, and you'll do all right.

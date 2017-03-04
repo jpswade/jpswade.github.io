@@ -35,13 +35,13 @@ tags:
 > 
 > _#This is an example of a possible exploited system_
 
-Generally the ident server (such as oidentd) will return the user&#8217;s username as the ident when it is requested, however on my servers, I allow some of my users to spoof their ident.
+Generally the ident server (such as oidentd) will return the user's username as the ident when it is requested, however on my servers, I allow some of my users to spoof their ident.
 
 This means they can change their ident to whatever they like, regardless of their username.
 
 To do this, you need to create the [_$HOME/.oidentd.conf_](http://linux.die.net/man/5/oidentd.conf) file, with the following content:
 
-> global { reply &#8216;$ident&#8217;}
+> global { reply &#8216;$ident'}
 > 
 > _#Note: Where $ident is, replace with the ident you want._
 
@@ -49,7 +49,7 @@ I know some users find this a bit difficult or confusing, so I created a script 
 
   * [setident.sh](http://hm2k.googlecode.com/svn/trunk/code/shell/setident.sh) &#8211; A script used to set your ident
 
-It&#8217;s works fine using the sh unix shell on FreeBSD.
+It's works fine using the sh unix shell on FreeBSD.
 
 If you are on my shell servers, you should be able to take advantage of this using the &#8220;setident&#8221; command.
 

@@ -20,20 +20,20 @@ tags:
   - psicon.dll
   - thumbnails
 ---
-If like me you don&#8217;t like using Adobe Bridge and instead like to see thumbnail icon previews of your Adobe Illustrator and Adobe Photoshop (.ai, .eps and .psd) files in Windows Explorer then this is the fix you need.
+If like me you don't like using Adobe Bridge and instead like to see thumbnail icon previews of your Adobe Illustrator and Adobe Photoshop (.ai, .eps and .psd) files in Windows Explorer then this is the fix you need.
 
 <!--more-->
 
-Here&#8217;s what you need to do:
+Here's what you need to do:
 
   * [aiicon.zip](http://groups.adobe.com/files/58f4b3fc86/aiicon.zip) &#8211; A zip file containing aiicon.dll, aiicon.dll.reg, psicon.dll, psicon.dll.reg 
-      * Download and extract to it&#8217;s own directory.
+      * Download and extract to it's own directory.
   * [aiicon.bat](http://hm2k.googlecode.com/svn/trunk/code/batch/aiicon.bat) &#8211; A batch file that will help you get it setup. 
       * Right click, and save as &#8220;aiicon.bat&#8221;.
       * Save to same directory.
       * Run.
 
-That&#8217;s it! Nothing else to it!
+That's it! Nothing else to it!
 
 The result should look something like this:
 
@@ -43,8 +43,8 @@ The result should look something like this:
 
 The aiicon.dll and psicon.dll files are actually distributed by Adobe with Adobe Illustrator 11 and Adobe Photoshop 7. You can actually still find them in the trial versions. It seems that since the introduction of the &#8220;CS&#8221; versions, Adobe has directed you towards Adobe Bridge, instead of using Windows Explorer for browsing and previewing their files, so that is why this fix applies to CS, CS2, CS3 and CS4.
 
-The registry files (.reg) are the result of exporting the relevant values from the registry when thumbnails did work, so they can be imported to other systems that don&#8217;t have these values.
+The registry files (.reg) are the result of exporting the relevant values from the registry when thumbnails did work, so they can be imported to other systems that don't have these values.
 
-The batch script ties everything together. It puts the DLL files in the right place, imports the registry and updates it so that the paths are correct. It&#8217;s completely open source so you can see exactly what it does by viewing the file.
+The batch script ties everything together. It puts the DLL files in the right place, imports the registry and updates it so that the paths are correct. It's completely open source so you can see exactly what it does by viewing the file.
 
 Enjoy!

@@ -16,7 +16,7 @@ tags:
   The idea was to have the ability to create unlimited subdomains simply by creating an appropreate directory for it in your html root directory.
 </p>
 
-Since most people don&#8217;t have direct access to their httpd.conf, the obvious solution was to create a method using mod_rewrite within &#8220;.htaccess&#8221;. This also allowed it to be setup very easily and quickly.
+Since most people don't have direct access to their httpd.conf, the obvious solution was to create a method using mod_rewrite within &#8220;.htaccess&#8221;. This also allowed it to be setup very easily and quickly.
 
 <!--more-->I have no immediate use for this solution, however I know it will come in very handy in the future.
 

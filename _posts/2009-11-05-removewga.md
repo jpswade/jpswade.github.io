@@ -40,7 +40,7 @@ Alternatively Microsoft have instructions on [how to disable or uninstall the Mi
 
 **Update**
 
-Once you have removed the WGA, you&#8217;ll probably need to set your Windows Automatic Updates correctly so it doesn&#8217;t install again while you get other updates. This way you should never have to visit the Windows Update site (www.update.microsoft.com). Here&#8217;s what to do&#8230;
+Once you have removed the WGA, you'll probably need to set your Windows Automatic Updates correctly so it doesn't install again while you get other updates. This way you should never have to visit the Windows Update site (www.update.microsoft.com). Here's what to do&#8230;
 
   1. Set &#8220;Download updates for me, but let me choose when to install them&#8221; 
       * [How to configure and use Automatic Updates in Windows XP](http://support.microsoft.com/kb/306525) OR
@@ -49,7 +49,7 @@ Once you have removed the WGA, you&#8217;ll probably need to set your Windows Au
       * [Manipulate Automatic Updates Behavior Using Command-line Options](http://technet.microsoft.com/en-us/library/cc708617%28WS.10%29.aspx) OR
       * Run [restart_autoupdate.bat](http://hm2k.googlecode.com/svn/trunk/code/batch/restart_autoupdate.bat)
 
-Once you&#8217;ve done that, the Windows Update service should start. You should now see a yellow exclamation mark in your system tray (next to your clock). When you click that, you&#8217;ll get the option to do an &#8220;Express&#8221; or &#8220;Custom&#8221; install.
+Once you've done that, the Windows Update service should start. You should now see a yellow exclamation mark in your system tray (next to your clock). When you click that, you'll get the option to do an &#8220;Express&#8221; or &#8220;Custom&#8221; install.
 
 You must select a &#8220;Custom&#8221; install. From there you can [Uncheck the Windows Genuine Advantage Notification (KB905474)](http://windowssecrets.com/2009/05/21/02-Get-all-security-patches-without-WGA-nightmares) update and then hide the update in future.
 

@@ -38,7 +38,7 @@ Where as the original driver was installed to:
 
 After speaking to someone at Belkin, I discovered that they were going to be no help with this at all.
 
-I had to find the original driver disc as they couldn&#8217;t be found online and the latest drivers were useless.
+I had to find the original driver disc as they couldn't be found online and the latest drivers were useless.
 
 Anyway, I got it and for those that want it, I kindly uploaded the drivers here:
 

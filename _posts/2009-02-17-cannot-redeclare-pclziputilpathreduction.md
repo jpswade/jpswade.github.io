@@ -12,7 +12,7 @@ tags:
   - Wordpress
 ---
 <p class="lead">
-  I had this issue today, I found that you need to deactivate the &#8220;WordPress Automatic Upgrade&#8221; plugin as it&#8217;s included in the core of WordPress now anyway.
+  I had this issue today, I found that you need to deactivate the &#8220;WordPress Automatic Upgrade&#8221; plugin as it's included in the core of WordPress now anyway.
 </p>
 
 So, just disable the plugin and try again.

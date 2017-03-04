@@ -21,11 +21,11 @@ tags:
 ---
 This is a problem that has plagued me for a while now, and only two things seem to fix it.
 
-The issue is that when using a Windows 7 RDP client (mstsc) to connect into another Windows 7 system, you sometimes find you&#8217;re left with nothing but a black screen.
+The issue is that when using a Windows 7 RDP client (mstsc) to connect into another Windows 7 system, you sometimes find you're left with nothing but a black screen.
 
-From this black screen you can&#8217;t do anything. The cursor seems to respond, but you can&#8217;t seem to bring up anything useful, nothing works.
+From this black screen you can't do anything. The cursor seems to respond, but you can't seem to bring up anything useful, nothing works.
 
-So what&#8217;s the solution?
+So what's the solution?
 
 <!--more-->
 
@@ -33,6 +33,6 @@ I found that if you hit CTRL + ALT + END inside the RDP connection this will bri
 
 When this menu appears, you can press cancel or &#8220;Start Task Manager&#8221;, which should bring it back to life.
 
-If that doesn&#8217;t work, try disconnecting and reconnecting.
+If that doesn't work, try disconnecting and reconnecting.
 
-Failing that, I&#8217;ve found that sometimes, in &#8220;Options&#8221;, if you untick the &#8220;Persistent bitmap caching&#8221; under the &#8220;Experience&#8221; tab you&#8217;ll find yourself being able to connect without a blank screen.
+Failing that, I've found that sometimes, in &#8220;Options&#8221;, if you untick the &#8220;Persistent bitmap caching&#8221; under the &#8220;Experience&#8221; tab you'll find yourself being able to connect without a blank screen.

@@ -24,15 +24,15 @@ It was pretty simple to get signed up with [myopenid.com](https://www.myopenid.c
 > 
 > Want to add OpenID support to _your_ website?
 > 
-> It&#8217;s as easy as adding two HTML header tags!
+> It's as easy as adding two HTML header tags!
 > 
 > [Read more..](http://blog.stackoverflow.com/2009/01/using-your-own-url-as-your-openid/)
 
-It basically would mean I could use &#8220;example.com&#8221; instead of &#8220;example.myopenid.com&#8221; to login with OpenID, which is pretty neat. There&#8217;s also a section in the help on [myOpenID.com for using your own domain](https://www.myopenid.com/help#own_domain), which confirms this.
+It basically would mean I could use &#8220;example.com&#8221; instead of &#8220;example.myopenid.com&#8221; to login with OpenID, which is pretty neat. There's also a section in the help on [myOpenID.com for using your own domain](https://www.myopenid.com/help#own_domain), which confirms this.
 
-Seems easy enough, I thought. Then I took into consideration that I&#8217;m using wordpress, sure not a major problem, I can simply hard code it into my theme, but then do I really want to do that? No, of course not.
+Seems easy enough, I thought. Then I took into consideration that I'm using wordpress, sure not a major problem, I can simply hard code it into my theme, but then do I really want to do that? No, of course not.
 
-WordPress is renound for it&#8217;s ability to be compltely dynamic, I want to stick in line with that. More importantly, I want my OpenID URL to work regardless of what theme I&#8217;m using.
+WordPress is renound for it's ability to be compltely dynamic, I want to stick in line with that. More importantly, I want my OpenID URL to work regardless of what theme I'm using.
 
 So I decided to start looking into it. I soon discovered someone over at wordpress.com had the same idea and had requested a way to [add OpenID delegation link to head](http://en.forums.wordpress.com/topic/add-openid-delegation-link-to-head).
 

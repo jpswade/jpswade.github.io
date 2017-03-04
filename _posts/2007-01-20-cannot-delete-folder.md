@@ -41,7 +41,7 @@ AKA:
   
 2, Kill explorer.exe in task manager, then run it again, deleting the folder along the way.
 
-I have been looking for a solution that doesn&#8217;t involve rebooting or killing explorer.exe, but maybe just stopping access to that file some how&#8230;
+I have been looking for a solution that doesn't involve rebooting or killing explorer.exe, but maybe just stopping access to that file some how&#8230;
 
 At long last a solution to this god for saken problem!
 

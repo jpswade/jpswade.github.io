@@ -31,7 +31,7 @@ Upon checking the event log for this error I discovered that there are no logs b
 
 It was when I tried to start the service that I got the error, which I thought could be the root of the problem.
 
-At first I thought it was some kind of permissions issue. It wasn&#8217;t.
+At first I thought it was some kind of permissions issue. It wasn't.
 
 To fix this, you must run command prompt (cmd) as an administrator.
 
@@ -47,7 +47,7 @@ I found that this returned the following message:
 
 However it seemed to fix the problem regardless, AFTER IT WAS REBOOTED.
 
-Microsoft has this down as [Winsock2 corruption](http://support.microsoft.com/kb/811259), but I&#8217;ve no idea what the real cause is.
+Microsoft has this down as [Winsock2 corruption](http://support.microsoft.com/kb/811259), but I've no idea what the real cause is.
 
 Once this command was issued and the machine was rebooted everything was fixed, including the event viewer.
 

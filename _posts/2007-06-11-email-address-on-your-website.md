@@ -15,7 +15,7 @@ tags:
   - email
 ---
 <p class="lead">
-  This is something that people don&#8217;t seem to realise, and although I tell them over and over it seems to go ignored.
+  This is something that people don't seem to realise, and although I tell them over and over it seems to go ignored.
 </p>
 
 **DO NOT PUT YOUR EMAIL ADDRESS ON YOUR WEBSITE**
@@ -29,7 +29,7 @@ People often ask me how to overcome this issue, I mainly use the following 3 met
   2. Images &#8211; Simply turn your email address into an image and include it on your site, be warned however, some spam bots use OCR, but not very often as it uses lots of resources.
   3. Forms &#8211; One of the best methods, because your email address is never visible, however forms can be spammed.
 
-For those with some PHP skills here&#8217;s a simple script I made, you can use to render your email addresses, as per option 2:
+For those with some PHP skills here's a simple script I made, you can use to render your email addresses, as per option 2:
 
 ```
 <?php
@@ -68,22 +68,22 @@ Update: I recently also write some javascript that is not easily detectable by t
 
 > <script language=&#8221;JavaScript&#8221; type=&#8221;text/javascript&#8221;>
 > <!&#8211;
-> var who = &#8216;info&#8217;;
-> var at = &#8216;@&#8217;;
+> var who = &#8216;info';
+> var at = &#8216;@';
 > URL=self.location.href;
-> prefix=URL.substring(0,URL.indexOf(&#8216;.&#8217;)+1);
+> prefix=URL.substring(0,URL.indexOf(&#8216;.')+1);
 > URLremain=URL.substring(prefix.length,URL.length);
 > domain=&#8221;;
-> if((prefix==&#8217;http://www.&#8217;) || (prefix==&#8217;www.&#8217;)) {
-> domain=URLremain.substring(0,URLremain.indexOf(&#8216;/&#8217;));
+> if((prefix=='http://www.') || (prefix=='www.')) {
+> domain=URLremain.substring(0,URLremain.indexOf(&#8216;/'));
 > }
 > else {
 > prefix2=URL.substring(0,7);
-> if (prefix2==&#8217;http://&#8217;) {
+> if (prefix2=='http://') {
 > URLremain2=URL.substring(prefix2.length,URL.length);
-> domain=URLremain2.substring(0,URLremain2.indexOf(&#8216;/&#8217;));
+> domain=URLremain2.substring(0,URLremain2.indexOf(&#8216;/'));
 > }
-> else{ domain=URL.substring(0,URL.indexOf(&#8216;/&#8217;)); }
+> else{ domain=URL.substring(0,URL.indexOf(&#8216;/')); }
 > }
 > document.write(who + at + domain);
 > //&#8211;>

@@ -10,7 +10,7 @@ categories:
   - Sysadmin
 ---
 <p class="lead">
-  After many years of using Nero, I&#8217;m finally fed up with it.
+  After many years of using Nero, I'm finally fed up with it.
 </p>
 
 I have been using Nero 6 for some time now, and refuse to upgrade to Nero 7 because when I did use it, I did not like it and I felt it used up far too much hard disk space for such a simple task.
@@ -65,4 +65,4 @@ This looks pretty good, a nice all round application that can read, build and wr
 
 **Conclusion**
 
-If you&#8217;re looking for something that does the job, is small, but basic and straight forward enough, [ImgBurn](http://www.imgburn.com/) is the answer, if not, you could try [CDBurnerXP Pro](http://www.cdburnerxp.se/), however this software does NOT do Disc to Disc copying at the moment. Its worth noting that [burnatonce](http://www.burnatonce.com/) does do CD disc to disc copy.
+If you're looking for something that does the job, is small, but basic and straight forward enough, [ImgBurn](http://www.imgburn.com/) is the answer, if not, you could try [CDBurnerXP Pro](http://www.cdburnerxp.se/), however this software does NOT do Disc to Disc copying at the moment. Its worth noting that [burnatonce](http://www.burnatonce.com/) does do CD disc to disc copy.

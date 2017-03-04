@@ -12,14 +12,14 @@ tags:
   - Design
 ---
 <p class="lead">
-  If you don&#8217;t have the time to make your own icons for your latest product or website, then you need to find some for free.
+  If you don't have the time to make your own icons for your latest product or website, then you need to find some for free.
 </p>
 
-More often than not, the actual task of finding icons can be even more time consuming than if you made them yourself! Okay, maybe not, but pretty close, needless to say, they are often difficult to find as there aren&#8217;t that many going for free.
+More often than not, the actual task of finding icons can be even more time consuming than if you made them yourself! Okay, maybe not, but pretty close, needless to say, they are often difficult to find as there aren't that many going for free.
 
 <!--more-->
 
-Here&#8217;s a list of free icon sets:
+Here's a list of free icon sets:
 
   1. [twotone](http://code.google.com/p/twotiny/)
   2. [ColorCons](http://mouserunner.com/Spheres_ColoCons1_Free_Icons.html)

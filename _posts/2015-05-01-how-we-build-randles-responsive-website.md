@@ -18,7 +18,7 @@ tags:
   Before Randles was bought out by the Stoneacre Motor Group I was tasked with the development of a new website.
 </p>
 
-> &#8220;We understand that the new rule is mobile first, Mobile first in everything. Mobile first in terms of applications. Most first in terms of the way people use things&#8221; &#8230; &#8220;It&#8217;s what people want&#8221;
+> &#8220;We understand that the new rule is mobile first, Mobile first in everything. Mobile first in terms of applications. Most first in terms of the way people use things&#8221; &#8230; &#8220;It's what people want&#8221;
 > 
 > &#8211; CEO Eric Schmidt
 
@@ -74,7 +74,7 @@ This demanded a good Content Management System with the ability to add users as
 
 While developing the plan I had looked at a number of Content Management Systems including Concrete5, Drupal, Wordpress, ExpressionEngine, Plone, Magento.
 
-The most obvious choice was WordPress as I&#8217;d been using it for about a decade, it&#8217;s PHP based (a language I&#8217;ve been using even longer), Google loves it and it&#8217;s easy for users to manage content.
+The most obvious choice was WordPress as I'd been using it for about a decade, it's PHP based (a language I've been using even longer), Google loves it and it's easy for users to manage content.
 
 **Implementation**
 
@@ -82,7 +82,7 @@ The next task was to think about how we were going to execute the plan.
 
 We decided to import our existing blog content from an old WordPress archive from 2005-2009 along with our Tumblr blog, bringing our content together to instantly reach out to more people.
 
-Using WordPress&#8217;s powerful plugins we were able to connect to social media networks such as Facebook, Twitter, LinkedIn and Tumblr so that when a new post was published it would broadcast to these networks.
+Using WordPress's powerful plugins we were able to connect to social media networks such as Facebook, Twitter, LinkedIn and Tumblr so that when a new post was published it would broadcast to these networks.
 
 The most challenging part of the development was designing and building the Used Car addon to accommodate he used car listing and search in a responsive way.
 
@@ -110,6 +110,6 @@ The results from doing this were easy to see, the new site meant that we were:
   * Mobile first, responsive design for modern devices
   * Automatically updated available via software
 
-Given the situation, I don&#8217;t think I would have done anything differently given the opportunity to do it again single handedly, it was within the scope of the brief. However, given a budget and/or a team to work with, the results may have been very different.
+Given the situation, I don't think I would have done anything differently given the opportunity to do it again single handedly, it was within the scope of the brief. However, given a budget and/or a team to work with, the results may have been very different.
 
-Next time, we&#8217;ll look at the Used Car addon.
+Next time, we'll look at the Used Car addon.

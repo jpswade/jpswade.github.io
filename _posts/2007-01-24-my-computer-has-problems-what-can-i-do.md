@@ -8,7 +8,7 @@ guid: /my-computer-has-problems-what-can-i-do
 permalink: /my-computer-has-problems-what-can-i-do/
 ---
 <p class="lead">
-  You&#8217;d be surprised the amount of times I get people asking me this question, therefore this is a guide on what to do to try and work out what the problem might be or completly solve the problem all together.
+  You'd be surprised the amount of times I get people asking me this question, therefore this is a guide on what to do to try and work out what the problem might be or completly solve the problem all together.
 </p>
 
 **Check for resource intensive applications**
@@ -82,13 +82,13 @@ If the RAM turns out to be faulty you need to work out what kind of RAM you have
 
   * [CPU-Z](http://www.cpuid.com/cpuz.php) is a freeware that gathers information on some of the main devices of your system.
   * Use [SiSoftware Sandra](http://www.sisoftware.co.uk/), hardware testing and reporting software.
-  * Physically open your computer&#8217;s case (when its turned off) take out the memory sticks and make a note of any significant information that is labelled on the sticks.
+  * Physically open your computer's case (when its turned off) take out the memory sticks and make a note of any significant information that is labelled on the sticks.
 
 Once you know which memory you have, you will need to purchase a replacement. With any luck you can purchase older ram from [eBay](http://www.ebay.co.uk/) or [cex](http://www.cex.co.uk/), alternativly newer ram can be purchased from [eBuyer](http://www.ebuyer.co.uk/) or your favorite retailer.
 
 **Bad Capacitors**
 
-Although it&#8217;s not very common, it is possible that your motherboard can have bad capacitors. To identify bad capacitors, [badcaps.net](http://www.badcaps.net/ident/) exists to help you.
+Although it's not very common, it is possible that your motherboard can have bad capacitors. To identify bad capacitors, [badcaps.net](http://www.badcaps.net/ident/) exists to help you.
 
 If in fact you do discover that you have bad capacitors you need to either manually replace the capacitors (which takes much skill), or get a replacement motherboard (under warranty or purchase from a retailer or website).
 
@@ -102,7 +102,7 @@ Locate an alternative graphics card, PSU or other suspicious hardware. You could
 
 **Last Resort &#8211; Format
   
-** I don&#8217;t like to recommend it, as it can get very complicated, and data can be lost. However it may be worth doing a clean install of your operating system using the original disc.
+** I don't like to recommend it, as it can get very complicated, and data can be lost. However it may be worth doing a clean install of your operating system using the original disc.
 
 Make sure you backup all your important data, then insert your operating system disc, reboot and make sure the CD-ROM driver has priority in the boot sequence in BIOS.
 

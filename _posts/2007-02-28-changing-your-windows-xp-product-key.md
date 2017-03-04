@@ -11,9 +11,9 @@ permalink: /changing-your-windows-xp-product-key/
   Its not very often I have to do this, but sometimes I do because I end up purchasing a bunch of matching machines, loading the software onto one, and ghosting to the rest.
 </p>
 
-So here&#8217;s a short guide on how to change your Windows XP serial number or product key.
+So here's a short guide on how to change your Windows XP serial number or product key.
 
-Here&#8217;s the batch file I created to achieve the task. Simply create a new file called &#8220;changekey.bat&#8221;, and enter the following:
+Here's the batch file I created to achieve the task. Simply create a new file called &#8220;changekey.bat&#8221;, and enter the following:
 
 > @echo off
   
@@ -35,6 +35,6 @@ Here&#8217;s the batch file I created to achieve the task. Simply create a new f
   
 > %SYSTEMROOT%\system32\oobe\msoobe /a
 
-That&#8217;s it!
+That's it!
 
 <span style="text-decoration: line-through;">change_winxp_key.txt</span>

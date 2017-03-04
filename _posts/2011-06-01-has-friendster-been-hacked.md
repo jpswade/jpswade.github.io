@@ -40,13 +40,13 @@ The email address they sent to was an alias which I had used specifically for fr
 
 How did the spammers manage to get my password and email address?
 
-I&#8217;ve certainly not used the account since about 2005, so it can&#8217;t be me.
+I've certainly not used the account since about 2005, so it can't be me.
 
 Does friendster store their passwords in plain text?
 
 I figured the easiest way to check is to issue a &#8220;forgot password&#8221; request and see what happens.
 
-  * It&#8217;s official: Friendster is a [plain text offender](http://plaintextoffenders.com/).
+  * It's official: Friendster is a [plain text offender](http://plaintextoffenders.com/).
 
 I received an &#8220;[Your Friendster account information](http://pastie.org/pastes/2004005/text)&#8221; email which contained my password in plain text right in the email.
 
@@ -58,13 +58,13 @@ Yes, this means is that it is absolutely possible that if somebody _did_ hack in
 
 Well, probably not a lot since most people are waving [bye-bye to friendster](http://lifestyle.inquirer.net/1972/bye-bye-friendster) anyway as friendster starts to delete all user data from their servers.
 
-_My tip: Don&#8217;t delay, [delete it today!](http://web.archive.org/web/20080516050841/http://www.friendster.com/cancelaccount.php)_
+_My tip: Don't delay, [delete it today!](http://web.archive.org/web/20080516050841/http://www.friendster.com/cancelaccount.php)_
 
 **Update 02/06/11**
 
 Yesterday I emailed friendster to notify them of a serious security concern, today I received this reply:
 
-> Thank you for reporting this to us.  We take reports like this seriously and we shall make the proper investigation on your concern.  Unfortunately, we don&#8217;t have a specific time frame on when the investigation will be completed. We apologize for the inconvenience.
+> Thank you for reporting this to us.  We take reports like this seriously and we shall make the proper investigation on your concern.  Unfortunately, we don't have a specific time frame on when the investigation will be completed. We apologize for the inconvenience.
 > 
 > Regards,
 > 
@@ -72,4 +72,4 @@ Yesterday I emailed friendster to notify them of a serious security concern, tod
 > 
 > Customer Support
 
-P.S. Thanks for your comments, I&#8217;m glad I&#8217;m not alone. Keep them coming!
+P.S. Thanks for your comments, I'm glad I'm not alone. Keep them coming!

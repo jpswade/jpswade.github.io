@@ -21,14 +21,14 @@ tags:
   - web design
 ---
 <p class="lead">
-  Sometimes when you&#8217;re designing a site you can find yourself wondering how is best to do a certain aspect.
+  Sometimes when you're designing a site you can find yourself wondering how is best to do a certain aspect.
 </p>
 
 More often than not navigation menus are one of these aspects.
 
-<!--more-->We all need a little inspiration sometimes and it&#8217;s good to check trends to see what the best practice is or which is the most innovative.
+<!--more-->We all need a little inspiration sometimes and it's good to check trends to see what the best practice is or which is the most innovative.
 
-Here&#8217;s a few places to get your inspiration&#8230;
+Here's a few places to get your inspiration&#8230;
 
   * [Smashing Magazine: Navigation menus trends and examples](http://www.smashingmagazine.com/2008/02/26/navigation-menus-trends-and-examples/)
   * [PatternTap.com: Navigation](http://patterntap.com/tap/collection/navigation)

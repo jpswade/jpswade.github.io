@@ -19,7 +19,7 @@ tags:
   - tinysong
 ---
 <p class="lead">
-  If you&#8217;ve not heard of TinySong, you&#8217;re missing out!
+  If you've not heard of TinySong, you're missing out!
 </p>
 
 TinySong allows you to share music using a short URL using Grooveshark.

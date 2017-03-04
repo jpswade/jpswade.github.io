@@ -25,7 +25,7 @@ Although I HAVE signed up to all these services, I have to wait 28 days for anyt
 
 **Did you know?**
 
-  * Most telemarketing companies use a tactic called &#8220;predictive-dialing&#8221;. Basically what this means is that their computer auto-dials your number, assuming it will take you about 2 rings to pick up, before switching you over to the next available telemarketer when you do pickup, so as not to waste the telemarketers&#8217; time while waiting for you to pick up, after all, time is money to them.
+  * Most telemarketing companies use a tactic called &#8220;predictive-dialing&#8221;. Basically what this means is that their computer auto-dials your number, assuming it will take you about 2 rings to pick up, before switching you over to the next available telemarketer when you do pickup, so as not to waste the telemarketers' time while waiting for you to pick up, after all, time is money to them.
   * Due to &#8220;predictive-dialing&#8221; if there are no availible telemarketers, the computer will hang up.
   * Also due to predictive-dialing, you get a delay before someone says anything, apparently often they wait until you say &#8220;hello&#8221; twice before they pickup, therefore DO NOT say &#8220;hello&#8221; twice, as dialers register a single hello as an invalid number.
   * Finally, when you suspect you are getting one of these calls (usually calling from an unknown or withheld number) simply pickup, and do not say anything, if you hold on the line, you may eventually hear a message that is designed for answering machines explaining that you have received a call from whoever is calling.
@@ -39,7 +39,7 @@ So I have decided to take matters into my own hands, the following list is simpl
   * [How to stop telemarketing calls](http://www.cexx.org/telejunk.htm) &#8211; A useful website with information about telemarketing calls.
   * [Anti-Telemarketing EGBG counter-script](http://www.xs4all.nl/%7Eegbg/counterscript.html) &#8211; A counter script to use on telemarketers.
   * [Dealing with Telemarketing Slime](http://www.scn.org/%7Ebk269/telemarketing.html) &#8211; Counter-Telemarketing Tactics &#8211; Telemarketing Scum Page.
-  * [Telemarketing Blocker](http://web.archive.org/web/20070818061859/http://www.kengolf.com/download/teleblocker.zip) &#8211; A free Caller ID screen software that retrieves caller&#8217;s telephone number using your voice modem.
+  * [Telemarketing Blocker](http://web.archive.org/web/20070818061859/http://www.kengolf.com/download/teleblocker.zip) &#8211; A free Caller ID screen software that retrieves caller's telephone number using your voice modem.
   * [JUNKBUSTERS Anti-Telemarketing Script](http://web.archive.org/web/20090130062155/http://junkbusters.com:80/script.html) &#8211; Another counter script, american based.
   * [Telemarketing](http://en.wikipedia.org/wiki/Telemarketing) &#8211; A wikipedia definition.
 

@@ -15,7 +15,7 @@ categories:
 
 Ultimately the project will be appear on your Facebook profile as a profile box.
 
-I&#8217;m writing this while I begin creating my facebook application to assist people in a similar situation to myself.
+I'm writing this while I begin creating my facebook application to assist people in a similar situation to myself.
 
 <!--more-->
 
@@ -35,10 +35,10 @@ Below is a step by step guide on how to achieve this:
       * ./footprints/lib.php
       * ./php4client/facebook.php
       * ./php4client/facebookapi\_php4\_restlib.php
-  2. Edit &#8220;index.php&#8221;, change &#8220;include\_once &#8216;../client/facebook.php&#8217;;&#8221; to &#8220;include\_once &#8216;facebook.php&#8217;;&#8221;
+  2. Edit &#8220;index.php&#8221;, change &#8220;include\_once &#8216;../client/facebook.php';&#8221; to &#8220;include\_once &#8216;facebook.php';&#8221;
   3. Edit &#8220;config.php&#8221;, ensure you set the $api\_key; $secret; $db\_ip; $db\_user; $db\_pass; $db\_pass; $db\_name correctly. Note, obviously at this point you need to create a user/database and from reading the file, at the bottom you need to create the table called &#8220;footprints&#8221;, I did this by loading up phpmyadmin and running the SQL.
   4. To get this to work correctly for php4, you also need [simplexml44](http://downloads.sourceforge.net/ister4framework/simplexml44-0_4_4.tar.gz), it should extract into a directory named &#8220;simplexml44-0\_4\_4&#8221;, you will need this.
-  5. If like me you have discovered that lib.php errors because of the try-catch, don&#8217;t worry. just [comment them out](http://rafb.net/p/JNFoSu20.txt).
+  5. If like me you have discovered that lib.php errors because of the try-catch, don't worry. just [comment them out](http://rafb.net/p/JNFoSu20.txt).
 
 If you have done everything correctly, you should be at a point when you are ready to start editing the &#8220;index.php&#8221; and the functions in &#8220;lib.php&#8221;.
 

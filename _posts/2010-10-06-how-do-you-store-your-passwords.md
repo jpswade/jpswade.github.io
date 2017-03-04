@@ -27,14 +27,14 @@ Using existing office software that you probably already have you can increase s
 
 [There is no way to password protect Outlook on startup](http://office.microsoft.com/en-gb/outlook-help/password-protect-outlook-HA001113851.aspx), so I would not recommend using it to store your passwords.
 
-If you don&#8217;t have Microsoft office, don&#8217;t worry, there are better options for free.
+If you don't have Microsoft office, don't worry, there are better options for free.
 
-For years I used a piece of software called [SafeSex](http://wayback.archive.org/web/20100915030740/http://www.nullsoft.com/free/safesex). Created _Nullsoft_ by the authors of [Winamp](http://www.winamp.com/) (a popular windows media player), it offered a free solution to safely and security save important information. It&#8217;s a bit like an encrypted, password protected notepad.
+For years I used a piece of software called [SafeSex](http://wayback.archive.org/web/20100915030740/http://www.nullsoft.com/free/safesex). Created _Nullsoft_ by the authors of [Winamp](http://www.winamp.com/) (a popular windows media player), it offered a free solution to safely and security save important information. It's a bit like an encrypted, password protected notepad.
 
 It worked well for me for many years but things have moved on. It was never released as a mainstream product and the code was never maintained. There has not been an update in many years and it lacks any improvement.
 
-[KeePass](http://keepass.info/) (recommended) focuses on one thing, storing your passwords safely and securely. It&#8217;s actively maintained and does the job very well.
+[KeePass](http://keepass.info/) (recommended) focuses on one thing, storing your passwords safely and securely. It's actively maintained and does the job very well.
 
 Be careful how you store your passwords.
 
-If you don&#8217;t store them securely, you can very quickly become an easy target. However, using one of the above methods should help prevent such issues.
+If you don't store them securely, you can very quickly become an easy target. However, using one of the above methods should help prevent such issues.

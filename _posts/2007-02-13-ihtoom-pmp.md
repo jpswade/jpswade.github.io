@@ -44,9 +44,9 @@ The mp4 player is boasted to have the following features:
   * hold button
   * built-in rechargable battery
 
-This device is fantastic. The only thing it doesn&#8217;t do is make phone calls, but for the price I cannot complain.
+This device is fantastic. The only thing it doesn't do is make phone calls, but for the price I cannot complain.
 
-From the outset I liked this device, and looked forward to its arrival. One thing I am aware of is that it&#8217;s never going to be an amazing build, but this didn&#8217;t bother me.
+From the outset I liked this device, and looked forward to its arrival. One thing I am aware of is that it's never going to be an amazing build, but this didn't bother me.
 
 It arrives and I immediately begin to examine the contents of the package.
 
@@ -64,7 +64,7 @@ The box contain: 1x pmp device; 1x white ear phones with a 3.5mm jack; 1x Male U
   <a href="http://wade.be/upload/pmp_device.jpg" title="IHTOOM pmp device"><img src="http://wade.be/upload/pmp_device.thumbnail.jpg" alt="IHTOOM pmp device" /></a>
 </p>
 
-I begin by trying out the camera facility and took some photos. The photos turn out okay, but are somewhat grainy, but tolerable for a 3.0 Mega Pixel. I noticed there was what looked liked a flash, but it didn&#8217;t actually have the option for a flash, so I believe there is no flash, but then again it was never said there would be a flash, it was just assumed.
+I begin by trying out the camera facility and took some photos. The photos turn out okay, but are somewhat grainy, but tolerable for a 3.0 Mega Pixel. I noticed there was what looked liked a flash, but it didn't actually have the option for a flash, so I believe there is no flash, but then again it was never said there would be a flash, it was just assumed.
 
 <p align="center">
   <a href="http://wade.be/upload/reco0019.JPG" title="chinese mp3 player woman"><img src="http://wade.be/upload/reco0019.thumbnail.JPG" alt="chinese mp3 player woman" /></a>
@@ -76,17 +76,17 @@ I begin by trying out the camera facility and took some photos. The photos turn 
 
 I also tried out the video recording, which was tollerable, only 320&#215;240, but not bad. Apparently you can use the device as a webcam too, but I have yet to try this.
 
-I also tried out one or two of the NES games, which seem to be slow. I think this probably is a problem with the device decoding the NES games. I could probably cope with that as I didn&#8217;t buy this to play games, even though it looks like a playstation portable (PSP).
+I also tried out one or two of the NES games, which seem to be slow. I think this probably is a problem with the device decoding the NES games. I could probably cope with that as I didn't buy this to play games, even though it looks like a playstation portable (PSP).
 
 I decided to plug it into my computer and load some media onto it. I discovered that the connector into the device was the same as my Motorola mobile phone which was fantastic as it means I could swap between the two without having more cables. One thing I did discover is that when you have your device plugged into USB it does not appear to allow you to switch to normal mode unless you unplug the device from the USB.
 
 Also, the battery seems to wear down after a long period of time being plugged into the USB suggesting that it does not charge via the USB, having said this you can use the DC input at the same time.
 
-I tried transferring some mp3s onto the device, in the form of files and folders, however when I turned on the device and looked for the files, they didn&#8217;t exist. I discovered that I must put the mp3s directly into the mp3s folder before I can view them on the device for playback. This was frustrating.
+I tried transferring some mp3s onto the device, in the form of files and folders, however when I turned on the device and looked for the files, they didn't exist. I discovered that I must put the mp3s directly into the mp3s folder before I can view them on the device for playback. This was frustrating.
 
-That aside the audio playback has some good features, including repeat, random, equalise and A-B. The bad features are that there is no search feature, files are listed in the 8.3 filename format (which is ugly), and as I said before, there&#8217;s no option for folders.
+That aside the audio playback has some good features, including repeat, random, equalise and A-B. The bad features are that there is no search feature, files are listed in the 8.3 filename format (which is ugly), and as I said before, there's no option for folders.
 
-One of the most annoying issues with the video and audio play back functions is that there&#8217;s no resume. You can&#8217;t resume to the last track or video you were playing, let alone resume to the point you were listening to before you turned the device off.
+One of the most annoying issues with the video and audio play back functions is that there's no resume. You can't resume to the last track or video you were playing, let alone resume to the point you were listening to before you turned the device off.
 
 After some time I realised that the beep noise when you scrolled between items on the menu was getting very annoying. At first I could not figure out how to turn this off, but soon discovered that you can turn this off via the Setup, under a section called &#8220;Sleep Off&#8221;, its simply a case of setting BEEP to OFF.
 
@@ -106,9 +106,9 @@ In terms of physical design, the only &#8220;bad ideas&#8221; are the rubber &#8
 
 One of my pet hates is power buttons that you have to hold down to turn the device on. I wish it was simply a switch, similar to the hold button, this would make it far easier to turn on and off.
 
-I also wish this device had better volume control. I find with all of these devices that the volume control is digital, you have to turn on the device to control the volume, yet my walkman tape player from years ago was able to have a physical volume control, why can&#8217;t we have these on our new devices?
+I also wish this device had better volume control. I find with all of these devices that the volume control is digital, you have to turn on the device to control the volume, yet my walkman tape player from years ago was able to have a physical volume control, why can't we have these on our new devices?
 
-I&#8217;m surprised this device doesn&#8217;t have is an FM radio, most of the other MP4 players have a built in FM radio, but not this one, I&#8217;m not sure why as it&#8217;s a simple feature to include.
+I'm surprised this device doesn't have is an FM radio, most of the other MP4 players have a built in FM radio, but not this one, I'm not sure why as it's a simple feature to include.
 
 _Conclusion_
 

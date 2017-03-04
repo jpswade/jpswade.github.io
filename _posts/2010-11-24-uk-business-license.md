@@ -23,7 +23,7 @@ tags:
 
 > Copy of your business license via PDF/JPG scanned (preferred) and emailed or faxed
 
-We went on to explain that we don&#8217;t have a business license, they clearly didn&#8217;t understand and they proclaimed:<!--more-->
+We went on to explain that we don't have a business license, they clearly didn't understand and they proclaimed:<!--more-->
 
 > Most cities and many counties do require businesses &#8212; even tiny home-based sole proprietorship &#8212; to register with them and pay at least a minimum tax. In return, your business will receive a business license or tax registration certificate. Even if they do not require you to have one in the UK, we do. We must have something on files stating something along the lines that you are allowed to conduct business in your country.
 
@@ -49,4 +49,4 @@ To which they replied:
 
 > Thank you for your reply. After reviewing your detailed information and further investigation we found the information you provided is correct, and you do not need a business license.
 
-So, that&#8217;s right folks: You don&#8217;t need a business license to run a business in the UK.
+So, that's right folks: You don't need a business license to run a business in the UK.

@@ -23,11 +23,11 @@ The word Supercalifragilisticexpialidocious is in the Oxford English Dictionary,
   * 1949 Parker & Young (unpublished song-title) Supercalafajalistickespialadojus.
   * 1951 Parker & Young (song-title) Supercalafajalistickespeealadojus; or, The super song.
   * 1964 R. M. & R. B; Sherman (song-title) Supercalifragilisticexpialidocious!
-  * 1967 Decisions U.S. Courts involving Copyright 1965-66 488 The complaint alleges copyright infringement of plaintiff&#8217;s song \`Supercalafajalistickespeealadojus&#8217; by defendants&#8217; song &#8216;Supercalifragilisticexpialidocious.&#8217; (All variants of this tongue twister will hereinafter be referred to collectively as &#8216;the word&#8217;.)
+  * 1967 Decisions U.S. Courts involving Copyright 1965-66 488 The complaint alleges copyright infringement of plaintiff's song \`Supercalafajalistickespeealadojus' by defendants' song &#8216;Supercalifragilisticexpialidocious.' (All variants of this tongue twister will hereinafter be referred to collectively as &#8216;the word'.)
 
 (The definition says Disney won, &#8220;in view of earlier oral uses of the word sworn to in affidavits&#8221; and because they wrote the rest of the song themselves.)
 
-All 34 letters of this word were made up for the movie, Mary Poppins, by a writing team of two brothers, Bob and Dick Sherman. Their most famous song is &#8220;It&#8217;s a Small World,&#8221; which they wrote for the World&#8217;s Fair in New York in 1964. You can hear it on the ride of the same name at Disneyland. The Shermans wrote all the songs for Mary Poppins, including &#8220;A Spoonful of Sugar,&#8221; &#8220;Feed the Birds&#8221; and &#8220;Chim Chim Cher-ee.&#8221; &#8220;Supercalifragilisticexpialidocious&#8221; means nothing, really. It is a very long nonsense word that is made up to sound like you are terribly smart and &#8220;You&#8217;ll always sound precocious.&#8221;
+All 34 letters of this word were made up for the movie, Mary Poppins, by a writing team of two brothers, Bob and Dick Sherman. Their most famous song is &#8220;It's a Small World,&#8221; which they wrote for the World's Fair in New York in 1964. You can hear it on the ride of the same name at Disneyland. The Shermans wrote all the songs for Mary Poppins, including &#8220;A Spoonful of Sugar,&#8221; &#8220;Feed the Birds&#8221; and &#8220;Chim Chim Cher-ee.&#8221; &#8220;Supercalifragilisticexpialidocious&#8221; means nothing, really. It is a very long nonsense word that is made up to sound like you are terribly smart and &#8220;You'll always sound precocious.&#8221;
 
 Now we use it to mean that something is fantastic or super-fabulous.
 
@@ -40,7 +40,7 @@ Um diddle diddle diddle um diddle ay
 Um diddle diddle diddle um diddle ay
 
 <p class="lyrics">
-  It&#8217;s&#8230;
+  It's&#8230;
 </p>
 
 Supercalifragilisticexpialidocious!
@@ -51,7 +51,7 @@ Is something quite atrocious
 
 If you say it loud enough
 
-You&#8217;ll always sound precocious
+You'll always sound precocious
 
 <p class="lyrics">
   All:
@@ -77,7 +77,7 @@ And told me I was bad
 
 But then one day I learned a word
 
-That saved me achin&#8217; nose
+That saved me achin' nose
 
 <p class="lyrics">
   Bert, Mary Poppins and Chorus:
@@ -99,7 +99,7 @@ Is something quite atrocious
 
 If you say it loud enough
 
-You&#8217;ll always sound precocious
+You'll always sound precocious
 
 Supercalifragilisticexpialidocious!
 
@@ -115,7 +115,7 @@ He traveled all around the world
 
 And everywhere he went
 
-He&#8217;d use his word and all would say
+He'd use his word and all would say
 
 &#8220;There goes a clever gent&#8221;
 
@@ -145,7 +145,7 @@ Is something quite atrocious
 
 If you say it loud enough
 
-You&#8217;ll always sound precocious
+You'll always sound precocious
 
 Supercalifragilisticexpialidocious!
 
@@ -159,11 +159,11 @@ Um diddle diddle diddle um diddle ay!
 
 So when the cat has got your tongue
 
-There&#8217;s no need for dismay
+There's no need for dismay
 
 Just summon up this word
 
-And then you&#8217;ve got a lot to say
+And then you've got a lot to say
 
 But better use it carefully
 
@@ -175,7 +175,7 @@ Or it could change your life
 
 One night I said it to me girl
 
-And now me girl&#8217;s my wife!
+And now me girl's my wife!
 
 Acording to [googlism.com](http://www.googlism.com/):
 
@@ -249,7 +249,7 @@ Analysis so far: A Californian Superior Officer.
 
 **Fragilistic:**
 
-I still haven&#8217;t worked this one out entirly, but we were thinking its to do with multiplayer games or more feasably to do with killing, deriving from the word &#8220;Frag&#8221;
+I still haven't worked this one out entirly, but we were thinking its to do with multiplayer games or more feasably to do with killing, deriving from the word &#8220;Frag&#8221;
 
 &#8211; A fragmentation grenade.
 
@@ -257,7 +257,7 @@ I still haven&#8217;t worked this one out entirly, but we were thinking its to d
   
 at the victim: “He got fragged. Blown away” (Bobbie Ann Mason).
 
-&#8211; [from Vietnam-era U.S. military slang via the games Doom and Quake] 1. To kill another player&#8217;s avatar in a multiuser game. &#8220;I hold the office Quake record with 40 frags.&#8221; 2. To completely ruin something. &#8220;Forget that power supply, the lightning strike fragged it.
+&#8211; [from Vietnam-era U.S. military slang via the games Doom and Quake] 1. To kill another player's avatar in a multiuser game. &#8220;I hold the office Quake record with 40 frags.&#8221; 2. To completely ruin something. &#8220;Forget that power supply, the lightning strike fragged it.
 
 Analysis so far: A Californian Superior Officer killed or wounded.
 
@@ -285,9 +285,9 @@ A Californian Superior Officer exploded by a fragmentation grenade.
 
 **In conclusison:**
 
-The Mary Poppins movie, Walt Disney and Bob and Dick Sherman arn&#8217;t as innocent as we first perceived and that maybe as the song so rightly says &#8220;the sound of it is something quite atrocious.&#8221; is actually closer to the truth than you think.
+The Mary Poppins movie, Walt Disney and Bob and Dick Sherman arn't as innocent as we first perceived and that maybe as the song so rightly says &#8220;the sound of it is something quite atrocious.&#8221; is actually closer to the truth than you think.
 
-_**NOTE:** I can&#8217;t remember where I got \*all\* the information from, but I am sure if you just use google you&#8217;ll be able to find it._
+_**NOTE:** I can't remember where I got \*all\* the information from, but I am sure if you just use google you'll be able to find it._
 
 **_Additional note: This is part parody, part drunk talk. Not to be taken seriously or literally._**
 

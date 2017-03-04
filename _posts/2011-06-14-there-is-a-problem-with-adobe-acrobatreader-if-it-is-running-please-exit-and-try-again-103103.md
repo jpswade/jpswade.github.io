@@ -61,7 +61,7 @@ The **solution** is as follows:
   </p>
   
   <p>
-    Alternatively, if this still doesn&#8217;t help, try uninstalling Adobe Reader X and installing <a href="http://www.foxitsoftware.com/products/reader/">FoxIt Reader</a> instead.
+    Alternatively, if this still doesn't help, try uninstalling Adobe Reader X and installing <a href="http://www.foxitsoftware.com/products/reader/">FoxIt Reader</a> instead.
   </p>
   
   <p>

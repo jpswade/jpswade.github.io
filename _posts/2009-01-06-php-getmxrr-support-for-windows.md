@@ -10,12 +10,12 @@ tags:
   - getmxrr
 ---
 <p class="lead">
-  As many of you may be aware there&#8217;s <a href="http://bugs.php.net/bug.php?id=5311">a lack of getmxrr() support in Windows</a>, which dates back as far as <a href="http://bugs.php.net/bug.php?id=1660">1999</a>.
+  As many of you may be aware there's <a href="http://bugs.php.net/bug.php?id=5311">a lack of getmxrr() support in Windows</a>, which dates back as far as <a href="http://bugs.php.net/bug.php?id=1660">1999</a>.
 </p>
 
-It&#8217;s not a major problem for me as an individual because I never use WIN32 PHP in production, but for development and for the purpose of wide distribution it can raise an issue.
+It's not a major problem for me as an individual because I never use WIN32 PHP in production, but for development and for the purpose of wide distribution it can raise an issue.
 
-Apparently the lack of support in win32 is due to the [lack of &#8220;res\_search&#8221; in &#8220;bindlib\_w32&#8221;](http://bugs.php.net/bug.php?id=7288), I&#8217;m surprised this hasn&#8217;t been fixed already.
+Apparently the lack of support in win32 is due to the [lack of &#8220;res\_search&#8221; in &#8220;bindlib\_w32&#8221;](http://bugs.php.net/bug.php?id=7288), I'm surprised this hasn't been fixed already.
 
 The official PHP.net documentation for the [getmxrr()](http://www.php.net/getmxrr) function states:
 
@@ -25,12 +25,12 @@ However, there are problems with this suggestion&#8230;
 
 <!--more-->
 
-  1. Some users don&#8217;t have access to install the required PEAR module.
+  1. Some users don't have access to install the required PEAR module.
   2. _pear/Net_DNS requires PHP extension &#8220;mhash&#8221;_ &#8211; some users may not have this installed.
   3. The Net_DNS class does not have a direct equivalent to getmxrr() so results may not be as expected.
-  4. It&#8217;s not a portable solution, especially if some users experience the above issues.
+  4. It's not a portable solution, especially if some users experience the above issues.
 
-This isn&#8217;t going to be a realistic option for many users.
+This isn't going to be a realistic option for many users.
 
 So, what are the alternatives? Do they have any issues?
 

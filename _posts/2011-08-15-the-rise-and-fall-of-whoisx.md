@@ -22,7 +22,7 @@ It began as a small project to help people check whether a domain was available
 
 <!--more-->We developed out the project into more of a whois lookup service because this was useful to customers who wanted to see details about their domain using a web service rather than understanding how to do a whois lookup from the command line.
 
-However, we soon came to realise that the site was causing a high load on the server because it was being hammered by bots. These bots were visiting thousands of URLs in an attempt to get WhoisX to generate a link back to them. Little do they know that, that&#8217;s not how it works.
+However, we soon came to realise that the site was causing a high load on the server because it was being hammered by bots. These bots were visiting thousands of URLs in an attempt to get WhoisX to generate a link back to them. Little do they know that, that's not how it works.
 
 The project was revamped with a whole load of new features including caching and load checking, which worked very well.
 
@@ -112,16 +112,16 @@ However, this ended when Google emailed with the subject &#8220;AdSense ad servi
   
 > <https://www.google.com/adsense/support/bin/answer.py?answer=113058&stc=aspe-ai4-en>.
 
-Although I agree with Google&#8217;s terms, this was an outside case and I couldn&#8217;t understand why they had chosen the example they had, since the &#8220;visit website&#8221; link on the page links to a website that doesn&#8217;t exist.
+Although I agree with Google's terms, this was an outside case and I couldn't understand why they had chosen the example they had, since the &#8220;visit website&#8221; link on the page links to a website that doesn't exist.
 
 At the very worst, the URL contains an adult word, which is almost impossible to filter due to the &#8220;[Scunthorpe problem](http://en.wikipedia.org/wiki/Scunthorpe_problem)&#8221; and that Google have not supplied a &#8220;bad word list&#8221; for us to work off.
 
-This meant that without spending a lot of time on developing a very complex filter system so that ads aren&#8217;t displayed on pages containing potentially bad words, there was very little we could do about it.
+This meant that without spending a lot of time on developing a very complex filter system so that ads aren't displayed on pages containing potentially bad words, there was very little we could do about it.
 
 So, this signals the end for [WhoisX](http://whoisx.co.uk/) as we know it.
 
-Consider this 30 days that the site will be closing down in it&#8217;s current form.
+Consider this 30 days that the site will be closing down in it's current form.
 
-However, we do have plans to open a new domain lookup service, supported by Phurix in it&#8217;s place.
+However, we do have plans to open a new domain lookup service, supported by Phurix in it's place.
 
 Watch this space!

@@ -19,4 +19,4 @@ categories:
 
 A quick an easy way to not get caught out is to do a [domain name whois lookup](http://whoisx.co.uk/), this will very quickly tell you the details of who registered the domain name, which will give you a good indication as to whether it is fake or not.
 
-If you&#8217;re still not sure, just ask and I&#8217;ll be willing to help you out.
+If you're still not sure, just ask and I'll be willing to help you out.

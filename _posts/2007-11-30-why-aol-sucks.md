@@ -17,7 +17,7 @@ categories:
 
 &#8220;Upgrade to AOL Gold now, Same Price, Faster Speed.&#8221; &#8212; Great deal right?
 
-<!--more-->Bare in mind they are currently using AOL Silver at £17.99/mo and AOL Gold, despite saying that it&#8217;s the &#8220;same price&#8221; it&#8217;s £24.99/mo.
+<!--more-->Bare in mind they are currently using AOL Silver at £17.99/mo and AOL Gold, despite saying that it's the &#8220;same price&#8221; it's £24.99/mo.
 
 Now from what I can see, AOL are basically trying to scam people out of money by saying this. From what it seems AOL have recently changed their AOL Gold Package from 512kb to 1mbit, which seems to confuse a lot of aolers who read &#8220;Same Price, Faster Speed&#8221;, because obviously they think it means its the same price as their current package, not that actually the price of upgrading to gold has not changed.
 
@@ -29,18 +29,18 @@ When attempting to find out the solution to this problem, I went onto AOL Live H
 
 Another one closed the window the moment I asked about the price difference. Another one took a lot of convincing about but I finally got out of them that there was a price difference, yet they still asked me for my deals over live chat, when I refused, they closed the window again.
 
-I went back on and spoke to another just to confirm this in fact was the case, they admitted there was a price difference, but they didn&#8217;t believe they were doing anything wrong due to the way AOL had cleverly worded it.
+I went back on and spoke to another just to confirm this in fact was the case, they admitted there was a price difference, but they didn't believe they were doing anything wrong due to the way AOL had cleverly worded it.
 
-Now the problem is, as most of you know, most people on AOL don&#8217;t have a clue, that is why they use it, because of the software support. The fact that AOL are doing this is VERY sneaky, and VERY bad practice.
+Now the problem is, as most of you know, most people on AOL don't have a clue, that is why they use it, because of the software support. The fact that AOL are doing this is VERY sneaky, and VERY bad practice.
 
 I have NEVER been so shocked by a company as big as this in all my life.
 
 Needless to say they changed ISPs.
 
-So, AOL does suck, they force you to use their software for internet and email so they can constantly ram their adverts down your throat. You think you&#8217;re getting value added software, you&#8217;re not, you&#8217;re getting advertisements.
+So, AOL does suck, they force you to use their software for internet and email so they can constantly ram their adverts down your throat. You think you're getting value added software, you're not, you're getting advertisements.
 
-_Note: This was originally written in 2005, since them AOL UK has been purchased by Carphone Warehouse, but it doesn&#8217;t mean they are any better._
+_Note: This was originally written in 2005, since them AOL UK has been purchased by Carphone Warehouse, but it doesn't mean they are any better._
 
-AOL is the worst ISP ever. They are all very well and good, as long as you don&#8217;t have any problems, you don&#8217;t want to change anything, you like their software that you are forced to use, and you don&#8217;t really understand computers.
+AOL is the worst ISP ever. They are all very well and good, as long as you don't have any problems, you don't want to change anything, you like their software that you are forced to use, and you don't really understand computers.
 
 As an alternative, for home users, I recommend [Eclipse](http://www.eclipse.net.uk/), [Plusnet](http://www.plus.net/), or [Tiscali](http://www.tiscali.co.uk/). For businesses I recommend [Eclipse](http://www.eclipse.net.uk/), [Zen](http://www.zen.co.uk/) or [Nildram](http://www.nildram.net/). I do NOT recommend AOL or BT Broadband/Connect/Openworld. For further information see the [ADSLguide](http://www.adslguide.org.uk/).

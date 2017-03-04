@@ -10,7 +10,7 @@ tags:
   - Site
 ---
 <p class="lead">
-  First of all I&#8217;d like to say thanks to everyone who has visited my website since I began at the start of last month.
+  First of all I'd like to say thanks to everyone who has visited my website since I began at the start of last month.
 </p>
 
 So far I have been going pretty much full steam ahead with this, releasing all my articles and posts I could think of, at a rate of 1 per day.

@@ -10,7 +10,7 @@ categories:
   - Internet
 ---
 <p class="lead">
-  I&#8217;m always looking for new ways to get my hands on mp3s, this is yet another way, thanks to myspace.
+  I'm always looking for new ways to get my hands on mp3s, this is yet another way, thanks to myspace.
 </p>
 
 I figured out that there must be a way we can get our hands on the actual mp3 files found on the myspace music player.
@@ -36,9 +36,9 @@ All we had to do was decode their site so we are able to grab their mp3s.
           * <span class="attribute-value">You will find the &#8220;<a href="http://cache02-music01.myspacecdn.com/16/std_8f66fa49e964209826356ce9f579541f.mp3">durl</a>&#8221; eg: durl=&#8221;http://cache02-music01.myspacecdn.com/16/std_8f66fa49e964209826356ce9f579541f.mp3&#8243;.</span>
           * <span class="attribute-value">You will also find the title=&#8221;Into The Dark Ferry Fix&#8221;, which is useful when saving, to give them real names.</span></ol> 
     
-    So in case you didn&#8217;t notice, all you really need is the &#8220;FriendID&#8221; and the <span class="attribute-value"></span>mediaservices.myspace.com URL, and in future you can access the playlist for any band or artist, and download all the tracks they have on their profile.
+    So in case you didn't notice, all you really need is the &#8220;FriendID&#8221; and the <span class="attribute-value"></span>mediaservices.myspace.com URL, and in future you can access the playlist for any band or artist, and download all the tracks they have on their profile.
     
-    It&#8217;s worth knowing how to figure it out, in case their system changes.
+    It's worth knowing how to figure it out, in case their system changes.
     
     **Resources** 
     

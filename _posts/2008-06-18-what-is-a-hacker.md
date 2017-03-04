@@ -15,23 +15,23 @@ categories:
 
 As I had known him for a long time, I felt obliged to help out, plus I was now interested in the questions that would be asked.
 
-Based on what had been said I knew they were going to be questions on defining what a hacker is and what a hacker does, something i&#8217;ve been interested in defining for quite some time.
+Based on what had been said I knew they were going to be questions on defining what a hacker is and what a hacker does, something i've been interested in defining for quite some time.
 
-Here&#8217;s what I said&#8230;
+Here's what I said&#8230;
 
 <!--more-->
 
 **What would you say a hacker was in your eyes?**
 
-It&#8217;s said that a hacker is not defined by the hacker but by others. You soon come to realise the extent of this when the media use this term in an article about you.
+It's said that a hacker is not defined by the hacker but by others. You soon come to realise the extent of this when the media use this term in an article about you.
 
 How I see it is the term is used based on a level of understanding. For your average Joe, who knows very little about computers outside of your basic office package may view someone who does, as a hacker.
 
-However, it&#8217;s likely that these more knowledgeable people do not view themselves as a hacker, and also have formed their own opinion of what a hacker is or more importantly, what a hacker isn&#8217;t.
+However, it's likely that these more knowledgeable people do not view themselves as a hacker, and also have formed their own opinion of what a hacker is or more importantly, what a hacker isn't.
 
 **Do you know about the history of Hackers?**
 
-Traditionally a &#8220;hacker&#8221; was defined as a programmer who &#8220;hacked&#8221; up bits of code. It&#8217;s since been defined in many different ways.
+Traditionally a &#8220;hacker&#8221; was defined as a programmer who &#8220;hacked&#8221; up bits of code. It's since been defined in many different ways.
 
 Ever since the first network was constructed, there has always been hackers. If you build a system people will inevitably mess with it.
 
@@ -49,9 +49,9 @@ You also have your grey hat hackers, a cross between the two. They generally do 
 
 **So do you think a modder different from a hacker?**
 
-In my opinion, and in the context of software engineering a hacker is someone who essentially makes the application do something it wouldn&#8217;t normally do, which is effectively exactly what a modder is.
+In my opinion, and in the context of software engineering a hacker is someone who essentially makes the application do something it wouldn't normally do, which is effectively exactly what a modder is.
 
-If you look at some of the most commonly used software applications used at the very core of the internet including Apache HTTPD and BIND, you&#8217;ll soon find out that they are made up from many of hacks and workarounds.
+If you look at some of the most commonly used software applications used at the very core of the internet including Apache HTTPD and BIND, you'll soon find out that they are made up from many of hacks and workarounds.
 
 However, this type of hacker would be a software hacker, a distant relative of the security expert.
 
@@ -59,26 +59,26 @@ However, this type of hacker would be a software hacker, a distant relative of t
 
 I have always been interested in computers, but I have also always been interested in how things work.
 
-When I was young I didn&#8217;t understand enough about the &#8220;hacking&#8221; to actually be involved with it. I did however learn a little about phreaking and then software cracking.
+When I was young I didn't understand enough about the &#8220;hacking&#8221; to actually be involved with it. I did however learn a little about phreaking and then software cracking.
 
 I found it very interesting that with the changes of a few bytes in an executable file you could turn a piece of software from trial to registered. To achieve this you must understand the basics of reverse engineering software. Often a painstakingly slow process, with little reward at the end.
 
 Eventually through increasing use of the internet, I began to learn about web servers, mail servers, rfcs, dns, irc and all sorts of scripting languages including perl and php.
 
-It wasn&#8217;t long before I begin hacking around with these platforms and protocols.
+It wasn't long before I begin hacking around with these platforms and protocols.
 
 **How did you learn?**
 
-I&#8217;m very much a hands on learner. I learn by example, and trial and error, not by reading a book.
+I'm very much a hands on learner. I learn by example, and trial and error, not by reading a book.
 
 Having said that, I have read books on all sorts of computer related topics, but I find them more useful as a resource than a method of learning.
 
-It&#8217;s taken me quite some time to fully understand some aspects of the way the things work, especially online. I think learning the basics of how computers and the internet works is a very important part of education.
+It's taken me quite some time to fully understand some aspects of the way the things work, especially online. I think learning the basics of how computers and the internet works is a very important part of education.
 
 It concerns me that the kids of today, although they know how to use computers and the internet, do not understand how it works.
 
 **What do you make of the new generation of hackers?**
 
-I don&#8217;t think there is a new generation of hackers. What I see are the same old spammers, but all new developers.
+I don't think there is a new generation of hackers. What I see are the same old spammers, but all new developers.
 
 Hacking has evolved.

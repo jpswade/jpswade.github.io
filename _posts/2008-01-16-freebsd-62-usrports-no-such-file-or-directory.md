@@ -19,7 +19,7 @@ tags:
   
 > /usr/ports: No such file or directory.
 
-<!--more-->I panicked a little bit, as I&#8217;ve not setup a freeBSD server in a while, so I tried to recall what I did last time.
+<!--more-->I panicked a little bit, as I've not setup a freeBSD server in a while, so I tried to recall what I did last time.
 
 I remembered that all I did last time was use &#8220;cvsup&#8221;, however&#8230;
 
@@ -29,7 +29,7 @@ I remembered that all I did last time was use &#8220;cvsup&#8221;, however&#8230
 
 Panic!
 
-Here&#8217;s the deal&#8230; apparently the &#8220;[cvsup](http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/cvsup.html)&#8221; command is no longer used, and instead we&#8217;ve now got &#8220;[csup](http://www.freshports.org/net/csup/)&#8220;, which apparently is a rewrite of cvsup in C. This can be quite confusion if you were not aware of the change (like myself).
+Here's the deal&#8230; apparently the &#8220;[cvsup](http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/cvsup.html)&#8221; command is no longer used, and instead we've now got &#8220;[csup](http://www.freshports.org/net/csup/)&#8220;, which apparently is a rewrite of cvsup in C. This can be quite confusion if you were not aware of the change (like myself).
 
 Now we know this we can log in as the &#8220;root&#8221; user, and setup the ports:
 
@@ -43,7 +43,7 @@ Now we run the csup command:
   
 > Name lookup failure for &#8220;CHANGE_THIS.FreeBSD.org&#8221;: hostname nor servname provided, or not known
 
-Obviously there&#8217;s a problem. We need to edit the &#8220;ports-supfile&#8221; and change the host, or do we&#8230;?
+Obviously there's a problem. We need to edit the &#8220;ports-supfile&#8221; and change the host, or do we&#8230;?
 
 > server# csup
   
@@ -51,7 +51,7 @@ Obviously there&#8217;s a problem. We need to edit the &#8220;ports-supfile&#822
   
 > Options:
   
-> -1 Don&#8217;t retry automatically on failure (same as &#8220;-r 0&#8221;)
+> -1 Don't retry automatically on failure (same as &#8220;-r 0&#8221;)
   
 > -4 Force usage of IPv4 addresses
   
@@ -59,13 +59,13 @@ Obviously there&#8217;s a problem. We need to edit the &#8220;ports-supfile&#822
   
 > -A addr Bind local socket to a specific address
   
-> -b base Override supfile&#8217;s &#8220;base&#8221; directory
+> -b base Override supfile's &#8220;base&#8221; directory
   
 > -c collDir Subdirectory of &#8220;base&#8221; for collections (default &#8220;sup&#8221;)
   
 > -d delLimit Allow at most &#8220;delLimit&#8221; file deletions (default unlimited)
   
-> **-h host Override supfile&#8217;s &#8220;host&#8221; name**
+> **-h host Override supfile's &#8220;host&#8221; name**
   
 > -i pattern Include only files/directories matching pattern.
   
@@ -83,7 +83,7 @@ Obviously there&#8217;s a problem. We need to edit the &#8220;ports-supfile&#822
   
 > -r n Maximum retries on transient errors (default unlimited)
   
-> -s Don&#8217;t stat client files; trust the checkouts file
+> -s Don't stat client files; trust the checkouts file
   
 > -v Print version and exit
   
@@ -99,6 +99,6 @@ Now we issue the command again, but now with the -h option:
 
 And with any luck, providing your server has an internet connection the process should begin.
 
-_Note: I hate using the &#8220;vi&#8221; editor and since this system hasn&#8217;t got ports yet, I can&#8217;t install my preferred editor &#8220;nano&#8221;, once I have nano installed via ports, I would edit the ports-supfile with the selected cvsup hostname, meaning I do not have to supply one in the future when I come to update the ports._
+_Note: I hate using the &#8220;vi&#8221; editor and since this system hasn't got ports yet, I can't install my preferred editor &#8220;nano&#8221;, once I have nano installed via ports, I would edit the ports-supfile with the selected cvsup hostname, meaning I do not have to supply one in the future when I come to update the ports._
 
 Hope this helps somebody!

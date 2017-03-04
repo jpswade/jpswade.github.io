@@ -10,13 +10,13 @@ categories:
   - Announcements
 ---
 <p class="lead">
-  Well, it&#8217;s finally here.
+  Well, it's finally here.
 </p>
 
-It&#8217;s been a long time coming but we&#8217;ve finally transitioned to The DeadUseful Project.
+It's been a long time coming but we've finally transitioned to The DeadUseful Project.
 
 The DeadUseful Project is an amalgamation of some useful tools I created for myself, but then developed them for others over a few years.
 
 My goal for this project is to keep my creativity alive and continue to develop my skills, while putting existing projects to work to earn a passive income.
 
-Well, that&#8217;s all for now, but watch out for the new tools.
+Well, that's all for now, but watch out for the new tools.

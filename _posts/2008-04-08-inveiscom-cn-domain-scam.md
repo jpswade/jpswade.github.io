@@ -15,7 +15,7 @@ categories:
   Today I received the following email from toby.yang@inveis.com&#8230;
 </p>
 
-[Note: If you also received this email, it&#8217;s spam, my advice is to delete it!]
+[Note: If you also received this email, it's spam, my advice is to delete it!]
 
 <!--more-->
 
@@ -87,11 +87,11 @@ categories:
 > 
 > Inveis Network Information Technology Co.,Ltd
 
-Upon closer inspection I realise they don&#8217;t specify the domain extension, I visited their website to investigate further. Their main page contains statistical information about .cn domain names, which is the ccTLD for China.
+Upon closer inspection I realise they don't specify the domain extension, I visited their website to investigate further. Their main page contains statistical information about .cn domain names, which is the ccTLD for China.
 
-It&#8217;s a nice idea, it looks like a legit email, and it plays on trademark law, which states that you MUST defend your trademark in order to maintain it.
+It's a nice idea, it looks like a legit email, and it plays on trademark law, which states that you MUST defend your trademark in order to maintain it.
 
-However, the first thing I notice as odd is the , they use in the email address, then the fact they didn&#8217;t specify the domain these people are trying to register, and I&#8217;ve never heard of them.
+However, the first thing I notice as odd is the , they use in the email address, then the fact they didn't specify the domain these people are trying to register, and I've never heard of them.
 
 A quick google of &#8220;Inveis.com&#8221; finds a blog post entitled &#8220;[Domains scam](http://www.mufaka.com/post/2008/03/Domain-scam.aspx)&#8220;.
 

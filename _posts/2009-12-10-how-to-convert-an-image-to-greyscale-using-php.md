@@ -24,7 +24,7 @@ tags:
   - IMG_FILTER_GRAYSCALE
 ---
 <p class="lead">
-  I was trying to find a neat way to grey out some &#8220;powered by&#8221; logos for a website I&#8217;m developing.
+  I was trying to find a neat way to grey out some &#8220;powered by&#8221; logos for a website I'm developing.
 </p>
 
 I remembered reading about this very thing in [.net magazine](http://en.wikipedia.org/wiki/.net_%28magazine%29)/[august 2009 (i191,p100)](http://www.badassideas.com/downloads/net191swarren.pdf), which said:
@@ -33,34 +33,34 @@ I remembered reading about this very thing in [.net magazine](http://en.wikipedi
 > 
 > &#8211; [Samantha Warren @ badassideas.com](http://badassideas.com/)
 
-So, sure we&#8217;ve established that it&#8217;s a good idea, the question is how to achieve it&#8230;
+So, sure we've established that it's a good idea, the question is how to achieve it&#8230;
 
-<!--more-->It&#8217;s really quite simple, there&#8217;s two parts:
+<!--more-->It's really quite simple, there's two parts:
 
   1. Convert the image to greyscale using PHP.
   2. Write HTML and javascript that will change the image source on mouseover.
 
-Before I get started, I need to point out that because I&#8217;m British, I use &#8220;Grey&#8221;, instead of the American &#8220;Gray&#8221;, apart from in the actual code.
+Before I get started, I need to point out that because I'm British, I use &#8220;Grey&#8221;, instead of the American &#8220;Gray&#8221;, apart from in the actual code.
 
 I very quickly discovered a number of ways to convert an image from colour to greyscale, however the easiest way appeared to be using the [imagefilter()](http://php.net/manual/en/function.imagefilter.php) function with the IMG\_FILTER\_GRAYSCALE greyscale filter which produced the results I was looking for. I found you can also very [easily add all sorts of effects to images using PHP](http://www.talkincode.com/add-effects-to-images-using-image-filters-with-php-266.html).
 
 I kept it simple and wrote a function that would convert an image from jpeg, gif or png to a png greyscale image. I called it [imagegray()](http://hm2k.googlecode.com/svn/trunk/code/php/functions/imagegray.php).
 
-It&#8217;s very easy to use, you just pass the filename to the function and it will display the image in greyscale. For example:
+It's very easy to use, you just pass the filename to the function and it will display the image in greyscale. For example:
 
 > <?php
 > 
-> $i=isset($\_REQUEST[&#8216;i&#8217;])?$\_REQUEST[&#8216;i&#8217;]:&#8221;;
+> $i=isset($\_REQUEST[&#8216;i'])?$\_REQUEST[&#8216;i']:&#8221;;
   
 > if ($i) { imagegrey($i); }
 > 
 > ?>
 
-Next, it&#8217;s onto the HTML, which although isn&#8217;t exactly difficult, you may stumble if you&#8217;re unsure&#8230;
+Next, it's onto the HTML, which although isn't exactly difficult, you may stumble if you're unsure&#8230;
 
-> <img onmouseover=&#8221;this.src=&#8217;image.jpg'&#8221; onmouseout=&#8221;this.src=&#8217;imagegrey.php?i=image.jpg'&#8221; src=&#8221;imagegrey.php?i=image.jpg&#8221; alt=&#8221;image&#8221; border=&#8221;0&#8243;>
+> <img onmouseover=&#8221;this.src='image.jpg'&#8221; onmouseout=&#8221;this.src='imagegrey.php?i=image.jpg'&#8221; src=&#8221;imagegrey.php?i=image.jpg&#8221; alt=&#8221;image&#8221; border=&#8221;0&#8243;>
 
-That&#8217;s it, that&#8217;s all there is to it.
+That's it, that's all there is to it.
 
 If you run a large site, for scalability reasons you may wish to involve caching, but for most small sites, this method is quick and effective.
 

@@ -17,7 +17,7 @@ tags:
 
 This is usually done by adding the following to your &#8220;httpd.conf&#8221;&#8230;
 
-> AddType &#8216;application/x-httpd-php-source&#8217; .phps
+> AddType &#8216;application/x-httpd-php-source' .phps
 
 We use the cPanel web hosting control panel and to improve security [cPanel recommend using suPHP](http://www.cpanel.net/support/docs/ea/ea3/ea3php_hardening_php.html), which allows PHP scripts to run as a user rather than &#8220;nobody&#8221;.
 
@@ -43,9 +43,9 @@ First, create a file called &#8220;phpsource.php&#8221;, in this file paste the 
 
 > <?php
   
-> if (substr($\_GET[&#8216;file&#8217;],strpos($\_GET[&#8216;file&#8217;],&#8217;.&#8217;)) == &#8216;.phps&#8217;) {
+> if (substr($\_GET[&#8216;file'],strpos($\_GET[&#8216;file'],'.')) == &#8216;.phps') {
   
-> highlight\_file($\_GET[&#8216;file&#8217;]);
+> highlight\_file($\_GET[&#8216;file']);
   
 > }
   
@@ -55,8 +55,8 @@ Then, in your &#8220;.htaccess&#8221;, paste the following code:
 
 > RewriteRule ^(.+\.phps)$ phpsource.php?file=$1 [L]
 > 
-> _Note: If you don&#8217;t already have rewrites turned on_ _in your &#8220;.htaccess&#8221; file,_ _you will also need the line &#8220;RewriteEngine On&#8221; at the top._
+> _Note: If you don't already have rewrites turned on_ _in your &#8220;.htaccess&#8221; file,_ _you will also need the line &#8220;RewriteEngine On&#8221; at the top._
 
 What this will do is pass all &#8220;.phps&#8221; files through your &#8220;phpsource.php&#8221; script, and output a highlighted version.
 
-The benefits of this solution is that it&#8217;s portable (will work on any server); it won&#8217;t(/shouldn&#8217;t) break when you upgrade apache or PHP; it&#8217;s pretty secure as it&#8217;ll only handle .phps files, as expected; it&#8217;s quick and effective.
+The benefits of this solution is that it's portable (will work on any server); it won't(/shouldn't) break when you upgrade apache or PHP; it's pretty secure as it'll only handle .phps files, as expected; it's quick and effective.

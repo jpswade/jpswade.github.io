@@ -26,7 +26,7 @@ tags:
 ---
 Recently one of my clients received the following error in Windows Mail on Windows Vista:
 
-> Your server has unexpectedly terminated the connection. Possible causes for this include server problems, network problems, or a long period of inactivity. Subject &#8216;Fw: &#8216;, Account: &#8216;BT Yahoo! Mail&#8217;, Server: &#8216;mail.btinternet.com&#8217;, Protocol: SMTP, Server Response: &#8216;451 See http://pobox.com/~djb/docs/smtplf.html.&#8217;, Port: 25, Secure(SSL): No, Server Error: 451, Error Number: 0x800CCC0F
+> Your server has unexpectedly terminated the connection. Possible causes for this include server problems, network problems, or a long period of inactivity. Subject &#8216;Fw: &#8216;, Account: &#8216;BT Yahoo! Mail', Server: &#8216;mail.btinternet.com', Protocol: SMTP, Server Response: &#8216;451 See http://pobox.com/~djb/docs/smtplf.html.', Port: 25, Secure(SSL): No, Server Error: 451, Error Number: 0x800CCC0F
 
 <!--more-->I discovered that the error was described as 
 
@@ -42,8 +42,8 @@ It seems that the mail server (probably qmail) supplied by the ISP did not like 
 
 The solution is simple.
 
-Don&#8217;t use &#8220;Forward as an Attachment&#8221;, instead simply use &#8220;Forward&#8221; which does almost the same thing. Of course you also need to delete that bad email from your outbox too before the error will permanently disappear.
+Don't use &#8220;Forward as an Attachment&#8221;, instead simply use &#8220;Forward&#8221; which does almost the same thing. Of course you also need to delete that bad email from your outbox too before the error will permanently disappear.
 
-A simple error, but unless you know what you&#8217;re looking for, you probably won&#8217;t realise what&#8217;s going on.
+A simple error, but unless you know what you're looking for, you probably won't realise what's going on.
 
 I hope this helps.

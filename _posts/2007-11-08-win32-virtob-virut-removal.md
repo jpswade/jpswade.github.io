@@ -24,7 +24,7 @@ I had to find another approach.
 There were two options, I learned that [Dr Web CureIT](ftp://ftp.drweb.com/pub/drweb/cureit/drweb-cureit.exe) was able to &#8220;cure&#8221; the files. I was also told that AVG offered a [Virut Removal Tool](http://www.grisoft.com/doc/34/us/crp/2/ndi/67762).
 
   * Download the above files (on a clean system).
-  * Create a boot CD, using [Bart&#8217;s PE builder](http://www.nu2.nu/pebuilder/), or download [miniPE](http://minipe.org/) (on a clean system) and put them on the CD 
+  * Create a boot CD, using [Bart's PE builder](http://www.nu2.nu/pebuilder/), or download [miniPE](http://minipe.org/) (on a clean system) and put them on the CD 
       * or on a memory stick (preferably as read only).
   * Reboot into the CD.
   * Run the downloaded software against the infected hard drives.

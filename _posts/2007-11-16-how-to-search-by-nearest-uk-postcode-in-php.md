@@ -19,10 +19,10 @@ This means we require a database of postcodes and such numerical values.
 
 This gives us a few choices:
 
-  * [Royal Mail&#8217;s PAF](http://www.royalmail.com/portal/rm/jump2?mediaId=400085&catId=400084) &#8211; This is very [costly](http://www.guardian.co.uk/technology/2007/apr/26/freeourdata.guardianweeklytechnologysection), I&#8217;d not recommend this.
-  * [Jibble.org&#8217;s postcodes.zip](http://www.jibble.org/ukpostcodes/) &#8211; Not been updated since 2004, may no longer be online.
-  * [easypeasy.com&#8217;s Postcode database](http://www.easypeasy.com/guides/article.php?article=64) &#8211; Also has lots of information on how to use such a database
-  * [freethepostcode.org&#8217;s Database](http://www.freethepostcode.org/) &#8211; Kinda crappy site, with limited info, but has a database.
+  * [Royal Mail's PAF](http://www.royalmail.com/portal/rm/jump2?mediaId=400085&catId=400084) &#8211; This is very [costly](http://www.guardian.co.uk/technology/2007/apr/26/freeourdata.guardianweeklytechnologysection), I'd not recommend this.
+  * [Jibble.org's postcodes.zip](http://www.jibble.org/ukpostcodes/) &#8211; Not been updated since 2004, may no longer be online.
+  * [easypeasy.com's Postcode database](http://www.easypeasy.com/guides/article.php?article=64) &#8211; Also has lots of information on how to use such a database
+  * [freethepostcode.org's Database](http://www.freethepostcode.org/) &#8211; Kinda crappy site, with limited info, but has a database.
   * [New Popular Edition Maps](http://www.npemap.org.uk/) &#8211; A very popular postcode database
   * [kubelabs.com &#8216;s database](http://www.kubelabs.com/ukpostcodedata.php) &#8211; Fairly new, notable.
   * [Google Maps UK](http://maps.google.co.uk/) &#8211; If all else fails a bit of [API](http://www.google.com/apis/maps/signup.html) magic and this may just do the [trick](http://www.webdesignerforum.co.uk/index.php?showtopic=2328). (Also see: [Map Maker](http://mapmaker.donkeymagic.co.uk/))
@@ -35,17 +35,17 @@ After a short examination it seems this does exactly what it says on the tin, an
 
 However, with a quick google for [php distance calculation](http://www.google.com/search?q=php+distance+calculation), you can quickly find that there are more refined equivalents of the distance calculation. I thought it might be a good idea to use [one](http://www.zipcodeworld.com/samples/distance.php.html) of those instead.
 
-After a bit of tweaking, here&#8217;s what I came up with in the end:
+After a bit of tweaking, here's what I came up with in the end:
 
-> function distance($lat1, $lon1, $lat2, $lon2, $u=&#8217;1&#8242;) {
+> function distance($lat1, $lon1, $lat2, $lon2, $u='1&#8242;) {
 > 
 > $u=strtolower($u);
   
-> if ($u == &#8216;k&#8217;) { $u=1.609344; } // kilometers
+> if ($u == &#8216;k') { $u=1.609344; } // kilometers
   
-> elseif ($u == &#8216;n&#8217;) { $u=0.8684; } // nautical miles
+> elseif ($u == &#8216;n') { $u=0.8684; } // nautical miles
   
-> elseif ($u == &#8216;m&#8217;) { $u=1; } // statute miles (default)
+> elseif ($u == &#8216;m') { $u=1; } // statute miles (default)
 > 
 > $d=sin(deg2rad($lat1))\*sin(deg2rad($lat2))+cos(deg2rad($lat1))\*cos(deg2rad($lat2))*cos(deg2rad($lon1-$lon2));
   
@@ -61,9 +61,9 @@ After a bit of tweaking, here&#8217;s what I came up with in the end:
   
 > }
 
-So, that&#8217;s the hard parts done (database and maths), next is simply a case of using this information to &#8220;find the closest&#8221; from the postcode we input to an array of postcodes we supply&#8230;
+So, that's the hard parts done (database and maths), next is simply a case of using this information to &#8220;find the closest&#8221; from the postcode we input to an array of postcodes we supply&#8230;
 
-To find the &#8220;closest&#8221; postcode, effectively what we&#8217;re trying to do is find the &#8220;shortest&#8221; distance between the postcodes, or, simply the smallest number in the results, assuming we put the results into an array with the key as the postcode and the distance as the value.
+To find the &#8220;closest&#8221; postcode, effectively what we're trying to do is find the &#8220;shortest&#8221; distance between the postcodes, or, simply the smallest number in the results, assuming we put the results into an array with the key as the postcode and the distance as the value.
 
 All we have to do is create a simple script that will find the smallest number in a given array, then return the appropriate key. Simple!
 
@@ -98,35 +98,35 @@ Very simple!
   
 > // Settings for if you have a different database structure
   
-> $table=&#8217;postcodes_uk&#8217;;
+> $table='postcodes_uk';
   
-> $lat=&#8217;lat&#8217;;
+> $lat='lat';
   
-> $lon=&#8217;lon&#8217;;
+> $lon='lon';
   
-> $postcode=&#8217;postcode&#8217;;
+> $postcode='postcode';
 > 
 > // This is a check to ensure we have a database connection
   
-> if (!@mysql_query(&#8216;SELECT 0&#8217;)) { return; }
+> if (!@mysql_query(&#8216;SELECT 0')) { return; }
 > 
 > // Simple regex to grab the first part of the postcode
   
-> preg_match(&#8216;/\[A-Z]{1,2}[0-9R\]\[0-9A-Z\]?/&#8217;,strtoupper($from),$match);
+> preg_match(&#8216;/\[A-Z]{1,2}[0-9R\]\[0-9A-Z\]?/',strtoupper($from),$match);
   
 > $one=$match[0];
   
-> preg_match(&#8216;/\[A-Z]{1,2}[0-9R\]\[0-9A-Z\]?/&#8217;,strtoupper($to),$match);
+> preg_match(&#8216;/\[A-Z]{1,2}[0-9R\]\[0-9A-Z\]?/',strtoupper($to),$match);
   
 > $two=$match[0];
 > 
-> $sql = &#8220;SELECT \`$lat\`, \`$lon\` FROM \`$table\` WHERE \`$postcode\`=&#8217;$one'&#8221;;
+> $sql = &#8220;SELECT \`$lat\`, \`$lon\` FROM \`$table\` WHERE \`$postcode\`='$one'&#8221;;
   
 > $query = mysql_query($sql);
   
 > $one = mysql\_fetch\_row($query);
 > 
-> $sql = &#8220;SELECT \`$lat\`, \`$lon\` FROM \`$table\` WHERE \`$postcode\`=&#8217;$two'&#8221;;
+> $sql = &#8220;SELECT \`$lat\`, \`$lon\` FROM \`$table\` WHERE \`$postcode\`='$two'&#8221;;
   
 > $query = mysql_query($sql);
   
@@ -166,15 +166,15 @@ So, with that done, place the 4 above functions into a file such as &#8220;postc
 
 > <?php
 > 
-> include_once(&#8216;postcode.php&#8217;);
+> include_once(&#8216;postcode.php');
 > 
 > if ($_POST) {
   
-> include_once(&#8216;db.php&#8217;);
+> include_once(&#8216;db.php');
   
-> $postcodes=array(&#8216;TF9 9BA&#8217;,&#8217;ST4 3NP&#8217;);
+> $postcodes=array(&#8216;TF9 9BA','ST4 3NP');
   
-> $input=strtoupper($_POST[&#8216;postcode&#8217;]);
+> $input=strtoupper($_POST[&#8216;postcode']);
   
 > $closest=postcode_closest($input,$postcodes);
   
@@ -200,8 +200,8 @@ You can download this script here: [postcode_search.phps](?dl=postcode_search.ph
 
 _Note: In the above test case, I have a &#8220;db.php&#8221; file which contains my database details and starts a database connection._ I suggest you do the same.
 
-Ensure you have your database populated, you should be able to use [Paul Jenkins&#8217;s UK Postcode csv](http://www.pjenkins.co.uk/uk_postcodes/UK_PostCodes.csv), allowing you to use your own table structure.
+Ensure you have your database populated, you should be able to use [Paul Jenkins's UK Postcode csv](http://www.pjenkins.co.uk/uk_postcodes/UK_PostCodes.csv), allowing you to use your own table structure.
 
-Well, that&#8217;s all folks, I can now use this script to provide any locations that match the &#8220;closest&#8221; postcode.
+Well, that's all folks, I can now use this script to provide any locations that match the &#8220;closest&#8221; postcode.
 
 Enjoy!

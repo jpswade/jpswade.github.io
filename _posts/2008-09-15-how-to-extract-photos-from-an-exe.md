@@ -10,7 +10,7 @@ categories:
   - Development
 ---
 <p class="lead">
-  I wasn&#8217;t going to write about this, but I liked the solution (application) so much I had to shout about it.
+  I wasn't going to write about this, but I liked the solution (application) so much I had to shout about it.
 </p>
 
 I was provided with a 30 day cd preview slideshow of wedding photos, and was asked very kindly to attempt to extract the photos from it so they could be viewed beyond the trial period.
@@ -31,7 +31,7 @@ I successfully managed to extract 878 photos from the packed exe on the CD.
 
 The exe was packed using ASpack, nothing else seemed able to extract the files, even when I used aspackdie first.
 
-It&#8217;s simple and easy to use. It&#8217;s not some cheap &#8216;hacker&#8217; tool, or a complex hardcore programmer tool, it just works!
+It's simple and easy to use. It's not some cheap &#8216;hacker' tool, or a complex hardcore programmer tool, it just works!
 
 The maximum price for this application is $100 (~£55), if I have the pleasure of using this application again, I am very likely to pay for the privilege.
 

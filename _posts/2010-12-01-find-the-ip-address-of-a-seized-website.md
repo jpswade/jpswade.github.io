@@ -39,7 +39,7 @@ We can see that &#8220;torrent-finder.com&#8221; domain currently resolves to th
 
 We know this is the incorrect IP as visiting [74.81.170.110](http://74.81.170.110/) in your browser beings up the &#8220;seized&#8221; notice.
 
-So what&#8217;s the real IP? Here&#8217;s how you find out:
+So what's the real IP? Here's how you find out:
 
 First of all you need to [Whois](http://en.wikipedia.org/wiki/Whois) the domain name. There are various ways you can do this, from using a program to sending raw commands to the whois server yourself. In this case we will use a whois website:
 
@@ -52,7 +52,7 @@ The Whois record should show the following details which we will find useful:
       NS52.DOMAINCONTROL.COM
 </pre>
 
-Now, here&#8217;s what you do to find the right IP:
+Now, here's what you do to find the right IP:
 
 > [user@server~]$ nslookup torrent-finder.com NS51.DOMAINCONTROL.COM
   
@@ -64,15 +64,15 @@ Now, here&#8217;s what you do to find the right IP:
   
 > Address: 208.101.51.57
 
-So, there you have it: the real IP. Let&#8217;s just check that by visiting [208.101.51.57](http://208.101.51.57/) in our browser.
+So, there you have it: the real IP. Let's just check that by visiting [208.101.51.57](http://208.101.51.57/) in our browser.
 
-Ah yes, that&#8217;s it, the real site pops up.
+Ah yes, that's it, the real site pops up.
 
-Now it&#8217;s up to you. To make life easier for yourself you could now go ahead and add these newly found details to your [hosts file](http://en.wikipedia.org/wiki/Hosts_%28file%29) so you don&#8217;t have to look them up again.
+Now it's up to you. To make life easier for yourself you could now go ahead and add these newly found details to your [hosts file](http://en.wikipedia.org/wiki/Hosts_%28file%29) so you don't have to look them up again.
 
-**It doesn&#8217;t work!?**
+**It doesn't work!?**
 
-Unfortunately, this doesn&#8217;t work for every domain as &#8220;ICE&#8221; seem to have changed some domains (eg: cartoon77.com) to have NS1.SEIZEDSERVERS.COM and NS2.SEIZEDSERVERS.COM as the name servers.
+Unfortunately, this doesn't work for every domain as &#8220;ICE&#8221; seem to have changed some domains (eg: cartoon77.com) to have NS1.SEIZEDSERVERS.COM and NS2.SEIZEDSERVERS.COM as the name servers.
 
 A little set back, however [a little fishing on Google](http://www.google.co.uk/search?q=cartoon77.com+dns) and you will soon come across the correct name servers.
 
@@ -86,7 +86,7 @@ A little set back, however [a little fishing on Google](http://www.google.co.uk/
   
 > Address: 174.137.55.5
 
-Again, that&#8217;s the real IP. However, with this one you&#8217;ll have to add it into your [hosts file](http://en.wikipedia.org/wiki/Hosts_%28file%29) for this to work, which should look like this, for example:
+Again, that's the real IP. However, with this one you'll have to add it into your [hosts file](http://en.wikipedia.org/wiki/Hosts_%28file%29) for this to work, which should look like this, for example:
 
 > 174.137.55.5 cartoon77.com
   

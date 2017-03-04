@@ -8,7 +8,7 @@ guid: /safely-remove-hardware-icon
 permalink: /safely-remove-hardware-icon/
 ---
 <p class="lead">
-  Here&#8217;s a quick guide on what to do if your &#8220;Safely remove hardware&#8221; icon has disappeared from your system tray.
+  Here's a quick guide on what to do if your &#8220;Safely remove hardware&#8221; icon has disappeared from your system tray.
 </p>
 
 This is a troublesome issue as it means that you cannot stop your USB devices therefore meaning you could cause corruption on your USB device.
@@ -42,6 +42,6 @@ This is a troublesome issue as it means that you cannot stop your USB devices th
   6. Click on the Policies tab
   7. Change it from &#8220;Optimize for quick removal&#8221; to &#8220;Optimize for performance&#8221;
 
-**Note:** If you don&#8217;t plan on hot-swapping your USB device very often, and you will ALWAYS make sure you use the &#8220;Safely remove hardware&#8221; dialog to remove your hardware, then use &#8220;Optimize for performance&#8221;, otherwise in most cases it is best to use &#8220;Optimize for quick removal&#8221;, this will allow you to unplug your USB device without worrying about corruption.
+**Note:** If you don't plan on hot-swapping your USB device very often, and you will ALWAYS make sure you use the &#8220;Safely remove hardware&#8221; dialog to remove your hardware, then use &#8220;Optimize for performance&#8221;, otherwise in most cases it is best to use &#8220;Optimize for quick removal&#8221;, this will allow you to unplug your USB device without worrying about corruption.
 
 Further details are mentioned here: <http://support.microsoft.com/kb/828012>

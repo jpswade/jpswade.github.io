@@ -22,9 +22,9 @@ tags:
   I signed up for Twitter quite some months ago, but have yet really found myself using it.
 </p>
 
-I&#8217;m sure some of you are wondering what twitter actually is. The best way to describe it is a way to tell people you know what you&#8217;re up to. It fills the gap between emails and blogs.
+I'm sure some of you are wondering what twitter actually is. The best way to describe it is a way to tell people you know what you're up to. It fills the gap between emails and blogs.
 
-This way, your friends can find out what you&#8217;re up to without having to actually ask you, and only if they&#8217;re interested.
+This way, your friends can find out what you're up to without having to actually ask you, and only if they're interested.
 
 Quite a novel idea.<!--more-->
 

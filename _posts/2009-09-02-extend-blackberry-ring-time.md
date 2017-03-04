@@ -19,22 +19,22 @@ tags:
   - voicemail
 ---
 <p class="lead">
-  I have a Blackberry Pearl 8900 on O2, I&#8217;ve had it a while now.
+  I have a Blackberry Pearl 8900 on O2, I've had it a while now.
 </p>
 
-One big gripe I had with it is that the ringer doesn&#8217;t last long enough.
+One big gripe I had with it is that the ringer doesn't last long enough.
 
-By the time I&#8217;ve pulled it out of my pocket, taken it out of it&#8217;s pocket, and assessed whether I want to answer the call, it&#8217;s already too late, especially if I&#8217;m in the middle of doing something else.
+By the time I've pulled it out of my pocket, taken it out of it's pocket, and assessed whether I want to answer the call, it's already too late, especially if I'm in the middle of doing something else.
 
-So, I can&#8217;t expect it to be perfect, but surely the ring time can be extended or increased? Here&#8217;s the solution&#8230;
+So, I can't expect it to be perfect, but surely the ring time can be extended or increased? Here's the solution&#8230;
 
 <!--more-->Enter *\*61\*901\*11\*xx# in to the phone, where xx is, enter the amount of time you want it to ring before it goes to voicemail.
 
 For example: *\*61\*901\*11\*30# would mean it would ring for 30 seconds before going on to voicemail.
 
-I&#8217;ve no idea what the default was, but I&#8217;m sure it&#8217;s too low.
+I've no idea what the default was, but I'm sure it's too low.
 
-_Next:_ Use a ringtone that doesn&#8217;t have a silent lead.
+_Next:_ Use a ringtone that doesn't have a silent lead.
 
 Hope this helps!
 

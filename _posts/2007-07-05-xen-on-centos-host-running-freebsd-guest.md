@@ -13,7 +13,7 @@ tags:
   - Linux
 ---
 <p class="lead">
-  Recently i&#8217;ve been investigating <a href="http://en.wikipedia.org/wiki/Xen">Xen</a>. In short, Xen is open source <a href="http://en.wikipedia.org/wiki/Virtualization">virtualisation</a> software that provides you with the ability to split a physical hardware server (host or dom0) into multiple virtual servers (guest or domU).
+  Recently i've been investigating <a href="http://en.wikipedia.org/wiki/Xen">Xen</a>. In short, Xen is open source <a href="http://en.wikipedia.org/wiki/Virtualization">virtualisation</a> software that provides you with the ability to split a physical hardware server (host or dom0) into multiple virtual servers (guest or domU).
 </p>
 
 What makes Xen so special above the rest is that it offers such a wide span of guest operating systems.<!--more-->
@@ -51,14 +51,14 @@ Yes, until you get an error like this:
 
 > ERROR: Non PAE-kernel on PAE host.
 
-Which effectively means that the CentOS 5 Dom0 (Host) is running a PAE kernel, yet what we&#8217;re trying to install as a domU (Guest) is a non PAE kernel.
+Which effectively means that the CentOS 5 Dom0 (Host) is running a PAE kernel, yet what we're trying to install as a domU (Guest) is a non PAE kernel.
 
-So, what is [PAE](http://en.wikipedia.org/wiki/Physical_Address_Extension)? basically it gives your system the ability to handle 4GB of RAM or more (max 64GB RAM) , if you have less than 4GB, you don&#8217;t really need it. It&#8217;s primarily a fix for x86 processors, providing they support it, 64-bit processors don&#8217;t need it.
+So, what is [PAE](http://en.wikipedia.org/wiki/Physical_Address_Extension)? basically it gives your system the ability to handle 4GB of RAM or more (max 64GB RAM) , if you have less than 4GB, you don't really need it. It's primarily a fix for x86 processors, providing they support it, 64-bit processors don't need it.
 
 So how do we fix this problem? I investigated and found the following resources:
 
   * 32-bit, 64-bit, and PAE, oh my! (Xen Wiki)
-  * [FreeBSD as domU (YUAN Jue&#8217;s Group)](http://groups.google.com/group/yuanjue/browse_thread/thread/ec4261c9511c1dca)
+  * [FreeBSD as domU (YUAN Jue's Group)](http://groups.google.com/group/yuanjue/browse_thread/thread/ec4261c9511c1dca)
   * [FreeBSD under Xen (xen-users mail list)](http://lists.xensource.com/archives/html/xen-users/2006-12/msg00268.html)
   * [FreeBSD/xen (rink.nu)](http://rink.nu/blog/20070528143357.009067.html)
 
@@ -69,7 +69,7 @@ In conclusion there are two options:
 
 **So what are the problems?**
 
-Option 1 would mean moving away from the native kernel, meaning that each time a new update comes up the kernel would have to be rebuilt manually. Although building the kernel without PAE will decrease overheads, building the kernel manually may lose performance. Considering this is the host, it&#8217;s vital that it is stable, therefore this is lesser of an option.
+Option 1 would mean moving away from the native kernel, meaning that each time a new update comes up the kernel would have to be rebuilt manually. Although building the kernel without PAE will decrease overheads, building the kernel manually may lose performance. Considering this is the host, it's vital that it is stable, therefore this is lesser of an option.
 
 Option 2 is apparently really easy to do, practially a flick of a switch, providing you understand what you are doing with FreeBSD and Xen. Unfortunately, my skills in this area are limited.
 

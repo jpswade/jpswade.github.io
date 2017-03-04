@@ -51,7 +51,7 @@ This will return an XML formatted result for the city of &#8220;London, England&
 
 We can then parse the data we want from this and return it accordingly.
 
-So, put it all together, a bit of TCL care (get it?), and we&#8217;re done&#8230;
+So, put it all together, a bit of TCL care (get it?), and we're done&#8230;
 
   * **Download [weather.tcl](http://code.google.com/p/eggtcl/downloads/detail?name=weather.tcl)**
 
@@ -65,4 +65,4 @@ Hope you find this useful.
 
 What I may do next time&#8230;
 
-Since Google&#8217;s Weather API is completely officially undocumented it&#8217;s worth noting that in future it may be wise to use [Yahoo&#8217;s weather API](http://developer.yahoo.com/weather/), which is fully and officially documented.
+Since Google's Weather API is completely officially undocumented it's worth noting that in future it may be wise to use [Yahoo's weather API](http://developer.yahoo.com/weather/), which is fully and officially documented.

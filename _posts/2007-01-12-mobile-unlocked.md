@@ -60,7 +60,7 @@ They will ask you for the following details:
   
 > IMEI:
 
-3. The third way involves using buy methods, such as buying from ebay, gsm-unlock.com or fonefunshop.co.uk, but as these methods are completly untested (by me), and they don&#8217;t tell you how it works, I wouldn&#8217;t advise them.
+3. The third way involves using buy methods, such as buying from ebay, gsm-unlock.com or fonefunshop.co.uk, but as these methods are completly untested (by me), and they don't tell you how it works, I wouldn't advise them.
 
 I used method 2, and after a few emails back and forth, and a phone call from the previous owner, I was provided with 2 unlock codes and told that one of them would work.
 
@@ -81,7 +81,7 @@ I have since then used the same method again with Vodafone (ccare.webmails@vf.vo
 </p>
 
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt">
-  <span style="font-size: 10pt; color: black; font-family: Arial"><font size="2">Thank you for your email to Vodafone about the network unlock code (NUC) you requested. I&#8217;ll be happy to assist. Your NUC is as follows:</font></span>
+  <span style="font-size: 10pt; color: black; font-family: Arial"><font size="2">Thank you for your email to Vodafone about the network unlock code (NUC) you requested. I'll be happy to assist. Your NUC is as follows:</font></span>
 </p>
 
 <p class="MsoNormal" style="margin: 0cm 0cm 0pt">

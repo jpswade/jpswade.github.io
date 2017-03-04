@@ -34,24 +34,24 @@ If Microsoft are advising people to upgrade to a version of Internet Explorer th
       * Pro: Supports importing messages from Outlook Express
       * Con: It is not free to download like Outlook Express
       * Con: You have to purchase updates by purchasing the latest version of Microsoft Office
-      * Con: [It&#8217;s broken](http://fixoutlook.org/) (Uses Word rendering engine to display HTML emails)
+      * Con: [It's broken](http://fixoutlook.org/) (Uses Word rendering engine to display HTML emails)
       * Con: Microsoft Outlook cannot view [newsgroups](http://en.wikipedia.org/wiki/Usenet_newsgroup)
-  * [Windows Live Mail](http://en.wikipedia.org/wiki/Windows_Live_Mail) (Microsoft&#8217;s official replacement) 
-      * Pro: It&#8217;s free
+  * [Windows Live Mail](http://en.wikipedia.org/wiki/Windows_Live_Mail) (Microsoft's official replacement) 
+      * Pro: It's free
       * Pro: [It works!](http://www.email-standards.org/clients/windows-live-mail/)
   * [Mozilla Thunderbird](http://en.wikipedia.org/wiki/Mozilla_Thunderbird) (Open Source) 
-      * Pro: It&#8217;s free
+      * Pro: It's free
       * Pro: [It works!](http://www.email-standards.org/clients/thunderbird/)
       * Pro: Imports from Outlook Express
       * Con: May be confusing to novice users
   * [Gmail](http://en.wikipedia.org/wiki/Gmail) (Not really a client, but a reasonable option) 
-      * Pro: It&#8217;s free
-      * Pro/Con: It&#8217;s online
+      * Pro: It's free
+      * Pro/Con: It's online
 
-<span>There&#8217;s a whole bunch of <a href="http://en.wikipedia.org/wiki/Comparison_of_e-mail_clients">other email clients</a> and <a href="http://en.wikipedia.org/wiki/Comparison_of_webmail_providers">webmail providers</a>, but these were chosen because they offer something for everyone considering moving away from Outlook Express.</span>
+<span>There's a whole bunch of <a href="http://en.wikipedia.org/wiki/Comparison_of_e-mail_clients">other email clients</a> and <a href="http://en.wikipedia.org/wiki/Comparison_of_webmail_providers">webmail providers</a>, but these were chosen because they offer something for everyone considering moving away from Outlook Express.</span>
 
-<span>If you&#8217;re still using Outlook Express, you&#8217;re using an outdated piece of software with no future.</span>
+<span>If you're still using Outlook Express, you're using an outdated piece of software with no future.</span>
 
-<span>What with the demise of Internet Explorer 6 and the uptake of new operating systems such as Windows 7, it&#8217;s time to replace Outlook Express.</span>
+<span>What with the demise of Internet Explorer 6 and the uptake of new operating systems such as Windows 7, it's time to replace Outlook Express.</span>
 
 <span>What did you choose as your Outlook Express replacement?</span>

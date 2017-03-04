@@ -1,6 +1,6 @@
 ---
 id: 3180
-title: 'Google&#8217;s Official Profanity API'
+title: 'Google's Official Profanity API'
 date: 2011-08-17T10:09:15+00:00
 author: James Wade
 layout: post
@@ -23,7 +23,7 @@ tags:
   - profanity
 ---
 <p class="lead">
-  <a href="http://www.wdyl.com/?q=butt hole lane"><img class="alignright size-medium wp-image-3230" title="Butt_Hole_Road" src="http://i.imgur.com/U2IWJ.jpg" alt="" width="300" height="199" /></a>Recently a list of &#8220;bad words&#8221; were made available through Google&#8217;s new website which asks: <a href="http://wdyl.com/">&#8220;What do you love?&#8221;</a> (wdyl.com).
+  <a href="http://www.wdyl.com/?q=butt hole lane"><img class="alignright size-medium wp-image-3230" title="Butt_Hole_Road" src="http://i.imgur.com/U2IWJ.jpg" alt="" width="300" height="199" /></a>Recently a list of &#8220;bad words&#8221; were made available through Google's new website which asks: <a href="http://wdyl.com/">&#8220;What do you love?&#8221;</a> (wdyl.com).
 </p>
 
 So, perhaps I was a bit hasty [writing off WhoisX](/the-rise-and-fall-of-whoisx).
@@ -46,11 +46,11 @@ While looking up something like &#8220;lol&#8221; will return a false response:
 
 All in all a pretty simple and easy way to figure out whether Google thinks it is a bad word or not.
 
-On the down side, you can&#8217;t easily use it on your site, as, if you try to call it by AJAX you&#8217;ll be faced by the following error:
+On the down side, you can't easily use it on your site, as, if you try to call it by AJAX you'll be faced by the following error:
 
 > XMLHttpRequest cannot load http://www.wdyl.com/profanity. Origin http://example.org is not allowed by Access-Control-Allow-Origin.
 
-On the upside, we don&#8217;t want to do that anyway, we can to use it from PHP.
+On the upside, we don't want to do that anyway, we can to use it from PHP.
 
 > <pre>&lt;?php
 
@@ -59,11 +59,11 @@ readfile('http://www.wdyl.com/profanity?q='.$q);
 
 ?&gt;</pre>
 
-That&#8217;s right, that&#8217;s all there is to it. Simply copy that into the a file called &#8220;profanity.php&#8221; and you&#8217;re ready to go!
+That's right, that's all there is to it. Simply copy that into the a file called &#8220;profanity.php&#8221; and you're ready to go!
 
-Now you can do a [JSON cal](http://api.jquery.com/jQuery.getJSON/)l to your &#8216;profanity.php&#8217; to tell you whether the word is bad or not.
+Now you can do a [JSON cal](http://api.jquery.com/jQuery.getJSON/)l to your &#8216;profanity.php' to tell you whether the word is bad or not.
 
-If that&#8217;s not enough, you could try using the Google Profanity API to avoid displaying ads on pages that contain profanities.
+If that's not enough, you could try using the Google Profanity API to avoid displaying ads on pages that contain profanities.
 
 Now if only there was a way to avoid the [Scunthorp problem](http://en.wikipedia.org/wiki/Scunthorpe_problem)&#8230;
 
@@ -81,9 +81,9 @@ But, changing all the non-word characters to spaces has a different effect:
 
 This is done in PHP using a simple regular expression:
 
-> echo preg_replace(&#8216;/[\W+]/&#8217;,&#8217; &#8216;,&#8217;adult-hardcore-sex.cuntspace.me.uk&#8217;);
+> echo preg_replace(&#8216;/[\W+]/',' &#8216;,'adult-hardcore-sex.cuntspace.me.uk');
 
-I&#8217;m not sure this exactly solves the Scunthorp problem, but it definitely does identify &#8220;sex&#8221; as an adult theme which is perfect.
+I'm not sure this exactly solves the Scunthorp problem, but it definitely does identify &#8220;sex&#8221; as an adult theme which is perfect.
 
 Now to turn it into a usable function:
 

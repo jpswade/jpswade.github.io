@@ -20,12 +20,12 @@ tags:
   - software
 ---
 <p class="lead">
-  <em>I&#8217;ve been meaning to publish a post about Pingotron for some time now, but now I fear it&#8217;s already too late.</em>
+  <em>I've been meaning to publish a post about Pingotron for some time now, but now I fear it's already too late.</em>
 </p>
 
 Quite a few months back I was looking for an application that could sit on my desktop and tell me instantly if any of my servers had stopped responding by [ping](http://en.wikipedia.org/wiki/Ping).
 
-<!--more-->There&#8217;s probably hundreds of ways of monitoring services, including paid for web services such as 
+<!--more-->There's probably hundreds of ways of monitoring services, including paid for web services such as 
 
 [Pingdom](http://www.pingdom.com/), and open source software that runs on your web server such as [Nagios](http://www.nagios.org/). None of them really hit the spot for the services I wanted to monitor, or they were expensive.
 
@@ -83,15 +83,15 @@ _
 
 **Further Update:** I had another issue that I tried to report, but since pingotron.com is unreachable, nothing can be done about it.
 
-It wasn&#8217;t a major issue. The issue was that sometimes when explorer crashes, the Pingotron icon does not reappear in the system tray.
+It wasn't a major issue. The issue was that sometimes when explorer crashes, the Pingotron icon does not reappear in the system tray.
 
 There was no way to recover the icon or window, without killing the &#8220;Pingotron.exe&#8221; and restarting it. Running &#8220;Pingotron.exe&#8221; again would only give you the error &#8220;The program is already running!&#8221;.
 
 I solved this by writing a script using AutoIT which would Check if the Pingotron window exists, restore it, otherwise run &#8220;Pingotron.exe&#8221;. I called it [Start Pingotron](http://hm2k.googlecode.com/svn/trunk/code/autoit/Start_Pingotron.au3).
 
-Anyway, since Pingotron is clearly no longer in active development, I am wondering is there&#8217;s anything else to use instead. Any ideas? Let me know.
+Anyway, since Pingotron is clearly no longer in active development, I am wondering is there's anything else to use instead. Any ideas? Let me know.
 
-Perhaps I&#8217;ll just end up writing my own service instead&#8230;
+Perhaps I'll just end up writing my own service instead&#8230;
 
 <div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 884px; width: 1px; height: 1px;">
   I noticed that sometimes when explorer crashes, the pingotron icon does not reappear in the system tray.

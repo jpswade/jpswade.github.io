@@ -33,7 +33,7 @@ If you’re only interested in the Content Management System aspect and have no 
 
 Since 2013, the creator of the CodeIgniter framework, EllisLab, has been seeking a new owner for the project. In October of 2014 at the ExpressionEngine Conference in Virginia, EllisLab CEO, Derek Jones announced that the CodeIgniter project had been transferred to the British Columbia Institute of Technology.
 
-CodeIgniter&#8217;s popularity, documentation, and ease of use, plays a great part in making it a great fit at the heart of FuelCMS.
+CodeIgniter's popularity, documentation, and ease of use, plays a great part in making it a great fit at the heart of FuelCMS.
 
 FuelCMS was created by David McReynolds, Daylight Studios, first released as open source on GitHub on Oct 27, 2010.
 
@@ -47,4 +47,4 @@ The future of the product much depends on it’s ability to adapt itself to the 
 
 Much like PHP, you should treat FuelCMS as a simple tool to solve your problem and get the job done.
 
-FuelCMS isn&#8217;t without it&#8217;s issues though and releases are few and far between, that&#8217;s why we&#8217;ll be using the [development branch](https://github.com/daylightstudio/FUEL-CMS/tree/develop) (GitHub) next time.
+FuelCMS isn't without it's issues though and releases are few and far between, that's why we'll be using the [development branch](https://github.com/daylightstudio/FUEL-CMS/tree/develop) (GitHub) next time.

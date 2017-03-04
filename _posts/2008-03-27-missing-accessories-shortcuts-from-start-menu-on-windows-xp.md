@@ -8,12 +8,12 @@ guid: /missing-accessories-shortcuts-from-start-menu-on-windows-xp
 permalink: /missing-accessories-shortcuts-from-start-menu-on-windows-xp/
 ---
 <p class="lead">
-  I&#8217;m currently using a computer that has the &#8220;Remote Desktop Connection&#8221; icon missing, in fact the whole of the &#8220;Communications&#8221; directory is missing! Oh no&#8230; Never fear&#8230;
+  I'm currently using a computer that has the &#8220;Remote Desktop Connection&#8221; icon missing, in fact the whole of the &#8220;Communications&#8221; directory is missing! Oh no&#8230; Never fear&#8230;
 </p>
 
 <!--more-->
 
-Here&#8217;s a list of what should be in your Accessories directory&#8230;
+Here's a list of what should be in your Accessories directory&#8230;
 
 %allusersprofile%\Start Menu\Programs\Accessories\Accessibility
   

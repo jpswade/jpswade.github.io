@@ -21,7 +21,7 @@ tags:
   - tech
 ---
 <p class="lead">
-  I&#8217;ve recently launched a tech support job, which combines aspects of my day job with aspects of this blog to form &#8220;fixr&#8221;.<!--more-->
+  I've recently launched a tech support job, which combines aspects of my day job with aspects of this blog to form &#8220;fixr&#8221;.<!--more-->
 </p>
 
 The new blog will be the new home to my IT tech support posts and solutions.

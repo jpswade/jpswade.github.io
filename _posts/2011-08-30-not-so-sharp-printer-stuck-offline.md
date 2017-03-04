@@ -21,9 +21,9 @@ tags:
 ---
 A client called explaining to me that they were unable to print to their **Sharp MX-1800N** network printer. Upon inspection it said that the printer was &#8220;Offline&#8221;.
 
-I checked other computers on the network and they didn&#8217;t report this and were able to print to that printer without error.
+I checked other computers on the network and they didn't report this and were able to print to that printer without error.
 
-I checked with Microsoft&#8217;s knowledge base to see if this was a common problem. There was a possible solution, which involved changing the value of the &#8220;PrinterOnLine&#8221; registry key from 0 to 1, but that value was already set. No fix.
+I checked with Microsoft's knowledge base to see if this was a common problem. There was a possible solution, which involved changing the value of the &#8220;PrinterOnLine&#8221; registry key from 0 to 1, but that value was already set. No fix.
 
 I tried reinstalling drivers from scratch. No fix.
 
@@ -31,11 +31,11 @@ I investigated further&#8230;<!--more-->
 
 I approached the printer which stated on the display: &#8220;Maintenance Required Code: DC&#8221;. This meant nothing to me, but a quick Google proposed that a replacement drum was in order. Finally some answers.
 
-This didn&#8217;t however explain to me why some computers were able to print while others would not.
+This didn't however explain to me why some computers were able to print while others would not.
 
 I discovered that the issue was that the printer was using the _Simple Network Management Protocol (SNMP)_ to signal to the printer driver that the printer is offline, presumably because of the required maintenance.
 
-As it turns out, this is down to a poor user experience meaning that you never see a real error on the computer and you&#8217;re left second guessing why it may not be printing.
+As it turns out, this is down to a poor user experience meaning that you never see a real error on the computer and you're left second guessing why it may not be printing.
 
 The real problem is that the drum needs replacing (as per the code on the display).
 

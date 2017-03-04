@@ -15,11 +15,11 @@ tags:
   - networking
   - wireless
 ---
-We&#8217;ve all been there. You want to network your computers and devices together around your house.
+We've all been there. You want to network your computers and devices together around your house.
 
-The problem arises when you realise that hard wiring isn&#8217;t all that fun and wireless can be unreliable and slow.
+The problem arises when you realise that hard wiring isn't all that fun and wireless can be unreliable and slow.
 
-_So what&#8217;s the solution?_ **HomePlug!**
+_So what's the solution?_ **HomePlug!**
 
 <!--more-->
 

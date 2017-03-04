@@ -23,17 +23,17 @@ tags:
   When a business I know had trouble with their broadband I was fortunately able to get them back online by using the redundant mobile broadband on the router.
 </p>
 
-The only issue then was that they [couldn&#8217;t send email on port 25 through the Three mobile network](http://www.three.co.uk/Help_Support/Mobile_Broadband_Help).
+The only issue then was that they [couldn't send email on port 25 through the Three mobile network](http://www.three.co.uk/Help_Support/Mobile_Broadband_Help).
 
 The solution is to change the outgoing SMTP from port 25 to port 587.
 
-Because I keep forgetting myself, here&#8217;s how you do it on cPanel:
+Because I keep forgetting myself, here's how you do it on cPanel:
 
 <!--more-->You can run Exim on another port by going to the 
 
 _Service Manager_ in WebHost Manager and then enabling _exim on another port_ and choosing the port number.
 
-If it&#8217;s still not working, your firewall (iptables) is probably blocking it, so here&#8217;s what you need to do:
+If it's still not working, your firewall (iptables) is probably blocking it, so here's what you need to do:
 
 First find the iptables for port 25:
 
@@ -65,7 +65,7 @@ Finally, you should check it works by using telnet from another machine:
   
 > Connected to mail.server.example.com (1.2.3.4).
   
-> Escape character is &#8216;^]&#8217;.
+> Escape character is &#8216;^]'.
   
 > 220-server.example.com ESMTP Exim 4.69 #1 Fri, 26 Nov 2010 16:54:07 +0000
   
