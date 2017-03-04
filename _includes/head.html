@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="shortcut icon" href="http://i.imgur.com/7GZTAp0.jpg">
+    <link rel="shortcut icon" href="{{ site.image }}">
     <script>
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -25,4 +25,11 @@
         ga('create', 'UA-23826276-1', 'auto');
         ga('send', 'pageview');
     </script>
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@{{site.username}}">
+    <meta name="twitter:creator" content="@{{site.username}}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
+    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+    <meta name="twitter:image:src" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}">
 </head>
