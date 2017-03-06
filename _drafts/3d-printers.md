@@ -1,0 +1,65 @@
+---
+title: Are we on the verge of 3D printers at home?
+---
+In 1977, Ken Olson, founder of Digital Equipment Corporation said “There is no reason anyone would want a computer in their home”.
+
+In the 1980s, Bill Gates said that he wanted a computer on every desk and in every home.
+
+When 3D printers became mainstream amongst hackers and hobbyists in around 2010, it was set to become the next big thing.
+
+It was a brand new and exciting form factor.
+
+[Futurologist Jeremy Rifkin](http://www.economist.com/node/21552901) claimed that 3D printing signals the beginning of a third industrial revolution.
+
+But I don't see it that way...
+
+<!--more-->
+
+We've been promised "paperless offices" since the 1970s and now with the power of the technology available to us, it can be done.
+
+I've said on more than one occasion that printers are the bane of my life, and those are regular 2d printers, copiers, fax machines.
+
+Have you ever felt like throwing your printer out of the window? Why did we think adding a third dimension would be easy?
+
+Anyone that has built a 3D printer from scratch will tell you, it's anything but easy. Having built a 3D printer from scratch, I can confirm. In fairness as a keen hacker, it was much more about the journey than the destination.
+
+Beyond assembling the chassis the challenge is programming the Arduino MEGA 2560 to control the NEMA17 stepper motors which will move the hot end and the extruder. Then it's a case of setting up a Raspberry Pi to control the Arduino.
+
+Building it was pretty simple but keeping it operational was worse than any “[PC LOAD LETTER](https://en.wikipedia.org/wiki/PC_LOAD_LETTER)” message I'd seen on a regular printer.
+
+We've all experienced problems with feeding paper into the printer, or the ink drying out. Add a third dimension and it's as if the problems have been cubed:
+
+Getting the extruder to the right temperature, feeding the right plastic, getting it to stick to the bed, making sure the bed is the right temperature, making sure the plastic is kept at the dry, printing at the right speed, printing with the right density, getting the bed to the right level, to say the least.
+
+The last on that list is such a complex matter that Zortrax has gone to the trouble of patenting the self-leveling technology that they use in their 3D printers.
+So what about retail solutions?
+
+You'd expect that by now you could just buy a retail solution for a reasonable price, off the shelf that works every time. I wish this was true, but it isn't.
+
+I've spoken to quite a few people who have owned or built 3D printers over the past few years, all of them eventually end up in bits or turn up at a 3D printer graveyard (aka a hackspace).
+
+The problems with 3D printers became apparent when the first real casualty of this brave new industry ceased trading. In early January 2016 RepRapPro (short for "RepRap Professional", and one commercial arm of the RepRap project in the UK) blamed congestion of the market for low-cost 3D printers and the inability to expand in that market.
+
+At this point 3D printers are still in the realm of hackers and hobbyists, and catered for by manufacturing in China.
+
+There's probably one image that would sum up my experience with 3D printers, which is essentially this: you find a (faux) need to print something, such as a candle holder; you start trying to 3d model one; give up, download an existing one from thingiverse; this will not work with your 3d printer or software so you'll need to fix it; it will then print. You'll end up with a perfect candle holder… It's just a bit “Tower of Pisa” inspired.
+
+<div style='position:relative;padding-bottom:57%'><iframe src='https://gfycat.com/ifr/FrankDisgustingGoral' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+Don't get me wrong, 3D printers are great, just like normal printers are, but I don't believe everyone should own one. However I believe that only certain people should own them, experts.
+
+Seeing a great image in physical print is fantastic. Professional printers are brilliant at their craft. This isn't the kind of thing you should do at home. They are experts.
+
+My friend does 3D modelling and has expensive 3D wood routing to produce various parts of stair cases for a living. He's an expert.
+
+We've been heading for a paperless society for years, but it's not about paper. It's about less is more. In the film Fight Club it's said “The more things you own, the more they own you”.
+
+These days we don't own movies or TV programs, we watch them on Netflix, we don't own music, we stream it on Spotify, we don't own books, we read them on a Kindle. We're getting close to not owning cars thanks to Uber. Why did we think 3D printers would be any different?
+
+Eventually everything goes from a form factor, to an application and/or a service.
+
+Mobile phones were once used for making calls, now making calls is mix of applications such as Skype and Whatsapp and your normal carrier service.
+
+Music was once a physical format, then it went digital and became a form factor (iPod), then that became iTunes (Application), finally that became a service such as Apple Music or Spotify.
+
+3D Printers belong with the experts as a service. However, first, they need a killer application.
