@@ -50,7 +50,7 @@ Don't get me wrong, 3D printers are great, just like normal printers are, but I 
 
 Seeing a great image in physical print is fantastic. Professional printers are brilliant at their craft. This isn't the kind of thing you should do at home. They are experts.
 
-My friend does 3D modelling and has expensive 3D wood routing to produce various parts of stair cases for a living. He's an expert.
+My friend does 3D modelling and has expensive 3D wood routing to produce various parts of [stair cases](http://www.stairbox.com/) for a living. He's an expert.
 
 We've been heading for a paperless society for years, but it's not about paper. It's about less is more. In the film Fight Club it's said “The more things you own, the more they own you”.
 
