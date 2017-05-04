@@ -5,7 +5,7 @@ date: 2007-12-13T10:58:24+00:00
 author: admin
 layout: post
 guid: /next-time-im-buying-a-mac
-permalink: /next-time-im-buying-a-mac/
+redirect_from: /next-time-im-buying-a-mac/
 categories:
   - Sysadmin
 tags:
