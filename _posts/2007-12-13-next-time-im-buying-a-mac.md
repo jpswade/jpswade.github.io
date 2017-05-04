@@ -1,7 +1,7 @@
 ---
 id: 159
 title: 'Next time i'm buying a mac'
-date: 2007-12-13T10:58:24+00:00
+date: 2007-12-13
 author: admin
 layout: post
 guid: /next-time-im-buying-a-mac
