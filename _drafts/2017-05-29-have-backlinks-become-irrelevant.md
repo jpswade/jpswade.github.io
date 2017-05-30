@@ -2,7 +2,7 @@
 title: Have backlinks become irrelevant in 2017?
 date: 2017-05-29
 author: James Wade
-image: 
+image: http://i.imgur.com/z0wjArR.png
 categories:
   - Technology
   - Internet
