@@ -12,7 +12,9 @@ tags:
 
 In 2017, are links still relevant and important?
 
-I developed a keen interest in SEO in about 2005, especially as the software I had developed lead me to become a domain authority, which, at the time, allowed me to rank highly for pretty much anything. By 2007 I had written an [SEO FAQ](/seo-faq/) to address some of the common concerns raised by users.
+I developed a keen interest in SEO in about 2005, especially as the software I had developed lead me to become a domain authority, which, at the time, allowed me to rank highly for pretty much anything.
+
+By 2007 I had written an [SEO FAQ](/seo-faq/) to address some of the common concerns raised by users.
 
 A lot has changed since then, yet it's interesting to see that the fundamentals haven't really changed.
 
