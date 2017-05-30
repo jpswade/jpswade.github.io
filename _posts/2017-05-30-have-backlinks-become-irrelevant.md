@@ -1,10 +1,9 @@
 ---
 title: Have backlinks become irrelevant in 2017?
-date: 2017-05-29
+date: 2017-05-30
 author: James Wade
 image: http://i.imgur.com/z0wjArR.png
 categories:
-  - Technology
   - Internet
   - Development
 tags:
@@ -28,6 +27,8 @@ At the time, although [backlinks have always important to Google's algorithm](ht
 In 2014, with Google Plus on the rise, it seemed like search engines would be phasing out backlinks in favour of social signals.
 
 After all, with social media it would offer better organic reach, resulting in better quality and it's harder to fake, as that's what social networks like Facebook and Google Plus are built on: Trust.
+
+![](http://i.imgur.com/z0wjArR.png)
 
 By May 2014, the idea of social signals overtaking backlinks had been all but quashed...
 
