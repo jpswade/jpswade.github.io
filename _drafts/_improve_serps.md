@@ -96,6 +96,12 @@ Price sliders rarely work well, use price ranges (See Amazon)
 
 > “Don’t break the back button”, JAKOB NIELSEN, May 30, 1999.
 
+Focus on elegant, modern design.
+
+Very clear and easily accessible navigation.
+
+The home page should be visually clear and provide easy access to the website's main purposes or functions.
+
 Employ a clean, elegant, modern design. Have very clear and easily accessible navigation.
 
 The home page should be visually clear and provide easy access to the website's main purposes or functions.
