@@ -1,5 +1,10 @@
 ---
 title: How can I improve my search engine rankings?
+author: James Wade
+categories:
+  - Development
+tags:
+  - seo
 ---
 
 We know that backlinks are important to get ranked in Google, but what else can be done to improve our ranking?
@@ -14,7 +19,7 @@ If getting backlinks is the objective, then building trust is the goal. So how c
 
 ## Analytics
 
-> “Software engineers are often divorced from the consequences of their actions” - Kevin Hale, Wufoo Co-founder
+> "Software engineers are often divorced from the consequences of their actions" - Kevin Hale, Wufoo Co-founder
 
 You and your developers need to know the SEO implications of what they are working on. Using [Google Webmaster tools](https://www.google.com/webmasters/tools/), which is free and invaluable. A tool that is not to be underestimated. It's a looking glass into Google's world.
 
@@ -26,7 +31,7 @@ Google, Moz, Majestic Search Engine and Ahrefs all use their own crawled data to
 
 ## Content
 
-To improve your search results, you need to have rich content.
+To improve your search result ranking, you need to have rich content.
 
 We know that Google wants magazine style websites that can grow exponentially, so create shareable content (eg: Top 10).
 
@@ -36,9 +41,9 @@ Add images that complement the content and explain ideas. They get people's atte
 
 That doesn't mean you should depend on images to display content. Text will make your content accessible and search engine friendly.
 
-Give your visitors what they want. If people come to the website for deals, give them deals. Give them great deals that they will want to share with their friends and on other websites. Ask questions such as: “What do your friends think of this product?” - Share it on Facebook.
+Give your visitors what they want. If people come to the website for deals, give them deals. Give them great deals that they will want to share with their friends and on other websites. Ask questions such as: "What do your friends think of this product?" - Share it on Facebook.
 
-Don't worry so much about duplicate content. In 2008, Google’s blog said that duplicate content penalties were a myth. In 2013, Google’s Matt Cutts said “Duplicate Content Won’t Hurt You”. Do follow Google’s advice to avoid duplicate content, but let Google worry about stolen content.
+Don't worry so much about duplicate content. In 2008, Google's blog said that [duplicate content penalties were a myth](https://webmasters.googleblog.com/2008/09/demystifying-duplicate-content-penalty.html). In 2013, Google's Matt Cutts said "[Duplicate content won't hurt you](https://youtu.be/Vi-wkEeOKxM)". Do follow [Google's advice to avoid duplicate content](https://support.google.com/webmasters/answer/66359?hl=en), but let Google worry about stolen content.
 
 Focus on building TRUST, be authoritative and create new unique rich content.
 
@@ -62,39 +67,39 @@ Google has had default https access for Gmail since 2010, Facebook has had secur
 
 Going secure by default has already happened.
 
-As of November 2015, "Let’s Encrypt" is offering [free SSL certificates](https://letsencrypt.org/). There's no excuses.
+As of November 2015, "Let's Encrypt" is offering [free SSL certificates](https://letsencrypt.org/). There's really [no excuses](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/).
 
-## Reliability
+## Hosting
 
 You don't need to focus on speed too much, but you do want to make sure your hosting is reliable.
 
-Do checkout Google's page speed tips, but be aware that they will only get you some of the way.
+Do checkout [Google's page speed tips](https://developers.google.com/speed/docs/insights/rules), but be aware that they will only get you some of the way.
 
 If you want to build an enterprise, you need to build a bigger, faster, more reliable website by implementing a scalable infrastructure.
 
 Cache everything (think CDN and memcache), if you can cache it, cache it.
 
-> “Stop worrying about Time To First Byte” - CloudFlare, 2012
+> ["Stop worrying about Time To First Byte" - CloudFlare, 2012](https://blog.cloudflare.com/ttfb-time-to-first-byte-considered-meaningles/)
 
 Focus on the perception of performance from users rather than speed tests.
 
 ## User experience
 
-> “I was shocked to realise how dependent I’ve grown on three simple features that just aren’t available in the analog world: search, sort and filter.”
+> "I was shocked to realise how dependent I've grown on three simple features that just aren't available in the analog world: search, sort and filter."
 
 An elegant and modern design is perceived as more trustworthy. Make it clear and easily accessible.
 
 The aim is to have brutally simple web pages consisting of key elements.
 
-Use Image Sliders and Carousels sparingly (take Amazon’s lead on this)
+Use Image Sliders and Carousels sparingly (take Amazon's lead on this)
 
-Avoid lightboxes - “Interactions that happen through modal dialogs or across modules/panels on large screens often make more sense as separate pages on smaller screens.”
+Avoid lightboxes - "Interactions that happen through modal dialogs or across modules/panels on large screens often make more sense as separate pages on smaller screens."
 
 Avoid infinite scrolling, people tend to hate endlessly scrolling through results
 
 Price sliders rarely work well, use price ranges (See Amazon)
 
-> “Don’t break the back button”, JAKOB NIELSEN, May 30, 1999.
+> "Don't break the back button", JAKOB NIELSEN, May 30, 1999.
 
 Focus on elegant, modern design.
 
