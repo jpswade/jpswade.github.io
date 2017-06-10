@@ -7,15 +7,15 @@ tags:
   - seo
 ---
 
-We know that backlinks are important to get ranked in Google, but what else can be done to improve our ranking?
+[We know that backlinks are still important to get ranked in Google](/internet/development/2017/05/30/have-backlinks-become-irrelevant.html), but what else can be done to improve our ranking?
 
-[We know that backlinks are still important](http://wade.be/internet/development/2017/05/30/have-backlinks-become-irrelevant.html), but we also know that there's [other ranking signals](https://moz.com/blog/the-myth-of-googles-200-ranking-factors) to think about.
+Well, what we also know is that there's lots of [other ranking signals](https://moz.com/blog/the-myth-of-googles-200-ranking-factors) to think about.
 
-Although search engines are not quite the wild west that they used to be, there's still lots you can do to get the results you want.
+Search engines aren't the wild west that they used to be, but there's still lots you can do to get the results you want.
 
 > ["We think about words like trust, authority, reputation, PageRank, high quality", Matt Cutts, Google, 2009](https://youtu.be/LMfWPWUh5uU)
 
-If getting backlinks is the objective, then building trust is the goal. So how can we build trust?
+If getting backlinks is the objective, then building reputation must be the goal. So how can we build that?
 
 ## Analytics
 
@@ -45,7 +45,7 @@ Give your visitors what they want. If people come to the website for deals, give
 
 Don't worry so much about duplicate content. In 2008, Google's blog said that [duplicate content penalties were a myth](https://webmasters.googleblog.com/2008/09/demystifying-duplicate-content-penalty.html). In 2013, Google's Matt Cutts said "[Duplicate content won't hurt you](https://youtu.be/Vi-wkEeOKxM)". Do follow [Google's advice to avoid duplicate content](https://support.google.com/webmasters/answer/66359?hl=en), but let Google worry about stolen content.
 
-Focus on building TRUST, be authoritative and create new unique rich content.
+Focus on building reputation, be authoritative and create new unique rich content.
 
 ## Engagement
 
@@ -61,9 +61,9 @@ Manage your brand on external sites such as reviews and rating websites and ensu
 
 ## Security
 
-Security builds TRUST.
+Security builds *trust*.
 
-Google has had default https access for Gmail since 2010, Facebook has had secure browsing by default since 2013, HTTPS has been a ranking signal since August 2014.
+Google has had [default https access for Gmail](https://gmail.googleblog.com/2010/01/default-https-access-for-gmail.html) since 2010, [Facebook has had secure browsing by default](https://www.facebook.com/notes/facebook-engineering/secure-browsing-by-default/10151590414803920/) since 2013, [HTTPS has been a ranking signal](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html) since August 2014.
 
 Going secure by default has already happened.
 
@@ -83,44 +83,39 @@ Cache everything (think CDN and memcache), if you can cache it, cache it.
 
 Focus on the perception of performance from users rather than speed tests.
 
+Do host your website in the same country as you are targeting. For example, if you are UK based, targeting a UK market, you'd better make sure the IP address of the server you're using says "United Kingdom".
+
 ## User experience
 
-> "I was shocked to realise how dependent I've grown on three simple features that just aren't available in the analog world: search, sort and filter."
+> ["I was shocked to realise how dependent I've grown on three simple features that just aren't available in the analog world: search, sort and filter."](https://www.smashingmagazine.com/2012/04/ui-patterns-for-mobile-apps-search-sort-filter/)
+
+The design should be focused, modern, accommodating, appealing and adaptive.
 
 An elegant and modern design is perceived as more trustworthy. Make it clear and easily accessible.
 
 The aim is to have brutally simple web pages consisting of key elements.
 
-Use Image Sliders and Carousels sparingly (take Amazon's lead on this)
+Use Image Sliders and Carousels sparingly (take Amazon's lead on this).
 
-Avoid lightboxes - "Interactions that happen through modal dialogs or across modules/panels on large screens often make more sense as separate pages on smaller screens."
+Avoid using lightboxes, as they aren't suited for mobile and hide content.
 
-Avoid infinite scrolling, people tend to hate endlessly scrolling through results
+> ["Interactions that happen through modal dialogs or across modules/panels on large screens often make more sense as separate pages on smaller screens."](http://bradfrost.com/blog/post/conditional-lightbox/) - Luke Wroblewski
 
-Price sliders rarely work well, use price ranges (See Amazon)
+Avoid infinite scrolling, people tend to hate endlessly scrolling through results.
 
-> "Don't break the back button", JAKOB NIELSEN, May 30, 1999.
+> ["Don't break the back button", Jakob Nielson, May 30, 1999](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/)
 
-Focus on elegant, modern design.
+The web has certain fundamentals that should be honoured. They work well for a reason. Enterprise apps can afford to take risks with these because they know their user base will continue to use it, while your website will need to be optimised for search engines.
 
-Very clear and easily accessible navigation.
-
-The home page should be visually clear and provide easy access to the website's main purposes or functions.
-
-Employ a clean, elegant, modern design. Have very clear and easily accessible navigation.
+Focus on elegant, modern design. Have a very clear and easily accessible navigation.
 
 The home page should be visually clear and provide easy access to the website's main purposes or functions.
 
-Pictures are faster than words.
-
-Use pictures to explain ideas. They get people's attention and can be much more efficient than words.
+Pictures are faster than words so use pictures to explain complex ideas. They get people's attention and can be much more efficient than words.
 
 Grid lists are best suited for showing data sets that represent themselves through images.
 
 Fluid grids and media query adjustments, responsive design enables page layouts to adapt to a variety of screen sizes.
 
-The design should be: Focused, Modern, Accommodating, Appealing, Adaptive.
-
 ## Summary
 
-You don't need to worry about what people say.
