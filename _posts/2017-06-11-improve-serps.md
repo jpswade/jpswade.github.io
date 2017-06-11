@@ -7,6 +7,7 @@ categories:
 tags:
   - seo
 image: http://i.imgur.com/nVU6NIM.png
+redirect_from: /development/2017/06/11/improve_serps.html
 ---
 
 [We know that backlinks are still important to get ranked in Google](/internet/development/2017/05/30/have-backlinks-become-irrelevant.html), but what else can be done to improve our ranking?
