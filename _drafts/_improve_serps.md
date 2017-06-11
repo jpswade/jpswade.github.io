@@ -1,5 +1,5 @@
 ---
-title: How can I improve my search engine rankings?
+title: How can I improve my search engine ranking?
 author: James Wade
 categories:
   - Development
@@ -49,7 +49,7 @@ Focus on building reputation, be authoritative and create new unique rich conten
 
 ## Engagement
 
-So, although search engines aren't phasing out backlinks just yet, if you're not present on social media, it may not only harm your ranking but it will actually harm your public image.
+Despite social signals providing better organic reach (think Facebook and Google Plus), search engines aren't phasing out backlinks just yet, if you're not present on social media, it may not only harm your ranking but it will actually harm your public image.
 
 Use social media to provide great customer service. Don't just reserve yourself to Facebook and Twitter though, reach out to forums and online groups and engage with your customers.
 
@@ -85,6 +85,8 @@ Focus on the perception of performance from users rather than speed tests.
 
 Do host your website in the same country as you are targeting. For example, if you are UK based, targeting a UK market, you'd better make sure the IP address of the server you're using says "United Kingdom".
 
+Using something like Amazon Web Services is fine, but do picking a region that is approximately closest to you will .
+
 ## User experience
 
 > ["I was shocked to realise how dependent I've grown on three simple features that just aren't available in the analog world: search, sort and filter."](https://www.smashingmagazine.com/2012/04/ui-patterns-for-mobile-apps-search-sort-filter/)
@@ -119,3 +121,12 @@ Fluid grids and media query adjustments, responsive design enables page layouts 
 
 ## Summary
 
+When I first got into SEO in 2005, I didn't understand much about it. By 2008, when I was able to see through all the smoke and mirror tactics that marketing agencies were employing I felt that I had mastered it.
+
+Almost 10 years later, in 2017, the landscape has changed, but the rules are still pretty much the same.
+
+That's pretty important when you consider that according to Google's CEO, Eric Schmidt, in 2010, [Google made over 500 algorithm changes – almost 1.5 per day](http://searchengineland.com/13000-precision-evaluations-schmidts-testimony-reveals-how-google-tests-algorithm-changes-93740), making it practically impossible to keep up with.
+
+The different now is the sheer volume of data we have available to us and the tools to analyse it.
+
+Follow the rules and analyse your data to find out what works for you. This is where you will separate yourself from the rest.
