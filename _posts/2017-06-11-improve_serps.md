@@ -19,6 +19,8 @@ Search engines aren't the wild west that they used to be, but there's still lots
 
 If getting backlinks is the objective, then building reputation must be the goal. So how can we build that?
 
+<!--more-->
+
 ## Analytics
 
 > "Software engineers are often divorced from the consequences of their actions" - Kevin Hale, Wufoo Co-founder
