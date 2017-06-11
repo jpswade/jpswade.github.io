@@ -1,10 +1,12 @@
 ---
 title: How can I improve my search engine ranking?
 author: James Wade
+date: 2017-06-11
 categories:
   - Development
 tags:
   - seo
+image: http://i.imgur.com/nVU6NIM.png
 ---
 
 [We know that backlinks are still important to get ranked in Google](/internet/development/2017/05/30/have-backlinks-become-irrelevant.html), but what else can be done to improve our ranking?
@@ -38,6 +40,8 @@ We know that Google wants magazine style websites that can grow exponentially, s
 Transparency is key to building trust and brand recognition. Displaying facts and figures about the business are likely to gain some trust points with visitors. Where possible, showing business locations on a map on the homepage is a good way to demonstrate that you are a trust worthy bricks and mortar business, not just another fly-by-night operation.
 
 Add images that complement the content and explain ideas. They get people's attention and can be much more efficient than words.
+
+![](http://i.imgur.com/nVU6NIM.png)
 
 That doesn't mean you should depend on images to display content. Text will make your content accessible and search engine friendly.
 
