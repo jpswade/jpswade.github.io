@@ -39,7 +39,7 @@ markdown: kramdown
 url: http://wade.be
 name: James Wade's Blog
 description: Research and Development
-donate: Has this post been useful? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D4GMJHESCGRKS">Buy me a coffee or beer!</a>
+donate: Has this post been useful? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=james@wade.be&item_name=Buy%20me%20a%20beer!&item_number=beer001&amount=5%2e00&currency_code=GBP">Buy me a coffee or beer!</a>
 
 # Custom
 paginate: 5
