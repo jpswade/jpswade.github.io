@@ -14,9 +14,11 @@ I've recently been on the lookout for a security camera.
 
 Someone I know recently had a break-in at their apartment in Spain and wanted to increase their security by adding surveillance. Not only this, but sometimes they have crazy storms roll in from the sea and they want to know whether they need to visit to do any maintenance in the wake of the storm.
 
-My experience with home cameras is limited. In 2012, I bought a Storage Options SON-IPC1 for around £60. It had the ability to pan and tilt, but, the wifi has sinced ceased working and (somewhat ironically) video isn't stored anywhere.
+My experience with home cameras is limited. In 2012, I bought a Storage Options SON-IPC1 for around £60. It had the ability to pan and tilt, but, the wifi has since ceased working and (somewhat ironically) video isn't stored anywhere.
 
 I did setup the iSpy video recording software on my PC and later, Zoneminder on my network attached storage, neither solution is perfect and requires some operating maintenance to keep everything going.
+
+<!--more-->
 
 Since buying this camera, the market has exploded with various cameras, ranging from action cameras like GoPro, to dash cams, driving forward the technical capabilities of what a camera can do.
 
