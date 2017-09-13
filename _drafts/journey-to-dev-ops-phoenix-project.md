@@ -3,6 +3,14 @@ title: The Journey to DevOps: Notes from The Project Phoenix
 image: https://i.imgur.com/BykYlCp.jpg
 ---
 
+If you’ve ever looked into DevOps, you’ve no doubt come across this “evolution” type image, with a monkey on the left, labelled “Waterfall” and on the right, you’ve got an android labelled “Continuous Operations”. Along this evolutionary journey, you’ve got agile, lean, continuous integration, continuous delivery and continuous deployment.
+
+Evolution is a great analogy for a company’s journey to a DevOps culture. We know it happenes over time, the lines are blurred and each evolutionarily path is different. Evolution is not about one person, it’s not about the first person or people to stand upright or being smart enough to discover fire. It’s about growth. So, when people ask; “Are we doing DevOps yet?” It’s quite hard to really answer, because it’s a process of change and a shift in mindset.
+
+It’s fair to say though, that there are some characteristics of the “DevOps process”, you’ll hear people talking about servers being “cattle rather than pets”, highly scalable architecture, infrastructure as code, “release early, release often”, break up the monolith, quality built in, automated testing, etc.
+
+For anyone new to DevOps these terms could be completely foreign, so it’s my goal to work out where they fit in the evolutionary process.
+
 The catalyst that has driven me to a DevOps culture was this idea of “pets vs cattle”. This is the paradigm of disposable server infrastructure, to stop treating our servers and services as pets and more like cattle. No longer giving them cute names and keeping them around as long as possible, instead we’ve accepted that they could go at any time and prepare for that.
 
 That includes laying the foundations to make DevOps possible, such as monitoring and alerting, deployment pipelines, continuous integration, infrastructure as code, auto scaling/healing, performance metrics, blue/green releases. But DevOps isn’t just a toolchain, it’s a change in culture.
@@ -10,6 +18,8 @@ That includes laying the foundations to make DevOps possible, such as monitoring
 I really wanted to understand what it takes to "be DevOps". What does that look like? There's a book that goes some way to explaining what those qualities are.
 
 <!--more-->
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BX6TjEcHbKY/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Just finished. Interesting fictional story about a company&#39;s journey to #devops</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by James Wade (@jpswade) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-08-17T22:05:04+00:00">Aug 17, 2017 at 3:05pm PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 The Phoenix Project is an interesting read for anyone interested in leading a development team. It's a fictional story about a company's journey to DevOps. I've compiled a few “highlights” and “lowlights” that interested me...
 
