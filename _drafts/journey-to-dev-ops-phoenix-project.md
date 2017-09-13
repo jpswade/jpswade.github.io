@@ -1,5 +1,13 @@
 ---
 title: The Journey to DevOps: Notes from The Project Phoenix
+author: James Wade
+date: 2017-09-13
+categories:
+  - Development
+tags:
+    - development
+    - ci
+    - devops
 image: https://i.imgur.com/BykYlCp.jpg
 ---
 
