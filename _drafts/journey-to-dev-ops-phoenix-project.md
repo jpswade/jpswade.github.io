@@ -3,19 +3,11 @@ title: The Journey to DevOps: Notes from The Project Phoenix
 image: https://i.imgur.com/BykYlCp.jpg
 ---
 
-For me, the catalyst that drove me to a DevOps culture was this idea of “pets vs cattle”.
+The catalyst that has driven me to a DevOps culture was this idea of “pets vs cattle”. This is the paradigm of disposable server infrastructure, to stop treating our servers and services as pets and more like cattle. No longer giving them cute names and keeping them around as long as possible, instead we’ve accepted that they could go at any time and prepare for that.
 
-This is the paradigm of disposable server infrastructure, to stop treating our servers and services as pets and more like cattle.
+That includes laying the foundations to make DevOps possible, such as monitoring and alerting, deployment pipelines, continuous integration, infrastructure as code, auto scaling/healing, performance metrics, blue/green releases. But DevOps isn’t just a toolchain, it’s a change in culture.
 
-No longer giving them cute names and keeping them around as long as possible, instead we’ve accepted that they could go at any time and prepare for that.
-
-That includes laying the foundations to make DevOps possible, such as monitoring and alerting, deployment pipelines, continuous integration, infrastructure as code, auto scaling/healing, performance metrics, blue/green releases.
-
-But DevOps isn’t just a toolchain, it’s a change in culture.
-
-It can only truly work if we all recognise that development and operations need to work together to hit our goals and objectives.
-
-I really wanted to understand what it takes to be "DevOps". What does that look like?
+I really wanted to understand what it takes to "be DevOps". What does that look like?
 
 The Phoenix Project goes some way to explaining what those qualities are.
 
@@ -107,10 +99,6 @@ Here's a few “highlights” and “lowlights” that I have picked out of this
 - Understanding what technology can and can’t do has become a core competency that every part of this business must have.
 - The business and IT can’t make decisions exclusive of each other.
 
-It seems to be that DevOps can only truly work if we all recognise that development and operations need to work together to hit goals and objectives.
+It seems to be that DevOps can only work if we all recognise that development and operations need to work together to hit goals and objectives, including business operations.
 
-For me, consistently delivering value is the most important thing.
-
-The objective is to deliver value sooner.
-
-The aim to make 10 deployments per day possible without impacting the business.
+The objective is to deliver value sooner. The aim to make 10 deployments per day possible without impacting the business.
