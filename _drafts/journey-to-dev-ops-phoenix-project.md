@@ -15,7 +15,7 @@ The catalyst that has driven me to a DevOps culture was this idea of “pets vs 
 
 That includes laying the foundations to make DevOps possible, such as monitoring and alerting, deployment pipelines, continuous integration, infrastructure as code, auto scaling/healing, performance metrics, blue/green releases. But DevOps isn’t just a toolchain, it’s a change in culture.
 
-I really wanted to understand what it takes to "be DevOps". What does that look like? There's a book that goes some way to explaining what those qualities are.
+I really wanted to understand what it takes to "be DevOps". What does that look like? Fortunately, there's a book that goes some way to explaining what those qualities are.
 
 <!--more-->
 
