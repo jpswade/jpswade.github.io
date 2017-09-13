@@ -107,4 +107,4 @@ It seems to be that DevOps can only work if we all recognise that development an
 
 The question you should be asking your team is; what do we need to do to achieve that goal? My view is, if we're not working towards that answer and we're not doing DevOps.
 
-What would you do to make 10 deployments per day possible?
+What would you need to do to make 10 deployments per day possible?
