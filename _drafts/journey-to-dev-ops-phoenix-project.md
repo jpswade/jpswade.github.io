@@ -103,7 +103,9 @@ The Phoenix Project is an interesting read for anyone interested in leading a de
 - Understanding what technology can and can’t do has become a core competency that every part of this business must have.
 - The business and IT can’t make decisions exclusive of each other.
 
-It seems to be that DevOps can only work if we all recognise that development and operations need to work together to hit goals and objectives, including business operations. If the objective is to deliver value sooner, then the goal should be to make 10 deployments per day possible, without impacting the business.
+It seems to be that DevOps can only work if we all recognise that development and operations need to work together to hit goals and objectives, including business operations. Understand the business processes and learn what metrics are important to the business.
+
+If the objective is to deliver value sooner, then the goal should be to make 10 deployments per day possible, without impacting the business.
 
 The question you should be asking your team is; what do we need to do to achieve that goal? My view is, if we're not working towards that answer and we're not doing DevOps.
 
