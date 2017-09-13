@@ -1,5 +1,5 @@
 ---
-title: The Journey to DevOps: Notes from The Project Phoenix
+title: The Journey to DevOps - Notes from The Project Phoenix
 author: James Wade
 date: 2017-09-13
 categories:
