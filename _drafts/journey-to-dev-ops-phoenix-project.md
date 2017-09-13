@@ -3,7 +3,7 @@ title: The Journey to DevOps: Notes from The Project Phoenix
 image: https://i.imgur.com/BykYlCp.jpg
 ---
 
-If you’ve ever looked into DevOps, you’ve no doubt come across this “evolution” type image, with a monkey on the left, labelled “Waterfall” and on the right, you’ve got an android labelled “Continuous Operations”. Along this evolutionary journey, you’ve got agile, lean, continuous integration, continuous delivery and continuous deployment.
+If you’ve ever looked into DevOps, you’ve no doubt come across this “evolution” type image, with an ape type figure on the left, labelled “Waterfall” and on the right, you’ve got an android labelled “Continuous Operations”. Along this evolutionary journey, you’ve got agile, lean, continuous integration, continuous delivery and continuous deployment.
 
 Evolution is a great analogy for a company’s journey to a DevOps culture. We know it happenes over time, the lines are blurred and each evolutionarily path is different. Evolution is not about one person, it’s not about the first person or people to stand upright or being smart enough to discover fire. It’s about growth. So, when people ask; “Are we doing DevOps yet?” It’s quite hard to really answer, because it’s a process of change and a shift in mindset.
 
