@@ -7,17 +7,11 @@ The catalyst that has driven me to a DevOps culture was this idea of “pets vs 
 
 That includes laying the foundations to make DevOps possible, such as monitoring and alerting, deployment pipelines, continuous integration, infrastructure as code, auto scaling/healing, performance metrics, blue/green releases. But DevOps isn’t just a toolchain, it’s a change in culture.
 
-I really wanted to understand what it takes to "be DevOps". What does that look like?
-
-The Phoenix Project goes some way to explaining what those qualities are.
+I really wanted to understand what it takes to "be DevOps". What does that look like? There's a book that goes some way to explaining what those qualities are.
 
 <!--more-->
 
-The Phoenix Project is an interesting read for anyone interested in leading a development team.
-
-It's a fictional story about a company's journey to DevOps.
-
-Here's a few “highlights” and “lowlights” that I have picked out of this book...
+The Phoenix Project is an interesting read for anyone interested in leading a development team. It's a fictional story about a company's journey to DevOps. I've compiled a few “highlights” and “lowlights” that interested me...
 
 - “It’s a pretty clunky and manual process. It works most of the time…” [referring to the payroll system]
 - “Now, I’m starting to realize that my primary managers seem to be at war with each other as well. What will it take for us to get along?”
