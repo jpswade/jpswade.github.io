@@ -9,7 +9,7 @@ Evolution is a great analogy for a company’s journey to a DevOps culture. We k
 
 It’s fair to say though, that there are some characteristics of the “DevOps process”, you’ll hear people talking about servers being “cattle rather than pets”, highly scalable architecture, infrastructure as code, “release early, release often”, break up the monolith, quality built in, automated testing, etc.
 
-For anyone new to DevOps these terms could be completely foreign, so it’s my goal to work out where they fit in the evolutionary process.
+For anyone new to DevOps these terms could be completely foreign. It's been my goal to work out where they fit in the evolutionary process. The when, rather than the how.
 
 The catalyst that has driven me to a DevOps culture was this idea of “pets vs cattle”. This is the paradigm of disposable server infrastructure, to stop treating our servers and services as pets and more like cattle. No longer giving them cute names and keeping them around as long as possible, instead we’ve accepted that they could go at any time and prepare for that.
 
