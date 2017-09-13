@@ -32,15 +32,17 @@ You should be asking questions like:
 - Why is that code commented out, can it be removed?
 - Why have you removed that code? What is the test scenario that covers that behaviour?
 
-Ultimately, it should be obvious to anyone what the code does so don’t be afraid to ask if you don’t understand how it work. I’m sure your peers will be more than happy to talk you through it.
+Ultimately, it should be obvious to anyone what the code does so don’t be afraid to ask if you don’t understand how it works. I’m sure your peers will be more than happy to talk you through it.
 
-If you see the same issue more than 3 times, this suggests that we need to address the issue by:
+If you see the same issue more than 3 times, this suggests that we need to address the issue in one of three ways, consider:
 - Setting a standard
 - Knowledge sharing
 - Tooling up
 
 Please respect each other. The goal is to improve or help others to improve.
 
-If after 3 levels of conversation you haven’t reached a conclusion, take it offline.
+Be bold in your proposals, be clear and concise in your argument. Be prepared to accept that you may be wrong. That's OK.
+
+If after you've responded 3 times, and you haven’t been able to reach a conclusion, take it offline. Find other means of resolution. Consider consulting an expert or raising it to a wider forum.
 
 If you don’t agree with a standard, that’s OK. If it’s non-blocking, stick to the standard then flag it as an issue with whoever sets the standard or your team lead. If it’s a blocking issue, hold a 15 minute huddle to come to an agreement. If you can’t reach a resolution within 15 minutes, then you should escalate to your team lead.
