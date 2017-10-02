@@ -1,5 +1,12 @@
 ---
-title: How to be better at reviewing code
+title: What is a code review?
+author: James Wade
+date: 2017-10-
+categories:
+  - Development
+tags:
+    - webdev
+image: ...
 ---
 
 We now live in a time of version control, git and github. If you work in software development you should be familiar with "pull requests".
@@ -65,6 +72,8 @@ You should be asking questions like:
 
 Ultimately, it should be obvious to anyone what the code does so don’t be afraid to ask if you don’t understand how it works. I’m sure your peers will be more than happy to talk you through it.
 
+> Code reviews are not about catching bugs. Modern code reviews are about socialization, learning, and teaching. - [Derek Prior, Thoughtbot](https://www.youtube.com/watch?v=PJjmw9TRB7s)
+
 If you see the same issue more than 3 times, this suggests that we need to address the issue in one of three ways, consider:
 
 - Setting a standard
@@ -98,8 +107,6 @@ Once you've decided on a standard, agree on the severity. Is it a "nice to have"
 Prepare for standards to be challenged from time to time. They may be wrong, you may have made a mistake. However, changes to standards shouldn't be done on a whim as they may impact the entire codebase, which is a costly excercise. Ensure that there is a good solid argument for a change to standards. Changes should be well considered.
 
 ## Knowledge sharing
-
-> Code reviews are not about catching bugs. Modern code reviews are about socialization, learning, and teaching. - [Derek Prior, Thoughtbot](https://www.youtube.com/watch?v=PJjmw9TRB7s)
 
 In many organisations, the articles will state something along the lines of "notice will be deemed served by advertising the meeting in at least three public places" for when a meeting is called.
 
@@ -147,3 +154,4 @@ If you're still tripping up on reviewing code, then simply rinse and repeat unti
 
 There's lots more you can do to improve code reviews, so this should be enough to get you started.
 
+What would you do to make reviewing code better?
