@@ -146,6 +146,10 @@ Of course, you can use an online tool like Scrutinizer or Travis CI which should
 
 Don't rely on just the online tools though. You'll find that it's often useful to have the command line tools at your finger tips.
 
+Tooling up is about being able to measure success. Not only the measurment of the success of your code, but the success of your code reviews. You'll want you and your team to decide how to measure the effectiveness of a code review, you can then begin to improve those metrics by setting [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria).
+
+There's lots of metrics to think about, such as measuring how long a peer review is open for, how many comments are added, what the volume of change is, to name a few. It's important to use metrics that are easily and consistently repeatable, so measure processes that are automated or tightly controlled.
+
 ## Wrapping up
 
 Once you've set a standard, shared the knowledge and tooled up, there's really no excuse for long, drawn out peer reviews.
