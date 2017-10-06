@@ -83,6 +83,8 @@ If you see the same issue more than 3 times, this suggests that we need to addre
 - Knowledge sharing
 - Tooling up
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="ISM8E1F"><a href="//imgur.com/ISM8E1F">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 > "Be pragmatic, but also have a sense of humour"
 
 It's important to get the job done and have fun doing it. The goal is to make things easier, not harder. Respect each other. Always view a review as an opportunity to improve or help others to improve.
