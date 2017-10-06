@@ -6,7 +6,10 @@ categories:
   - Development
 tags:
     - webdev
-image: ...
+    - process
+    - code
+    - standards
+image: https://i.imgur.com/ISM8E1F.png
 ---
 
 We now live in a time of version control, git and github. If you work in software development you should be familiar with "pull requests".
