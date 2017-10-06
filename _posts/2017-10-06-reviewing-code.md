@@ -29,7 +29,7 @@ There's a few tools you'll want under your belt if you're going to review other 
 
 <!--more-->
 
-Best practices:
+### Best practices:
 
 1. Don't be afraid to make things better.
 1. Ask, don't tell.
@@ -42,7 +42,7 @@ Best practices:
 1. Well written code should look like it's written by one person.
 1. Negotiate. It's OK to have healthy debate, it makes us better at what we do. Be open minded.
 
-Things to look out for:
+### Things to look out for:
 
 - Inconsistencies (better: standards)
 - Complexity (better: simplify)
@@ -52,7 +52,7 @@ Things to look out for:
 - Risk (better: test coverage)
 - Mess (better: no unused code)
 
-You should be asking questions like:
+### You should be asking questions like:
 
 - Does this code look like it’s written by one person?
 - Will you understand that code in 6 months time?
@@ -83,7 +83,7 @@ If you see the same issue more than 3 times, this suggests that we need to addre
 - Knowledge sharing
 - Tooling up
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="ISM8E1F"><a href="//imgur.com/ISM8E1F">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Page Approved](https://i.imgur.com/ISM8E1F.png")
 
 > "Be pragmatic, but also have a sense of humour"
 
