@@ -13,4 +13,5 @@ aktt_notify_twitter:
   There are a number of ways to get in touch, try reaching me on twitter:
 </p>
 
-  * Follow on Twitter [@jpswade](http://twitter.com/jpswade)
+  * Follow on Twitter [@jpswade](https://twitter.com/jpswade)
+  * Add on LinkedIn [@jpswade](https://uk.linkedin.com/in/jpswade)
