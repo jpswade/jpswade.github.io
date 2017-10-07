@@ -9,10 +9,9 @@ image: http://i.imgur.com/PMnAWf0.jpg
 
 After the last Wavemaker board meeting I started writing a letter to the board members. This is the contents of that letter.
 
-<!--more-->
-
-```
 Dear Directors of the board, Friends, Wavemakers,
+
+<!--more-->
 
 I'm nervous.
 
@@ -103,4 +102,3 @@ I'm keen for us to focus on a core offering and getting people signed up it, a s
 I'm nervous about our future but I'm not afraid of making things better.
 
 We are building something important, something that matters to our community, something that we can all tell our grandchildren about. Nobody said it would be easy.
-```
