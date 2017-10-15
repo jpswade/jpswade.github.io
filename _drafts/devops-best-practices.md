@@ -6,7 +6,7 @@ Today, DevOps goes beyond just developers, systems administration and infrastruc
 
 DevOps is a movement. There's [no certificate, role, set of tools or prescriptive process](https://sites.google.com/a/jezhumble.net/devops-manifesto/). There's no specification, it's not a product, or job title. There's no one true voice on what DevOps is or isn't. It's about attitude, ideas, customs and behaviours. Culture, paradigms and philosophy. It's a way of thinking, a way of doing and a way of being. Practicing as well as preaching. It's a conversation. It's about taking the best experiences and sharing those with others.
 
-There are some very important qualities, approaches and techniques that have proven to work, that everyone should be aware of, they are the best practices.
+There are some very important qualities, principles and techniques that have proven to work, that everyone should be aware of, they are the best practices.
  
 Let's explore those...
 
