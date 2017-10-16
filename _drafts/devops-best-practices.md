@@ -30,8 +30,10 @@ Let's explore those...
 - [Infrastructure as Code](https://stochasticresonance.wordpress.com/2009/07/12/infrastructure-renaissance/) - Using orchestration and provisioning tools such as Terraform, Docker, Kubernetes, Ansible, Chef, Puppet.
 - [Quality Built In](https://www.slideshare.net/AndrewDzynia/quality-built-in/) - Build quality in, from start to end. Quality is not something you tack on the end.
 - [Kanban](http://blog.crisp.se/mattiasskarin/files/slides/introducing_kanban_in_operations.pdf) - Being able to limit the flow of work to a given worker is key, you must limit work in progress.
-- [Continuous Delivery](https://continuousdelivery.com/2014/02/visualizations-of-continuous-delivery/)
-- [Automated Testing](https://www.thoughtworks.com/insights/blog/qa-role-what-it-really) 
+- [Everything as code](https://www.slideshare.net/dubsquared/eac-25454047) - Infrastructure as Code, Security as Code, Compliance as Code, Testing as Code.
+- [Continuous Delivery](https://techbeacon.com/agile-devops-continuous-delivery-evolution-software-delivery) - Continuous Delivery is a key part of the evolution of adopting a DevOps culture.
+- [Don't fire the QA](https://www.thoughtworks.com/insights/blog/qa-role-what-it-really) - Are we building the correct product? If so, are we building it correctly?
+- [Test Automation](https://www.atlassian.com/blog/devops/test-automation-secret-devops-success) -
 - [Blue Green Deployments](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 - [High Scalability](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)
 - [Non-Functional Requirements as user stories](https://legacy.devopsdays.org/blog/wp-content/uploads/2010/02/rachel-davies-nonfunctional-devopsdays.pdf)
@@ -50,7 +52,7 @@ Let's explore those...
 - [Automation over documentation](https://githubengineering.com/runnable-documentation/)
 - [Lean startup](http://ecorner.stanford.edu/videos/2329/Evangelizing-for-the-Lean-Startup-Entire-Talk)
 - [Reduce the risk of releasing](http://slidesha.re/dsSZIr)
-- Embrace NoSQL
+- [Embrace NoSQL](https://diginomica.com/category/devops-stack/)
 - Processes protect people 
 - Immutable infrastructure
 - Everyone's a developer
@@ -73,3 +75,5 @@ Let's explore those...
 - Blameless Post-Mortems
 - Decreases lead time
 - Cloud
+- Testing as code - Use the gherkin language "[Business Readable, Domain Specific Language](https://martinfowler.com/bliki/BusinessReadableDSL.html)", for manual as well as automated. Keep all your tests with your code, use version control to track changes.
+- Ubiquitous Language - An example of working with the whole business
