@@ -53,6 +53,7 @@ Let's explore those...
 - [Lean startup](http://ecorner.stanford.edu/videos/2329/Evangelizing-for-the-Lean-Startup-Entire-Talk)
 - [Reduce the risk of releasing](http://slidesha.re/dsSZIr)
 - [Embrace NoSQL](https://diginomica.com/category/devops-stack/)
+- [People over process](https://jezhumble.net/2007/09/11/line-management.html)
 - Processes protect people 
 - Immutable infrastructure
 - Everyone's a developer
