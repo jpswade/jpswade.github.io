@@ -54,27 +54,22 @@ Let's explore those...
 - [Reduce the risk of releasing](http://slidesha.re/dsSZIr)
 - [Embrace NoSQL](https://diginomica.com/category/devops-stack/)
 - [People over process](https://jezhumble.net/2007/09/11/line-management.html)
-- Processes protect people 
-- Immutable infrastructure
-- Everyone's a developer
-- Everyone's an engineer 
-- ChatOps
-- Automate (almost) everything
-- Securing Software through Continuous Delivery
-- Shift left
-- Big data
-- Alignment
-- Work on the most important thing first
-- Focus on mean time to recovery
-- Pipelines as code
-- Test at the appropriate level
-- Platform as a service
-- Use analogies to communicate important concepts
-- Done means released
-- Everybody is responsible for delivery
-- People are the key - Get everyone together at the beginning. Keep meeting. Make it easy for everyone to see what’s happening.
-- Blameless Post-Mortems
-- Decreases lead time
-- Cloud
+- [Immutable infrastructure](https://dzone.com/articles/why-you-should-build-immutable) 
+- [Automate (almost) everything](https://www.thoughtworks.com/insights/blog/automate-almost-everything)
+- [Securing Software through Continuous Delivery](https://www.oreilly.com/learning/devopssec-securing-software-through-continuous-delivery)
+- [Shift left](https://dzone.com/articles/the-shift-left-principle-and-devops-1)
+- [Big data](http://blog.syncsort.com/2017/04/big-data/big-data-and-devops/)
+- [Prioritisation - Work on the most important thing first](http://www.theagilemindset.co.uk/the-scrum-philosophy/)
+- [Focus on mean time to recovery](https://www.thoughtworks.com/radar/techniques/focus-on-mean-time-to-recovery)
+- [Pipelines as code](http://inedo.com/blog/pipelines-as-code-how-you-can-fully-embrace-agile-and-devops)
+- [Test at the appropriate level](https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid)
+- [Platform as a service](https://blogs.msdn.microsoft.com/brunoterkaly/2014/04/17/the-devops-story-why-it-is-really-about-platform-as-a-service/)
+- [Use analogies to communicate important concepts](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
+- [Done means released](https://blog.codecentric.de/en/2010/10/devopsdays-in-hamburg-%E2%80%9Cdone%E2%80%9D-means-released/)
+- [Everybody is responsible for delivery](http://blog.macisaacconsulting.com/continuous-delivery-everybody-responsible-quality/)
+- [People are the key](https://techbeacon.com/psychology-devops-understanding-people-key-success) - Get everyone together at the beginning. Keep meeting. Make it easy for everyone to see what’s happening.
+- [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+- [Decrease lead time](https://techbeacon.com/doing-continuous-delivery-focus-first-reducing-release-cycle-times)
+- [Cloud](https://www.infoq.com/articles/cloud-and-devops)
 - Testing as code - Use the gherkin language "[Business Readable, Domain Specific Language](https://martinfowler.com/bliki/BusinessReadableDSL.html)", for manual as well as automated. Keep all your tests with your code, use version control to track changes.
-- Ubiquitous Language - An example of working with the whole business
+
