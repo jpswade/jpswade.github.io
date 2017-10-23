@@ -28,6 +28,7 @@ Though not necessarily accurate, I've broken them down into their evolutionary s
 - [Prioritisation - Work on the most important thing first](http://www.theagilemindset.co.uk/the-scrum-philosophy/)
 - [Use analogies to communicate important concepts](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
 - [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+- [How to eat an elephant - one bite at a time](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
 
 ## Agile to Lean
 
@@ -91,4 +92,3 @@ Though not necessarily accurate, I've broken them down into their evolutionary s
 - [Big data](http://blog.syncsort.com/2017/04/big-data/big-data-and-devops/)
 - [Platform as a service](https://blogs.msdn.microsoft.com/brunoterkaly/2014/04/17/the-devops-story-why-it-is-really-about-platform-as-a-service/)
 - [Cloud](https://www.infoq.com/articles/cloud-and-devops)
-
