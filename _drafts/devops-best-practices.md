@@ -41,9 +41,11 @@ Though not necessarily accurate, I've broken them down into their evolutionary s
 - [Minimum viable product](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 - [A journey, not a destination](https://notafactoryanymore.com/2015/08/14/a-personal-devops-journey-or-a-never-ending-journey-to-mastery/)
 - [Embrace change](https://www.theregister.co.uk/2016/01/15/devops_people_problem/)
+- [Build the right thing, then build it the right way](https://barryoreilly.com/2016/10/06/10-principles-to-transform/)
 - [Lean startup](http://ecorner.stanford.edu/videos/2329/Evangelizing-for-the-Lean-Startup-Entire-Talk)
 - [People over process](https://jezhumble.net/2007/09/11/line-management.html)
 - [Test at the appropriate level](https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid)
+- [High trust culture](https://www.slideshare.net/jezhumble/lean-enterprise-42651898)
 
 ## Lean to Continuous Integration
 
@@ -56,7 +58,7 @@ Though not necessarily accurate, I've broken them down into their evolutionary s
 - [Test Automation](https://www.atlassian.com/blog/devops/test-automation-secret-devops-success)
 - [Automation over documentation](https://githubengineering.com/runnable-documentation/)
 - [Shift left](https://dzone.com/articles/the-shift-left-principle-and-devops-1)
-- Testing as code - Use the gherkin language "[Business Readable, Domain Specific Language](https://martinfowler.com/bliki/BusinessReadableDSL.html)", for manual as well as automated. Keep all your tests with your code, use version control to track changes.
+- [Testing as code](http://www.bbc.co.uk/blogs/internet/entries/ff14236d-098a-3565-b678-ff4ba5776a5f) - Use the gherkin language "[Business Readable, Domain Specific Language](https://martinfowler.com/bliki/BusinessReadableDSL.html)", for manual as well as automated. Keep all your tests with your code, use version control to track changes.
 
 ## Continuous Integration to Continuous Delivery
 
