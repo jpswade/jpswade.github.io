@@ -19,6 +19,8 @@ As I move away from developer towards a more management role, I knew things woul
 
 I knew it would mean creating presentations, more time in workflow software like Jira, status reports, urgent emails and not so urgent emails, being responsible for workflows and processes, planning work, scheduling and attending meetings.
 
+<!--more-->
+
 As it happens, it also means being a line manager. It’s as much about the people and their well-being as it is about delivering software and leading the technology, if not more. Being responsible for people is not for everyone, especially developers who have a stereotype of being introverted or worse, egotistical.
 
 When I started in this role, I set out to make sure my team members were happy. As time goes on, oddly enough, you realise that happiness is not chief among the qualities that make for a well functioning team.
