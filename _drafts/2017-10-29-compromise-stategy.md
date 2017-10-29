@@ -1,5 +1,13 @@
 ---
 title: Have a compromise strategy
+author: James Wade
+date: 2017-10-29
+categories:
+  - Development
+tags:
+    - webdev
+    - security
+image: 
 ---
 
 Back in February 2016, I went to PHP UK Conference. One of the points resonated with me, so I wrote down the following:
