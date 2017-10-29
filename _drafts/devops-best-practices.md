@@ -29,6 +29,7 @@ Though not necessarily accurate, I've broken them down into their evolutionary s
 - [Use analogies to communicate important concepts](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
 - [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 - [How to eat an elephant - one bite at a time](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
+- [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
 
 ## Agile to Lean
 
