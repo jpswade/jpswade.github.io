@@ -15,7 +15,7 @@ Back in February 2016, I went to PHP UK Conference. One of the points resonated 
 > “We need a compromise strategy - even if our strategy is to do nothing, write it down, agree on it. (see PSR-9 and PSR-10)”
 
 PSR is PHP Standards Recommendations. PSR-9 is a draft recommendation on the subject of security advisories and PSR-10 is a draft recommendation on the security reporting process. Having a compromise strategy is in direct response to PSR-9 and PSR-10 existing.
-
+<!--more-->
 Everyone should have a compromise strategy. Whether you’re an enterprise, small business or an open source project. If you’re writing software, have one. And there’s a very good reason for having one: full disclosure advisories.
 
 In computer security, a full disclosure is the practice of making the details of security vulnerabilities public. When a security export (or “hacker”) discovers a vulnerability in your software or computer system they will usually draft out an advisory detailing the severity and other such metrics. They will usually send this to you ahead of time for you to comment and/or resolve the issue. Your comments (or lack thereof) will be noted with the advisory and used in the public advisory.
