@@ -42,6 +42,8 @@ Release often means that you need practice. If it’s difficult, do it more. Do 
 
 Listening to customers means closing the loop, focusing on building a quality product that people want to use. If quality is a top priority then compromise is not an option. We have to put our efforts into understanding the behaviours that are expected by the end user, rather than making assumptions that could be wrong, or worse, take longer to test and resolve later.
 
+![Delivering Value](https://i.imgur.com/lYZl9oB.png)
+
 It all talks to quality, but quality is not something you can objectify, you can’t point at something and say, “that’s a quality”, there’s no thing that represents quality, like how you could say a compass would represent the word “direction”.
 
 When pushed, we tend to think about quality products, usually high end cars like Porsche, Mercedes or BMW. We think of these as quality products because people are willing to pay large amounts for them. Their customers like the product enough to part with their hard earned cash.
