@@ -37,7 +37,7 @@ The Phoenix Project is an interesting read for anyone interested in leading a de
 - “Improvements made anywhere besides the bottleneck are an illusion”
 - “Processes are supposed to protect people”
 - Smoke test: “If you turn the circuit board on and no smoke comes out, it’ll probably work”
-- “Make sure that the constraint is now allowed to waste any time. Ever. It should never be waiting on any other resource for anything, and it should always be working on the highest priority commitment”
+- “Make sure that the constraint is not allowed to waste any time. Ever. It should never be waiting on any other resource for anything, and it should always be working on the highest priority commitment”
 - “Development is spending all their cycles on features, instead of stability, security, scalability, manageability, operability, continuity ...”
 - “You need to know what matters to the achievement of the business objectives, whether it’s projects, operations, strategy, compliance with laws and regulations, security or whatever”
 - “Remember, outcomes are what matters - not the process, not controls, or, for that matter, what work you complete”
