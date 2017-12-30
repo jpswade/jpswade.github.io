@@ -47,7 +47,7 @@ The Phoenix Project is an interesting read for anyone interested in leading a de
 - “How does anyone decide what needs to get worked on at any given time?”
 - “Every work centre is made up of four things: the machine, the man, the method and the measures”
 - “You win when you protect the organization without putting meaningless work into the IT system. And you win even more when you can take meaningless work out of the IT system”
-- [about credit card data] “You need to protect it in the process that create the work  product”
+- [about credit card data] “You need to protect it in the process that creates the work  product”
 - “I keep thinking about the lanes of work we’re trying to create”
 - “If it’s not on the kanban board, it won’t get done”
 - “They have continual two-week improvement cycles, each requiring them to implement one small Plan-Do-Check-Act project to keep them marching towards the goal”
