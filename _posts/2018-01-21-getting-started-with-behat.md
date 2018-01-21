@@ -23,11 +23,11 @@ Don’t think of it as a tool for testing, in the sense of removing bugs, think 
 <!--more-->
 
 As Dan North puts it:
-“BDD started as a way to teach TDD to programmers who kept getting hung up on the idea they were writing tests. Fast-forward a decade or so and it seems BDD scenario automation tools have invaded the world of acceptance testing like Japanese knotweed. All around I see teams harming themselves writing awkward, verbose tests using slow, cumbersome tools like Cucumber and SpecFlow, and acting as though BDD is some kind of testing approach”
+> “BDD started as a way to teach TDD to programmers who kept getting hung up on the idea they were writing tests. Fast-forward a decade or so and it seems BDD scenario automation tools have invaded the world of acceptance testing like Japanese knotweed. All around I see teams harming themselves writing awkward, verbose tests using slow, cumbersome tools like Cucumber and SpecFlow, and acting as though BDD is some kind of testing approach”
 
 Testing as code is not so much about automated testing, but test automation. Test automation refers to automating the process of tracking and managing the different tests.
 
-“I get paid for code that works, not for tests, so my philosophy is to test as little as possible to reach a given level of confidence” - Kent Beck
+> “I get paid for code that works, not for tests, so my philosophy is to test as little as possible to reach a given level of confidence” - Kent Beck
 
 It’s important that we use the test pyramid to narrow down the scope of our tests. As behat and Gherkin is used to define behaviours, it should really define the end-to-end scenario through the UI. This means that tests can be slow and costly so it’s important that we limit the number of tests to cover just the high-level scenarios that we need to cover the expected behaviour.
 
