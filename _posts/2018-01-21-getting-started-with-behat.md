@@ -1,7 +1,7 @@
 ---
 title: Getting started with Behat
 author: James Wade
-date: 2018-01-18
+date: 2018-01-21
 categories:
   - Development
 tags:
@@ -19,6 +19,8 @@ BDD is described by its creator, Dan North, as a second-generation, outside-in, 
 Behat is intended to aid communication between developers, clients and other stakeholders during a software development process. It allows the clear documentation of testable examples of the software's intended behaviour. Behat test scenarios are written with Gherkin, a business-readable domain-specific language following defined patterns.
 
 Don’t think of it as a tool for testing, in the sense of removing bugs, think of it as a tool for documentation and specification.
+
+<!--more-->
 
 As Dan North puts it:
 “BDD started as a way to teach TDD to programmers who kept getting hung up on the idea they were writing tests. Fast-forward a decade or so and it seems BDD scenario automation tools have invaded the world of acceptance testing like Japanese knotweed. All around I see teams harming themselves writing awkward, verbose tests using slow, cumbersome tools like Cucumber and SpecFlow, and acting as though BDD is some kind of testing approach”
