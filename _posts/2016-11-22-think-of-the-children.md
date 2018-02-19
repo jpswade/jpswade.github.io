@@ -46,18 +46,18 @@ Then it is made illegal to view the so called "inappropriate content". People ar
 
 As soon as your privacy is taken away, so is your freedom.
 
-    First they came for the Socialists, and I did not speak out—
-    Because I was not a Socialist.
-    
-    Then they came for the Trade Unionists, and I did not speak out— 
-    Because I was not a Trade Unionist.
-    
-    Then they came for the Jews, and I did not speak out— 
-    Because I was not a Jew.
-    
-    Then they came for me—and there was no one left to speak for me.
-    
-    -- Pastor Martin Niemöller (1892–1984)
+> First they came for the Socialists, and I did not speak out—
+> Because I was not a Socialist.
+> 
+> Then they came for the Trade Unionists, and I did not speak out— 
+> Because I was not a Trade Unionist.
+> 
+> Then they came for the Jews, and I did not speak out— 
+> Because I was not a Jew.
+> 
+> Then they came for me—and there was no one left to speak for me.
+> 
+> -- Pastor Martin Niemöller (1892–1984)
 
 [Orwell’s 1984](https://www.theguardian.com/technology/2012/apr/17/tim-berners-lee-monitoring-internet) was supposed to be [a warning](http://www.telegraph.co.uk/technology/2016/09/13/gchq-blocks-58000-scam-emails-from-government-addresses-every-da/), [not an instruction manual](https://en.wikipedia.org/wiki/Internet_censorship_in_the_United_Kingdom).
 
