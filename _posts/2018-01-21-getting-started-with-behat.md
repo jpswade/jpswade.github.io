@@ -73,7 +73,7 @@ To get started with Behat in your project, you can do the following:
 
 That’s really all you need to get started…
 
-If you started to write scenarios at this point you’ll find that none of the steps are defined. Now although you can write your own steps in the FeatureContext.php file mentioned above, I would air on the side of caution, until you have more experience and instead use the Mink Extension.
+If you started to write scenarios at this point you’ll find that none of the steps are defined. Now although you can write your own steps in the FeatureContext.php file mentioned above, avoid that for now, until you have more experience and instead use the Mink Extension.
 
 MinkExtension is an integration layer between Behat and Mink. You can use Behat to describe anything, that you can describe in business logic, such as web applications.
 
