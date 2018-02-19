@@ -25,7 +25,7 @@ The original campaign outlined a number of points, which were unbalanced points 
 - ["Think of the children"](https://en.wikipedia.org/wiki/Think_of_the_children) type campaigns are simply an appeal to emotion to justify censorship and are potentially damaging to our future and our Children's freedoms.
 - The government can't monitor children every hour of the day, nor would anyone want them to
 - [90% of parents manage their children's activities online, according to Ofcom, and that 70% of households do not have children](http://www.ispreview.co.uk/index.php/2016/11/uk-government-confirm-move-force-isps-blocking-adult-sites.html)
-- Children have, throughout history viewed "adult material" in various media forms, including art, magazines, VHS, floppy disks, or just [plain old fashioned voyeurism](https://en.wikipedia.org/wiki/Voyeurism#In_popular_culture). In many ways, it is part of growing up. It's what kids do.
+- Children have, throughout history been exposed to "adult material" in various media forms, including art, magazines, VHS, floppy disks, or just old fashioned voyeurism. In many ways, it is part of growing up. It's what kids do.
 - Living a sheltered life doesn't give you the skills to deal with adult life
 - Setting content filters to yes automatically means that you are assuming everyone is a potential criminal
 - This is just the start. It gives the government permission to monitor and filter anything.
