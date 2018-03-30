@@ -53,7 +53,7 @@ Before you begin, you’ll need to ensure that you have composer installed.
 
 Now we’ve got composer, we need to install it:
 
-	$ composer require behat --dev
+	$ composer require  behat/behat --dev
 
 This will update your composer.json and add behat to the require-dev section. You will also get a “behat” command in your vendor directory.
 
