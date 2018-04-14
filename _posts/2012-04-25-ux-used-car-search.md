@@ -18,9 +18,9 @@ Browsing the magazine, I found it very difficult to navigate through the various
 
 Like user experience expert, Theresa Neil, I had come to the same conclusion.
 
-*"I was shocked to realize how dependent I've grown on three simple features that just aren’t available in the analog world: search, sort and filter."*
-
-*[http://uxdesign.smashingmagazine.com/2012/04/10/ui-patterns-for-mobile-apps-search-sort-filter*/](http://uxdesign.smashingmagazine.com/2012/04/10/ui-patterns-for-mobile-apps-search-sort-filter/)
+>*"I was shocked to realize how dependent I've grown on three simple features that just aren’t available in the analog world: search, sort and filter."*
+>
+> -- [Theresa Neil, 2012](http://uxdesign.smashingmagazine.com/2012/04/10/ui-patterns-for-mobile-apps-search-sort-filter/)
 
 I shared in this frustration of print and decided to go online when I got back to work to see the clever and intuitive ways the top "used car" websites tackle searching, sorting and filtering.
 
