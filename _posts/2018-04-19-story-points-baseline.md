@@ -36,7 +36,7 @@ Think about it. What does the [ideal burndown chart look like?](https://dzone.co
 
 That means little stories and often. Avoid the temptation to take on too much in one go. This is not sustainable.
 
-We don't need to get it all right from the beginning, we don't need to build it all at once. This is how you show progress and maintain momentum.
+We don't need to get it all right from the beginning, we don't need to build it all at once. A little and often is how you show progress and maintain momentum.
 
 There's some really good advice out there on shaping stories, including the ["INVEST" mnemonic](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/).
 
