@@ -38,7 +38,7 @@ That means little stories and often. Avoid the temptation to take on too much in
 
 We don't need to get it all right from the beginning, we don't need to build it all at once. A little and often is how you show progress and maintain momentum.
 
-There's some really good advice out there on shaping stories, including the ["INVEST" mnemonic](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/).
+There's some really good advice out there on shaping stories, such as the ["INVEST" mnemonic](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/).
 
 It is normal for new teams to not agree on size and shape to begin with, it will take time to learn and adjust. Don't let this put you off, persevere and overtime the team will become aligned. You have to be patient. This is how you nurture culture.
 
