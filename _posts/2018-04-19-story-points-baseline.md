@@ -42,7 +42,7 @@ There's some really good advice out there on shaping stories, such as the ["INVE
 
 It is normal for new teams to not agree on size and shape to begin with, it will take time to learn and adjust. Don't let this put you off, persevere and overtime the team will become aligned. You have to be patient. This is how you nurture culture.
 
-I wouldn't recommend doing a baseline activity as it implies a prescribed way of pointing stories, when it should be an opportunity for the team to learn.
+I wouldn't recommend doing a baseline activity as it implies a prescribed way of pointing stories, when it should be an opportunity for the team to learn to work together.
 
 However, if you've got stories that are relatively big, you've really got to be asking why? Do we understand it? [Can they be broken down?](http://blogs.adobe.com/agile/2013/09/27/splitting-stories-into-small-vertical-slices/)
 
