@@ -12,13 +12,15 @@ tags:
 image: https://i.imgur.com/alj0NBB.png
 ---
 
-Given a new team or a team restructure, should you baseline?
+Given a new team or a team restructure, should you baseline? Do all teams point differently? Do the team need to baseline?
 
-Do you need to align your pointing to be the same across teams?
+Do you need to align your pointing to be the same across teams? Should all teams point the same? Should teams be autonomous?
 
-<!--more-->
+These are the types of questions that come up in newly formed teams that have a mix of experience with either agile or their peers.
 
 Ultimately it should be up to you and the team. Teams should be autonomous. What works for you and your team is probably right. Nobody should tell you how to work, that is your job.
+
+<!--more-->
 
 > “The best architectures, requirements, and designs emerge from self-organizing teams”
 > - Agile Manifesto, 2001
