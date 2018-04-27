@@ -1,6 +1,6 @@
 ---
 id: 289
-title: 'Don't forget to run make test!'
+title: Don't forget to run make test!
 date: 2008-11-13T16:17:26+00:00
 author: admin
 layout: post

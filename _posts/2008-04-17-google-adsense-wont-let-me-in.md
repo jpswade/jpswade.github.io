@@ -1,6 +1,6 @@
 ---
 id: 184
-title: 'Google AdSense won't let me in!'
+title: Google AdSense won't let me in!
 date: 2008-04-17T11:02:40+00:00
 author: admin
 layout: post

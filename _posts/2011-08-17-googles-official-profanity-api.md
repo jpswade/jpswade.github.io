@@ -1,6 +1,6 @@
 ---
 id: 3180
-title: 'Google's Official Profanity API'
+title: Google's Official Profanity API
 date: 2011-08-17T10:09:15+00:00
 author: James Wade
 layout: post

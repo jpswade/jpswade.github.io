@@ -1,6 +1,6 @@
 ---
 id: 241
-title: 'What's wrong with low version numbers?'
+title: What's wrong with low version numbers?
 date: 2008-09-25T10:27:35+00:00
 author: admin
 layout: post
