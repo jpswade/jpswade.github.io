@@ -1,6 +1,6 @@
 ---
 id: 3349
-title: Unable to update nameservers: Nameserver doesn't exist at the registry
+title: Unable to update nameservers: Nameserver doesn`t exist at the registry
 date: 2012-05-06T16:28:24+00:00
 author: James Wade
 layout: post

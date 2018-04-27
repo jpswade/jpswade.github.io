@@ -1,6 +1,6 @@
 ---
 id: 188
-title: 'Don't forward virus warnings, delete them'
+title: Don`t forward virus warnings, delete them
 date: 2010-03-12T11:09:30+00:00
 author: admin
 layout: post
