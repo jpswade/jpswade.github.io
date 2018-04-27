@@ -21,6 +21,8 @@ Martin Fowler wrote about Continuous Integration in September 2000, followed by 
 
 These practices help to lay the foundation to why we should create pipelines as code and the approaches we should take. For example, version control is a very powerful tool. Keeping everything in version control means you can easily keep track of changes, review code and maintain a source of truth.
 
+<!--more-->
+
 ## What are pipelines?
 Pipelines aren't exclusively for your continuous integration (CI) testing pipeline, they can and frequently are used for automating a delivery pipeline.
 
