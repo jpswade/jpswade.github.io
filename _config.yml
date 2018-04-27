@@ -19,18 +19,15 @@ author:
   github: jpswade
 
 social:
-  - name: facebook
-    username: jpswade
-    url: https://www.facebook.com/
-  - name: linkedin
-    username: jpswade
-    url: https://uk.linkedin.com/in/
   - name: twitter
     username: jpswade
     url: https://twitter.com/
   - name: github
     username: jpswade
     url: https://github.com/
+  - name: linkedin
+    username: jpswade
+    url: https://uk.linkedin.com/in/
 
 # Build settings
 markdown: kramdown
