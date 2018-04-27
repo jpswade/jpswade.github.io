@@ -45,6 +45,9 @@ donate: Has this post been useful? <a href="https://www.paypal.com/cgi-bin/websc
 paginate: 5
 highlighter: rouge
 
+# Publish posts or collection documents with a future date.
+future: false
+
 # Gems
 gems:
   - jekyll-redirect-from

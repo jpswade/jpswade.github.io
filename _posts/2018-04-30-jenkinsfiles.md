@@ -1,7 +1,7 @@
 ---
 title: Using Jenkinsfiles for Continuous Deployment Pipelines
 author: James Wade
-date: 2018-04-27
+date: 2018-04-30
 categories:
   - Development
 tags:
