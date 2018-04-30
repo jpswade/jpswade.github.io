@@ -32,6 +32,8 @@ A Jenkinsfile (Declarative Pipeline) will automatically deploy code all the way 
 
 Usually the first stage of a deployment pipeline will do any compilation and provide binaries for later stages. Later stages may include manual checks, such as any tests that can't be automated. Stages can be automatic, or require human interaction to proceed, they may be parallelised over many machines to speed up the build. Deploying into production is usually the final stage in a pipeline.
 
+![Pipelines](https://i.imgur.com/dXKur0P.jpg)
+
 The power of a pipeline is that it gets humans out of the deployment business. The less manual steps there are the less opportunity there is for error. We should let the computer perform the repetitive tasks, leaving us humans to solve problems.
 
 This doesn't mean that you don't have human intervention at all. One of the earliest philosophical ideas of the Toyota tradition is jidoka, sometimes translated as “automation with a human touch.” What it means is that the deployment process should be made so simple through automation that deploying becomes one less thing to worry about. If it's hard, make it easy. If it's painful, do it until it's not.
@@ -167,7 +169,7 @@ As you can see from this example, every part of the pipeline is defined as code,
 
 > 15 Nov 2017 - First, deploy your application into the production environment to seed the pipeline with working code. Create the Kubernetes namespace to logically isolate the production deployment.
 >
-> &mdash; [Continuous Deployment to Kubernetes Engine using Jenkins | Solutions | Google Cloud](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
+> &mdash; [Continuous Deployment to Kubernetes Engine using Jenkins - Solutions - Google Cloud](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
 
 ## Final thoughts
 
