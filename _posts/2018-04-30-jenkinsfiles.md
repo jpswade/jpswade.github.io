@@ -169,7 +169,7 @@ As you can see from this example, every part of the pipeline is defined as code,
 
 > 15 Nov 2017 - First, deploy your application into the production environment to seed the pipeline with working code. Create the Kubernetes namespace to logically isolate the production deployment.
 >
-> &mdash; [Continuous Deployment to Kubernetes Engine using Jenkins | Solutions | Google Cloud](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
+> &mdash; [Continuous Deployment to Kubernetes Engine using Jenkins - Solutions - Google Cloud](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
 
 ## Final thoughts
 
