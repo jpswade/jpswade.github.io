@@ -8,7 +8,7 @@
 # Site settings
 title: James Wade's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-image: http://i.imgur.com/7GZTAp0.jpg
+image: https://i.imgur.com/7GZTAp0.jpg
 
 # Social media
 author:
