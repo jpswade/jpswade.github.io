@@ -9,9 +9,6 @@ aktt_notify_twitter:
   - yes
 layout: post
 ---
-<p class="lead">
-  The Useful Linux Commands article is now maintained elsewhere:
-</p>
 
 # Useful Linux Commands
 
