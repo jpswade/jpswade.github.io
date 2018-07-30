@@ -8,7 +8,7 @@
 # Site settings
 title: James Wade's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-image: http://i.imgur.com/7GZTAp0.jpg
+image: https://i.imgur.com/7GZTAp0.jpg
 
 # Social media
 author:
@@ -32,7 +32,7 @@ social:
 markdown: kramdown
 
 # Imported from Wordpress
-url: http://wade.be
+url: https://wade.be
 name: James Wade's Blog
 description: Research and Development
 donate: Has this post been useful? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=james@wade.be&item_name=Buy%20me%20a%20beer!&item_number=beer001&amount=5%2e00&currency_code=GBP">Buy me a coffee or beer!</a>
