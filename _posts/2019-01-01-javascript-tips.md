@@ -70,11 +70,12 @@ Enjoy!
 45. [Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals): String literals that allow embedded expressions, allowing multi-line strings and string interpolation features
 46. [Curry functions](https://en.wikipedia.org/wiki/Currying): [a process to reduce functions of more than one argument to functions of one argument with the help of lambda calculus](https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400)
 47. [Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax): allows an iterable (eg: array) to be expanded in places where zero or more arguments are expected, like in function calls. [The remaining properties are assigned to the variable after the spread operator](https://davidwalsh.name/spread-operator)
-48. [Node.js](https://en.wikipedia.org/wiki/Node.js): Know what it is (a runtime system) and [when to use it](https://www.netguru.co/blog/use-node-js-backend)
-49. Use [Linting](https://en.wikipedia.org/wiki/Lint_(software)): analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. Use [ESLint](https://medium.com/the-node-js-collection/why-and-how-to-use-eslint-in-your-project-742d0bc61ed7)
-50. Use an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment): a software application that provides comprehensive facilities to computer programmers for software development, such as [VScode](https://code.visualstudio.com/) or [Atom](https://atom.io/)
-51. [RTFM](http://en.wikipedia.org/wiki/RTFM): The [Mozilla Developer Network JavaScript Guide](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide) is pretty comprehensive, so it's a good place to start.
+48. You can [share code between files in Javascript](https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512), including [Lerna](https://lernajs.io/), a tool for managing JavaScript projects with multiple packages
+49. [Node.js](https://en.wikipedia.org/wiki/Node.js): A runtime system that [can be used to power your backend](https://www.netguru.co/blog/use-node-js-backend)
+50. Use [Linting](https://en.wikipedia.org/wiki/Lint_(software)): analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. Use [ESLint](https://medium.com/the-node-js-collection/why-and-how-to-use-eslint-in-your-project-742d0bc61ed7)
+51. Use an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment): a software application that provides comprehensive facilities to computer programmers for software development, such as [VScode](https://code.visualstudio.com/) or [Atom](https://atom.io/)
+52. [RTFM](http://en.wikipedia.org/wiki/RTFM): The [Mozilla Developer Network JavaScript Guide](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide) is pretty comprehensive, so it's a good place to start.
 
-Inspired by:
+Also see:
 - [50+ PHP optimisation tips revisited](/50-php-optimisation-tips-revisited/)
-- The [H5BP](https://github.com/h5bp) Front-end Job Interview Questions
+- The [H5BP](https://github.com/h5bp) [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/#js-questions)
