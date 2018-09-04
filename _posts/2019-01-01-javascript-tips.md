@@ -1,5 +1,5 @@
 ---
-title: 50+ JavaScript Tips
+title: 50+ Useful JavaScript Tips, Tricks and Best Practices
 author: James Wade
 date: 2019-01-01
 categories:
@@ -8,10 +8,10 @@ tags:
     - software
     - development
     - javascript
-image: ...
+image: https://i.imgur.com/gFESUnj.jpg
 ---
 
-Here it is, the long awaited 50+ JavaScript tips.
+Here it is, the long awaited 50+ useful JavaScript tips, tricks and best practices.
 
 I originally wrote this for fun and to help me understand more about JavaScript as well as settle some common arguments that kept coming up in the community.
 
@@ -22,6 +22,8 @@ Here's some tips and tricks to help you get to grips with JavaScript.
 Enjoy!
 
 <!--more-->
+
+![useful JavaScript tips, tricks and best practices.](https://i.imgur.com/gFESUnj.jpg)
 
 1. [Event delegation](https://learn.jquery.com/events/event-delegation/) - learn how it works, it allows you to attach an event listener to an element.
 2. Understand [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) and [avoid `that`](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/), use [`Function.prototype.bind`](http://lucybain.com/blog/2014/function-prototype-bind/) instead.
@@ -39,7 +41,7 @@ Enjoy!
 14. [Browser detection is bad](https://css-tricks.com/browser-detection-is-bad/), [Feature detection is not browser detection](https://humanwhocodes.com/blog/2009/12/29/feature-detection-is-not-browser-detection/), instead libraries such as [Modernizr](https://en.wikipedia.org/wiki/Modernizr) use [feature detection](https://en.wikipedia.org/wiki/Feature_detection_(web_development))
 15. [Ajax is Asynchronous JavaScript And XML](https://en.wikipedia.org/wiki/Ajax_(programming)), its uses [XMLHttpRequest to asynchronous retrieve data](http://adaptivepath.org/ideas/ajax-new-approach-web-applications/) - [there's pros and cons](https://dzone.com/articles/pros-and-cons-of-ajax), the main advantage is that it doesn't require full page refreshes to load dynamic data into a page, which means less load on the client and server, that's also it's downside as if the client doesn't support it, such as a search engine bot, you will not get all the content.
 16. [JSONP is JSON with Padding](https://en.wikipedia.org/wiki/JSONP), used to request data from a server residing in a different domain than the client, but has since seen replaced by [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) due to security concerns
-17. [JavaScript templating](https://en.wikipedia.org/wiki/JavaScript_templating) and using libraries such as AngularJS, Backbone.js, Ember.js, Handlebars.js, Vue.js and [Mustache.js](https://web.archive.org/web/20130513103343/http://iviewsource.com/codingtutorials/introduction-to-javascript-templating-with-mustache-js/).
+17. [JavaScript templating](https://en.wikipedia.org/wiki/JavaScript_templating) and libraries such as AngularJS, Backbone.js, Ember.js, Handlebars.js, Vue.js and [Mustache.js](https://web.archive.org/web/20130513103343/http://iviewsource.com/codingtutorials/introduction-to-javascript-templating-with-mustache-js/).
 18. [Hoisting in JavaScript](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting) means that variable and function declarations are moved to the top of their containing scope.
 19. [Event bubbling](https://en.wikipedia.org/wiki/Event_bubbling), where the event first triggers on the innermost target element, and then successively triggers on the ancestors (parents) of the target element in the hierarchy till it reaches the top.
 20. The difference between an ["attribute"](https://en.wikipedia.org/wiki/HTML_attribute) - belonging to a HTML element and a ["property"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_accessors) - belonging to an object.
