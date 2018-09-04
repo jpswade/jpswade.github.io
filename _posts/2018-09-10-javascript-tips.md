@@ -23,7 +23,7 @@ Enjoy!
 
 <!--more-->
 
-![useful JavaScript tips, tricks and best practices.](https://i.imgur.com/gFESUnj.jpg)
+![50+ Useful JavaScript Tips, Tricks and Best Practices](https://i.imgur.com/gFESUnj.jpg)
 
 1. [Event delegation](https://learn.jquery.com/events/event-delegation/) - learn how it works, it allows you to attach an event listener to an element.
 2. Understand [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) and [avoid `that`](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/), use [`Function.prototype.bind`](http://lucybain.com/blog/2014/function-prototype-bind/) instead.
