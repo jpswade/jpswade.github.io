@@ -1,7 +1,7 @@
 ---
 title: 50+ Useful JavaScript Tips, Tricks and Best Practices
 author: James Wade
-date: 2019-01-01
+date: 2018-09-10
 categories:
   - Development
 tags:
