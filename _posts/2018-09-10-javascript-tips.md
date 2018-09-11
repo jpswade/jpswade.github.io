@@ -25,7 +25,7 @@ Enjoy!
 
 ![50+ Useful JavaScript Tips, Tricks and Best Practices](https://i.imgur.com/gFESUnj.jpg)
 
-1. [Event delegation](https://learn.jquery.com/events/event-delegation/) - learn how it works, it allows you to attach an event listener to an element.
+1. [Event delegation](https://learn.jquery.com/events/event-delegation/) allows you to attach an event listener to an element.
 2. Understand [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) and [avoid `that`](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/), use [`Function.prototype.bind`](http://lucybain.com/blog/2014/function-prototype-bind/) instead.
 3. JavaScript is a [prototype-based programming](https://en.wikipedia.org/wiki/Prototype-based_programming) and requires an understanding of [prototypical inheritance](http://crockford.com/javascript/prototypal.html) - instead of creating classes, you make prototype objects, and then use the object function to make new instances.
 4. JavaScript Module Systems, [CommonJS](http://www.commonjs.org/) (as used in [Node.js modules](https://nodejs.org/api/modules.html)) defines a [module format](http://wiki.commonjs.org/wiki/Modules/1.1.1) and [RequireJS]() implements the [Asynchronous Module Definition](https://github.com/amdjs/amdjs-api/blob/master/AMD.md). [ES6 modules](http://2ality.com/2014/09/es6-modules-final.html) attempt to bring harmony between the two.
