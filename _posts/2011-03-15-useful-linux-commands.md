@@ -10,7 +10,9 @@ aktt_notify_twitter:
 layout: post
 ---
 
-# Useful Linux Commands
+Here's a set of _Useful Linux Commands_ I've historically found useful, hopefully you will too...
+
+<!--more-->
 
 ## Check a disk
 ```
