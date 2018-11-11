@@ -20,7 +20,9 @@ I wanted to export emails in a certain folder from outlook so I could then impor
 
 When I tried to export the emails, outlook would NOT export any of the header details or even something as simple as the date/time.
 
-_**<!--more-->The Solution:**_
+<!--more-->
+
+_**The Solution:**_
 
 I spent a lot of time trying to find a solution to this.
 
