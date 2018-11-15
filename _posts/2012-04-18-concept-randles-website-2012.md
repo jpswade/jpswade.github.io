@@ -24,11 +24,11 @@ tags:
 The brief is create a new website for the Randles Motor Group to accommodate the new franchises while giving us the opportunity to introduce new technologies and take advantage of modern concepts.
 
 Here’s a sneak peak at the initial concept…
+<!--more-->
 
 ![](http://media.tumblr.com/tumblr_m2o1jnKpaP1qiakcu.png) 
 
 This new concept design takes Randles in a completely new direction.
-<!--more-->
 
 **Features**
 
