@@ -29,6 +29,7 @@
     <meta property="article:author" content="http://facebook.com/{{site.author.facebook}}">
     <meta property="article:publisher" content="https://www.facebook.com/{{site.author.facebook}}">
     {% for category in page.categories %}<meta property="article:section" content="{{category}}">{% endfor %}
+    {% if paginator.previous_page %}<meta name="robots" content="noindex, follow">{% endif %}
     <script>
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;

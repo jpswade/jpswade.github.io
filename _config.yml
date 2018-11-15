@@ -39,6 +39,7 @@ donate: Has this post been useful? <a href="https://www.paypal.com/cgi-bin/websc
 
 # Custom
 paginate: 5
+#paginate_path: "/page/:num/"
 highlighter: rouge
 
 # Publish posts or collection documents with a future date.
@@ -47,4 +48,11 @@ future: false
 # Gems
 gems:
   - jekyll-redirect-from
-  - jekyll-paginate
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
