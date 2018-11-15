@@ -5,12 +5,10 @@ author: James Wade
 permalink: /ux-used-car-search/
 source-id: 15wdI9qgmo63LgZmZmN7X8WUlob0nZ8CA1KhIXA3uhas
 published: true
+date: 2012-04-25
 ---
-UX: Used Car Search
 
-By James Wade on 25 April 2012
-
-# Searching for a used car is hard enough as it is.
+### Searching for a used car is hard enough as it is.
 
 As some light reading on a weekend trip to London I picked up a copy of the self described "weekly free motoring publication", AutoExchange from a rack inside a supermarket.
 
@@ -23,6 +21,8 @@ Like user experience expert, Theresa Neil, I had come to the same conclusion.
 > -- [Theresa Neil, 2012](http://uxdesign.smashingmagazine.com/2012/04/10/ui-patterns-for-mobile-apps-search-sort-filter/)
 
 I shared in this frustration of print and decided to go online when I got back to work to see the clever and intuitive ways the top "used car" websites tackle searching, sorting and filtering.
+
+<!--more-->
 
 ## Analysis: Examples of existing solutions
 
@@ -219,4 +219,3 @@ This is the right solution.
 The demo I'm going to go with will be a combined approach of a drop down select list but with the ability to remote load the data on demand to avoid the page taking too long to load.
 
 ![image alt text]({{ site.url }}/upload/rf0MiMNlw4VIvzAuKC8GA_img_17.png)
-
