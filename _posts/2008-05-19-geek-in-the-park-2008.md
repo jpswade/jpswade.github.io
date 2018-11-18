@@ -15,13 +15,8 @@ tags:
 
 [Geek in the Park](http://www.geekinthepark.co.uk/) is a day-long event for geeks (mainly web developers) to have a get together.
 
-The event is going to be held in [<p class="lead">
-  It's about this time that geeks start to think about things to do over the summer.
-</p>
-
-[Geek in the Park](http://www.geekinthepark.co.uk/) is a day-long event for geeks (mainly web developers) to have a get together.
-
-The event is going to be held in](http://maps.google.co.uk/maps?f=q&hl=en&q=Jephson+Pl,+Willes+Rd,+Leamington+Spa+CV31,+United+Kingdom&sll=52.793338,-2.147051&sspn=0.008758,0.020084&ie=UTF8&cd=3&geocode=0,52.286316,-1.523581&ll=52.288316,-1.527379&spn=0.002215,0.005021&t=h&z=18) [Leamington Spa, Warwickshire](http://maps.google.co.uk/maps?f=q&hl=en&q=Jephson+Pl,+Willes+Rd,+Leamington+Spa+CV31,+United+Kingdom&sll=52.793338,-2.147051&sspn=0.008758,0.020084&ie=UTF8&cd=3&geocode=0,52.286316,-1.523581&ll=52.288316,-1.527379&spn=0.002215,0.005021&t=h&z=18).
+The event is going to be held in
+ [Leamington Spa, Warwickshire](http://maps.google.co.uk/maps?f=q&hl=en&q=Jephson+Pl,+Willes+Rd,+Leamington+Spa+CV31,+United+Kingdom&sll=52.793338,-2.147051&sspn=0.008758,0.020084&ie=UTF8&cd=3&geocode=0,52.286316,-1.523581&ll=52.288316,-1.527379&spn=0.002215,0.005021&t=h&z=18).
 
 > The Picnic during the day, followed by The Discussion in the evening. The event starts on Saturday at noon and everything should wrap up by around 11pm.
 
