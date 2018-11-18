@@ -1,7 +1,7 @@
 ---
 title: How I stopped worrying about servers and learned to love serverless
 author: James Wade
-date: 2018-11-19
+date: 2018-11-20
 categories:
   - Development
 tags:
