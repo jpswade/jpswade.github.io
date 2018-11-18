@@ -2,11 +2,13 @@
 title: How I stopped worrying about servers and learned to love serverless
 author: James Wade
 date: 2018-11-20
-categories:
-  - Development
+category: Development
 tags:
     - serverless
+    - aws
+    - cloud
 image: https://i.imgur.com/GWZmGtT.jpg
+published: false
 ---
 
 I think I first heard of the term “serverless” in about 2015, probably around the time that the “Serverless Framework” launched in October 2015.
@@ -57,13 +59,13 @@ We ended up creating functions per environment, with A and B API gateways, switc
 One thing that did go really well, that I'm still really proud of, is a very small Lambda function that is triggered on a schedule by CloudWatch to go and fetch a bunch of data from the database and transpose it into a JSON format, then spit into into an S3 bucket for public consumption. Though I'm not quite sure why others don't share my enthusiasm...
 
 In November 2017 we reviewed our project, what went well and what were the pain points, which included things like:
+
 - API gateway deployment was painful
 - Infrastructure as Code (Terraform) was non-trivial
 - Using Serverless Framework may be considered non-standardised
 - High latency
 - API Gateway caching is non-trivial and expensive
 - Testing Node.js was different and difficult
-- Memory leaks
 - Too many database connections
 - Code duplication
 - A/B deployments was non-trivial
@@ -118,3 +120,5 @@ So yes, this is still early days for “serverless” and like the Internet itse
 To me, it seems that “serverless” is just another step on the journey, like “microservices” or “devops”, it’s not so much about defining the destination, it’s just an engine of more.
 
 You will get things wrong on your journey, but don’t worry, you’ll learn to love serverless too.
+
+PS. Thanks to [Radovan](https://www.linkedin.com/in/radovan-dacej-51241b58) for taking the time to proof read and give feedback, nice one! :)
