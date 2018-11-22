@@ -1,14 +1,14 @@
 ---
 title: How I stopped worrying about servers and learned to love serverless
 author: James Wade
-date: 2018-11-20
+date: 2018-11-30
 category: Development
 tags:
     - serverless
     - aws
     - cloud
 image: https://i.imgur.com/GWZmGtT.jpg
-published: false
+published: true
 ---
 
 I first heard of the term “serverless” in about 2015, probably around the time that the “Serverless Framework” launched, October 2015.
@@ -134,4 +134,10 @@ To me, it seems that “serverless” is just another step on the journey, like 
 
 You will get things wrong on your journey, but don’t worry, you’ll learn to love serverless too.
 
-PS. Thanks to [Radovan](https://www.linkedin.com/in/radovan-dacej-51241b58) who played a big part in what we learned about serverless and kindly took the time to proof read and give feedback, nice one! :)
+### Thanks
+
+Thanks to [Radovan](https://www.linkedin.com/in/radovan-dacej-51241b58) who played a big part in what we learned about serverless and kindly took the time to proof read and give feedback, nice one! :)
+
+### Next time
+
+Next time, I'll dig into costs of serverless, what's changed since we did this, observability and how it compares to microservices and kubernetes.
