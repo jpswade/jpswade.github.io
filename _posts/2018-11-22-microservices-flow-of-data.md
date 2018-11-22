@@ -1,5 +1,5 @@
 ---
-title: Microservices: Managing the flow of data
+title: Microservices - Managing the flow of data
 author: James Wade
 date: 2018-11-23
 category: Development
