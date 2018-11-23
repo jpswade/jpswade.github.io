@@ -11,6 +11,7 @@ tags:
     - teams
     - development
     - software delivery
+    - architecture
 image: https://i.imgur.com/8aZBHvE.png
 published: true
 ---
