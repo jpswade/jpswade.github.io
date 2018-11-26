@@ -23,7 +23,7 @@ My name is James Wade, this website is where I blog about business, engineering 
 - [Potteries Hackspace](http://potterieshackspace.org/)
 - [Randles/Stoneacre Motor Group](https://en.wikipedia.org/wiki/Stoneacre_Motor_Group)
 - [Simple SOCKS5 Server for Perl](http://ssspl.sourceforge.net/)
-- [startkeylogger](http://voices.washingtonpost.com/securityfix/2006/03/keylogger_utterance_spooks_nor.html)
+- [startkeylogger](https://www.theregister.co.uk/2006/03/03/symantec_security_glitch/)
 - [Suzuki4u](https://suzuki4u.co.uk/)
 - [Wavemaker](https://staffslive.co.uk/2015/02/wavemaker-project-boost-stoke-trent-digital-skills/)
 - [Wordpress](https://wordpress.org/support/profile/hm2k)
