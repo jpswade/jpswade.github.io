@@ -1,7 +1,7 @@
 ---
 title: Avoid using switch-case statements
 author: James Wade
-date: 2019-02-12
+date: 2019-02-15
 category: Development
 tags:
     - php
