@@ -20,7 +20,7 @@ There’s a number of companies that have been pioneering the microservices arch
 
 > "Microservices is a label and not the description" - Martin Fowler
 
-You think think of Microservices much like Service Oriented Architecture (SOA), an architectural approach, rather than a technical implementation, like Enterprise Service Bus (ESB).
+You can think of Microservices much like Service Oriented Architecture (SOA), an architectural approach, rather than a technical implementation, like Enterprise Service Bus (ESB).
 
 It is therefore not a silver bullet and it’s easy to get things wrong.
 
