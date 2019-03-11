@@ -20,7 +20,7 @@ Recently I've been asked why [switch-case statements](https://en.wikipedia.org/w
 
 ![Avoid using switch-case statements](https://i.imgur.com/AdsxQKS.jpg)
 
-I remember writing about avoiding using switch-case statements in my [2008 article on PHP optimisation tips](/50-php-optimisation-tips-revisited/). However, I only really talked about the fact that “if/else” statements being faster than case/switch statements. However, with the latest PHP speed improvements, this might not still be true or relevant, yet I still recognise these statements as a code smell. Why?
+I remember writing about avoiding using switch-case statements in my [2008 article on PHP optimisation tips](/50-php-optimisation-tips-revisited/). However, I only really talked about the fact that “if/else” statements being faster than case/switch statements. With the latest PHP speed improvements, this might not still be true or relevant, yet I still recognise these statements as a code smell. Why?
 
 Let’s understand why Switch Statements are code smell.
 
