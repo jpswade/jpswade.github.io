@@ -10,8 +10,10 @@ Sometimes called “1, 2, refactor”, the “rule of three” is code refactori
 
 > “Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior”
 > ― Martin Fowler
-<!--more-->
+
 This is a rule that has really served me well in recent years when I’ve come up against challenges on when something should be refactored.
+
+<!--more-->
 
 As developers it’s all too easy to spend too much time trying to engineer perfection, when really, all we needed to do was what was asked of us.
 
