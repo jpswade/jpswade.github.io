@@ -11,7 +11,9 @@ Now and again I come across patterns that I see in codebases and pull requests, 
 I've found that developers that have picked up more advanced patterns and become familiar with a codebase that is full of compromises made during it’s organic growth, they begin to apply those same patterns to solve the problem with a broad stroke, sometimes at the risk of not fixing the underlying issue.
 
 One such pattern is try-catch. Once the power of a try-catch is learned, it starts being used everywhere. I’ve seen the whole contents of a method wrapped in a try-catch, catching anything it can. When all you have is a hammer, everything looks like a nail.
+
 <!--more-->
+
 When you ask why they have used the try-catch, the answer is usually that they are trying to avoid the application producing unexpected errors. You might ask, "Why don't you wrap the whole application in a try-catch?", though it could be mistaken as flippant, it does promote the right thinking.
 
 Uncle Bob explains that if you’re having to write in exception handling in your method, then you’re probably doing it wrong. Exceptions are meant to be exceptional.
