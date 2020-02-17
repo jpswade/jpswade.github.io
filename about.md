@@ -26,6 +26,7 @@ My name is James Wade, this website is where I blog about business, engineering 
 - [startkeylogger](https://www.theregister.co.uk/2006/03/03/symantec_security_glitch/)
 - [Suzuki4u](https://suzuki4u.co.uk/)
 - [Wavemaker](https://staffslive.co.uk/2015/02/wavemaker-project-boost-stoke-trent-digital-skills/)
+- [Wikipedia](https://en.wikipedia.org/wiki/User:Jpswade)
 - [Wordpress](https://wordpress.org/support/profile/hm2k)
 
 ### Have you found this useful?
