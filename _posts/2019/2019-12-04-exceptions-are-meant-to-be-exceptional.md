@@ -32,7 +32,7 @@ Catching all “exceptions” or “catchables” makes it really hard to debug 
 If you’re validating some data, you usually shouldn’t be using exceptions to signal validation failures, if you’re expecting the failure, then perhaps it’s not an exception. Exceptions are exceptional.
 
 > “if a failure is expected behavior, then you shouldn't be using exceptions”
-> https://www.martinfowler.com/articles/replaceThrowWithNotification.html
+> [Martin Fowler](https://www.martinfowler.com/articles/replaceThrowWithNotification.html)
 
 You shouldn’t need to catch all exceptions. You’d have to have an exceptional reason to catch an exception, so use try-catch sparingly. Next time you see a try-catch, think, how can I refactor this so that the try-catch becomes redundant. Remember, exceptions are meant to be exceptional.
 
