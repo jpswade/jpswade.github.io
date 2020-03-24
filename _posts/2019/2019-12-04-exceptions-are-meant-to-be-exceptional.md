@@ -22,7 +22,7 @@ Uncle Bob explains that if you’re having to write in exception handling in you
 
 Similarly, catching an exception to then just report it back to the user isn’t great because you’re treating it as if it’s expected behaviour, when it isn’t. Exceptions should be exceptional.
 
-Catching an exception only to report it is a sure overkill. Simply because uncaught exception is a fatal error already, and it will be reported by itself. Without that blunt try/catch/die sequence, making your code much cleaner.
+Catching an exception only to report it is a sure overkill. Simply because uncaught exception is a fatal error already, and it will be reported by itself, without that blunt try/catch/die sequence, making your code much cleaner.
 
 > Sadly, the PHP manual is especially bad at it, showing such examples all over the place. On the one hand, it is understandable as such an example is guaranteed to output an error message, regardless of the user settings. On the other hand, this when this approach gets mindlessly copy-pasted into the live code, it turns out to be superfluous, user-unfriendly and harmful.
 > [https://phpdelusions.net/top#try_catch](Try-Catch at phpdelusions.net)
