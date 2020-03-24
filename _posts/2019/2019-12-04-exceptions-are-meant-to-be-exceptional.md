@@ -27,7 +27,7 @@ Catching an exception only to report it is a sure overkill. Simply because uncau
 > Sadly, the PHP manual is especially bad at it, showing such examples all over the place. On the one hand, it is understandable as such an example is guaranteed to output an error message, regardless of the user settings. On the other hand, this when this approach gets mindlessly copy-pasted into the live code, it turns out to be superfluous, user-unfriendly and harmful.
 > https://phpdelusions.net/top#try_catch
 
-Catching all “exceptions” or “catchables” makes it really hard to debug what’s going wrong. Avoid catching all “exceptions” or “catchables”, instead use exception handlers. This will maintain that exceptions are exceptional and handled exceptionally, and makes the application easier to understand and debug in the event of an issue.
+Catching all “exceptions” or “throwables” makes it really hard to debug what’s going wrong. Avoid catching all “exceptions” or “throwables”, instead use exception handlers. This will maintain that exceptions are exceptional and handled exceptionally, and makes the application easier to understand and debug in the event of an issue.
 
 If you’re validating some data, you usually shouldn’t be using exceptions to signal validation failures, if you’re expecting the failure, then perhaps it’s not an exception. Exceptions are exceptional.
 
