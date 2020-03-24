@@ -37,3 +37,29 @@ If you’re validating some data, you usually shouldn’t be using exceptions to
 You shouldn’t need to catch all exceptions. You’d have to have an exceptional reason to catch an exception, so use try-catch sparingly. Next time you see a try-catch, think, how can I refactor this so that the try-catch becomes redundant. Remember, exceptions are meant to be exceptional.
 
 Exceptions come at a cost, and they are expensive. They have a performance impact on the software and a maintenance overhead.
+
+## Example
+
+Bad: In this example, we're catching all exceptions and then passing the message from the exception directly to the user, without logging anything bad happened.
+```
+      try {
+          // do thing
+      } catch (\Exception $exception) {
+          return redirect()->back()->with('error', $exception->getMessage());
+      }
+```
+
+Better: This is better because it's a more specific catch, rather than a catch-all, we log the error, then return a more specific error to the user, rarther than blindly passing the message from the exception, which may contain technical details.
+```
+      try {
+          // do thing
+      } catch (\ClientException $exception) {
+          Log::error($exception);
+          return redirect()->back()->with('error', 'The client was unable to connect.');
+      }
+```
+
+Best: Don't catch the exception at this level. Error handling is one thing, exceptions are exceptional and can be handled at application level.
+```
+    // do thing
+```
