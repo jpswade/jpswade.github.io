@@ -25,7 +25,7 @@ Similarly, catching an exception to then just report it back to the user isn’t
 Catching an exception only to report it is a sure overkill. Simply because uncaught exception is a fatal error already, and it will be reported by itself. Without that blunt try/catch/die sequence, making your code much cleaner.
 
 > Sadly, the PHP manual is especially bad at it, showing such examples all over the place. On the one hand, it is understandable as such an example is guaranteed to output an error message, regardless of the user settings. On the other hand, this when this approach gets mindlessly copy-pasted into the live code, it turns out to be superfluous, user-unfriendly and harmful.
-> https://phpdelusions.net/top#try_catch
+> [https://phpdelusions.net/top#try_catch](Try-Catch at phpdelusions.net)
 
 Catching all “exceptions” or “throwables” makes it really hard to debug what’s going wrong. Avoid catching all “exceptions” or “throwables”, instead use exception handlers. This will maintain that exceptions are exceptional and handled exceptionally, and makes the application easier to understand and debug in the event of an issue.
 
