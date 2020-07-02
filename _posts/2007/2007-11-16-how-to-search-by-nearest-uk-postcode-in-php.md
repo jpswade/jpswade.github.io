@@ -37,29 +37,29 @@ However, with a quick google for [php distance calculation](http://www.google.co
 
 After a bit of tweaking, here's what I came up with in the end:
 
-> function distance($lat1, $lon1, $lat2, $lon2, $u='1&#8242;) {
-> 
-> $u=strtolower($u);
-  
-> if ($u == &#8216;k') { $u=1.609344; } // kilometers
-  
-> elseif ($u == &#8216;n') { $u=0.8684; } // nautical miles
-  
-> elseif ($u == &#8216;m') { $u=1; } // statute miles (default)
-> 
-> $d=sin(deg2rad($lat1))\*sin(deg2rad($lat2))+cos(deg2rad($lat1))\*cos(deg2rad($lat2))*cos(deg2rad($lon1-$lon2));
-  
-> $d=rad2deg(acos($d));
-  
-> $d=$d\*60\*1.1515;
-> 
-> $d=($d*$u); // apply unit
-  
-> $d=round($d); // optional
-  
-> return $d;
-  
-> }
+```
+<?php
+
+function distance($lat1, $lon1, $lat2, $lon2, $u = '1')
+{
+    $u = strtolower($u);
+    if ($u == 'k') {
+        $u = 1.609344;
+    } // kilometers
+    elseif ($u == 'n') {
+        $u = 0.8684;
+    } // nautical miles
+    elseif ($u == 'm') {
+        $u = 1;
+    } // statute miles (default)
+    $d = sin(deg2rad($lat1)) * sin(deg2rad($lat2)) + cos(deg2rad($lat1)) * cos(deg2rad($lat2)) * cos(deg2rad($lon1 - $lon2));
+    $d = rad2deg(acos($d));
+    $d = $d * 60 * 1.1515;
+    $d = ($d * $u); // apply unit
+    $d = round($d); // optional
+    return $d;
+}
+```
 
 So, that's the hard parts done (database and maths), next is simply a case of using this information to &#8220;find the closest&#8221; from the postcode we input to an array of postcodes we supply&#8230;
 
@@ -67,21 +67,25 @@ To find the &#8220;closest&#8221; postcode, effectively what we're trying to do 
 
 All we have to do is create a simple script that will find the smallest number in a given array, then return the appropriate key. Simple!
 
-> function closest ($needle,$haystack) {
-  
-> if (!$needle || !$haystack) { return; }
-  
-> if (!is_array($haystack)) { return; }
-> 
-> $smallest=min($haystack); //smallest value
-> 
-> foreach ($haystack as $key => $val) {
-  
-> if ($val == $smallest) { return $key; }
-  
-> }
-  
-> }
+```
+<?php
+
+function closest($needle, $haystack)
+{
+    if (!$needle || !$haystack) {
+        return;
+    }
+    if (!is_array($haystack)) {
+        return;
+    }
+    $smallest = min($haystack); //smallest value
+    foreach ($haystack as $key => $val) {
+        if ($val == $smallest) {
+            return $key;
+        }
+    }
+}
+```
 
 The above script does exactly what we want, using the &#8220;[min](http://www.php.net/min)&#8221; function we can quickly work out what we need to return.
 
@@ -94,111 +98,92 @@ Very simple!
 
 **Function 1, Postcode Distance**
 
-> function postcode_distance ($from,$to) {
-  
-> // Settings for if you have a different database structure
-  
-> $table='postcodes_uk';
-  
-> $lat='lat';
-  
-> $lon='lon';
-  
-> $postcode='postcode';
-> 
-> // This is a check to ensure we have a database connection
-  
-> if (!@mysql_query(&#8216;SELECT 0')) { return; }
-> 
-> // Simple regex to grab the first part of the postcode
-  
-> preg_match(&#8216;/\[A-Z]{1,2}[0-9R\]\[0-9A-Z\]?/',strtoupper($from),$match);
-  
-> $one=$match[0];
-  
-> preg_match(&#8216;/\[A-Z]{1,2}[0-9R\]\[0-9A-Z\]?/',strtoupper($to),$match);
-  
-> $two=$match[0];
-> 
-> $sql = &#8220;SELECT \`$lat\`, \`$lon\` FROM \`$table\` WHERE \`$postcode\`='$one'&#8221;;
-  
-> $query = mysql_query($sql);
-  
-> $one = mysql\_fetch\_row($query);
-> 
-> $sql = &#8220;SELECT \`$lat\`, \`$lon\` FROM \`$table\` WHERE \`$postcode\`='$two'&#8221;;
-  
-> $query = mysql_query($sql);
-  
-> $two = mysql\_fetch\_row($query);
-> 
-> $distance = distance($one[0], $one[1], $two[0], $two[1]);
-> 
-> // For debug only&#8230;
-  
-> //echo &#8220;The distance between postcode: $from and postcode: $to is $distance miles\n&#8221;;
-> 
-> return $distance;
-  
-> }
+```
+<?php
+
+function postcode_distance($from, $to)
+{
+    // Settings for if you have a different database structure
+    $table = 'postcodes_uk';
+    $lat = 'lat';
+    $lon = 'lon';
+    $postcode = 'postcode';
+    
+    // This is a check to ensure we have a database connection
+    if (!@mysql_query('SELECT 0')) {
+        return;
+    }
+
+    // Simple regex to grab the first part of the postcode
+    preg_match('/\[A-Z]{1,2}[0-9R\]\[0-9A-Z\]?/', strtoupper($from), $match);
+    $one = $match[0];
+    preg_match('/\[A-Z]{1,2}[0-9R\]\[0-9A-Z\]?/', strtoupper($to), $match);
+    $two = $match[0];
+    $sql = "SELECT `$lat`, `$lon` FROM `$table` WHERE `$postcode`='$one'";
+    $query = mysql_query($sql);
+    $one = mysql_fetch_row($query);
+    $sql = "SELECT `$lat`, `$lon` FROM `$table` WHERE `$postcode`='$two'";
+    $query = mysql_query($sql);
+    $two = mysql_fetch_row($query);
+    $distance = distance($one[0], $one[1], $two[0], $two[1]);
+    // For debug only.
+    //echo "The distance between postcode: $from and postcode: $to is $distance miles\n";
+    return $distance;
+}
+```
 
 **Function 2, Postcode Closest**
 
-> function postcode_closest ($needle,$haystack) {
-  
-> if (!$needle || !$haystack) { return; }
-  
-> if (!is_array($haystack)) { return; }
-> 
-> foreach ($haystack as $postcode) {
-  
-> $results[$postcode]=postcode_distance($needle,$postcode);
-  
-> }
-  
-> return closest($needle,$results);
-  
-> }
+```
+<?php
+
+function postcode_closest($needle, $haystack)
+{
+    if (!$needle || !$haystack) {
+        return;
+    }
+    if (!is_array($haystack)) {
+        return;
+    }
+    $results = [];
+    foreach ($haystack as $postcode) {
+
+        $results[$postcode] = postcode_distance($needle, $postcode);
+    }
+    return closest($needle, $results);
+}
+```
 
 So, with that done, place the 4 above functions into a file such as &#8220;postcode.php&#8221;, ready for use in the real world&#8230;
 
 **Test case:**
 
-> <?php
-> 
-> include_once(&#8216;postcode.php');
-> 
-> if ($_POST) {
-  
-> include_once(&#8216;db.php');
-  
-> $postcodes=array(&#8216;TF9 9BA','ST4 3NP');
-  
-> $input=strtoupper($_POST[&#8216;postcode']);
-  
-> $closest=postcode_closest($input,$postcodes);
-  
-> }
-> 
-> if (isset($closest)) {
-  
-> echo &#8220;The closest postcode is: $closest&#8221;;
-  
-> }
-  
-> ?>
-> 
-> <form action=&#8221;&#8221; method=&#8221;post&#8221;>
-  
-> Postcode: <input name=&#8221;postcode&#8221; maxlength=&#8221;9&#8243; /><br />
-  
-> <input type=&#8221;submit&#8221; />
-  
-> </form>
+```
+<?php
+
+include_once('postcode.php');
+
+if ($_POST) {
+    include_once('db.php');
+    $postcodes = array('TF9 9BA', 'ST4 3NP');
+    $input = strtoupper($_POST['postcode']);
+    $closest = postcode_closest($input, $postcodes);
+}
+
+if (isset($closest)) {
+    echo 'The closest postcode is: $closest';
+}
+
+?>
+<form action='' method='post'>
+    Postcode: <input name='postcode' maxlength='9'/><br/>
+    <input type='submit'/>
+</form>
+```
 
 You can download this script here: [postcode_search.phps](?dl=postcode_search.phps)
 
-_Note: In the above test case, I have a &#8220;db.php&#8221; file which contains my database details and starts a database connection._ I suggest you do the same.
+_Note: In the above test case, I have a 'db.php' file which contains my database details and starts a database connection._ I suggest you do the same.
 
 Ensure you have your database populated, you should be able to use [Paul Jenkins's UK Postcode csv](http://www.pjenkins.co.uk/uk_postcodes/UK_PostCodes.csv), allowing you to use your own table structure.
 
