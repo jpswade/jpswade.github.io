@@ -48,7 +48,7 @@ There's a few tools you'll want under your belt if you're going to review other 
 - Complexity (better: simplify)
 - Size (better: less)
 - Commenting (better: self explanatory code)
-- Duplication (better: 1,2, refactor)
+- Duplication (better: 1, 2, refactor)
 - Risk (better: test coverage)
 - Mess (better: no unused code)
 
@@ -73,7 +73,7 @@ There's a few tools you'll want under your belt if you're going to review other 
 - Is there a better way to do this?
 - Could this be clearer?
 
-Ultimately, it should be obvious to anyone what the code does so don’t be afraid to ask if you don’t understand how it works. I’m sure your peers will be more than happy to talk you through it.
+Ultimately, it should be obvious to anyone what the code does so don’t be afraid to ask if you don’t understand how it works. I'm sure your peers will be more than happy to talk you through it.
 
 > Code reviews are not about catching bugs. Modern code reviews are about socialization, learning, and teaching. - [Derek Prior, Thoughtbot](https://www.youtube.com/watch?v=PJjmw9TRB7s)
 
@@ -113,7 +113,7 @@ Prepare for standards to be challenged from time to time. They may be wrong, you
 
 ## Knowledge sharing
 
-In many organisations, the articles will state something along the lines of "notice will be deemed served by advertising the meeting in at least three public places" for when a meeting is called.
+For many organisations, the Articles of Association will state something along the lines of "notice will be deemed served by advertising the meeting in at least three public places" for when a meeting is called.
 
 There's a reason why and it's to do with being fair and reasonable, civil. It's also to do with threes. There's something about threes that make something stick. If you see or hear the same thing three times, then it must be important right?
 
@@ -135,7 +135,7 @@ Which method you use really depends on the people you're communicating to, thoug
 
 It's always a good idea to get sponsorship and consult with your peers before you set standards and share them. Make sure you have people to support you in what you're trying to do.
 
-If you don't now where to start, start by just talking about your idea with your peers. Then could write an objective article which outlines all the information you've gathered.
+If you don't know where to start, start by just talking about your idea with your peers. Then could write an objective article which outlines all the information you've gathered.
 
 ## Tooling up
 
