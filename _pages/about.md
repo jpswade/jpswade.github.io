@@ -13,7 +13,7 @@ My name is James Wade, this website is where I blog about business, engineering 
 - Founder @ [Phurix Web Hosting](https://phurix.co.uk/) 
 
 ### Articles else where
-- [DevOps](https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91)
+- [DevOps Best Practices](https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91)
 - Articles on [Dev.to](https://dev.to/jpswade)
 
 ### Projects
