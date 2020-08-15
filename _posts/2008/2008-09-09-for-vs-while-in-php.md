@@ -34,57 +34,59 @@ I decided to improve on it slightly and provide both results one after another. 
 
 Don't worry about this though, the memory usage was insignificantly different anyway (while was less). We're interested in the speed more than anything. Here's the code:
 
-> <?php
-> 
-> // for() vs while() loop benchmark test v0.1 by HM2K (09/09/08)
-> 
-> echo &#8216;PHP v',phpversion(),'<br>';
-> 
-> /\* benchmark functions \*/
-> 
-> include(&#8216;Benchmark/Iterate.php');
-> 
-> function benchmark ($n,$t=100) {
+```php
+<?php
+
+// for() vs while() loop benchmark test v0.1 (09/09/08)
+
+echo &#8216;PHP v',phpversion(),'<br>';
+
+/\* benchmark functions \*/
+
+include(&#8216;Benchmark/Iterate.php');
+
+function benchmark ($n,$t=100) {
   
-> $b=new Benchmark_iterate();
+$b=new Benchmark_iterate();
   
-> $b->run($t, $n);
+$b->run($t, $n);
   
-> $r=$b->get();
+$r=$b->get();
   
-> echo $n,' Mean time: &#8216;,$r[&#8216;mean'],'<br>';
+echo $n,' Mean time: &#8216;,$r[&#8216;mean'],'<br>';
   
-> }
-> 
-> /\* things to benchmark \*/
-> 
-> benchmark(&#8216;testfor');
+}
+
+/\* things to benchmark \*/
+
+benchmark(&#8216;testfor');
   
-> benchmark(&#8216;testwhile');
-> 
-> /\* test functions \*/
-> 
-> function testfor(){
+benchmark(&#8216;testwhile');
+
+/\* test functions \*/
+
+function testfor(){
   
-> for($i=0; $i<10000;++$i){
+for($i=0; $i<10000;++$i){
   
-> }
+}
   
-> }
+}
   
-> function testwhile(){
+function testwhile(){
   
-> $i=0;
+$i=0;
   
-> while ($i<10000){
+while ($i<10000){
   
-> ++$i;
+++$i;
   
-> }
+}
   
-> }
-> 
-> ?>
+}
+
+?>
+```
 
 _Note: you will need the [PEAR benchmark package](http://pear.php.net/package/Benchmark)._
 
@@ -92,10 +94,10 @@ The great thing about this script is it is totally reusable for all sorts of PHP
 
 Using the script I was very quickly able to gather the results&#8230;
 
-> PHP v5.1.6
+PHP v5.1.6
   
-> testfor Mean time: 0.0030984044075012
+testfor Mean time: 0.0030984044075012
   
-> testwhile Mean time: 0.0027758502960205
+testwhile Mean time: 0.0027758502960205
 
 Thus in conclusion **WHILE** _is_ faster than FOR.

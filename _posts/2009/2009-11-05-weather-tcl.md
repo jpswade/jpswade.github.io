@@ -59,7 +59,7 @@ It works well, and returns a result similar to this:
 
 > > .wz london
   
-> <Bot> HM2K, * Weather: London, England: Mostly Cloudy, 8ºC Humidity: 87% Wind: W at 9 mph
+> <Bot> User, * Weather: London, England: Mostly Cloudy, 8ºC Humidity: 87% Wind: W at 9 mph
 
 Hope you find this useful.
 

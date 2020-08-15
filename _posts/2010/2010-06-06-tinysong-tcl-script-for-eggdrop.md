@@ -34,7 +34,7 @@ It works as follows:
 
 > > .song Midnight Juggernauts &#8211; Nine Lives
   
-> <Bot> HM2K, * TinySong: Midnight Juggernauts &#8211; Nine Lives [Dystopia] <http://tinysong.com/uAb8>
+> <Bot> User, * TinySong: Midnight Juggernauts &#8211; Nine Lives [Dystopia] <http://tinysong.com/uAb8>
 
   * [Download tinysong.tcl](http://hm2k.googlecode.com/svn/trunk/code/tcl/tinysong.tcl)
 
