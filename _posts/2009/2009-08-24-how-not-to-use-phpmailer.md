@@ -3,7 +3,7 @@ id: 476
 title: How not to use PHPMailer
 date: 2009-08-24T12:14:13+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=476
 permalink: /how-not-to-use-phpmailer/
 aktt_notify_twitter:

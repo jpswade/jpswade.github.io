@@ -3,7 +3,7 @@ id: 194
 title: Arrange icons by modified in a music folder
 date: 2008-05-15T09:52:53+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=194
 permalink: /arrange-icons-by-modified-in-a-music-folder/
 ---

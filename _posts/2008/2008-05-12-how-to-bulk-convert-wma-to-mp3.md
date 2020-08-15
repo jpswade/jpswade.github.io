@@ -3,7 +3,7 @@ id: 193
 title: How to bulk convert WMA to MP3
 date: 2008-05-12T21:15:30+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=193
 permalink: /how-to-bulk-convert-wma-to-mp3/
 sandpaper:

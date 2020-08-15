@@ -3,7 +3,7 @@ id: 441
 title: Tricked by fake .uk sites?
 date: 2009-08-01T12:01:09+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=441
 permalink: /tricked-by-fake-uk-sites/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 87
 title: Fixing a faulty laptop DC jack connector
 date: 2007-02-14T17:17:23+00:00
 author: admin
-layout: post
+
 guid: /fixing-a-faulty-laptop-dc-jack-connector
 permalink: /fixing-a-faulty-laptop-dc-jack-connector/
 categories:

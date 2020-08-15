@@ -3,7 +3,7 @@ id: 210
 title: Open docx, xlsx, and pptx files
 date: 2010-10-05T02:00:59+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=210
 permalink: /2010/10/05/open-docx-xlsx-and-pptx-files/
 categories:

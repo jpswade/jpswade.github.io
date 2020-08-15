@@ -3,7 +3,7 @@ id: 3013
 title: Domain Slamming
 date: 2011-07-21T09:29:55+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3013
 permalink: /domain-slamming/
 aktt_notify_twitter:

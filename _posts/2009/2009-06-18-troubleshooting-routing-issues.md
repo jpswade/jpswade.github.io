@@ -3,7 +3,7 @@ id: 106
 title: Troubleshooting routing issues
 date: 2009-06-18T17:10:08+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=106
 permalink: /2009/06/18/troubleshooting-routing-issues/
 aktt_notify_twitter:

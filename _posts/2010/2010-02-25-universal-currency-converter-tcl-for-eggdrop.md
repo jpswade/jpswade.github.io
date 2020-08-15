@@ -3,7 +3,7 @@ id: 602
 title: Universal Currency Converter TCL for Eggdrop
 date: 2010-02-25T14:41:31+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=602
 permalink: /universal-currency-converter-tcl-for-eggdrop/
 aktt_notify_twitter:

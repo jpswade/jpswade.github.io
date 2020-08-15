@@ -1,6 +1,6 @@
 ---
 title: UX - Used Car Search
-layout: post
+
 author: James Wade
 permalink: /ux-used-car-search/
 source-id: 15wdI9qgmo63LgZmZmN7X8WUlob0nZ8CA1KhIXA3uhas

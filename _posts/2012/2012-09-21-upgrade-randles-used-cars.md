@@ -3,7 +3,7 @@ id: 3602
 title: 'Upgrade: Randles Used Cars'
 date: 2012-09-21T08:00:26+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/upgrade-randles-used-cars/
 permalink: /upgrade-randles-used-cars/
 tumblr_jpswade_permalink:

@@ -3,7 +3,7 @@ id: 3142
 title: PageRank Viewer Launch
 date: 2011-08-03T14:55:28+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3142
 permalink: /pagerank-viewer-launch/
 aktt_notify_twitter:

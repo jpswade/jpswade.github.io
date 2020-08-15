@@ -3,7 +3,7 @@ id: 231
 title: Tracking an IP address
 date: 2008-09-16T15:51:53+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=231
 permalink: /tracking-an-ip-address/
 sandpaper:

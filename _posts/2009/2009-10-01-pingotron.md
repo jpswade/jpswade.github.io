@@ -3,7 +3,7 @@ id: 276
 title: Pingotron
 date: 2009-10-01T11:23:44+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=276
 permalink: /pingotron/
 aktt_notify_twitter:

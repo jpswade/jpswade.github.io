@@ -3,7 +3,7 @@ id: 195
 title: Report a virus
 date: 2010-05-11T11:38:37+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=195
 permalink: /2010/05/11/report-a-virus/
 aktt_notify_twitter:

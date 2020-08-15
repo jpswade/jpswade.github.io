@@ -2,7 +2,7 @@
 title: Is naming things really that hard?
 date: 2017-03-03
 author: James Wade
-layout: post
+
 image: http://i.imgur.com/5zWamny.png
 redirect_from: /development/2017/03/03/whats-in-a-name.html
 

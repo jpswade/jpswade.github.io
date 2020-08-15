@@ -3,7 +3,7 @@ id: 123
 title: My AVI files crash explorer.exe
 date: 2007-06-13T20:05:16+00:00
 author: admin
-layout: post
+
 guid: /my-avi-files-crash-explorerexe
 permalink: /my-avi-files-crash-explorerexe/
 ---

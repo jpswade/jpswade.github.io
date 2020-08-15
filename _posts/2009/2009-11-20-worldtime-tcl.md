@@ -3,7 +3,7 @@ id: 573
 title: worldtime.tcl
 date: 2009-11-20T10:04:23+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=573
 permalink: /worldtime-tcl/
 aktt_notify_twitter:

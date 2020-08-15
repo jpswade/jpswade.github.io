@@ -3,7 +3,7 @@ id: 218
 title: The specified network name is no longer available samba
 date: 2009-11-03T13:02:14+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=218
 permalink: /the-specified-network-name-is-no-longer-available-samba/
 aktt_notify_twitter:

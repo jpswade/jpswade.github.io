@@ -3,7 +3,7 @@ id: 208
 title: What is a hacker?
 date: 2008-06-18T11:37:36+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=208
 permalink: /what-is-a-hacker/
 categories:

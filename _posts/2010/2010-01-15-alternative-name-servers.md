@@ -3,7 +3,7 @@ id: 149
 title: Alternative name servers
 date: 2010-01-15T13:10:03+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=149
 permalink: /2010/01/15/alternative-name-servers/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 80
 title: IHTOOM pmp
 date: 2007-02-13T12:30:22+00:00
 author: admin
-layout: post
+
 guid: /ihtoom-pmp
 permalink: /ihtoom-pmp/
 categories:

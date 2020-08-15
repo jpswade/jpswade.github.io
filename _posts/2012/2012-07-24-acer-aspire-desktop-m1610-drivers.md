@@ -3,7 +3,7 @@ id: 490
 title: Acer Aspire Desktop M1610 Drivers
 date: 2012-07-24T10:49:19+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=490
 permalink: /2012/07/24/acer-aspire-desktop-m1610-drivers/
 aktt_notify_twitter:

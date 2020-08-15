@@ -3,7 +3,7 @@ id: 52
 title: What is the best antivirus software?
 date: 2007-05-26T15:23:51+00:00
 author: admin
-layout: post
+
 guid: /what-is-the-best-antivirus-software
 permalink: /what-is-the-best-antivirus-software/
 categories:

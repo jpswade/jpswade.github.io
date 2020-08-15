@@ -2,7 +2,10 @@
 title: Rule of three
 published: true
 description: The “rule of three” is code refactoring rule of thumb to decide when a replicated piece of code should be replaced by a new procedure
-tags: software, development, programming
+tags:
+    - software
+    - development
+    - programming
 cover_image: https://images.unsplash.com/photo-1550985543-49bee3167284?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1334&q=80
 ---
 

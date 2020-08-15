@@ -3,7 +3,7 @@ id: 219
 title: For VS While in PHP
 date: 2008-09-09T22:54:25+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=219
 permalink: /for-vs-while-in-php/
 ---

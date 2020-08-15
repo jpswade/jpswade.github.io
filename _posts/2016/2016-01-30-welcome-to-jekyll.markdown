@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Migrate from Wordpress to Github Pages using Jekyll"
 date:   2016-01-30 17:18:34 +0000
 tags: jekyll update

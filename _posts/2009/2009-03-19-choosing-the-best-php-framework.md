@@ -3,7 +3,7 @@ id: 398
 title: Choosing a PHP Framework
 date: 2009-03-19T07:46:46+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=398
 permalink: /choosing-the-best-php-framework/
 aktt_notify_twitter:

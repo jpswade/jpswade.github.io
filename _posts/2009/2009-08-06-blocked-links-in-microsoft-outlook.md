@@ -3,7 +3,7 @@ id: 128
 title: Blocked links in Microsoft Outlook
 date: 2009-08-06T12:02:27+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=128
 permalink: /2009/08/06/blocked-links-in-microsoft-outlook/
 aktt_notify_twitter:

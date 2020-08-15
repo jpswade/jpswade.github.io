@@ -3,7 +3,7 @@ id: 3180
 title: Google's Official Profanity API
 date: 2011-08-17T10:09:15+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3180
 permalink: /googles-official-profanity-api/
 aktt_notify_twitter:

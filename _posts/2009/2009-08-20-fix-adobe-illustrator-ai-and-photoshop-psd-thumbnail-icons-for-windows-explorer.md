@@ -3,7 +3,7 @@ id: 140
 title: Fix Adobe Illustrator (.ai) and Photoshop (.psd) Thumbnail Icons for Windows Explorer
 date: 2009-08-20T10:25:31+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=140
 permalink: /2009/08/20/fix-adobe-illustrator-ai-and-photoshop-psd-thumbnail-icons-for-windows-explorer/
 aktt_notify_twitter:

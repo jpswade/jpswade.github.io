@@ -3,7 +3,7 @@ id: 509
 title: Startup problems are a thing of the past
 date: 2012-12-12T10:53:54+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=509
 permalink: /2012/12/12/startup-problems-are-a-thing-of-the-past/
 image: /wp-content/uploads/2012/12/Soluto-Home-940x198.png

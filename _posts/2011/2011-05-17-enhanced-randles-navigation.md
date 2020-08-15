@@ -3,7 +3,7 @@ id: 3612
 title: 'Enhanced: Randles Navigation'
 date: 2011-05-17T08:25:21+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/enhanced-randles-navigation/
 permalink: /enhanced-randles-navigation/
 tumblr_jpswade_permalink:

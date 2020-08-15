@@ -3,7 +3,7 @@ id: 136
 title: How do I make Yahoo Mail default mail provider in Vista?
 date: 2009-08-19T17:45:29+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=136
 permalink: /2009/08/19/how-do-i-make-yahoo-mail-default-mail-provider-in-vista/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 64
 title: How to Print to a Text File
 date: 2007-02-11T14:41:46+00:00
 author: admin
-layout: post
+
 guid: /how-to-print-to-a-text-file
 permalink: /how-to-print-to-a-text-file/
 ---

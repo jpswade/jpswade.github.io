@@ -3,7 +3,7 @@ id: 68
 title: MSN via IRC
 date: 2007-01-31T00:53:49+00:00
 author: admin
-layout: post
+
 guid: /msn-via-irc
 permalink: /msn-via-irc/
 categories:

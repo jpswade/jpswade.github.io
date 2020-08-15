@@ -3,7 +3,7 @@ id: 3620
 title: 'How We Built: 3 Shires Property Network'
 date: 2011-09-13T21:48:00+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=3620
 permalink: /how-we-built-3-shires-property-network-2/
 tumblr_jpswade_permalink:

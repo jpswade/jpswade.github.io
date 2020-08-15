@@ -3,7 +3,7 @@ id: 3603
 title: 'Update: Randles Website Homepage'
 date: 2012-08-24T14:32:00+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/update-randles-website-homepage/
 permalink: /update-randles-website-homepage/
 tumblr_jpswade_permalink:

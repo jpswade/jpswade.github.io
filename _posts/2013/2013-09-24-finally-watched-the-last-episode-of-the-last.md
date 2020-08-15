@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Finally watched the last episode of...
 date: '2013-09-24T16:42:00+01:00'
 tags:

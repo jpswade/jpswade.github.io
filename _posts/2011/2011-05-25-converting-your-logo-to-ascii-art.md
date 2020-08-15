@@ -3,7 +3,7 @@ id: 2907
 title: Converting your logo to ASCII art
 date: 2011-05-25T12:11:25+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=2907
 permalink: /converting-your-logo-to-ascii-art/
 aktt_notify_twitter:

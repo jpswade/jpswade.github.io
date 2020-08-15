@@ -3,7 +3,7 @@ id: 268
 title: Find the right software
 date: 2011-03-23T17:31:08+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=268
 permalink: /2011/03/23/find-the-right-software/
 categories:

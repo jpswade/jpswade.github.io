@@ -3,7 +3,7 @@ id: 1106
 title: Should I upgrade to an SSD hard disk?
 date: 2014-02-21T10:00:43+00:00
 author: wade
-layout: post
+
 guid: http://www.devotedit.com/?p=1106
 permalink: /2014/02/21/should-i-upgrade-to-an-ssd-hard-disk/
 image: /wp-content/uploads/2014/02/Z3YcA-500x198.jpg

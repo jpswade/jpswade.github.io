@@ -3,7 +3,7 @@ id: 65
 title: My computer has problems, what can I do?
 date: 2007-01-24T01:35:13+00:00
 author: admin
-layout: post
+
 guid: /my-computer-has-problems-what-can-i-do
 permalink: /my-computer-has-problems-what-can-i-do/
 ---

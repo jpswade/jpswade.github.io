@@ -3,7 +3,7 @@ id: 159
 title: "Next time i'm buying a mac"
 date: 2007-12-13 10:58:24 +00:00
 author: admin
-layout: post
+
 guid: /next-time-im-buying-a-mac/
 permalink: /next-time-im-buying-a-mac/
 redirect_from:

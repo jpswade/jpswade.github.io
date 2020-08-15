@@ -3,7 +3,7 @@ id: 152
 title: PHPbase web framework
 date: 2007-11-17T20:21:18+00:00
 author: admin
-layout: post
+
 guid: /phpbase-web-framework
 permalink: /phpbase-web-framework/
 categories:

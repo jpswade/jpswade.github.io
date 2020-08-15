@@ -3,7 +3,7 @@ id: 105
 title: Supercalifragilisticexpialidocious
 date: 2007-03-15T03:16:44+00:00
 author: admin
-layout: post
+
 guid: /supercalifragilisticexpialidocious
 permalink: /supercalifragilisticexpialidocious/
 redirect_from: /posts/supercalifragilisticexpialidocious

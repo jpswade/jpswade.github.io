@@ -3,7 +3,7 @@ id: 150
 title: How to create a boot CD for Windows ME
 date: 2007-11-14T21:31:28+00:00
 author: admin
-layout: post
+
 guid: /how-to-create-a-boot-cd-for-windows-me
 permalink: /how-to-create-a-boot-cd-for-windows-me/
 ---

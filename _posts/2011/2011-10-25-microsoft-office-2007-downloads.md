@@ -3,7 +3,7 @@ id: 415
 title: Microsoft Office 2007 Downloads
 date: 2011-10-25T14:22:07+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=415
 permalink: /2011/10/25/microsoft-office-2007-downloads/
 aktt_notify_twitter:

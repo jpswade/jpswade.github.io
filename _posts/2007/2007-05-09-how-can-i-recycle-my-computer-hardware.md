@@ -3,7 +3,7 @@ id: 118
 title: How can I recycle my computer hardware?
 date: 2007-05-09T13:20:50+00:00
 author: admin
-layout: post
+
 guid: /how-can-i-recycle-my-computer-hardware
 permalink: /how-can-i-recycle-my-computer-hardware/
 categories:

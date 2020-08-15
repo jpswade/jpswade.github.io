@@ -3,7 +3,7 @@ id: 535
 title: DVD Playback on Windows
 date: 2013-02-15T10:00:47+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=535
 permalink: /2013/02/15/dvd-playback-on-windows/
 categories:

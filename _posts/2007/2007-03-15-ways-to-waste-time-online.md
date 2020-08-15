@@ -3,7 +3,6 @@ id: 111
 title: Ways to waste time online
 date: 2007-03-15T16:51:45+00:00
 author: admin
-layout: page
 guid: http://wade.be/ways-to-waste-time-online/
 ---
 <p class="lead">

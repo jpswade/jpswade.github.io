@@ -3,7 +3,7 @@ id: 1118
 title: Meet the ransomware trojan that has IT professionals worried
 date: 2014-03-12T13:07:40+00:00
 author: wade
-layout: post
+
 guid: http://www.devotedit.com/?p=1118
 permalink: /2014/03/12/meet-the-ransomware-trojan-that-has-it-professionals-worried/
 image: /wp-content/uploads/2014/03/IMG_20140311_232356-940x198.jpg

@@ -3,7 +3,7 @@ id: 379
 title: Is my password secure?
 date: 2011-07-04T23:37:36+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=379
 permalink: /2011/07/04/is-my-password-secure/
 aktt_notify_twitter:

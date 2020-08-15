@@ -3,7 +3,7 @@ id: 151
 title: Correct Documents and Settings folder on Windows 2000
 date: 2007-11-16T00:46:46+00:00
 author: admin
-layout: post
+
 guid: /correct-documents-and-settings-folder-on-windows-2000
 permalink: /correct-documents-and-settings-folder-on-windows-2000/
 ---

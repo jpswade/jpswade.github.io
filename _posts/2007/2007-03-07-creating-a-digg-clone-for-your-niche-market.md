@@ -3,7 +3,7 @@ id: 102
 title: Creating a Digg clone for your niche market
 date: 2007-03-07T18:05:38+00:00
 author: admin
-layout: post
+
 guid: /creating-a-digg-clone-for-your-niche-market
 permalink: /creating-a-digg-clone-for-your-niche-market/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 3193
 title: What is my IP?
 date: 2011-08-09T08:48:14+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3193
 permalink: /what-is-my-ip/
 aktt_notify_twitter:

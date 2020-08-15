@@ -3,7 +3,7 @@ id: 299
 title: Replacing Outlook Express
 date: 2011-05-20T10:41:44+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=299
 permalink: /2011/05/20/replacing-outlook-express/
 aktt_notify_twitter:

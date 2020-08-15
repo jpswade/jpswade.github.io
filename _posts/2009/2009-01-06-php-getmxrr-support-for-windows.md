@@ -3,7 +3,7 @@ id: 332
 title: PHP getmxrr() support for windows
 date: 2009-01-06T22:23:41+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=332
 permalink: /php-getmxrr-support-for-windows/
 tags:

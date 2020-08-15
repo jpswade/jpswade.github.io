@@ -3,7 +3,7 @@ id: 238
 title: Networking problems solved using mains
 date: 2010-11-29T12:57:15+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=238
 permalink: /2010/11/29/networking-problems-solved-using-mains/
 categories:

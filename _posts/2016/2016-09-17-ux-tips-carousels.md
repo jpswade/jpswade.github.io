@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "UX Tips: Carousels"
 date:   2016-09-17 17:00:00 +0000
 author: James Wade

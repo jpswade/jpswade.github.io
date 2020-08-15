@@ -3,7 +3,7 @@ id: 593
 title: get_favicon() php function
 date: 2011-03-15T12:45:43+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=593
 permalink: /get_favicon-php-function/
 aktt_notify_twitter:

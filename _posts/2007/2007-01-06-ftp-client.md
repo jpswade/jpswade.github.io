@@ -3,7 +3,7 @@ id: 26
 title: An FTP client
 date: 2007-01-06T01:05:10+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/archives/26
 permalink: /ftp-client/
 categories:

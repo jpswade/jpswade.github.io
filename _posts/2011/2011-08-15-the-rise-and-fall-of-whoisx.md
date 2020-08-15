@@ -3,7 +3,7 @@ id: 3051
 title: The rise and fall of WhoisX
 date: 2011-08-15T08:33:38+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3051
 permalink: /the-rise-and-fall-of-whoisx/
 aktt_notify_twitter:

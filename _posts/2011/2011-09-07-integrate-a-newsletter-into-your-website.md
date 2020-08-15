@@ -3,7 +3,7 @@ id: 3257
 title: Integrate a newsletter into your website
 date: 2011-09-07T13:26:56+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3257
 permalink: /integrate-a-newsletter-into-your-website/
 aktt_notify_twitter:

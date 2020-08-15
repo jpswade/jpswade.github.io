@@ -1,9 +1,7 @@
 ---
-layout: page
-title: About
 permalink: /about/
+title: "About"
 ---
-
 My name is James Wade, this website is where I blog about business, engineering and software development.
 
 ### You might know me for

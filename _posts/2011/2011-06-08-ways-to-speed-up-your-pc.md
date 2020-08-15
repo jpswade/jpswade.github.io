@@ -3,7 +3,7 @@ id: 303
 title: Ways to speed up your PC
 date: 2011-06-08T18:03:51+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=303
 permalink: /2011/06/08/ways-to-speed-up-your-pc/
 aktt_notify_twitter:

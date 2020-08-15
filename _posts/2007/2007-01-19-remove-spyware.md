@@ -3,7 +3,7 @@ id: 39
 title: Remove Spyware
 date: 2007-01-19T12:58:00+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/articles/remove-spyware/
 permalink: /remove-spyware/
 aktt_notify_twitter:

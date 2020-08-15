@@ -3,7 +3,7 @@ id: 202
 title: Microsoft Excel will not open two documents with the same name
 date: 2010-07-26T17:44:43+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=202
 permalink: /2010/07/26/microsoft-excel-will-not-open-two-documents-with-the-same-name/
 categories:

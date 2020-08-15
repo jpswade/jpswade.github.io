@@ -3,7 +3,7 @@ id: 4089
 title: "File in use: The action can`t be completed because the file is open in another program"
 date: 2014-08-14T14:36:19+00:00
 author: wade
-layout: post
+
 guid: http://www.devotedit.com/?p=4089
 permalink: /2014/08/14/file-in-use-the-action-cant-be-completed-because-the-file-is-open-in-another-program/
 image: /wp-content/uploads/2014/08/2014-08-14-13.45.15-940x198.jpg

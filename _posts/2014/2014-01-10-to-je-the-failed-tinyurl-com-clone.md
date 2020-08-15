@@ -3,7 +3,7 @@ id: 3366
 title: 'to.je &#8211; The Failed TinyURL.com Clone'
 date: 2014-01-10T10:00:06+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3366
 permalink: /to-je-the-failed-tinyurl-com-clone/
 redirect_from: /posts/to-je-the-failed-tinyurl-com-clone

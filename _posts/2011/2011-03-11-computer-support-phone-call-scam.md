@@ -3,7 +3,7 @@ id: 258
 title: Computer support phone call scam
 date: 2011-03-11T14:38:22+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=258
 permalink: /2011/03/11/computer-support-phone-call-scam/
 aktt_notify_twitter:

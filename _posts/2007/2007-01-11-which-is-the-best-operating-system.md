@@ -3,7 +3,7 @@ id: 20
 title: Which is the best operating system?
 date: 2007-01-11T01:12:02+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/archives/20
 permalink: /which-is-the-best-operating-system/
 tags:

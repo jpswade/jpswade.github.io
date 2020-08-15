@@ -3,7 +3,7 @@ id: 3607
 title: 'Makeover: The IT Exchange Ltd.'
 date: 2011-09-08T14:47:56+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/makeover-the-it-exchange-ltd/
 permalink: /makeover-the-it-exchange-ltd/
 tumblr_jpswade_permalink:

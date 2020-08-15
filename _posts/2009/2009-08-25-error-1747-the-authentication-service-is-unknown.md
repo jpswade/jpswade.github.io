@@ -3,7 +3,7 @@ id: 144
 title: 'Error 1747 : The Authentication Service is Unknown'
 date: 2009-08-25T20:59:36+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=144
 permalink: /2009/08/25/error-1747-the-authentication-service-is-unknown/
 aktt_notify_twitter:

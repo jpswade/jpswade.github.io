@@ -3,7 +3,7 @@ id: 546
 title: Scan to Excel
 date: 2009-10-24T12:11:04+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=546
 permalink: /scan-to-excel/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 387
 title: Cannot redeclare pclziputilpathreduction()
 date: 2009-02-17T12:49:27+00:00
 author: admin
-layout: post
+
 guid: /cannot-redeclare-pclziputilpathreduction
 permalink: /cannot-redeclare-pclziputilpathreduction/
 tags:

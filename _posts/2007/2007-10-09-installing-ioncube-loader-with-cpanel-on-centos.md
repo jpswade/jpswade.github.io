@@ -3,7 +3,7 @@ id: 135
 title: Installing IonCube Loader with cPanel on CentOS
 date: 2007-10-09T01:13:46+00:00
 author: admin
-layout: post
+
 guid: /installing-ioncube-loader-with-cpanel-on-centos
 permalink: /installing-ioncube-loader-with-cpanel-on-centos/
 categories:

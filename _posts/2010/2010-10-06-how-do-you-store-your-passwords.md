@@ -3,7 +3,7 @@ id: 192
 title: How do you store your passwords?
 date: 2010-10-06T00:12:41+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=192
 permalink: /2010/10/06/how-do-you-store-your-passwords/
 aktt_notify_twitter:

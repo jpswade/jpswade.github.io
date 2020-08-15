@@ -3,7 +3,7 @@ id: 3314
 title: Is Google PageRank dead?
 date: 2011-10-06T21:30:30+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3314
 permalink: /is-google-pagerank-dead/
 aktt_notify_twitter:

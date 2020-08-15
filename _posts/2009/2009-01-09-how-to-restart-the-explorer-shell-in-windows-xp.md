@@ -3,7 +3,7 @@ id: 342
 title: How to restart the explorer shell in Windows XP
 date: 2009-01-09T11:03:21+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=342
 permalink: /how-to-restart-the-explorer-shell-in-windows-xp/
 tags:

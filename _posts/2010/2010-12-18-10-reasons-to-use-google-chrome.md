@@ -3,7 +3,7 @@ id: 250
 title: 10 reasons to use Google Chrome
 date: 2010-12-18T14:56:42+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=250
 permalink: /2010/12/18/10-reasons-to-use-google-chrome/
 categories:

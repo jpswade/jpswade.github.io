@@ -3,7 +3,7 @@ id: 156
 title: Why AOL sucks
 date: 2007-11-30T04:37:20+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/why-aol-sucks
 permalink: /why-aol-sucks/
 aktt_notify_twitter:

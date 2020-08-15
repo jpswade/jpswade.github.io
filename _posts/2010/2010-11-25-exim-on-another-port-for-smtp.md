@@ -3,7 +3,7 @@ id: 661
 title: exim on another port for smtp
 date: 2010-11-25T14:58:35+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=661
 permalink: /exim-on-another-port-for-smtp/
 aktt_notify_twitter:
@@ -13,8 +13,8 @@ aktt_tweeted:
 categories:
   - Sysadmin
 tags:
-  - 25
-  - 587
+  - "25"
+  - "587"
   - exim
   - smtp
   - three

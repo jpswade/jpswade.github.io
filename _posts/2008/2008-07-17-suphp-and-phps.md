@@ -3,7 +3,7 @@ id: 214
 title: suPHP and .phps PHP code highlighting support
 date: 2008-07-17T12:27:12+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=214
 permalink: /suphp-and-phps/
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Predicting the Future for 2017"
 date:   2017-02-03 09:00:00 +0000
 author: James Wade

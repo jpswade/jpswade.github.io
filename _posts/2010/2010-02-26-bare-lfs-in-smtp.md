@@ -3,7 +3,7 @@ id: 180
 title: Bare LFs in SMTP 0x800CCC0F
 date: 2010-02-26T13:16:00+00:00
 author: wade
-layout: post
+
 guid: http://www.devotedit.com/?p=180
 permalink: /2010/02/26/bare-lfs-in-smtp/
 aktt_notify_twitter:

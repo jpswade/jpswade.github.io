@@ -3,7 +3,7 @@ id: 2316
 title: How to find the fastest CVSUP mirror server
 date: 2011-03-30T14:41:42+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=2316
 permalink: /how-to-find-the-fastest-cvsup-mirror-server/
 aktt_notify_twitter:

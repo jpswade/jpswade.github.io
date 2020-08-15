@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "UX: Is hamburger menu a lazy solution?"
 date:   2016-02-06 17:00:00 +0000
 author: James Wade

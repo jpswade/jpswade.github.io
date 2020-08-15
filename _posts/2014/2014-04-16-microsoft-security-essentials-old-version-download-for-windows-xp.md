@@ -3,7 +3,7 @@ id: 1396
 title: Microsoft Security Essentials Old Version Download for Windows XP
 date: 2014-04-16T17:48:10+00:00
 author: wade
-layout: post
+
 guid: http://www.devotedit.com/?p=1396
 permalink: /2014/04/16/microsoft-security-essentials-old-version-download-for-windows-xp/
 image: /wp-content/uploads/2014/04/IMG_20140416_173255-940x198.jpg

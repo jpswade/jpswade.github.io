@@ -3,7 +3,7 @@ id: 301
 title: Creating a dating site (PHP)
 date: 2008-12-23T11:00:36+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=301
 permalink: /phpizabi-creating-a-dating-site/
 aktt_notify_twitter:

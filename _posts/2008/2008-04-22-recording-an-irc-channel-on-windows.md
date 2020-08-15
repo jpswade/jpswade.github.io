@@ -3,7 +3,7 @@ id: 188
 title: Recording an IRC channel on Windows
 date: 2008-04-22T13:48:15+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=188
 permalink: /recording-an-irc-channel-on-windows/
 categories:

@@ -3,7 +3,7 @@ id: 220
 title: 10 essential tools to install using ninite
 date: 2010-10-07T17:27:41+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=220
 permalink: /2010/10/07/10-essential-tools-to-install-using-ninite/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 169
 title: RemoveWGA
 date: 2009-11-05T14:23:31+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=169
 permalink: /2009/11/05/removewga/
 aktt_notify_twitter:

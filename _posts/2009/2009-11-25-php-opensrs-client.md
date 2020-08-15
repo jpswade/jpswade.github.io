@@ -3,7 +3,7 @@ id: 579
 title: PHP OpenSRS Client
 date: 2009-11-25T13:42:50+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=579
 permalink: /php-opensrs-client/
 aktt_notify_twitter:

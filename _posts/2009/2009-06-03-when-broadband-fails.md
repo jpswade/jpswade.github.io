@@ -3,7 +3,7 @@ id: 73
 title: When broadband fails
 date: 2009-06-03T14:46:04+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=73
 permalink: /2009/06/03/when-broadband-fails/
 aktt_notify_twitter:

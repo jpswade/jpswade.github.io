@@ -3,7 +3,7 @@ id: 3606
 title: 'Makeover: Suzuki4u logo and forum'
 date: 2011-11-25T12:30:43+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/makeover-suzuki4u-logo-and-forum/
 permalink: /makeover-suzuki4u-logo-and-forum/
 tumblr_jpswade_permalink:

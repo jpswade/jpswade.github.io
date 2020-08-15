@@ -3,7 +3,7 @@ id: 49
 title: No more Nero
 date: 2007-01-23T17:56:59+00:00
 author: admin
-layout: post
+
 guid: /cddvd-burning-software
 permalink: /no-more-nero/
 categories:

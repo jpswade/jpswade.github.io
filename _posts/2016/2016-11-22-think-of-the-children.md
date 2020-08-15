@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Protect our Children's freedom: Give Them Privacy"
 date:   2016-11-22 09:00:00 +0000
 redirect_from: /internet/2016/11/21/think-of-the-children.html

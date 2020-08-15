@@ -3,7 +3,7 @@ id: 61
 title: I forgot my Windows logon password!
 date: 2007-01-28T11:20:30+00:00
 author: admin
-layout: post
+
 guid: /i-forgot-my-windows-logon-password
 permalink: /i-forgot-my-windows-logon-password/
 categories:

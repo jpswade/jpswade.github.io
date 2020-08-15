@@ -3,7 +3,7 @@ id: 168
 title: So how did I get infected in the first place?
 date: 2008-01-22T16:37:30+00:00
 author: admin
-layout: post
+
 guid: /so-how-did-i-get-infected-in-the-first-place
 permalink: /so-how-did-i-get-infected-in-the-first-place/
 categories:

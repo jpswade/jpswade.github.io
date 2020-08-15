@@ -3,7 +3,7 @@ id: 204
 title: 'Firefox &#8220;Always On Top&#8221; on Windows XP'
 date: 2008-05-26T22:05:24+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=204
 permalink: /firefox-always-on-top/
 ---

@@ -3,7 +3,7 @@ id: 452
 title: DVD Collection Software
 date: 2009-08-14T08:45:12+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=452
 permalink: /dvd-collection-software/
 aktt_notify_twitter:

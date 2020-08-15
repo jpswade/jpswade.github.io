@@ -3,7 +3,7 @@ id: 195
 title: Samsung ML-4500 XP driver install
 date: 2008-05-14T13:13:34+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=195
 permalink: /samsung-ml-4500-xp-driver-install/
 tags:

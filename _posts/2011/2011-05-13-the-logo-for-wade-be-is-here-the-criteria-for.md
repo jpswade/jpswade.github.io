@@ -2,7 +2,7 @@
 id: 3613
 date: 2011-05-13T07:58:23+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/the-logo-for-wade-be-is-here-the-criteria-for/
 permalink: /the-logo-for-wade-be-is-here-the-criteria-for/
 tumblr_jpswade_permalink:

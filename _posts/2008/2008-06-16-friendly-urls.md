@@ -3,7 +3,7 @@ id: 53
 title: Friendly URLs (revisited)
 date: 2008-06-16T12:02:59+00:00
 author: admin
-layout: post
+
 guid: /friendly-urls
 permalink: /friendly-urls/
 categories:

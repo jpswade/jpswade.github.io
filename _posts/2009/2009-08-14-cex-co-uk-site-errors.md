@@ -3,7 +3,7 @@ id: 450
 title: Cex.co.uk site errors
 date: 2009-08-14T08:29:24+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=450
 permalink: /cex-co-uk-site-errors/
 aktt_notify_twitter:

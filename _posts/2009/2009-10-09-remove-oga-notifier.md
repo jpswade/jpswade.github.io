@@ -3,7 +3,7 @@ id: 158
 title: Remove OGA Notifier
 date: 2009-10-09T13:03:20+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=158
 permalink: /2009/10/09/remove-oga-notifier/
 aktt_notify_twitter:

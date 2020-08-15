@@ -3,7 +3,7 @@ id: 40
 title: No More Adobe Acrobat Reader
 date: 2009-05-11T12:42:50+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=40
 permalink: /2009/05/11/no-more-adobe-acrobat-reader/
 aktt_notify_twitter:

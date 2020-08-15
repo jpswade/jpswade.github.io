@@ -3,7 +3,7 @@ id: 394
 title: (Not so) Sharp printer stuck offline
 date: 2011-08-30T15:10:06+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=394
 permalink: /2011/08/30/not-so-sharp-printer-stuck-offline/
 aktt_notify_twitter:

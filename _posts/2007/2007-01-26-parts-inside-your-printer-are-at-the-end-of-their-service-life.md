@@ -3,7 +3,7 @@ id: 66
 title: Parts inside your printer are at the end of their service life
 date: 2007-01-26T00:25:07+00:00
 author: admin
-layout: post
+
 guid: /parts-inside-your-printer-are-at-the-end-of-their-service-life
 permalink: /parts-inside-your-printer-are-at-the-end-of-their-service-life/
 categories:

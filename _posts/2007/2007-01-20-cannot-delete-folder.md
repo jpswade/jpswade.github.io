@@ -3,7 +3,7 @@ id: 36
 title: Cannot delete Folder
 date: 2007-01-20T11:38:22+00:00
 author: admin
-layout: post
+
 guid: /cannot-delete-folder
 permalink: /cannot-delete-folder/
 categories:

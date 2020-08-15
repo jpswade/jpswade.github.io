@@ -3,7 +3,7 @@ id: 94
 title: Compression Utilities
 date: 2007-03-13T02:21:19+00:00
 author: admin
-layout: post
+
 guid: /compression-utilities
 permalink: /compression-utilities/
 aktt_notify_twitter:

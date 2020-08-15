@@ -3,7 +3,7 @@ id: 3679
 title: An introduction to Fuel CMS
 date: 2015-04-20T10:00:47+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3679
 permalink: /an-introduction-to-fuel-cms/
 categories:

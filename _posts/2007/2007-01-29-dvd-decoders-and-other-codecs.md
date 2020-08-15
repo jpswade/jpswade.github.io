@@ -3,7 +3,7 @@ id: 63
 title: DVD decoders and other codecs
 date: 2007-01-29T10:39:07+00:00
 author: admin
-layout: post
+
 guid: /dvd-decoders-and-other-codecs
 permalink: /dvd-decoders-and-other-codecs/
 categories:

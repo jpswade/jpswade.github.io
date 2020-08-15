@@ -3,7 +3,7 @@ id: 220
 title: Setting up a FreeBSD socks proxy server for use with mIRC
 date: 2008-09-18T03:51:48+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=220
 permalink: /freebsd-socks-proxy-for-mirc/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 199
 title: Geek in the Park 2008
 date: 2008-05-19T12:34:45+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=199
 permalink: /geek-in-the-park-2008/
 tags:

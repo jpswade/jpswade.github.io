@@ -3,7 +3,7 @@ id: 567
 title: PlusFM Track Feed
 date: 2009-11-12T15:18:53+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=567
 permalink: /plusfm-track-feed/
 aktt_notify_twitter:

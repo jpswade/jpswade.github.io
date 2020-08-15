@@ -3,7 +3,7 @@ id: 171
 title: Word separators in URLs
 date: 2008-02-06T01:00:26+00:00
 author: admin
-layout: post
+
 guid: /word-separators-in-urls
 permalink: /word-separators-in-urls/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 100
 title: Start your own free email service
 date: 2007-03-06T18:26:05+00:00
 author: admin
-layout: post
+
 guid: /start-your-own-free-email-service
 permalink: /start-your-own-free-email-service/
 openid_comments:

@@ -3,7 +3,7 @@ id: 600
 title: Remote Desktop Connection Logon to Black Screen
 date: 2014-07-23T16:55:19+00:00
 author: wade
-layout: post
+
 guid: http://www.devotedit.com/?p=600
 permalink: /2014/07/23/remote-desktop-connection-logon-to-black-screen/
 image: /wp-content/uploads/2014/07/2014-07-22-10.02.32-Large-940x198.jpg

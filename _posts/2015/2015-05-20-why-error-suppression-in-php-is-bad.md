@@ -3,7 +3,7 @@ id: 3702
 title: Why error suppression in PHP is bad
 date: 2015-05-20T03:41:42+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/blog/?p=3702
 permalink: /why-error-suppression-in-php-is-bad/
 categories:

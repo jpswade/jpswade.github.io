@@ -3,7 +3,7 @@ id: 2014040301
 title: Are electric cars the future?
 date: 2014-04-03T09:09:22+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=2014040301
 categories:
   - Future

@@ -3,7 +3,7 @@ id: 441
 title: How to check if that website is dodgy before you buy
 date: 2011-11-17T09:30:19+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=441
 permalink: /2011/11/17/how-to-check-if-that-website-is-dodgy-before-you-buy/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 3611
 title: 'Process: Creating a business logo'
 date: 2011-06-06T15:31:02+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/process-creating-a-business-logo/
 permalink: /process-creating-a-business-logo/
 tumblr_jpswade_permalink:

@@ -3,7 +3,7 @@ id: 488
 title: Extend Blackberry ring time
 date: 2009-09-02T17:06:09+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=488
 permalink: /extend-blackberry-ring-time/
 aktt_notify_twitter:
@@ -11,7 +11,7 @@ aktt_notify_twitter:
 aktt_tweeted:
   - 1
 tags:
-  - 8900
+  - "8900"
   - blackberry
   - Mobile Phone
   - o2

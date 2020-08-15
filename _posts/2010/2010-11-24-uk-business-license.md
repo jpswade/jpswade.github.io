@@ -3,7 +3,7 @@ id: 655
 title: UK Business License
 date: 2010-11-24T13:48:07+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=655
 permalink: /uk-business-license/
 aktt_notify_twitter:

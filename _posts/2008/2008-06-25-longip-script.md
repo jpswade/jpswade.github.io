@@ -3,7 +3,7 @@ id: 210
 title: longip perl script
 date: 2008-06-25T23:52:29+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=210
 permalink: /longip-script/
 aktt_notify_twitter:

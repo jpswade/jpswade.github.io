@@ -3,7 +3,7 @@ id: 3594
 title: 'New for 2014: The DeadUseful Project'
 date: 2013-12-31T10:00:54+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/new-for-2014-the-deaduseful-project/
 permalink: /new-for-2014-the-deaduseful-project/
 tumblr_jpswade_permalink:
@@ -14,7 +14,6 @@ categories:
   - Development
   - Internet
 tags:
-  - 2014
   - business
   - code
 ---

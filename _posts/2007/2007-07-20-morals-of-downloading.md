@@ -3,7 +3,7 @@ id: 131
 title: Morals of Downloading
 date: 2007-07-20T15:41:09+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/morals-of-downloading/
 ---
 <p class="lead">

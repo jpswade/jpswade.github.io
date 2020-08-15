@@ -3,7 +3,7 @@ id: 98
 title: How to add/remove words in the firefox custom spell check dictionary
 date: 2007-03-01T18:27:56+00:00
 author: admin
-layout: post
+
 guid: /how-to-addremove-words-in-the-firefox-custom-spell-check-dictionary
 permalink: /how-to-addremove-words-in-the-firefox-custom-spell-check-dictionary/
 ---

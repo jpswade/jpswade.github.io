@@ -3,7 +3,7 @@ id: 173
 title: Storing mySQL database settings for php and perl in one file
 date: 2008-02-29T11:36:10+00:00
 author: admin
-layout: post
+
 guid: /storing-mysql-database-settings-for-php-and-perl-in-one-file
 permalink: /storing-mysql-database-settings-for-php-and-perl-in-one-file/
 categories:

@@ -3,7 +3,7 @@ id: 188
 title: Don`t forward virus warnings, delete them
 date: 2010-03-12T11:09:30+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=188
 permalink: /2010/03/12/dont-forward-virus-warnings-delete-them/
 aktt_notify_twitter:

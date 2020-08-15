@@ -3,7 +3,7 @@ id: 164
 title: ERROR 5 (0x00000005) Copying NTFS Security to Destination Directory
 date: 2009-10-14T13:22:25+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=164
 permalink: /2009/10/14/error-5-0x00000005-copying-ntfs-security-to-destination-directory/
 aktt_notify_twitter:

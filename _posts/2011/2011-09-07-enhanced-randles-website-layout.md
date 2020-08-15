@@ -3,7 +3,7 @@ id: 3608
 title: 'Enhanced: Randles Website Layout'
 date: 2011-09-07T12:30:33+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/enhanced-randles-website-layout/
 permalink: /enhanced-randles-website-layout/
 tumblr_jpswade_permalink:

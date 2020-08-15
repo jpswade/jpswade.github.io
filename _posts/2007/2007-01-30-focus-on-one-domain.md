@@ -3,7 +3,7 @@ id: 54
 title: Focus on one domain
 date: 2007-01-30T01:02:13+00:00
 author: admin
-layout: post
+
 guid: /focus-on-one-domain
 permalink: /focus-on-one-domain/
 tags:

@@ -3,7 +3,7 @@ id: 3385
 title: Welcome to the DeadUseful Project
 date: 2014-01-08T10:00:16+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3385
 permalink: /welcome-to-the-deaduseful-project/
 categories:

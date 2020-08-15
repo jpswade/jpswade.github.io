@@ -3,7 +3,7 @@ id: 3404
 title: Introducing the Dead Useful Domain Search
 date: 2014-01-27T10:00:14+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3404
 permalink: /introducing-domain-search/
 categories:

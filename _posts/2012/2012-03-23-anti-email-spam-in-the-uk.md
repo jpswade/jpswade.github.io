@@ -3,7 +3,7 @@ id: 51
 title: Anti Email Spam in the UK
 date: 2012-03-23T15:23:22+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=51
 permalink: /anti-email-spam-in-the-uk/
 aktt_notify_twitter:

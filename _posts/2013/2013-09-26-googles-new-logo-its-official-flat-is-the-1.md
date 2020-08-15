@@ -3,7 +3,7 @@ id: 3595
 title: Google’s new logo
 date: 2013-09-26T16:11:49+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/googles-new-logo-its-official-flat-is-the-1/
 permalink: /googles-new-logo-its-official-flat-is-the-1/
 tumblr_jpswade_permalink:

@@ -3,7 +3,7 @@ id: 28
 title: Tracking eBay auctions
 date: 2007-01-04T01:02:03+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/archives/28
 permalink: /tracking-ebay-auctions/
 categories:

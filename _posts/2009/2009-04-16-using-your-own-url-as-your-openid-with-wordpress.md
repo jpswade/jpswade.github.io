@@ -3,7 +3,7 @@ id: 408
 title: Using Your Own URL as Your OpenID with WordPress
 date: 2009-04-16T22:09:33+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=408
 permalink: /using-your-own-url-as-your-openid-with-wordpress/
 categories:

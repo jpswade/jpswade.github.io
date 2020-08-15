@@ -3,7 +3,7 @@ id: 3322
 title: Migrating IMAP mailboxes to a cPanel server
 date: 2011-11-07T23:02:22+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3322
 permalink: /migrating-imap-mailboxes-to-a-cpanel-server/
 aktt_notify_twitter:

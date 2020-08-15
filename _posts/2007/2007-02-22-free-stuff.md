@@ -3,7 +3,7 @@ id: 95
 title: Free Stuff
 date: 2007-02-22T13:38:46+00:00
 author: admin
-layout: post
+
 guid: /free-stuff
 permalink: /free-stuff/
 categories:

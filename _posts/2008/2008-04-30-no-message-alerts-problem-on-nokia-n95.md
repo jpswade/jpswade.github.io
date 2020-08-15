@@ -3,7 +3,7 @@ id: 191
 title: No Message Alerts Problem on Nokia N95
 date: 2008-04-30T02:04:46+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=191
 permalink: /no-message-alerts-problem-on-nokia-n95/
 tags:

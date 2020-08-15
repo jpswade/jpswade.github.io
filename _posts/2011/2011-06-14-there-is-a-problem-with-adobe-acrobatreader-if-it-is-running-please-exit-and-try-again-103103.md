@@ -3,7 +3,7 @@ id: 310
 title: There is a problem with Adobe Acrobat/Reader. If it is running, please exit and try again. (103:103)
 date: 2011-06-14T17:23:19+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=310
 permalink: /2011/06/14/there-is-a-problem-with-adobe-acrobatreader-if-it-is-running-please-exit-and-try-again-103103/
 aktt_notify_twitter:

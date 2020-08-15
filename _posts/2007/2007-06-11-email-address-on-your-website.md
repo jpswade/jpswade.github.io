@@ -3,7 +3,7 @@ id: 121
 title: email address on your website
 date: 2007-06-11T13:23:16+00:00
 author: admin
-layout: post
+
 guid: /email-address-on-your-website
 permalink: /email-address-on-your-website/
 redirect_from: /posts/email-address-on-your-website/

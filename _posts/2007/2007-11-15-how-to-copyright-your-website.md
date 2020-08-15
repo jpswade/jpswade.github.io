@@ -3,7 +3,7 @@ id: 145
 title: How to Copyright your website
 date: 2007-11-15T00:05:15+00:00
 author: admin
-layout: post
+
 guid: /how-to-copyright-your-website
 permalink: /how-to-copyright-your-website/
 aktt_notify_twitter:

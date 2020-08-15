@@ -3,7 +3,7 @@ id: 421
 title: Change or remove programs is blank
 date: 2011-11-03T18:20:49+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=421
 permalink: /2011/11/03/change-or-remove-programs-is-blank/
 aktt_notify_twitter:

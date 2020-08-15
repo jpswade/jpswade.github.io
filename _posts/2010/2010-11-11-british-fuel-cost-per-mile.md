@@ -3,7 +3,7 @@ id: 651
 title: British fuel cost per mile
 date: 2010-11-11T19:18:41+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=651
 permalink: /british-fuel-cost-per-mile/
 aktt_notify_twitter:

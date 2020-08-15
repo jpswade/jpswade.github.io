@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: We act as though comfort and luxury were the chief requirements of life, when
   all that we need to make us happy is something to be enthusiastic about.
 date: '2015-01-01T08:56:54+00:00'

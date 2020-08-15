@@ -3,7 +3,7 @@ id: 99
 title: How to ask a question
 date: 2007-03-03T15:13:47+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/how-to-ask-a-question/
 aktt_notify_twitter:
   - yes

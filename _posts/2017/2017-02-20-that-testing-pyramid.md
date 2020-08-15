@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "That Testing Pyramid"
 date:   2017-02-20 09:00:00 +0000
 author: James Wade

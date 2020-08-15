@@ -3,7 +3,7 @@ id: 3618
 title: 'How We Built: Loggerheads Community Information Shop'
 date: 2012-09-03T22:12:00+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3618
 permalink: /how-we-built-loggerheads-community-information/
 tumblr_jpswade_permalink:

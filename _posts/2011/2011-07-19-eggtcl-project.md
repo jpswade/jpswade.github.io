@@ -3,7 +3,7 @@ id: 3009
 title: The eggtcl project
 date: 2011-07-19T23:12:38+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=3009
 permalink: /eggtcl-project/
 aktt_notify_twitter:

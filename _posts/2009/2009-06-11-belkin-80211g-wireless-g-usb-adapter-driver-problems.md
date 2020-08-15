@@ -3,7 +3,7 @@ id: 102
 title: Belkin 802.11g Wireless G+ USB Adapter Driver Problems
 date: 2009-06-11T21:28:16+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/2009/06/11/belkin-80211g-wireless-g-usb-adapter-driver-problems/
 permalink: /2009/06/11/belkin-80211g-wireless-g-usb-adapter-driver-problems/
 aktt_notify_twitter:

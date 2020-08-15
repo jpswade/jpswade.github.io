@@ -3,7 +3,7 @@ id: 241
 title: What's wrong with low version numbers?
 date: 2008-09-25T10:27:35+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=241
 permalink: /whats-wrong-with-low-version-numbers/
 categories:

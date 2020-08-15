@@ -3,7 +3,7 @@ id: 79
 title: C:\Windows\Installer overload!
 date: 2009-05-12T13:20:00+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=79
 permalink: /2009/05/12/cwindowsinstaller-overload/
 aktt_notify_twitter:

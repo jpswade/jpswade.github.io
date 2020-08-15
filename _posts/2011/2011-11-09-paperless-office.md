@@ -3,7 +3,7 @@ id: 392
 title: Paperless office
 date: 2011-11-09T09:30:14+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=392
 permalink: /2011/11/09/paperless-office/
 aktt_notify_twitter:

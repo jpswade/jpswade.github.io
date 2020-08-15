@@ -2,7 +2,7 @@
 title: Exceptions are meant to be exceptional
 published: true
 description: Exceptions come at a cost, and they are expensive. They have a performance impact on the software and a maintenance overhead.
-tags: software, webdev, programming, development
+tags: software webdev programming development
 cover_image: https://images.unsplash.com/photo-1551621490-5cb8cbc4437b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80
 ---
 

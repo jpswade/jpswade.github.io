@@ -3,7 +3,7 @@ id: 214
 title: How to send emails to multiple addresses
 date: 2010-10-12T23:05:12+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=214
 permalink: /2010/10/12/how-to-send-emails-to-multiple-addresses/
 aktt_notify_twitter:

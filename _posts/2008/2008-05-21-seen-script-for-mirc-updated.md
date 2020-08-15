@@ -3,7 +3,7 @@ id: 201
 title: Seen script for mIRC updated
 date: 2008-05-21T10:33:18+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=201
 permalink: /seen-script-for-mirc-updated/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 137
 title: Transfering domains from Godaddy.com to TuCows OpenSRS
 date: 2008-01-30T16:49:58+00:00
 author: admin
-layout: post
+
 guid: /transfering-domains-from-godaddycom-to-tucows-opensrs
 permalink: /transfering-domains-from-godaddycom-to-tucows-opensrs/
 dsq_thread_id:

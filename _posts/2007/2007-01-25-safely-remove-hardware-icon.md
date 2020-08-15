@@ -3,7 +3,7 @@ id: 42
 title: Safely Remove Hardware Icon
 date: 2007-01-25T00:17:03+00:00
 author: admin
-layout: post
+
 guid: /safely-remove-hardware-icon
 permalink: /safely-remove-hardware-icon/
 ---

@@ -3,7 +3,7 @@ id: 3601
 title: Calling all hackers
 date: 2013-01-22T12:36:06+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/calling-all-hackers/
 permalink: /calling-all-hackers/
 tumblr_jpswade_permalink:

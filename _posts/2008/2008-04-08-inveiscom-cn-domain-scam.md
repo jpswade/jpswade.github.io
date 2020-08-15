@@ -3,7 +3,7 @@ id: 183
 title: Inveis.com .cn domain scam
 date: 2008-04-08T19:51:57+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=183
 permalink: /inveiscom-cn-domain-scam/
 categories:

@@ -3,7 +3,7 @@ id: 3434
 title: How To Install MongoDB on CentOS 6 with cPanel
 date: 2015-05-15T10:00:40+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3434
 permalink: /how-to-install-mongodb-on-centos-6-with-cpanel/
 categories:

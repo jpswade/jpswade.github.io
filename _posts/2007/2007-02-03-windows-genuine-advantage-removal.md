@@ -3,7 +3,7 @@ id: 62
 title: Windows Genuine Advantage Removal
 date: 2007-02-03T14:46:06+00:00
 author: admin
-layout: post
+
 guid: /windows-genuine-advantage-removal
 permalink: /windows-genuine-advantage-removal/
 redirect_from: /posts/windows-genuine-advantage-removal

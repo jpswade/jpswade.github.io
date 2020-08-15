@@ -3,7 +3,7 @@ id: 3604
 title: 'Concept: Randles Website 2012'
 date: 2012-04-18T11:13:00+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/concept-randles-website-2012/
 permalink: /concept-randles-website-2012/
 tumblr_jpswade_permalink:

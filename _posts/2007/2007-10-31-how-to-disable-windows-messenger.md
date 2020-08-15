@@ -3,7 +3,7 @@ id: 141
 title: How to Disable Windows Messenger
 date: 2007-10-31T16:12:40+00:00
 author: admin
-layout: post
+
 guid: /how-to-disable-windows-messenger
 permalink: /how-to-disable-windows-messenger/
 tags:

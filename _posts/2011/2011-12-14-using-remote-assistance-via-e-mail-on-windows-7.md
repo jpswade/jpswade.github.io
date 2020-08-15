@@ -3,7 +3,7 @@ id: 448
 title: Using Remote Assistance via e-mail on Windows 7
 date: 2011-12-14T13:11:25+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=448
 permalink: /2011/12/14/using-remote-assistance-via-e-mail-on-windows-7/
 aktt_notify_twitter:

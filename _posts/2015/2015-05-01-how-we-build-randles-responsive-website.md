@@ -3,13 +3,12 @@ id: 3688
 title: 'How We Build: Randles Responsive Website'
 date: 2015-05-01T10:00:34+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/?p=3688
 permalink: /how-we-build-randles-responsive-website/
 categories:
   - Development
 tags:
-  - 2014
   - Design
   - development
   - Wordpress

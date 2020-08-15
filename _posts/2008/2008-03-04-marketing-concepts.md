@@ -3,7 +3,7 @@ id: 174
 title: Marketing Concepts
 date: 2008-03-04T13:49:11+00:00
 author: admin
-layout: post
+
 guid: /marketing-concepts
 permalink: /marketing-concepts/
 tags:

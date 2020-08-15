@@ -3,7 +3,7 @@ id: 676
 title: 'error: no dbpath has been set'
 date: 2010-12-11T20:39:19+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=676
 permalink: /error-no-dbpath-has-been-set/
 aktt_notify_twitter:

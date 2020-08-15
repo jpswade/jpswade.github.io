@@ -3,7 +3,7 @@ id: 127
 title: Configuring a FreeBSD IRC Shell Server
 date: 2007-08-22T21:46:59+00:00
 author: admin
-layout: post
+
 guid: /configuring-a-freebsd-irc-shell-server
 permalink: /configuring-a-freebsd-irc-shell-server/
 categories:

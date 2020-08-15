@@ -3,7 +3,7 @@ id: 72
 title: A new month
 date: 2007-02-01T01:41:27+00:00
 author: admin
-layout: post
+
 guid: /a-new-month
 permalink: /a-new-month/
 tags:

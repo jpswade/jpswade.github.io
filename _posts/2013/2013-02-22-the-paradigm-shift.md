@@ -3,7 +3,7 @@ id: 541
 title: The paradigm shift
 date: 2013-02-22T10:00:18+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=541
 permalink: /2013/02/22/the-paradigm-shift/
 image: /wp-content/uploads/2013/02/IMG00856-20100804-2152-940x198.jpg

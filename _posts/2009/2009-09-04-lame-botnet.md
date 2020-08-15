@@ -3,7 +3,7 @@ id: 491
 title: Lame Botnet
 date: 2009-09-04T11:23:25+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=491
 permalink: /lame-botnet/
 aktt_notify_twitter:

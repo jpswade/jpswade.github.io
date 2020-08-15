@@ -3,7 +3,7 @@ id: 494
 title: Choosing a broadband provider
 date: 2012-08-21T13:17:25+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=494
 permalink: /2012/08/21/choosing-a-broadband-provider/
 aktt_notify_twitter:

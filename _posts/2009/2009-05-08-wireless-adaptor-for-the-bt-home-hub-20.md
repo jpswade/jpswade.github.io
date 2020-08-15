@@ -3,7 +3,7 @@ id: 26
 title: Wireless adaptor for the BT Home Hub 2.0
 date: 2009-05-08T14:14:28+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=26
 permalink: /2009/05/08/wireless-adaptor-for-the-bt-home-hub-20/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 3610
 title: 'Launch: New DevotedIT website'
 date: 2011-06-09T09:24:18+00:00
 author: James Wade
-layout: post
+
 guid: http://wade.be/launch-new-devotedit-website/
 permalink: /launch-new-devotedit-website/
 tumblr_jpswade_permalink:

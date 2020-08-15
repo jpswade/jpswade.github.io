@@ -3,7 +3,7 @@ id: 18
 title: Migrating from Windows to Linux
 date: 2007-01-17T01:35:32+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/archives/18
 permalink: /migrating-from-windows-to-linux/
 tags:

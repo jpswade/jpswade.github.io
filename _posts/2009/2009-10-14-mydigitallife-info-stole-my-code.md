@@ -3,7 +3,7 @@ id: 541
 title: mydigitallife.info stole my code
 date: 2009-10-14T14:02:06+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=541
 permalink: /mydigitallife-info-stole-my-code/
 aktt_notify_twitter:

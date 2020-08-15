@@ -3,7 +3,7 @@ id: 1
 title: Hello world!
 date: 2007-01-01T12:12:49+00:00
 author: admin
-layout: post
+
 permalink: /hello-world/
 categories:
   - General

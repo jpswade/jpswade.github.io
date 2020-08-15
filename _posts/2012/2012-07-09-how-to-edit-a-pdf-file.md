@@ -3,7 +3,7 @@ id: 477
 title: How to edit a PDF file
 date: 2012-07-09T15:30:26+00:00
 author: admin
-layout: post
+
 guid: http://www.devotedit.com/?p=477
 permalink: /2012/07/09/how-to-edit-a-pdf-file/
 aktt_notify_twitter:

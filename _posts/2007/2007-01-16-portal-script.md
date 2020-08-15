@@ -3,7 +3,7 @@ id: 21
 title: Finding a Portal Script
 date: 2007-01-16T01:15:31+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/archives/21
 permalink: /portal-script/
 categories:

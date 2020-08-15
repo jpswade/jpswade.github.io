@@ -3,7 +3,7 @@ id: 229
 title: How to extract photos from an exe
 date: 2008-09-15T15:53:25+00:00
 author: admin
-layout: post
+
 guid: http://wade.be/?p=229
 permalink: /how-to-extract-photos-from-an-exe/
 categories:
