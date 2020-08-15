@@ -4,29 +4,32 @@ title: "About"
 ---
 My name is James Wade, this website is where I blog about business, engineering and software development.
 
-### You might know me for
+### Positions Held
+- Head of Engineering @ [Spectre](https://spectre.uk.com/)
+- Web Development Manager @ [easyfundraising](https://www.easyfundraising.org.uk/)
+- Group IT Manager / Web Developer @ [Randles/Stoneacre Motor Group](https://en.wikipedia.org/wiki/Stoneacre_Motor_Group)
+- Chairman @ [Potteries Hackspace](http://potterieshackspace.org/)
+- Director @ [Wavemaker](https://www.wavemaker.org.uk/)
+- Founder @ [Phurix Web Hosting](https://phurix.co.uk/) 
 
-- [DeadUseful](https://deaduseful.com/)
+### Articles else where
 - [DevOps](https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91)
-- [easyfundraising](https://www.easyfundraising.org.uk/)
-- [eggtcl](https://github.com/eggtcl)
-- [eTicket](https://sourceforge.net/p/eticket/wiki/Home/)
-- [Google PageRank Lookup Scripts](https://twitter.com/openalgorithms/status/158699867420635136)
-- [Google Profanity API](https://thenextweb.com/google/2011/08/17/google-inadvertently-creates-a-profanity-api/)
-- [OpenCart](https://sourceforge.net/projects/php-opencart/)
-- [PHP Pear](https://pear.php.net/user/jpswade)
-- [PHP](https://people.php.net/hm2k)
-- [Phurix](https://phurix.co.uk/)
-- [pisg](https://en.wikipedia.org/wiki/Pisg_(software))
-- [Potteries Hackspace](http://potterieshackspace.org/)
-- [Randles/Stoneacre Motor Group](https://en.wikipedia.org/wiki/Stoneacre_Motor_Group)
-- [Simple SOCKS5 Server for Perl](http://ssspl.sourceforge.net/)
-- [startkeylogger](https://www.theregister.co.uk/2006/03/03/symantec_security_glitch/)
-- [Suzuki4u](https://suzuki4u.co.uk/)
-- [Spectre](https://spectre.uk.com/)
-- [Wavemaker](https://staffslive.co.uk/2015/02/wavemaker-project-boost-stoke-trent-digital-skills/)
-- [Wikipedia](https://en.wikipedia.org/wiki/User:Jpswade)
+
+### Projects
+
+- [DeadUseful](https://deaduseful.com/) - A domain lookup service
+- [HM2K](https://hm2k.org/) - Projects included [eTicket](https://sourceforge.net/p/eticket/wiki/Home/), [Simple SOCKS5 Server for Perl](http://ssspl.sourceforge.net/), [OpenCart](https://sourceforge.net/projects/php-opencart/), [PHP](https://people.php.net/hm2k), [pisg](https://en.wikipedia.org/wiki/Pisg_(software))
+- [Suzuki4u](https://suzuki4u.co.uk/) - An online forum for UK Suzuki owners
+
+### Around the web
 - [Wordpress](https://wordpress.org/support/profile/hm2k)
+- [Wikipedia](https://en.wikipedia.org/wiki/User:Jpswade)
+- [PHP Pear](https://pear.php.net/user/jpswade)
+
+### In the press
+- [Google Profanity API](https://thenextweb.com/google/2011/08/17/google-inadvertently-creates-a-profanity-api/)
+- [startkeylogger](https://www.theregister.co.uk/2006/03/03/symantec_security_glitch/)
+- [Wavemaker](https://staffslive.co.uk/2015/02/wavemaker-project-boost-stoke-trent-digital-skills/)
 
 ### Have you found this useful?
 
