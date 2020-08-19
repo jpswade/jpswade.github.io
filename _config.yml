@@ -126,3 +126,6 @@ analytics:
   google:
     tracking_id: "UA-23826276-1"
     anonymize_ip: false # default
+
+google:
+  search_engine_id: 36e22ecd5ae26e273
