@@ -10,6 +10,7 @@ tags:
     - bdd
     - gherkin
 image: https://i.imgur.com/TQ1dGd8.png
+redirect_from: /development/testing-as-code/
 ---
 
 In a time where DevOps culture demands "everything as code", from infrastructure to monitoring, its about time we took "testing as code" seriously.
