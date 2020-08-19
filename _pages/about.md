@@ -5,10 +5,10 @@ title: "About"
 My name is James Wade, this website is where I blog about business, engineering and software development.
 
 ### Positions Held
-- Head of Engineering @ [Spectre](https://spectre.uk.com/)
+- Head of Engineering @ [Spectre](https://spectre.uk.com/)/[Street Group](https://streetgroup.co.uk/)
 - Web Development Manager @ [easyfundraising](https://www.easyfundraising.org.uk/)
 - Group IT Manager / Web Developer @ [Randles/Stoneacre Motor Group](https://en.wikipedia.org/wiki/Stoneacre_Motor_Group)
-- Chairman @ [Potteries Hackspace](http://potterieshackspace.org/)
+- Chairman @ [Potteries Hackspace](http://potterieshackspace.org.uk/)
 - Director @ [Wavemaker](https://www.wavemaker.org.uk/)
 - Founder @ [Phurix Web Hosting](https://phurix.co.uk/) 
 

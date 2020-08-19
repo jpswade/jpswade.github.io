@@ -32,7 +32,7 @@ A [hackspace](http://en.wikipedia.org/wiki/Hackerspace) is a place for people wi
 
 We’re a group of technology enthusiasts, engineers and creative minds that have started meeting on a regular basis in an effort to collaborate on various projects.
 
-As a group, [Potteries Hackspace](http://www.potterieshackspace.org/) has been seeking a place to meet since it formed in 2010.
+As a group, [Potteries Hackspace](http://www.potterieshackspace.org.uk/) has been seeking a place to meet since it formed in 2010.
 
 Now, thanks to [Randles (Garages) Ltd](http://www.randles.co.uk/), the group are holding open meetings every Tuesday at 7PM at the disused site in Newcastle-under-Lyme, Staffordshire. You’ll find us in the old valeting bay of the former car dealership.
 
@@ -42,4 +42,4 @@ It’s free to come along, there’s no obligation to donate but it is encourage
 
 **What are you going to make?**
 
-Find out more, visit: [potterieshackspace.org](http://www.potterieshackspace.org/)
+Find out more, visit: [potterieshackspace.org.uk](http://www.potterieshackspace.org.uk/)
