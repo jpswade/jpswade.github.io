@@ -11,7 +11,7 @@ tags:
     - engineering
 ---
 
-DevOps started out as "[Agile Systems Administration](https://blog.newrelic.com/2014/05/16/devops-name/)". In 2008, [Andrew Shafer](https://twitter.com/littleidea) did a talk called ["Agile Infrastucture"](http://www.jedi.be/blog/2008/10/09/agile-2008-toronto-agile-infrastructure-and-operations-presentation/) addressing issues around involving more of the company in the same disciplines as programmers.
+DevOps started out as "[Agile Systems Administration](https://newrelic.com/blog/nerd-life/devops-name)". In 2008, at the Agile Conference in Toronto, [Andrew Shafer](https://twitter.com/littleidea) posted an offer to moderate an ad hoc "Birds of a Feather" meeting to discuss the topic of ["Agile Infrastructure"](https://naradacode.com/2020/02/01/devops-history/). Only one person showed up to discuss the topic: Patrick Debois. Their discussions and sharing of ideas with others advanced the concept of "agile systems administration". In that same year, Debois and Shafer formed an Agile Systems Administrator group on Google, with limited success. Patrick Debois did a presentation called ["Infrastructure and Operations"](https://web.archive.org/web/20210205152003/http://www.jedi.be/presentations/agile-infrastructure-agile-2008.pdf) addressing issues around involving more of the company in the same disciplines as programmers.
 
 In 2009, [Patrick Debois](https://twitter.com/patrickdebois) created "DevOpsDays" conference to help to bring it to light. However, it wouldn't begin to [trend until about 2010](https://trends.google.co.uk/trends/explore?date=all&q=devops), when people would begin to describe it as a [standalone discipline](http://www.somic.org/2010/03/02/the-rise-of-devops/).
 
