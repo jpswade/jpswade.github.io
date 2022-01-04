@@ -38,31 +38,21 @@ Apache's [mod_rewrite](http://httpd.apache.org/docs/1.3/mod/mod_rewrite.html) ca
 
 Here is an example of how it's done:
 
-> #Turn on the Rewrite Engine
-  
-> RewriteEngine on
-  
-> #Set the base path
-  
-> RewriteBase /
-  
-> #Check that the lookup isn't an existing file
-  
-> RewriteCond %{REQUEST_FILENAME} !-f
-  
-> #Check that the lookup isn't an existing directory
-  
-> RewriteCond %{REQUEST_FILENAME} !-d
-  
-> #Check that the file isn't index.php (avoid looping)
-  
-> RewriteCond %{REQUEST_URI} !^index\.php$
-  
-> #Force all .html lookups to the index file
-  
-> RewriteRule (.+)*\.html index.php?nav=$1 [QSA,L]
-  
-> #Note: QSA=query string append;L=Last, no more rules
+```
+#Turn on the Rewrite Engine
+RewriteEngine on
+#Set the base path
+RewriteBase /
+#Check that the lookup isn't an existing file
+RewriteCond %{REQUEST_FILENAME} !-f
+#Check that the lookup isn't an existing directory
+RewriteCond %{REQUEST_FILENAME} !-d
+#Check that the file isn't index.php (avoid looping)
+RewriteCond %{REQUEST_URI} !^index\.php$
+#Force all .html lookups to the index file
+RewriteRule (.+)*\.html index.php?nav=$1 [QSA,L]
+#Note: QSA=query string append;L=Last, no more rules
+```
 
 This will rewrite all paths ending in &#8220;.html&#8221; to your index file.
 
@@ -76,17 +66,14 @@ If you ARE using PHP, a better way might be to just hand over ALL the path infor
 
 The rewrite to do that looks something like this:
 
-> RewriteEngine on
-  
-> RewriteBase /
-  
-> RewriteCond %{REQUEST_FILENAME} !-f
-  
-> RewriteCond %{REQUEST_FILENAME} !-d
-  
-> RewriteCond %{REQUEST_URI} !^index\.php$
-  
-> RewriteRule ^(.+)$ index.php/$1 [QSA,L]
+```
+RewriteEngine on
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^index\.php$
+RewriteRule ^(.+)$ index.php/$1 [QSA,L]
+```
 
 As per above this will only rewrite paths that don't exist.
 
