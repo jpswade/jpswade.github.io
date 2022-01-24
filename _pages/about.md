@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-My name is James Wade, this website is where I blog about business, engineering and software development.
+My name is James Wade, when I'm not building software, teams or products, I like to read and write about software engineering, personal development and business practices.
 
 ### Positions Held
 - Head of Engineering @ [Spectre](https://spectre.uk.com/)/[Street Group](https://streetgroup.co.uk/)
