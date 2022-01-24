@@ -132,3 +132,7 @@ google:
 
 site:
   locale: en-GB
+
+comments:
+  disqus:
+    shortname: "jpswade"
