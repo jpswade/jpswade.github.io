@@ -80,9 +80,9 @@ In this new post-pandemic world, we need to get used to the idea that even when 
 
 Embracing the mindset that we are a distributed team even if only one person is working in a separate location. Being able to hire workers from anywhere in the world is a potential game-changer for any business that should be explored.
 
-**Preparing for the future **
+**Preparing for the future**
 
-So, now we’re aware that we live in this ever changing future, what can we do to prepare for it?
+So, now we’re aware that we live in this ever-changing future, what can we do to prepare for it?
 
 To get the best out of our people, they need to be free from being given tasks to do and instead have the support and autonomy to solve problems. Give ourselves time and space for deep-thinking, to grow, learn and evolve. Being patient and investing in the team is going to go a long way.
 
