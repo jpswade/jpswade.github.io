@@ -1,25 +1,31 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /about/ title: "About"
 ---
-My name is James Wade, when I'm not building software, teams or products, I like to read and write about software engineering, personal development and business practices.
+Hi, I'm James Wade. When I'm not building software, teams or products, I like to read and write about software
+engineering, personal development and business practices.
 
 ### Positions Held
+
 - Head of Engineering @ [Spectre](https://spectre.uk.com/)/[Street Group](https://streetgroup.co.uk/)
 - Web Development Manager @ [easyfundraising](https://www.easyfundraising.org.uk/)
-- Group IT Manager / Web Developer @ [Randles/Stoneacre Motor Group](https://en.wikipedia.org/wiki/Stoneacre_Motor_Group)
+- Group IT Manager / Web Developer
+  @ [Randles/Stoneacre Motor Group](https://en.wikipedia.org/wiki/Stoneacre_Motor_Group)
 - Chairman @ [Potteries Hackspace](http://potterieshackspace.org.uk/)
 - Director @ [Wavemaker](https://www.wavemaker.org.uk/)
-- Founder @ [Phurix Web Hosting](https://phurix.co.uk/) 
+- Founder @ [Phurix Web Hosting](https://phurix.co.uk/)
 
 ### Articles else where
+
 - [DevOps Best Practices](https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91)
 - Articles on [Dev.to](https://dev.to/jpswade)
 
 ### Projects
 
 - [DeadUseful](https://deaduseful.com/) - A domain lookup service
-- [HM2K](https://hm2k.org/) - Projects included [eTicket](https://sourceforge.net/p/eticket/wiki/Home/), [Simple SOCKS5 Server for Perl](http://ssspl.sourceforge.net/), [OpenCart](https://sourceforge.net/projects/php-opencart/), [PHP](https://people.php.net/hm2k), [pisg](https://en.wikipedia.org/wiki/Pisg_(software)), [Wordpress](https://wordpress.org/support/profile/hm2k)
+- [HM2K](https://hm2k.org/) - Projects included [eTicket](https://sourceforge.net/p/eticket/wiki/Home/)
+  , [Simple SOCKS5 Server for Perl](http://ssspl.sourceforge.net/)
+  , [OpenCart](https://sourceforge.net/projects/php-opencart/), [PHP](https://people.php.net/hm2k)
+  , [pisg](https://en.wikipedia.org/wiki/Pisg_(software)), [Wordpress](https://wordpress.org/support/profile/hm2k)
 - [Suzuki4u](https://suzuki4u.co.uk/) - An online forum for UK Suzuki owners
 
 ### Contributions
@@ -37,5 +43,6 @@ My name is James Wade, when I'm not building software, teams or products, I like
 
 ### Have you found this useful?
 
-* <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=james@wade.be&item_name=Buy%20me%20a%20beer!&item_number=beer001&amount=5%2e00&currency_code=GBP">Buy me a coffee or beer!</a>
+* <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=james@wade.be&item_name=Buy%20me%20a%20beer!&item_number=beer001&amount=5%2e00&currency_code=GBP">
+  Buy me a coffee or beer!</a>
 * Follow on Twitter [@jpswade](http://twitter.com/jpswade)
