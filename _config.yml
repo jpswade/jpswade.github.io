@@ -129,3 +129,6 @@ analytics:
 
 google:
   search_engine_id: 36e22ecd5ae26e273
+
+site:
+  locale: en-GB
