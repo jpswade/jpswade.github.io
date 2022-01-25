@@ -134,5 +134,6 @@ site:
   locale: en-GB
 
 comments:
+  provider: "disqus"
   disqus:
     shortname: "jpswade"
