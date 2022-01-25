@@ -1,5 +1,6 @@
 ---
-permalink: /about/ title: "About"
+permalink: /about/
+title: "About"
 ---
 Hi, I'm James Wade. When I'm not building software, teams or products, I like to read and write about software
 engineering, personal development and business practices.
