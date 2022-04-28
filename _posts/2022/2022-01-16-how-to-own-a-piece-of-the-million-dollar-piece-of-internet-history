@@ -1,0 +1,41 @@
+---
+title: How To Own A Piece Of The Million Dollar Piece Of Internet History
+published: false
+description: 
+tags: domains
+cover_image: 
+---
+Peter Leigh, more commonly known by the alias Nostalgia Nerd, is a British YouTuber. Back in August 2021, he posted a video on YouTube entitled “[I Bought a Million Dollar Piece of Internet History](https://www.youtube.com/watch?v=VuJFvgfBV54)”.
+
+In a time of NFTs providing a way for people to buy a piece of Internet history, true to his name, the Nerd managed to get me all Nostalgic and I thought to myself, I wonder, even after this pretty high profile video (Over 80k views at time of writing), I wonder how many domains are still available to purchase. So I set to work.
+
+This isn’t the first time I’ve seen this, there’s a [number](https://gist.github.com/csinchok/a6c7f3faaa05e5c93e280732fa2a6c51) [of](https://www.geeklord.com/2011/10/20/expired-domain-names-still-listed-on-the-million-dollar-homepage/) [people](https://www.blackhatworld.com/seo/get-available-domains-linked-from-milliondollarhomepage-com.908955/page-2) who have thought of this over the years, so it’s not original by a long stretch. For example, in 2011, Shobhit Prabhakar aka Geek Lord wrote: “Hurry up, you can still own a place in the history of the Internet”.
+
+Inspired by those before me, I set out to compile a list of domains that were available, as fortunately I had already written a system that could detect available domains, it was pretty novel to get the website, parse the urls to get the hostnames, figure out which ones are genuinely registerable, then check if they are genuinely available.
+
+It took less than an hour to write and a few minutes to run (I was running locally so single threaded and single IP).
+
+From 2768 genuine unique domains, I found the following domains were available:
+
+* artofwriting.com.au
+* bowlingterror.com
+* colombian.tv
+* discount-insurance.com.au
+* epharma.md
+* fantasyfootballinfo.org
+* motopixelpage.com
+* namazun.jp
+
+A lot less than 2011, but still a couple of .com domain names attracted my attention, in particular “motopixelpage.com”. However, pleased with my accomplishments for that evening, I parked the project until the following day.
+
+When I came to purchase “motopixelpage.com”, I found it was already taken. Someone else clearly had the same idea.
+
+I did instead end up buying “bowlingterror.com”, so now I am the proud owner of a piece of Internet history.
+
+What I’ve decided to do is to make this information publicly available so that you too can own a piece of Internet history. Only, I’m going to change a few things, such as including a rank (by position on the page), sort by expiry date so you can see when something is going up, and retain metadata, including the coords, title tag and the full URL so you map it. Oh also, going to update it on a regular basis, so it’ll always be up to date.
+
+This also got me thinking about other domains, perhaps those that exist in Dmoz, which has since been mothballed but can be got as a static piece of history, or maybe Wikipedia as that can be downloaded as a static snapshot in time.
+
+For now, I’ve added the Million Dollar Home Page as a collection on the domain lookup tool website DeadUseful.com, where you’ll be able to look up if any domains are still available in near real time.
+
+* [Million Dollar domains](https://deaduseful.com/domains/milliondollar)
