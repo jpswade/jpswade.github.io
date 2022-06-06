@@ -2,7 +2,7 @@
 title: Revisiting Radical Candor
 published: true
 description: This is a revisit of the Radical Candor book written by Kim Scott, released in 2017.
-tags: leadership, management
+tags: leadership, management, books, work
 cover_image: https://images.unsplash.com/photo-1549580341-d294a02326a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 ---
 

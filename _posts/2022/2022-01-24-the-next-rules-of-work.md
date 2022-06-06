@@ -1,8 +1,8 @@
 ---
 title: The next rules of work
 published: true
-description: 
-tags: work
+description:
+tags: leadership, management, books, work
 cover_image: 
 ---
 
