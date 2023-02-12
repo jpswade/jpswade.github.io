@@ -1,7 +1,7 @@
 ---
 title: Am I an implementer?
 published: true
-description:
+description: A book review of Rocket Fuel
 tags: leadership, management, books, work
 cover_image:
 ---
