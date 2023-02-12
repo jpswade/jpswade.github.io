@@ -7,10 +7,11 @@ engineering, personal development and business practices.
 
 ### Positions Held
 
-- Head of Engineering @ [Spectre](https://spectre.uk.com/)/[Street Group](https://streetgroup.co.uk/)
-- Web Development Manager @ [easyfundraising](https://www.easyfundraising.org.uk/)
+- Systems Development Manager @ [Bet365](https://en.wikipedia.org/wiki/Bet365), Stoke/Manchester 
+- Head of Engineering @ [Spectre](https://spectre.uk.com/)/[Street Group](https://streetgroup.co.uk/), Manchester
+- Web Development Manager @ [easyfundraising](https://www.easyfundraising.org.uk/), Lichfield, Staffordshire
 - Group IT Manager / Web Developer
-  @ [Randles/Stoneacre Motor Group](https://en.wikipedia.org/wiki/Stoneacre_Motor_Group)
+  @ [Randles/Stoneacre Motor Group](https://en.wikipedia.org/wiki/Stoneacre_Motor_Group), Stoke/Doncaster
 - Chairman @ [Potteries Hackspace](http://potterieshackspace.org.uk/)
 - Director @ [Wavemaker](https://www.wavemaker.org.uk/)
 - Founder @ [Phurix Web Hosting](https://phurix.co.uk/)
@@ -41,6 +42,20 @@ engineering, personal development and business practices.
 - [Google Profanity API](https://thenextweb.com/google/2011/08/17/google-inadvertently-creates-a-profanity-api/)
 - [startkeylogger](https://www.theregister.co.uk/2006/03/03/symantec_security_glitch/)
 - [WaveMaker project to boost Stoke-on-Trent digital skills](https://staffslive.co.uk/2015/02/wavemaker-project-boost-stoke-trent-digital-skills/)
+
+### Talks (and Workshops)
+
+- A Brief Overview of DevOps
+- Introduction to Test Automation
+- Guidelines for Test Automation
+- [An introduction to Test Automation using Laravel](https://docs.google.com/presentation/d/e/2PACX-1vTWGVwdAgzoFfSfX6gTDy3iWi0gjrpc9FJ_6M-qEUDEvx_pvedWmQHM87i8KqIpTvSiucspZ46Sr9yO/pub?start=false&loop=false&delayms=3000)
+- [An introduction to Serverless](https://docs.google.com/presentation/d/e/2PACX-1vQUrB8rAfMtuDO_Dg18RRcIaOGmHODt-wyYwaQYxa7D4PSEWRq6agrLtHNGlGGoEaJMV6bnuXGqMsrW/pub?start=false&loop=false&delayms=3000&slide=id.g461a4a5a02_0_115)
+- Pragmatism Workshop
+- Guidelines for APIs
+- Improving Communication
+- Career Paths
+- Conway’s Law
+- Scrum, Agile and Lean
 
 ### Have you found this useful?
 
