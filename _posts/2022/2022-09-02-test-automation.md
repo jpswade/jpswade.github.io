@@ -6,8 +6,6 @@ tags: testing, automation, development, programming, code
 cover_image: 
 ---
 
-# Guidelines for Test Automation
-
 We can think of test automation as the process of tracking and managing the different tests.
 
 These are guidelines, they will make a good starting point for us to learn the basics of the different types of testing.
