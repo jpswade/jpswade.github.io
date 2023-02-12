@@ -1,7 +1,7 @@
 ---
-title: Guidelines for Test Automation
+title: Guidelines for Test Automation for Laravel
 published: true
-description: How I think of test automation in modern applications
+description: How I think of test automation when using Laravel
 tags: testing, automation, development, programming, code
 cover_image: 
 ---
