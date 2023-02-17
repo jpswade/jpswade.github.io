@@ -57,6 +57,11 @@ engineering, personal development and business practices.
 - Conway’s Law
 - Scrum, Agile and Lean
 
+### Podcasts
+
+- [Venturi's Voice - Learning to Scale Up from a Developer to Head of Engineering](https://open.spotify.com/episode/6M1319FkP2jzq0Kvyz6x6R)
+- [NorthWestify Podcast](https://open.spotify.com/episode/1tKwiPEsbGFUEeYjIRX8ZD)
+
 ### Have you found this useful?
 
 * <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=james@wade.be&item_name=Buy%20me%20a%20beer!&item_number=beer001&amount=5%2e00&currency_code=GBP">
