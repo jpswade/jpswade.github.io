@@ -61,14 +61,14 @@ engineering, personal development and business practices.
 ### Podcasts
 
 - [Venturi's Voice - Learning to Scale Up from a Developer to Head of Engineering](https://open.spotify.com/episode/6M1319FkP2jzq0Kvyz6x6R)
-- [NorthWestify Podcast](https://open.spotify.com/episode/1tKwiPEsbGFUEeYjIRX8ZD)
+- [NorthWestify Podcast](https://open.spotify.com/episode/1tKwiPEsbGFUEeYjIRX8ZD) - getting into tech
 
 ### Social media
 
 - Follow on Twitter [@jpswade](http://twitter.com/jpswade)
-- Follow on GitHub [jpswade]((https://github.com/jpswade)
-- Follow on Instagram [jpswade]((https://instagram.com/jpswade)
-- Follow on LinkedIn [jpswade]((https://linkedin.com/in/jpswade)
+- Follow on GitHub [jpswade](https://github.com/jpswade)
+- Follow on Instagram [jpswade](https://instagram.com/jpswade)
+- Follow on LinkedIn [jpswade](https://linkedin.com/in/jpswade)
 
 ### Have you found this useful?
 
