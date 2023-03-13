@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "James Wade"
-  avatar : "https://i.imgur.com/7GZTAp0.jpg"
+  avatar : "assets/images/bio-photo.png"
   bio    : "Research and Development."
   links:
     - label: "Twitter"

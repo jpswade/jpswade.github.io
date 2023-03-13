@@ -4,6 +4,10 @@ This is my blog, migrated from [Wordpress to Jekyll](https://wade.be/2016/01/30/
 
 Based on the [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter)
 
+### Dependencies
+
+`brew install ruby`
+
 ### Installing
 
 `bundle install`
