@@ -50,4 +50,4 @@ This is, in part, why I wrote this. I want to read more books, I want to identif
 
 I enjoy writing, when I was much younger, I found it hard to collect my thoughts into an order and get them down, but after doing it repeatedly, now I’m much better at it, I actually find it therapeutic and rewarding, so it’s a habit I want to pursue.
 
-I think the key to habits is so it is for yourself, not other people. Own it. Keep showing up.
+I think the key to habits is do it is for yourself, not other people. Own it. Keep showing up.
