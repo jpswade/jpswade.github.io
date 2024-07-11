@@ -7,6 +7,7 @@ engineering, personal development and business practices.
 
 ### Positions Held
 
+- Software Engineering Manager @ [Krystal](https://krystal.io/), Remote, UK
 - Systems Development Manager @ [Bet365](https://en.wikipedia.org/wiki/Bet365), Stoke/Manchester 
 - Head of Engineering @ [Spectre](https://spectre.uk.com/)/[Street Group](https://streetgroup.co.uk/), Manchester
 - Web Development Manager @ [easyfundraising](https://www.easyfundraising.org.uk/), Lichfield, Staffordshire
