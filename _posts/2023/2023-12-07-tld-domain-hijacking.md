@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Wild World of NXDOMAIN Hijacking in 2023: Wildcard DNS in Action"
 published: true
 date: 2023-12-07
