@@ -6,7 +6,8 @@ Based on the [Minimal Mistakes remote theme starter](https://github.com/mmistake
 
 ### Dependencies
 
-`brew install ruby`
+- [Jekyll Install Guide on macOS](https://jekyllrb.com/docs/installation/macos/)
+- [GitHub Pages Dependency versions](https://pages.github.com/versions/)
 
 ### Installing
 

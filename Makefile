@@ -1,5 +1,9 @@
 setup:
-	brew install ruby
+	brew install rbenv
+	rbenv install
+	rbenv local
+	rbenv init
+	ruby -v
 
 install:
 	bundle install
@@ -9,3 +13,7 @@ serve:
 
 update:
 	bundle update jekyll
+
+fix:
+	rm Gemfile.lock
+	bundle install
