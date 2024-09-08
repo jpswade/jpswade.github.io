@@ -2,7 +2,7 @@
 title: "The Wild World of NXDOMAIN Hijacking in 2023: Wildcard DNS in Action"
 published: true
 date: 2023-12-07
-tags: [dns, nxdomain, hijacking]
+tags: [dns, domains, internet, security]
 ---
 
 When you type a web address into your browser, you expect to land on the website you intended—or get an error if the
