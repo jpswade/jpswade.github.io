@@ -114,7 +114,7 @@ guide administrators towards corrective actions.
 
 ## Also see
 
-* [ICANN Approves Name Collision Occurrence Management Framework | Special IP Address (127.0.53.53) Alerts System Administrators of Potential Issue](https://www.icann.org/en/announcements/details/icann-approves-name-collision-occurrence-management-framework--special-ip-address-12705353-alerts-system-administrators-of-potential-issue-1-8-2014-en)
+* [ICANN Approves Name Collision Occurrence Management Framework - Special IP Address (127.0.53.53) Alerts System Administrators of Potential Issue](https://www.icann.org/en/announcements/details/icann-approves-name-collision-occurrence-management-framework--special-ip-address-12705353-alerts-system-administrators-of-potential-issue-1-8-2014-en)
 * [Wildcard DNS](https://en.wikipedia.org/wiki/Wildcard_DNS)
 * [NXDOMAIN](https://en.wikipedia.org/wiki/NXDOMAIN)
 * [Site Finder](https://en.wikipedia.org/wiki/Site_Finder)
