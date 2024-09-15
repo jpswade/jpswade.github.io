@@ -16,7 +16,7 @@ the current state of this practice in 2023, using examples from TLDs like `.ws`,
 #### **What is Wildcard DNS?**
 
 Wildcard DNS allows non-existent domain names to resolve to a specific IP address, typically for serving ads or
-placeholders. Instead of the expected NXDOMAIN error, you get redirected, and sometimes, this leads to monetized pages.
+placeholders. Instead of the expected NXDOMAIN error, you get redirected, and sometimes, this leads to monetised pages.
 
 For example:
 
@@ -55,9 +55,9 @@ example query for `.ph`:
 notregistered.ph has address 45.79.222.138
 ```
 
-#### **Internationalized TLDs and Wildcards**
+#### **Internationalised TLDs and Wildcards**
 
-The use of wildcard DNS isn’t limited to the Latin script TLDs. Internationalized domain names (IDNs) also engage in
+The use of wildcard DNS isn’t limited to the Latin script TLDs. Internationalised domain names (IDNs) also engage in
 this practice:
 
 - **`.中国`** (China, in Pinyin: `.xn--fiqs8s`)  
@@ -70,7 +70,7 @@ this practice:
 
 #### **Why Does This Matter?**
 
-While this behavior may seem like a clever way for registries to monetize unregistered domains, it comes with
+While this behavior may seem like a clever way for registries to monetise unregistered domains, it comes with
 significant downsides:
 
 1. **Breaking the Internet’s Error Handling**: Many apps and services rely on NXDOMAIN errors to trigger specific
