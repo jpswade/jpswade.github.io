@@ -2,7 +2,7 @@
 title: "The Wild World of NXDOMAIN Hijacking in 2023: Wildcard DNS in Action"
 published: true
 date: 2023-12-07
-tags: [dns, domains, internet, security]
+tags: [ dns, domains, internet, security ]
 ---
 
 When you type a web address into your browser, you expect to land on the website you intended—or get an error if the
@@ -31,8 +31,9 @@ This behavior is present in various TLDs, and in 2023, we’ve found it still ha
 #### **NXDOMAIN Hijacking and Wildcard DNS Today**
 
 In earlier years, some prominent registries, like VeriSign, experimented with NXDOMAIN hijacking for `.com` and `.net`
-using a service called Site Finder. Users and developers were not thrilled. ICANN eventually stepped in, and the
-practice was halted, at least for these major domains. However, it continues under smaller or more niche TLDs.
+using a service called [Site Finder](https://en.wikipedia.org/wiki/Site_Finder). Users and developers were not thrilled.
+ICANN eventually stepped in, and the practice was halted, at least for these major domains. However, it continues under
+smaller or more niche TLDs.
 
 Here are some real-world examples from 2023:
 
@@ -88,3 +89,33 @@ will be further regulated or if these domains will keep exploiting the wildcard 
 
 In a world where the reliability of DNS is crucial, the persistence of wildcard DNS and NXDOMAIN hijacking is a
 fascinating—if sometimes frustrating—phenomenon.
+
+To append your findings as an edit to the existing 2023 article, here’s a markdown snippet to use at the bottom of the
+article on your Jekyll site:
+
+## 2024 Edit
+
+As of 2024, further investigation into wildcard DNS behavior reveals that several TLDs continue to utilise wildcard
+records. My latest findings return the following wildcard resolutions for unregistered domains:
+
+ tld          | ip            
+--------------|---------------
+ `.arab`      | 127.0.53.53   
+ `.ph`        | 45.79.222.138 
+ `.vg`        | 88.198.29.97  
+ `.ws`        | 64.70.19.203  
+ `.xn--ngbrx` | 127.0.53.53   
+ `.xn--node`  | 188.93.95.11  
+
+It’s worth noting that the IP address `127.0.53.53` is a special address designated by the ICANN **Name Collision
+Occurrence Management Framework**, approved on 1 August 2014, to alert system administrators of potential issues related
+to name collisions. This mechanism is intended to help mitigate risks associated with unintended DNS resolutions and
+guide administrators towards corrective actions.
+
+## Also see
+
+* [ICANN Approves Name Collision Occurrence Management Framework | Special IP Address (127.0.53.53) Alerts System Administrators of Potential Issue](https://www.icann.org/en/announcements/details/icann-approves-name-collision-occurrence-management-framework--special-ip-address-12705353-alerts-system-administrators-of-potential-issue-1-8-2014-en)
+* [Wildcard DNS](https://en.wikipedia.org/wiki/Wildcard_DNS)
+* [NXDOMAIN](https://en.wikipedia.org/wiki/NXDOMAIN)
+* [Site Finder](https://en.wikipedia.org/wiki/Site_Finder)
+ 
