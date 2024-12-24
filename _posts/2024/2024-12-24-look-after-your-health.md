@@ -1,10 +1,11 @@
 ---
 title: "Look After Your Health"
 date: 2024-12-24
-categories: [ health, self-care ]
+categories: [ health ]
 tags: [ health, burnout, running, stress-management ]
 author: James Wade
-description: "Your health is more important than you can imagine. It's the foundation for enjoying and achieving anything in life." 
+description: "Your health is more important than you can imagine. It's the foundation for enjoying and achieving anything in life."
+slug: look-after-your-health
 ---
 
 To some, this might sound obvious. To others, it might seem unimportant. But I've learned firsthand that health should
