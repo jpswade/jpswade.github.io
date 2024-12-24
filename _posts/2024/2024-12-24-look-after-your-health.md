@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Look After Your Health"
 date: 2024-12-24
 categories: [ health, burnout, self-care ]
