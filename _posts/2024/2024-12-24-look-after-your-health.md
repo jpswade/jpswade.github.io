@@ -15,7 +15,7 @@ and was regularly doing 5k runs. To date, I've completed over 30 Park Runs and c
 Running has become a part of who I am.
 
 Why? Your health is more important than you can imagine. It's the foundation for enjoying and achieving anything in
-life. On days when I don't want to run, I imagine someone who can't—perhaps they are bedridden, someone who can only
+life. On days when I don't want to run, I imagine someone who can'tperhaps they are bedridden, someone who can only
 dream of running. On the tough days, that's what has motivated me to put on my kit and get out the door.
 
 Even with this mindset, burnout caught up with me. On the subject of stress, I was once asked by my manager to let him
@@ -71,7 +71,7 @@ role, it dropped to 56 bpm. The correlation between my health and stress was und
 
 ## Overcoming Burnout
 
-Burnout, while unquestionably harmful, often serves a deeper purpose, much like any serious illness—it forces you to
+Burnout, while unquestionably harmful, often serves a deeper purpose, much like any serious illness - it forces you to
 pause, reassess, and make necessary changes. For me, this ultimately led to leaving a role that no longer aligned with
 my values.
 
