@@ -4,6 +4,7 @@ date: 2024-12-24
 categories: [ health, self-care ]
 tags: [ health, burnout, running, stress-management ]
 author: James Wade
+description: "Your health is more important than you can imagine. It's the foundation for enjoying and achieving anything in life." 
 ---
 
 To some, this might sound obvious. To others, it might seem unimportant. But I've learned firsthand that health should
