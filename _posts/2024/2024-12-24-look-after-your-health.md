@@ -1,7 +1,7 @@
 ---
 title: "Look After Your Health"
 date: 2024-12-24
-categories: [ health, burnout, self-care ]
+categories: [ health, self-care ]
 tags: [ health, burnout, running, stress-management ]
 author: James Wade
 ---
@@ -21,7 +21,7 @@ Even with this mindset, burnout caught up with me. On the subject of stress, I w
 know when it was all getting too much. I explained to him that I stop exercising when I'm starting to burn out. Despite
 this self-awareness, I burned out anyway. It can happen to you too if you don't look after your health.
 
-## Burnout and Its Impact
+## Burnout: The Loss of Momentum
 
 Burnout isn't just about fatigue from overwork. To me, burnout has always been about the loss of momentum. It's when no
 matter how much you work, progress stalls. The World Health Organization (WHO) defines burnout as:
@@ -33,7 +33,7 @@ matter how much you work, progress stalls. The World Health Organization (WHO) d
 Although burnout is specific to the workplace, it affects all aspects of your life. Recognising it is vital, and I
 missed the signs. My rising resting heart rate and the end of my running habit were clear indicators that I ignored.
 
-## Recognizing Stress
+## Recognising Stress
 
 In October 2023, after contracting COVID-19, I stopped running. In November, while traveling to Vegas for the F1, I
 realised I was stressed and anxious about returning to work. During the flight, I came across the book *Unwind!*. Its
