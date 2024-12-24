@@ -4,7 +4,7 @@ title: "Look After Your Health"
 date: 2024-12-24
 categories: [health, burnout, self-care]
 tags: [health, burnout, running, stress-management]
-author: Your Name
+author: James Wade
 ---
 
 ## Look After Your Health
