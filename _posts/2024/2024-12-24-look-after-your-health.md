@@ -16,8 +16,9 @@ and was regularly doing 5k runs. To date, I've completed over 30 Park Runs and c
 Running has become a part of who I am.
 
 Why? Your health is more important than you can imagine. It's the foundation for enjoying and achieving anything in
-life. On days when I don't want to run, I imagine someone who can'tperhaps they are bedridden, someone who can only
-dream of running. On the tough days, that's what has motivated me to put on my kit and get out the door.
+life. On days when I don't want to run, I imagine that there people who would give anything to be able to run. There are
+people who can't, who can only dream of running. There are people who overcome incredible odds to run. One day, I won't
+be able to run. On the tough days, that's what I think about, and it motivates me to put on my kit and get out the door.
 
 Even with this mindset, burnout caught up with me. On the subject of stress, I was once asked by my manager to let him
 know when it was all getting too much. I explained to him that I stop exercising when I'm starting to burn out. Despite
