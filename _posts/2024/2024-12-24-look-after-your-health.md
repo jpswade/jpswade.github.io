@@ -77,10 +77,13 @@ Burnout, while unquestionably harmful, often serves a deeper purpose, much like 
 pause, reassess, and make necessary changes. For me, this ultimately led to leaving a role that no longer aligned with
 my values.
 
-There's a saying that if you're ambitious but often relieved not to be in your boss's shoes, it might be time to
-reassess your direction. I didn't want his job - I wasn't willing to compromise my values, nor was I willing to 
-sacrifice my health or family life the way he had. This situation was in direct conflict with who I am. Living each day
-in denial, stuck in a role that clashed with my core values, was creating immense stress.
+> "It is better to be at the bottom of a ladder you want to climb then half way up one you don't"
+> - Tim Canterbury, The Office
+
+The more I thought about it, the more I realised that I was climbing the wrong ladder - I wasn't willing to compromise
+my values, nor was I willing to sacrifice my health or family life the way my boss had to get to his position for a
+company and industry that I didn't believe in. This situation was in direct conflict with who I am. Living each day in
+denial, stuck in a role that clashed with my core values, was creating immense stress.
 
 To avoid burnout in the future, I've learned to:
 
