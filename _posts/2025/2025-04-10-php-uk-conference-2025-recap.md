@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "PHP UK Conference 2025 Recap"
-date: 2025-11-02
+date: 2025-04-10
 categories: [ conferences ]
 tags: [ php, conferences, myapps, katapult, krystal ]
 author: James Wade
@@ -10,7 +9,7 @@ slug: php-uk-conference-2025-recap
 ---
 
 This year, I had the pleasure of attending the PHP UK Conference again, for the first time since 2016, only this time as
-a sponsor under the banner of MyApps, our currently-in-development build and deployment tool, built on Katapult,
+a sponsor under the banner of MyApps, our currently-in-development build and deployment tool, built on [Katapult](https://katapult.io/),
 Krystal's Cloud Platform.
 
 It was a great opportunity to not only showcase MyApps but to catch up with some old faces, see where the industry is

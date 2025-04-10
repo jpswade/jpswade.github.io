@@ -5,3 +5,10 @@ _site
 /nbproject/private/
 /nbproject
 .idea/
+gems/
+extensions/
+bundler.lock
+cache/
+build_info/
+bin/
+specifications/

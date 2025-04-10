@@ -20,3 +20,11 @@ For local use: `bundle exec jekyll serve`
 ### Updating
 
 `bundle update jekyll`
+
+### Troubleshooting
+
+`The github-pages gem can't satisfy your Gemfile's dependencies. If you want to use a different Jekyll version or need additional dependencies, consider building Jekyll site with GitHub Actions: https://jekyllrb.com/docs/continuous-integration/github-actions/`
+
+This is a common issue when using the `github-pages` gem. You can try the following steps to resolve it:
+
+**Update your Gemfile**: Ensure that your `Gemfile` specifies the correct version of Jekyll and any other dependencies you need. You can check the [GitHub Pages Dependency versions](https://pages.github.com/versions/) for the latest compatible versions.
